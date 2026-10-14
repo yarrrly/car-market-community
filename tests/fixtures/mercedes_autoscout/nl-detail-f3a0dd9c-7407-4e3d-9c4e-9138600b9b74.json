@@ -1,0 +1,31 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "f3a0dd9c-7407-4e3d-9c4e-9138600b9b74",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.nl/aanbod/mercedes-benz-c-180-coupe-lease-edition-stoelverwarming-camera-c-benzine-grijs-cat_ma47mo1859-f3a0dd9c-7407-4e3d-9c4e-9138600b9b74",
+        "location": {
+          "countryCode": "NL"
+        },
+        "vehicle": {
+          "make": "Mercedes-Benz",
+          "motorTypeName": "C 180",
+          "firstRegistrationDateRaw": "2017-03-01",
+          "transmissionType": "Automatisch",
+          "fuelCategory": {
+            "formatted": "Benzine"
+          },
+          "bodyType": "Coupé",
+          "rawData": {
+            "classification": {
+              "modelGeneration": {
+                "formatted": "205"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

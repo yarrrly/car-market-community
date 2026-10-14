@@ -1,0 +1,14 @@
+{
+  "schalk.html": {
+    "url": "https://www.schalkautomotive.nl/occasions-kopen/52793843-bmw-2-serie-active-tourer-218i-high-executive-edition-nap/",
+    "fixture_sha256": "5c5ecbba6ec55063d31b3ec5ff3f465d5ba9c81b04010403d2ccc38692b2b862"
+  },
+  "driveworks.html": {
+    "url": "https://www.drive-works.nl/occasions-kopen/54754161-bmw-2-serie-active-tourer-218i-pano-led-executive-xenon-winter-pakket-interesse-proefrit-bel-of-app-met-06-24-28-28-42-06-42130156/",
+    "fixture_sha256": "d0c9eb3a8260d2ce236267d9aff0dff717550149bc6e1f8b87dad9a1b98bc152"
+  },
+  "trovit-detail.html": {
+    "url": "https://autos.trovit.nl/listing/bmw-2serie-active-tourer-218i-sport-sportline-navi-led-clima-afn-trekhaak-pdc-stoelverw.i1U161T1i1Oq1G",
+    "fixture_sha256": "35dd092ee0effc3a20297dc206b4b215dd995ff04f1094ccea3b6219f4f0137a"
+  }
+}

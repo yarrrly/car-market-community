@@ -1,0 +1,115 @@
+{
+  "pageProps": {
+    "pageQuery": {
+      "cat": "ma47mo1859",
+      "ustate": "N,U",
+      "atype": "C",
+      "powertype": "kw",
+      "mcat": "ma47mo1859",
+      "body": "3",
+      "mmmv": "47|1859||",
+      "fregfrom": "2016",
+      "gear": "A",
+      "ocs_listing": "include",
+      "page": "2",
+      "cy": "NL",
+      "show_nfm": "true",
+      "pricetype": "public"
+    },
+    "listings": [
+      {
+        "id": "87302ab7-2846-4a07-8aa8-c46fea8c4122",
+        "url": "/aanbod/mercedes-benz-c-180-c180-amg-night-edition-pano-burmester-magno-nl-au-benzine-grijs-cat_ma47mo1859-87302ab7-2846-4a07-8aa8-c46fea8c4122",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "17108e35-f35c-458b-a9f9-106b04bf47d6",
+        "url": "/aanbod/mercedes-benz-c-180-c-coupe-automaat-amg-line-parktronic-led-sto-benzine-blauw-cat_ma47mo1859-17108e35-f35c-458b-a9f9-106b04bf47d6",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "c9ac5c85-efac-4ded-91ea-9ecc89b142fc",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-156pk-amg-prestige-leder-climate-cruise-nav-benzine-grijs-cat_ma47mo1859-c9ac5c85-efac-4ded-91ea-9ecc89b142fc",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "30941713-ce32-4116-b2f3-12440766e4a2",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-c180-amg-pano-burmester-nap-mutlibeam-virtua-benzine-zwart-cat_ma47mo1859-30941713-ce32-4116-b2f3-12440766e4a2",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "ad6d28f3-1310-4b42-9c2f-45e808fd3c1f",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-premium-automaat-rood-leder-camera-schu-benzine-grijs-cat_ma47mo1859-ad6d28f3-1310-4b42-9c2f-45e808fd3c1f",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "31a95422-a53c-4c15-aad5-30f87d816dc8",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-c180-ambition-aut-amg-panoramadak-navi-camer-benzine-grijs-cat_ma47mo1859-31a95422-a53c-4c15-aad5-30f87d816dc8",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "3a0219bc-f74d-4079-9cbd-055844479ca2",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-pano-amg-pakket-leder-camera-sfeerve-benzine-blauw-cat_ma47mo1859-3a0219bc-f74d-4079-9cbd-055844479ca2",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "729a88fd-77ad-458e-9b7d-bfb8a737b1ad",
+        "url": "/aanbod/mercedes-benz-c-180-c-180-premium-plus-benzine-wit-cat_ma47mo1859-729a88fd-77ad-458e-9b7d-bfb8a737b1ad",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "f30972ba-5836-40f7-a38c-35e2b8db7847",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-premium-plus-pack-amg-night-panoramada-benzine-grijs-cat_ma47mo1859-f30972ba-5836-40f7-a38c-35e2b8db7847",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "d1379dc4-bf82-49a4-b8de-7d96cf029455",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-premium-plus-pack-1e-eigenaar-dealer-onderh-benzine-grijs-cat_ma47mo1859-d1379dc4-bf82-49a4-b8de-7d96cf029455",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "cc7dc1d9-d263-4bfd-821f-b0e6194fc3c8",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-edition-1-amg-156-pk-stoelverwarming-nav-benzine-wit-cat_ma47mo1859-cc7dc1d9-d263-4bfd-821f-b0e6194fc3c8",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "7540d563-dca9-4726-aa1f-c1cd354828ed",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-ambition-achteruitrijcamera-led-koplampen-benzine-grijs-cat_ma47mo1859-7540d563-dca9-4726-aa1f-c1cd354828ed",
+        "location": {
+          "countryCode": "NL"
+        }
+      },
+      {
+        "id": "b9b5160f-04aa-457f-80e3-eebe0cc751b6",
+        "url": "/aanbod/mercedes-benz-c-180-coupe-prestige-automaat-amg-leder-benzine-wit-cat_ma47mo1859-b9b5160f-04aa-457f-80e3-eebe0cc751b6",
+        "location": {
+          "countryCode": "NL"
+        }
+      }
+    ],
+    "numberOfResults": 33,
+    "numberOfPages": 2
+  }
+}

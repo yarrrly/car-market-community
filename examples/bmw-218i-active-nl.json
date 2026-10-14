@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "scope": {
+    "model_profile": "configured_vehicle",
+    "country": "NL",
+    "selector": {
+      "make": "BMW",
+      "make_aliases": [],
+      "model_terms": [
+        [
+          "218i"
+        ],
+        [
+          "Active Tourer"
+        ]
+      ],
+      "exclude_terms": [
+        "Gran Tourer",
+        "Gran Coupe"
+      ],
+      "generation_terms": [],
+      "fuels": [
+        "petrol"
+      ],
+      "transmissions": []
+    }
+  },
+  "queries": [
+    {
+      "source": "autoscout24",
+      "key": "search_1",
+      "url": "https://www.autoscout24.nl/lst/bmw/218?cy=NL&atype=C&sort=age&desc=1",
+      "pagination": "mercedes_autoscout_next",
+      "coverage": "enumerate",
+      "infer_missing": false
+    }
+  ],
+  "channels": [],
+  "workers": 2,
+  "max_pages": 15,
+  "detail_limit": 50,
+  "detail_batch_limit": 50,
+  "fast_detail_limit": 20,
+  "detail_cache_hours": 24,
+  "detail_error_backoff_hours": 6,
+  "request_delay": 1.5,
+  "request_timeout": 25,
+  "interval_hours": 6,
+  "fast_interval_minutes": 30,
+  "fast_sources": [
+    "autoscout24"
+  ],
+  "rdw_limit": 0
+}

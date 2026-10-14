@@ -1,0 +1,20 @@
+{
+  "id": "142208737556145407",
+  "initial_registration": "2017-09-01",
+  "url": "https://suche.pkw.de/fahrzeuge/details/142208737556145407",
+  "brand": {
+    "name": "Mercedes-Benz"
+  },
+  "bodytype": {
+    "name": "Coupé/Sportwagen"
+  },
+  "fueltype": {
+    "name": "Benzin"
+  },
+  "geartype": {
+    "name": "Automatik"
+  },
+  "location": {
+    "country": "DEU"
+  }
+}

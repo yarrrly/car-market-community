@@ -1,0 +1,31 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "5f2131d0-8b2f-4b06-9f99-d905304c2cda",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.de/angebote/mercedes-benz-c-klasse-c-180-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-5f2131d0-8b2f-4b06-9f99-d905304c2cda",
+        "location": {
+          "countryCode": "DE"
+        },
+        "vehicle": {
+          "make": "Mercedes-Benz",
+          "modelVersionInput": "C 180",
+          "firstRegistrationDateRaw": "2016-09-01",
+          "transmissionType": "Automatik",
+          "fuelCategory": {
+            "formatted": "Benzin"
+          },
+          "bodyType": "Coupé",
+          "rawData": {
+            "classification": {
+              "modelGeneration": {
+                "formatted": "205"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

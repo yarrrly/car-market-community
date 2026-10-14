@@ -1,0 +1,191 @@
+{
+  "data": {
+    "searchAdV9AdsV2": {
+      "total": 403,
+      "data": [
+        {
+          "id": "72amet4855-93e8-8028-ipsum6-c19b5ipsum2f3",
+          "stockNumber": "BB23351",
+          "offerPrice": {
+            "amountMinorUnits": 2025000,
+            "conversionMajor": 100,
+            "currency": "EUR"
+          },
+          "mileage": {
+            "distance": 41511,
+            "unit": "KM"
+          },
+          "usps": [],
+          "backofficeUsps": [],
+          "builtYear": 2020,
+          "countryCode": "NL",
+          "manufacturer": "do",
+          "model": "i3",
+          "subType": "i3s",
+          "firstRegistrationYear": 2020,
+          "fuelType": 1044,
+          "driveTrain": "adipiscing-ipsum",
+          "gearType": 1139,
+          "kw": 75.0,
+          "firstPublishedAt": "20260918T132054.000Z",
+          "publishedAt": "20260918T132054.000Z",
+          "retailAdState": "amet-sit-adipiscing",
+          "registration": "20201222T000000.000Z",
+          "isComingSoon": false,
+          "mainImageUrl": "do://elit-ipsum-c1.elit.adipiscing/lorem/4consectetur38545dolor9d105c5a96a0d04do88e87c261821d747a11f61d16adipiscing9do1785b49/do/1/{ipsum}1elit18ipsum3018d429ipsum3a01elit83sit03b.do",
+          "ahMainImageUrl": "adipiscing://c2.elit.adipiscing/72dolor8299-93e8-2462-do6-c19b5do2f3/{sed}02a07sed1-dolor-4sed9-855e-2754ipsum2amet3elit.lorem?t=9680107628",
+          "fuelConsumption": {},
+          "esFuelConsumption": {},
+          "co2Value": 0.0,
+          "firstEligibleToBePurchasedAt": "20260918T132054.000Z",
+          "firstImportedAt": "20260901T095939.000Z",
+          "vatType": 1053,
+          "retailAdId": "90amet7349-321b-4d05-b55c-c4sed15dolor1adipiscing",
+          "carUrlTitle": "sit-i-3",
+          "inShowroom": false,
+          "branchId": 2053,
+          "discountedWarranty": false,
+          "esBranch": {
+            "branchId": 2053,
+            "city": "sit",
+            "zipcode": "4903 RJ",
+            "name": "dolor ipsum",
+            "street": "sed 5"
+          },
+          "carPreownerCount": 2,
+          "numberOfAccidents": 0,
+          "numberOfDamages": 13,
+          "hasFilledServiceBook": false,
+          "lastServiceOn": "20260323",
+          "acceleration": 6.9,
+          "isPluginSystem": false,
+          "monthlyPayment": {
+            "financingPeriod": 96,
+            "amountMinorUnits": 29000,
+            "currency": "adipiscing",
+            "cashAmountMinorUnits": 0,
+            "conversionMajor": 100,
+            "cashPercentage": null
+          },
+          "variablePositioning": {
+            "positioningA": {
+              "position2": 33,
+              "position3": 194,
+              "position0": 253,
+              "position1": 223
+            }
+          },
+          "dealerSalesPrice": {
+            "amountMinorUnits": 2071000,
+            "currency": "adipiscing",
+            "conversionMajor": 100
+          },
+          "firstPrice": {
+            "amountMinorUnits": 2145000,
+            "currency": "adipiscing",
+            "conversionMajor": 100
+          },
+          "promoDownPriceMargin": {
+            "amountMinorUnits": 120000,
+            "currency": "adipiscing",
+            "conversionMajor": 100
+          },
+          "impressionGroup": "B",
+          "envkvNewCar": false
+        },
+        {
+          "id": "dolor10d56d-3dolor4-8214-86c4-adipiscing907ipsum4consectetur",
+          "stockNumber": "NR00427",
+          "offerPrice": {
+            "amountMinorUnits": 3105000,
+            "conversionMajor": 100,
+            "currency": "EUR"
+          },
+          "mileage": {
+            "distance": 115043,
+            "unit": "KM"
+          },
+          "usps": [],
+          "backofficeUsps": [],
+          "builtYear": 2020,
+          "countryCode": "NL",
+          "manufacturer": "do",
+          "model": "X3",
+          "subType": "adipiscing 30e",
+          "subTypeExtra": "M consectetur",
+          "firstRegistrationYear": 2020,
+          "fuelType": 1046,
+          "driveTrain": "ipsum-consectetur-ipsum",
+          "gearType": 1139,
+          "kw": 215.0,
+          "firstPublishedAt": "20260922T084102.000Z",
+          "publishedAt": "20260922T114808.000Z",
+          "retailAdState": "amet-sit-adipiscing",
+          "registration": "20200714T000000.000Z",
+          "isComingSoon": false,
+          "mainImageUrl": "do://elit-ipsum-c1.elit.adipiscing/lorem/f3e586lorem410861f8977amet1465ipsum452287550d83consectetur4d1272sit5a106d710924d/do/1/{ipsum}adipiscing5f31f08consectetur4b42b15c8165507sit74.do",
+          "ahMainImageUrl": "adipiscing://c2.elit.adipiscing/lorem10d56d-3lorem4-2658-86c4-amet907do4sit/{sed}5f3adipiscing59-f4amet-2713-a601-5sed11b885472.lorem?t=9691371906",
+          "fuelConsumption": {
+            "combined": 2.1
+          },
+          "esFuelConsumption": {
+            "combined": 2.1
+          },
+          "co2Value": 46.0,
+          "firstImportedAt": "20260907T085821.000Z",
+          "vatType": 1054,
+          "retailAdId": "c910adipiscing63-8712-4b90-8f39-a8sed1589amet3c",
+          "carUrlTitle": "sit-x-3",
+          "inShowroom": false,
+          "branchId": 2053,
+          "discountedWarranty": false,
+          "esBranch": {
+            "branchId": 2053,
+            "city": "sit",
+            "zipcode": "4903 RJ",
+            "name": "dolor ipsum",
+            "street": "sed 5"
+          },
+          "emissionStandard": 3532,
+          "carPreownerCount": 1,
+          "numberOfAccidents": 0,
+          "numberOfDamages": 18,
+          "hasFilledServiceBook": false,
+          "lastServiceOn": "20260916",
+          "acceleration": 6.1,
+          "ccm": 1998.0,
+          "isPluginSystem": true,
+          "monthlyPayment": {
+            "financingPeriod": 96,
+            "amountMinorUnits": 44000,
+            "currency": "adipiscing",
+            "cashAmountMinorUnits": 0,
+            "conversionMajor": 100,
+            "cashPercentage": null
+          },
+          "variablePositioning": {
+            "positioningA": {
+              "position1": 227,
+              "position2": 41,
+              "position3": 198,
+              "position0": 257
+            }
+          },
+          "firstEligibleToBePurchasedAt": "20260922T114808.000Z",
+          "firstPrice": {
+            "amountMinorUnits": 3195000,
+            "currency": "adipiscing",
+            "conversionMajor": 100
+          },
+          "promoDownPriceMargin": {
+            "amountMinorUnits": 90000,
+            "currency": "adipiscing",
+            "conversionMajor": 100
+          },
+          "impressionGroup": "B",
+          "envkvNewCar": false
+        }
+      ]
+    }
+  }
+}

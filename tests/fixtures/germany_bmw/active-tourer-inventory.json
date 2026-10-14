@@ -1,0 +1,2047 @@
+{
+  "hits": [
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFGIJMI898P",
+        "vssId": "019dd382-6076-73d7-b2c0-d5e62d9f62c1",
+        "media": {
+          "usedCarImages": {
+            "OTHER-9": "https://media.aws.bmw.cloud/041e824df681be672123fe796a9a7474db4a9429266ae6072f7bc63822dab424.jpg",
+            "INTERIOR_INSTRUMENTS-3": "https://media.aws.bmw.cloud/11d26c87673ca975a7ca4f6d9fe5654b747ec2e9ff90a43b2df9d05bd349e127.jpg",
+            "OTHER-10": "https://media.aws.bmw.cloud/17ca456f6999ec0683c8c7287cfc3ffe8c98781ab73ee1f268117064c8f94d83.jpg",
+            "FRONTSIDE-15": "https://media.aws.bmw.cloud/1919f7c2000118e2c949d26d817b2ed820c03ec61295dfd5dad5ed014b712433.jpg",
+            "OTHER-7": "https://media.aws.bmw.cloud/232a66c385b0e0d1d0aa9ed069741d346351dd773cf7036ebfb59a0f082e7cb9.jpg",
+            "RIM-12": "https://media.aws.bmw.cloud/39fda489f91af9b3423aa2c16d826dc85fd321b577a38e7c08556a5cd7a9c59b.jpg",
+            "REARSIDE-11": "https://media.aws.bmw.cloud/6456b6aedb937407a02918c4cd341334579196cadb318f8a53f097cecd619c45.jpg",
+            "OTHER-13": "https://media.aws.bmw.cloud/d52b0aa9fd705a60f6654e6cacebb3fbebcbfcfc1ad91ddc6497868279c5cbb2.jpg",
+            "OTHER-8": "https://media.aws.bmw.cloud/a32ece7e156aa7ab816762ce84dd5d4d56753e4cf8fc478cb025105465505060.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/7bd434fd3609eeaddddc6eb549d6e984c434498457e5abfd0b776e2d74216ab4.jpg",
+            "OTHER-5": "https://media.aws.bmw.cloud/726f1298bbd96e9bcc3ddaa7fd34d8303f63f70fc80e80a21b58a14cc5442522.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/7af130c15ae1bc3e88648adaafb9914aaa7a5fb057dcbbb3480f0984796131be.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/806aec16050b0650c878bdfb6cef7392458aae2aaa961a9df26ca94aafeabc88.jpg",
+            "INTERIOR_COCKPIT-1": "https://media.aws.bmw.cloud/899c5feeeb3125697cc2fbe2cbfe400bbe5e6285b5073441253d0fc27f400c34.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/a0245556059c8b1b8fe6c2f5a0e3f0b2253990594726160b1f0e6ac942eaf201.jpg",
+            "SIDE-14": "https://media.aws.bmw.cloud/f072e834b595fe5c5cd6b6aae6b942f9cc43a577857cc1da707bebb0a023f264.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49consectetur2ipsum2elit71",
+              "buNo": "51646",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49do6sit43elit35sit79elit4",
+                  "calculationUpdatedAt": "2026-10-06T21:43:28.418",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 4975.05,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 1951,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 7804,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 1951,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 4975.05,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 10234.9,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 89.15,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:43:28",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "51646": {
+              "offerGrossPrice": 9755,
+              "offerGrossVehiclePrice": 9755,
+              "offerNetPrice": 9755,
+              "offerNetVehiclePrice": 9755,
+              "offerPriceCreatedAt": "2026-10-06T21:43:28",
+              "offerPriceUpdatedAt": "2026-10-06T21:43:28",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:43:28"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2017-08-15",
+            "vin10": "WBA2A31070",
+            "vin17": "WBA2A31070V855929",
+            "vin7": "V855929"
+          },
+          "retailData": {
+            "buNo": "51646",
+            "dealerClass": "EH",
+            "dealerGroupId": "04553",
+            "deregistrationDate": "2026-04-20",
+            "distributionPartnerId": "04553",
+            "gwmRetailPhysicalLocation": "51646",
+            "initialRegistrationDate": "2017-08-25",
+            "localDealerNumber": "51646",
+            "locationInOutlet": "Plauen",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "08525",
+              "street": "Pausaer Str. 190",
+              "town": "Plauen"
+            },
+            "locationOutletId": "51646"
+          }
+        },
+        "price": {
+          "grossListPrice": 35349.99,
+          "grossSalesPrice": 9755,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 35349.99
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "V855929",
+          "mileage": {
+            "km": 149452,
+            "mi": 92865
+          },
+          "stockNumber": "089466",
+          "vehicleDamage": {
+            "damageDescription": "Unfallfreiheit wird nicht zugesichert.",
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218i Active Tourer",
+                "de_DE": "218i Active Tourer"
+              },
+              "modelName": "218i Active Tourer",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFGIJIGC2CL",
+        "vssId": "019fb79b-0ca8-7382-a3da-ffb4b1cbcc51",
+        "media": {
+          "usedCarImages": {
+            "SIDE-7": "https://media.aws.bmw.cloud/0919c950121645f1c55dd35f7e169290f18fc00f33ba6ada35ac20873d27e295.jpg",
+            "OTHER-12": "https://media.aws.bmw.cloud/f832596c6fad092a39850008db1d13b4c3ac80e78c3d0a2826d0af80a2963eeb.jpg",
+            "OTHER-11": "https://media.aws.bmw.cloud/fdd3bb3064d14e0f8ca4f71255bfe16d5b817307b2d8a0500b73b3581d7778a6.jpg",
+            "OTHER-9": "https://media.aws.bmw.cloud/929d49bfc52ccc412612de0d66bcb3ba7e309e43088713decbfa81ee6c823819.jpg",
+            "OTHER-8": "https://media.aws.bmw.cloud/964a1eca4ecb737f64c482ba84848df53caa289c11719a7ab5e71262f428c1fe.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/9f78eece1e520185941feed90075ca8abf4bece1162acd62a696d21dd2ab623a.jpg",
+            "OTHER-5": "https://media.aws.bmw.cloud/98e35ade5dc34cbbf7f892477737abc31607f1b6fc79f44013bfcf42411f494f.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/9087d20b38727b1ef4e24f84760a783597b37d9fe58b13fd895a0c2a48016bcc.jpg",
+            "OTHER-1": "https://media.aws.bmw.cloud/5f9dac3ecb7e27374cb4b9ca7dc1b89d340da7a5de0f6c60e046d4b3177b356f.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/59732884948db1cfeedd486306d315571b831db0b3a4d2c47fe0cf6c9db2d5f4.jpg",
+            "OTHER-18": "https://media.aws.bmw.cloud/11a6b77820576704422f8e3cf676468cf2f611a1e3ec8cc07a095f5a3aacda9c.jpg",
+            "FRONTSIDE-10": "https://media.aws.bmw.cloud/2912461d915c8ac3135ba8379712826cf785793c418657ab4362e9b07cc28450.jpg",
+            "INTERIOR_COCKPIT-15": "https://media.aws.bmw.cloud/639f127e119c76bd708cda1463b0f135fb5474e81c19ca0d4246983122f69d57.jpg",
+            "RIM-13": "https://media.aws.bmw.cloud/736ac6182d00b0b29b40c520ef4785de16d23117807532079a98020c79727b9f.jpg",
+            "INTERIOR_INSTRUMENTS-16": "https://media.aws.bmw.cloud/d29a9a971e536a9cd519ee1c57eb0331512885b3b51c5ed1459f14abd486ce7a.jpg",
+            "OTHER-17": "https://media.aws.bmw.cloud/dee73e251058cd790d24450d55a527d626e9f8f6c4c1555219b0fe2f92b29228.jpg",
+            "OTHER-14": "https://media.aws.bmw.cloud/75a1ab4f896ccfb2b861e73b55f3a2084e69fa6d9b6c29015af65580d284661e.jpg",
+            "REARSIDE-2": "https://media.aws.bmw.cloud/b3e9ff9d78b6b2d0fa53f7dfd2d635ccc3757942c9a9b1b28ff8d4f26d1ff0ba.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49consectetur8g8r3amet3574ipsum94x",
+              "buNo": "00104",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49do6r2do3consectetur",
+                  "calculationUpdatedAt": "2026-10-06T20:36:21.582",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 4982.7,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 1954,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 7816,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 1954,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 4982.7,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 10250.22,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 89.28,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T20:36:21",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "00104": {
+              "offerGrossPrice": 9770,
+              "offerGrossVehiclePrice": 9770,
+              "offerNetPrice": 9770,
+              "offerNetVehiclePrice": 9770,
+              "offerPriceCreatedAt": "2026-10-07T13:18:12",
+              "offerPriceUpdatedAt": "2026-10-07T13:18:12",
+              "tokenUpdatedAt": "2026-10-07T13:18:12"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2015-11-17",
+            "vin10": "WBA2A31070",
+            "vin17": "WBA2A31070V439265",
+            "vin7": "V439265"
+          },
+          "retailData": {
+            "buNo": "00104",
+            "dealerClass": "EH",
+            "dealerGroupId": "00104",
+            "deregistrationDate": "2026-07-30",
+            "distributionPartnerId": "00104",
+            "gwmRetailPhysicalLocation": "00104",
+            "initialRegistrationDate": "2016-03-01",
+            "localDealerNumber": "00104",
+            "locationInOutlet": "IN",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "85053",
+              "street": "Manchinger Str. 110",
+              "town": "Ingolstadt"
+            },
+            "locationOutletId": "00104"
+          }
+        },
+        "price": {
+          "grossListPrice": 30710,
+          "grossSalesPrice": 9770,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 30710
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": true,
+          "mileage": {
+            "km": 135400,
+            "mi": 84134
+          },
+          "stockNumber": "050521",
+          "vehicleDamage": {
+            "damageDescription": "Stoßfängerverkleidung hinten ersetzt/lackiert (1.623\\,04 ? netto - 09/2020)Ins  tandgesetzter FrontschadenFrontklappe   nachlackiert",
+            "involvedInAccident": true
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218i Active Tourer",
+                "de_DE": "218i Active Tourer"
+              },
+              "modelName": "218i Active Tourer",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFDIJIH628L",
+        "vssId": "019efd93-9b09-77da-b38a-db495ccc8a38",
+        "media": {
+          "usedCarImages": {
+            "OTHER-13": "https://media.aws.bmw.cloud/c7f5ca846d3c5fa307b00ba9cca3db66eb75b35b9f5ab905e4a803ce787c063a.jpg",
+            "OTHER-12": "https://media.aws.bmw.cloud/8ae345889f6c7f6513c53641ed4d8064248b7de37510baf98a79c96314350b3e.jpg",
+            "OTHER-11": "https://media.aws.bmw.cloud/0efd1e8245162923b1283c0567cf5e14b4a01b5ff7875ed9a4ef3ec48e883fb9.jpg",
+            "OTHER-10": "https://media.aws.bmw.cloud/0aa9d1db13525ef5f9d5c620199b5ce3c3cd2dc2c96cf63debad5f0445aaf88c.jpg",
+            "OTHER-9": "https://media.aws.bmw.cloud/c172f9374568d19ffc3c7ce794eb3ddbbc0178acba92edfe4f410661097f81e2.jpg",
+            "OTHER-8": "https://media.aws.bmw.cloud/859f8fa0b8fbc1722b4e293df5fed4e082948172bde1e7a6ff42586231715b6d.jpg",
+            "OTHER-7": "https://media.aws.bmw.cloud/61eb60096c28d0654041cedadf42e13cfcc0dc74cb4e50ae03d13a527e59f011.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/52df9779cc63fbbffada11b8223516cb43a64b424f2a1e4ca3aff0e8a04bac5f.jpg",
+            "OTHER-5": "https://media.aws.bmw.cloud/fc36ed2dff5ca51157fa8f5762638e5bb6bbe1c666fd6f002aa5240c1fb2b2dc.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/ca2a41c6325cbcf48555ec52cf928d057f59ab854c8701429f876092578b6aef.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/1e2ffc7c38a69117873d3cea1435ad60508e6cb25daf64a00da5a9dbc249b59d.jpg",
+            "OTHER-1": "https://media.aws.bmw.cloud/cd8131edbfc2631506939948c327f941c2dd7431a29a905be810071a6a756b05.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/e1deee9983fcb9a81d1442fbd71573e663472da77e9526194559b0cd0a0cd014.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m47consectetur1amet5sed7",
+              "buNo": "31227",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m47do24h8elit38sit",
+                  "calculationUpdatedAt": "2026-10-06T06:31:29.031",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 5771.7,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2178,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 8712,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2178,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 5771.7,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 11464.02,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 96.48,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T06:31:29",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "31227": {
+              "offerGrossPrice": 10890,
+              "offerGrossVehiclePrice": 10890,
+              "offerNetPrice": 10890,
+              "offerNetVehiclePrice": 10890,
+              "offerPriceCreatedAt": "2026-10-06T08:20:03",
+              "offerPriceUpdatedAt": "2026-10-06T08:20:03",
+              "tokenUpdatedAt": "2026-10-06T08:20:03"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2016-09-21",
+            "vin10": "WBA2A31040",
+            "vin17": "WBA2A31040V443225",
+            "vin7": "V443225"
+          },
+          "retailData": {
+            "buNo": "31227",
+            "dealerClass": "EH",
+            "dealerGroupId": "01047",
+            "distributionPartnerId": "31227",
+            "gwmRetailPhysicalLocation": "31227",
+            "initialRegistrationDate": "2016-09-29",
+            "localDealerNumber": "31227",
+            "locationInOutlet": "LER",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "26789",
+              "street": "Ringstr. 24",
+              "town": "Leer"
+            },
+            "locationOutletId": "31227"
+          }
+        },
+        "price": {
+          "grossListPrice": 36740.02,
+          "grossSalesPrice": 10890,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 36740.02
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "mileage": {
+            "km": 82936,
+            "mi": 51534
+          },
+          "stockNumber": "036242",
+          "vehicleDamage": {
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218I",
+                "de_DE": "218I"
+              },
+              "modelName": "218I",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFHIJIG98CH",
+        "vssId": "01a05849-b10d-72a0-839a-fb57d1d5c2d5",
+        "media": {
+          "usedCarImages": {
+            "OTHER-10": "https://media.aws.bmw.cloud/03849ea295a745c9f1da100a755a1057bb7384e4c8c15da8e03f28418c00c062.jpg",
+            "RIM-24": "https://media.aws.bmw.cloud/068eedb9968d2d7dab3f2427fce927218868ba46c5e2024791a5f9a707f834c8.jpg",
+            "OTHER-13": "https://media.aws.bmw.cloud/b0a52e07ae670b0d96b210bb8e028b67fbe5e84f208c5bbfd69389afd54b3578.jpg",
+            "OTHER-23": "https://media.aws.bmw.cloud/ad1fdd2d8dcf41c239a00af7e203d8cbe8361a2086344dc5ba4ae0581bd3a30d.jpg",
+            "OTHER-12": "https://media.aws.bmw.cloud/c8220ebf703edcc608e4b35d696b9232cd68c53bf9dc2b5005528ecd262098e0.jpg",
+            "OTHER-11": "https://media.aws.bmw.cloud/32115b4e8e77c6f2383637479569aa72710ccf253a2106441dbea6737a74190a.jpg",
+            "OTHER-21": "https://media.aws.bmw.cloud/0903e96ac37601e0a9b111373956b3204441935486b9e0b255d940ff5a3dfbe9.jpg",
+            "OTHER-9": "https://media.aws.bmw.cloud/9d2f1c573eeb6a34773396cdd0c12dec8c116d95971ccbab286985694408fa8e.jpg",
+            "OTHER-20": "https://media.aws.bmw.cloud/0df5e083dca36e91ca921002f555364877073701ca44ad88d1c19a9ddcfe9151.jpg",
+            "OTHER-7": "https://media.aws.bmw.cloud/2e95f1981a3308dc8eb574878a6eecdeed1ffc44872ff6f2f207efea1c7a4537.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/d54b8dc0d39c26d4952d78b2a97c15211395b82b1f566316bcd96cbe2f565395.jpg",
+            "OTHER-5": "https://media.aws.bmw.cloud/283842308ce266bf9df0aad905a2d092434ebb2fc683a59926f7da153e4f967a.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/f636a4308a87258054d1e0d49a9fa183af1a50761cde671f6b391f933da38cea.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/b984e42285cca7cbd550ae3a4a7d550a9b11f45f1b7c5636c8f234863c2c4fea.jpg",
+            "OTHER-1": "https://media.aws.bmw.cloud/d86c05573a1499c1dbdbd620b0e63bc3bfbbfdcf9139ca3d69c64aad661a8601.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/05832c85443e4608eaa17b3daf6fd641bb28fd66f57da3eaec11d016005548aa.jpg",
+            "OTHER-19": "https://media.aws.bmw.cloud/54e375de767d32ea2cd6e176f804a3667f0e9b13129abf237142d97cdd2afbd7.jpg",
+            "OTHER-18": "https://media.aws.bmw.cloud/4635d8828978abf6a7bdd7ff7df566c2a6d03dc79e3f83469fe1016e55c07853.jpg",
+            "OTHER-17": "https://media.aws.bmw.cloud/237066773702065645118b0bb7699ecbf55b5603cd5d953131dc69bdbe12c1ae.jpg",
+            "OTHER-27": "https://media.aws.bmw.cloud/97a1ac17cba9310c4393fe03e395d79455e7d91401e58145a2805eff7b40e16f.jpg",
+            "OTHER-16": "https://media.aws.bmw.cloud/10403128bf7f45173b02f500dd94e63c08262b2d27d2daaf2847791362c23995.jpg",
+            "OTHER-26": "https://media.aws.bmw.cloud/2db1bf0e1717258faeb8aa97c2209429153f2ad81c8410dcc4ea59f9a25f4612.jpg",
+            "OTHER-15": "https://media.aws.bmw.cloud/2ac2edbdbbefe4acec1298192bf81f73308ad38cc3149f3cc19c70509e8b5c70.jpg",
+            "INTERIOR_INSTRUMENTS-14": "https://media.aws.bmw.cloud/4413aaf3bd2164cd7db5d9df5ca564db993aae596e4df471aeca26ab6d53ef8c.jpg",
+            "FRONTSIDE-22": "https://media.aws.bmw.cloud/674e104260785622f4d59c63a9638d7aef7a99b25ff13baf9a55b96497592f60.jpg",
+            "INTERIOR_COCKPIT-8": "https://media.aws.bmw.cloud/73ea26451dfa3167ee1a7216ba3d8f8067acb95b7bdc81456f65d24a11e5f380.jpg",
+            "SIDE-3": "https://media.aws.bmw.cloud/913f83d58ecc6aa348d532fde5e340d85bfc140d30767488cdb3bf6f3efaa3c5.jpg",
+            "OTHER-25": "https://media.aws.bmw.cloud/a1e8fd14740a2c172fba461b35c3b98b743d99fe5df56741612e6ce92e78a39c.jpg",
+            "REARSIDE-28": "https://media.aws.bmw.cloud/f1ebac9b6002ee2e181805c0ecd16930f7cec061ba3eb8602a298129beeafd15.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49h80sed47",
+              "buNo": "52090",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49h82dolor76adipiscing4w2dolor4sed",
+                  "calculationUpdatedAt": "2026-10-06T21:17:24.474",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 5512.59,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2161.8,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 8647.2,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2161.8,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 5512.59,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 11340.61,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 98.78,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:17:24",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "52090": {
+              "offerGrossPrice": 10809,
+              "offerGrossVehiclePrice": 10809,
+              "offerNetPrice": 10809,
+              "offerNetVehiclePrice": 10809,
+              "offerPriceCreatedAt": "2026-10-06T21:17:24",
+              "offerPriceUpdatedAt": "2026-10-06T21:17:24",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:17:24"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2015-07-25",
+            "vin10": "WBA2A31080",
+            "vin17": "WBA2A31080V436861",
+            "vin7": "V436861"
+          },
+          "retailData": {
+            "buNo": "52090",
+            "dealerClass": "EH",
+            "dealerGroupId": "23463",
+            "distributionPartnerId": "52090",
+            "gwmRetailPhysicalLocation": "52090",
+            "initialRegistrationDate": "2015-07-29",
+            "localDealerNumber": "52090",
+            "locationInOutlet": "FIL15",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "32139",
+              "street": "Düttingdorfer Str. 342",
+              "town": "Spenge"
+            },
+            "locationOutletId": "52090"
+          }
+        },
+        "price": {
+          "grossListPrice": 36100.01,
+          "grossSalesPrice": 10809,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 36100.01
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "SPENGE",
+          "mileage": {
+            "km": 136500,
+            "mi": 84817
+          },
+          "stockNumber": "BUG261500413",
+          "vehicleDamage": {
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218I Active Tourer",
+                "de_DE": "218I Active Tourer"
+              },
+              "modelName": "218I Active Tourer",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOCEFBIJJJB3FL",
+        "vssId": "01a023c4-4bf0-776f-8385-f0393bf00d7f",
+        "media": {
+          "usedCarImages": {
+            "OTHER-24": "https://media.aws.bmw.cloud/77a0f33b2eddade75e863bd5b03735bc7ad365129f9d89257406cb160575c67c.jpg",
+            "OTHER-13": "https://media.aws.bmw.cloud/0f40e06cd9ad6dcadccfdbe80981ed098e3f80b020ebd5cb3d59a0ecbf4107b1.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/2a766a46ac139e3ec00acdea24891999308556cd10c86a83b4ceb1af8b359e16.jpg",
+            "REARSIDE-11": "https://media.aws.bmw.cloud/365b2597755208c17c7707366cbfa201c1b2906bbdff1dff3cd0ecdde5a19088.jpg",
+            "OTHER-23": "https://media.aws.bmw.cloud/36f6984c7e923bb69e4d639ef059db2e4d67250ff0523f52119cc29bc9befd80.jpg",
+            "OTHER-8": "https://media.aws.bmw.cloud/499d9fb23c2843e20a76c176ec0bccf150a44009442ab17323130994a5818117.jpg",
+            "OTHER-7": "https://media.aws.bmw.cloud/3d9125f35d37f89d7eb834f3ebeb3603ec45ee3e6aeaf0310477b5a0d02b01d2.jpg",
+            "OTHER-5": "https://media.aws.bmw.cloud/36ce0b6e49bc7316fc2a36e6fe798b642ea4e88a30454114efde03b345646852.jpg",
+            "OTHER-19": "https://media.aws.bmw.cloud/b68126809a90ba9b8ef7306f6817243a14227b16b9daf4d2e1efcd6138971be7.jpg",
+            "OTHER-18": "https://media.aws.bmw.cloud/8d9cc3d7a3f5f96109fe5bf5ceb3e01474e6b88423691886a346b70760d0a185.jpg",
+            "OTHER-17": "https://media.aws.bmw.cloud/4886638d0c83aa41d51404936ac0efc4f07bc98910dd36eb9d60081d049c918c.jpg",
+            "OTHER-16": "https://media.aws.bmw.cloud/695f45103356dc7c4aaf457eb38daecc21202911f98b6c9f6f9cc0fc37c0a146.jpg",
+            "FRONTSIDE-15": "https://media.aws.bmw.cloud/7db7f305f24666e2b3d52a1f82be1b86748988a7ba258a596a38ea760c6ec65b.jpg",
+            "RIM-1": "https://media.aws.bmw.cloud/7e38bd0416f8505a328942163543307819aa42dfc76048e65d06f580fbc24244.jpg",
+            "OTHER-10": "https://media.aws.bmw.cloud/84a5f40398ca36886e03bc6a11d5d8554070117bb7ee8d7da2c032ae377576d4.jpg",
+            "SIDE-22": "https://media.aws.bmw.cloud/8c8338b898d6f08a534383a34c01037161a052ca0f05ee9daffea1a121f1481c.jpg",
+            "INTERIOR_INSTRUMENTS-9": "https://media.aws.bmw.cloud/9e5d49b2cc4b3de564cb61bbde390e2c1db4fd31a8f0973f00dc75350ec0d592.jpg",
+            "OTHER-12": "https://media.aws.bmw.cloud/ee595cfb35c0d1a0b382d6e67f45d5b7cafe7ef65795f3a5306b8a7be68936a3.jpg",
+            "OTHER-21": "https://media.aws.bmw.cloud/f50ea2d820e06e566f4bf32c9e236d6c043fbe94d40edc8e3fe4d7a9aa5a7149.jpg",
+            "OTHER-20": "https://media.aws.bmw.cloud/acfa8e7795186ec030e26d56dacc1048729172a3f2aaa542e3ea8ef584d139d3.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/d1f416917091a3e29d01ea9cf4a07a6a3b81b6fcf9522d18bce8f5ed6fb7c70b.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/fa71cda50b23af9a00459e1fefc47094a09cd59e8b317f1f9eb3e9c9ac151f18.jpg",
+            "OTHER-25": "https://media.aws.bmw.cloud/afe7748961e4574b8324ec16f889466e13e57f7b800138af4c0353be24693b1f.jpg",
+            "OTHER-14": "https://media.aws.bmw.cloud/16c944fbd5e2a9f86bc1dd9ff8e46fa98b1c140a8a2c1245fd503c647641f504.jpg",
+            "INTERIOR_COCKPIT-6": "https://media.aws.bmw.cloud/65950193059cf5b92c63a90b1dbc993742152881b754ecf8704cbedaa5ed9d31.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49h2elit2lorem0sit2elit6g",
+              "buNo": "04562",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49h2b5sit04do5g83j",
+                  "calculationUpdatedAt": "2026-10-06T21:14:15.935",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 5527.89,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2167.8,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 8671.2,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2167.8,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 5527.89,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 11371.84,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 99.05,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:14:15",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "04562": {
+              "offerGrossPrice": 10839,
+              "offerGrossVehiclePrice": 10839,
+              "offerNetPrice": 10839,
+              "offerNetVehiclePrice": 10839,
+              "offerPriceCreatedAt": "2026-10-06T21:14:15",
+              "offerPriceUpdatedAt": "2026-10-06T21:14:15",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:14:15"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2016-06-02",
+            "vin10": "WBA2A51020",
+            "vin17": "WBA2A51020V568395",
+            "vin7": "V568395"
+          },
+          "retailData": {
+            "buNo": "04562",
+            "dealerClass": "EH",
+            "dealerGroupId": "04562",
+            "distributionPartnerId": "04562",
+            "gwmRetailPhysicalLocation": "04562",
+            "initialRegistrationDate": "2016-06-16",
+            "localDealerNumber": "04562",
+            "locationInOutlet": "Filiale Gotha",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "99867",
+              "street": "Harjesstr. 11",
+              "town": "Gotha"
+            },
+            "locationOutletId": "04562",
+            "locationOutletName": "Langenhan GmbH - Gotha"
+          }
+        },
+        "price": {
+          "grossListPrice": 34539.99,
+          "grossSalesPrice": 10839,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 34539.99
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "V568395",
+          "mileage": {
+            "km": 122280,
+            "mi": 75981
+          },
+          "stockNumber": "GW 7846",
+          "vehicleDamage": {
+            "damageDescription": "Dolore Veniam consectetur Eiusmod lorem sed dolor Labore amet consectetur Sed minim. Enim Eiusmod eiusmod eiusmod Lorem lorem sed Consectetur aliqua Eiusmod do Incididunt, Enim do Amet dolore.",
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A51",
+              "derivative": "220I",
+              "effectDateRange": {
+                "from": "2014-11-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "220i Active Tourer",
+                "de_DE": "220i Active Tourer"
+              },
+              "modelName": "220i Active Tourer",
+              "steering": "LL",
+              "vgModelCode": "2A51"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPECAEF6IJUD466I",
+        "vssId": "019efe79-36a1-7649-b908-b809926bad32",
+        "media": {
+          "usedCarImages": {
+            "OTHER-4": "https://media.aws.bmw.cloud/9ed5553f0994c592efb700b37706356a925874b877609db1dd4d28d36b5505c8.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/a784062199bfab7c4c26fca3e170d35fde71c92566b907219cbda59cb0850bac.jpg",
+            "OTHER-1": "https://media.aws.bmw.cloud/6ec8ad146a887bdd0dd4cddb5a48e0f0c14b9414dd81014b06935417b154b48c.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/95d922099dbb850d76ccee3580b4ac2b892466cedb1ef20c6561c3438f0331cd.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49consectetur5do2v4n35sed9amet",
+              "buNo": "30313",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49do8sit45f3c75sit8adipiscing3z",
+                  "calculationUpdatedAt": "2026-10-06T21:37:24.513",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 5370.4,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2192,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 8768,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2192,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 5370.4,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 11460.38,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 103.22,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:37:24",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "30313": {
+              "offerGrossPrice": 10960,
+              "offerGrossVehiclePrice": 10960,
+              "offerNetPrice": 10960,
+              "offerNetVehiclePrice": 10960,
+              "offerPriceCreatedAt": "2026-10-06T21:37:24",
+              "offerPriceUpdatedAt": "2026-10-06T21:37:24",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:37:24"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2018-07-10",
+            "vin10": "WBA6Y310X0",
+            "vin17": "WBA6Y310X0VG01602",
+            "vin7": "VG01602"
+          },
+          "retailData": {
+            "buNo": "30313",
+            "dealerClass": "EH",
+            "dealerGroupId": "02428",
+            "distributionPartnerId": "00332",
+            "gwmRetailPhysicalLocation": "30313",
+            "initialRegistrationDate": "2018-09-11",
+            "localDealerNumber": "30313",
+            "locationInOutlet": "Lagerwagen",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "27572",
+              "street": "Am Lunedeich 182",
+              "town": "Bremerhaven"
+            },
+            "locationOutletId": "30313"
+          }
+        },
+        "price": {
+          "grossListPrice": 53000.01,
+          "grossSalesPrice": 10960,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 53000.01
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "mileage": {
+            "km": 140292,
+            "mi": 87173
+          },
+          "stockNumber": "7115",
+          "vehicleDamage": {
+            "damageDescription": " Frontschaden links instandgesetzt",
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "6Y31",
+              "derivative": "225XE",
+              "effectDateRange": {
+                "from": "2018-03-01",
+                "to": "2021-10-10"
+              },
+              "modelDescription": {
+                "default_DE": "225xe iPerformance Active Tour",
+                "de_DE": "225xe iPerformance Active Tour"
+              },
+              "modelName": "225xe iPerformance Active Tour",
+              "steering": "LL",
+              "vgModelCode": "6Y31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "AUTOMATIC"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAQ8EFBIJJF58FI",
+        "vssId": "019eb177-12eb-7762-aa80-642c0f1cba6e",
+        "media": {},
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m485adipiscing2do5dolor2consectetur8lorem",
+              "buNo": "51107",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m485lorem9h2consectetur83c91g0amet6elit",
+                  "calculationUpdatedAt": "2026-10-06T08:40:37.924",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 5113.6,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2176,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 8704,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2176,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 5113.6,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 11338.69,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 105.51,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T08:40:37",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "51107": {
+              "offerGrossPrice": 10880,
+              "offerGrossVehiclePrice": 10880,
+              "offerNetPrice": 10880,
+              "offerNetVehiclePrice": 10880,
+              "offerPriceCreatedAt": "2026-10-06T09:40:04",
+              "offerPriceUpdatedAt": "2026-10-06T09:40:04",
+              "tokenUpdatedAt": "2026-10-06T09:40:04"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2016-01-21",
+            "vin10": "WBA2C11020",
+            "vin17": "WBA2C11020V522892",
+            "vin7": "V522892"
+          },
+          "retailData": {
+            "buNo": "51107",
+            "dealerClass": "EH",
+            "dealerGroupId": "00120",
+            "distributionPartnerId": "51107",
+            "gwmRetailPhysicalLocation": "51107",
+            "initialRegistrationDate": "2016-02-25",
+            "localDealerNumber": "51107",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "91207",
+              "street": "Industriestraße 19",
+              "town": "Lauf a.d. Pegnitz"
+            },
+            "locationOutletId": "51107"
+          }
+        },
+        "price": {
+          "grossListPrice": 36890,
+          "grossSalesPrice": 10880,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 36890
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "mileage": {
+            "km": 107628,
+            "mi": 66877
+          },
+          "stockNumber": "718741",
+          "vehicleDamage": {
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2C11",
+              "derivative": "218D",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218D",
+                "de_DE": "218D"
+              },
+              "modelName": "218D",
+              "steering": "LL",
+              "vgModelCode": "2C11"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPECAEFAIJUFA8BP",
+        "vssId": "019dfd73-63f0-741c-80cf-bbfd17c36169",
+        "media": {
+          "usedCarImages": {
+            "SIDE-4": "https://media.aws.bmw.cloud/0cb7f6192bd99faae633c7933d9309f93cf0193c166800ac11b6ad01d3680aee.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/592d314b75b9ae73ccf7befc0486e495d61765037915719b27f8335574ab0f1d.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/34d717f1cba42c25178394362a2cdb06c23abbf276484983d251ccba07304715.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/36b3ba0e49a28f9393bf75b8384f4e5709583786d869a70ba6c50f915977279e.jpg",
+            "INTERIOR_INSTRUMENTS-11": "https://media.aws.bmw.cloud/83bbf6fb9d6fe9663665f78b375db539bdac685b2167b75735b17545d106e7cd.jpg",
+            "REARSIDE-5": "https://media.aws.bmw.cloud/a173ae79fda613703e57de8729afe9b2564d25874bcad9b20218a4fa74dcca28.jpg",
+            "RIM-10": "https://media.aws.bmw.cloud/b97efa0982007ea4baa7f515b7facc26ac80fdba6bd390b23d1085eaa364e6c1.jpg",
+            "INTERIOR_COCKPIT-1": "https://media.aws.bmw.cloud/ca9e138ac70305a40ca194fb9843c62b960736d28bb849b7d174afa7c3e94c04.jpg",
+            "OTHER-8": "https://media.aws.bmw.cloud/dff5b803c9af1c960a1c221af78f4c51fe4727daa5a784c66014a6238263f6cc.jpg",
+            "FRONTSIDE-7": "https://media.aws.bmw.cloud/f0c43a4598192f85dfef5a3badc038c6b98e53605196191beaa01ef7f2fbd520.jpg",
+            "OTHER-9": "https://media.aws.bmw.cloud/ff8ee99ecaf0a05ad33da467cacd2ba5a73a652630032487cc8261a64b014e2e.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m48v6f6do4dolor2consectetur5r67c",
+              "buNo": "00263",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m48v6f8sit821sed4dolor9",
+                  "calculationUpdatedAt": "2026-10-06T14:52:01.952",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 6063.9,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2378,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 9512,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2378,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 6063.9,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 12474.84,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 108.66,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T14:52:01",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "00263": {
+              "offerGrossPrice": 11890,
+              "offerGrossVehiclePrice": 11890,
+              "offerNetPrice": 11890,
+              "offerNetVehiclePrice": 11890,
+              "offerPriceCreatedAt": "2026-10-07T17:26:53",
+              "offerPriceUpdatedAt": "2026-10-07T17:26:53",
+              "tokenUpdatedAt": "2026-10-07T17:26:53"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2018-10-26",
+            "vin10": "WBA6Y31010",
+            "vin17": "WBA6Y31010VG27859",
+            "vin7": "VG27859"
+          },
+          "retailData": {
+            "buNo": "00263",
+            "dealerClass": "EH",
+            "dealerGroupId": "01066",
+            "deregistrationDate": "2026-05-06",
+            "distributionPartnerId": "00263",
+            "gwmRetailPhysicalLocation": "00263",
+            "initialRegistrationDate": "2018-12-05",
+            "localDealerNumber": "00263",
+            "locationInOutlet": "026DO",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "46282",
+              "street": "Zum Alten Kreuz 1",
+              "town": "Dorsten"
+            },
+            "locationOutletId": "00263"
+          }
+        },
+        "price": {
+          "grossListPrice": 41080,
+          "grossSalesPrice": 11890,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 41080
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": true,
+          "licencePlate": "DU-ML 512E",
+          "mileage": {
+            "km": 85850,
+            "mi": 53345
+          },
+          "stockNumber": "172100",
+          "vehicleDamage": {
+            "damageDescription": "Stoßstange hinten erneuert + Heckklappe lackiert 12.2021 für 1500,-€",
+            "involvedInAccident": true
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "6Y31",
+              "derivative": "225XE",
+              "effectDateRange": {
+                "from": "2018-03-01",
+                "to": "2021-10-10"
+              },
+              "modelDescription": {
+                "default_DE": "225XE IPERFORMA",
+                "de_DE": "225XE IPERFORMA"
+              },
+              "modelName": "225XE IPERFORMA",
+              "steering": "LL",
+              "vgModelCode": "6Y31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "AUTOMATIC"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFGIJMI79FH",
+        "vssId": "019f12b4-7114-710b-9ab9-0ecf9d2dea3a",
+        "media": {
+          "usedCarImages": {
+            "OTHER-13": "https://media.aws.bmw.cloud/32d435f287c5b439786c4e8bf3a14a0e3318909b1016d9a12a4755d58d2f602c.jpg",
+            "OTHER-11": "https://media.aws.bmw.cloud/189a4368b9bc146c9c9198cf373b05938e235e75ae26611f1e94e212d1177f55.jpg",
+            "OTHER-10": "https://media.aws.bmw.cloud/10f23c086af1f5fc4ac873211677ba7b09b7d99b60917de98b4e9ad3441a07f8.jpg",
+            "OTHER-9": "https://media.aws.bmw.cloud/e5a113de46789f29cd7deb86704c93a9add01061be17fc38b83a18651966b334.jpg",
+            "OTHER-8": "https://media.aws.bmw.cloud/63bd0e876312b85cd51a3148866c079e472c3e1f71ec45bcc417c79bd27a9403.jpg",
+            "OTHER-7": "https://media.aws.bmw.cloud/cde4e5e081765d855b279036620c26a28446bd66b7fb0578367400d751c368a0.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/7928be4b2f0e67d969d118b639464fbb1e42599756be739c10d6c885eee35430.jpg",
+            "OTHER-5": "https://media.aws.bmw.cloud/54953e13cdc0b10d2ac296ff3ca061db049120b1b48cbc6e5fb709a519f87dc2.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/0490a86ce82f707d3ab76e45615749d05b59eef007de897ed951bf30a6f25908.jpg",
+            "SIDE-12": "https://media.aws.bmw.cloud/54de43875f57a45e331cbaac1176a02b85dfd742c0677df7985c0b9bacad0687.jpg",
+            "INTERIOR_COCKPIT-18": "https://media.aws.bmw.cloud/5be9d114cb639f90a49a4bd188f7c348a51200f80ae7d096ef4f0bbeb3b6f9f0.jpg",
+            "OTHER-2": "https://media.aws.bmw.cloud/497a38fb54430a4c1a1c834514c6c4073ce2731ded3d012eb161cf37839e9060.jpg",
+            "INTERIOR_INSTRUMENTS-17": "https://media.aws.bmw.cloud/7326d0578bb9b5d3a9a466142610d9f243eedc5998c49e0b201015208b8d794d.jpg",
+            "OTHER-1": "https://media.aws.bmw.cloud/74b3d73e4aa1bd01444452f03523dbc4730e38cabcfa17b67929b54520669e3c.jpg",
+            "FRONTSIDE-20": "https://media.aws.bmw.cloud/a0fc0e355e131f842e35b8b83f76d42e57d49c0881011c967fc44c929084baa1.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/abdbf091a10a403b9e88657cf7799b12e8e34f094e759ba0eb331077d9f35ab8.jpg",
+            "OTHER-15": "https://media.aws.bmw.cloud/b4a5b285bb973f49c5aeec26e2f506af398bb912f714c3741222e532bfa94441.jpg",
+            "OTHER-14": "https://media.aws.bmw.cloud/b939d37f72f2ed223076e0834e6656267ce00c0ee28b5f36d09c4c0f5c5dd812.jpg",
+            "REARSIDE-16": "https://media.aws.bmw.cloud/e5b7b4096fc0ede74d78ccd0faa6269628135cce9f2dae57958bf366198bd8e3.jpg",
+            "RIM-19": "https://media.aws.bmw.cloud/f2a0157ebb146f5f72c790867d2392100c521f99bca794c57000a03ac84ab72b.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49consectetur8701140m5c7p5k903",
+              "buNo": "27040",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49do4amet2z7dolor2elit",
+                  "calculationUpdatedAt": "2026-10-06T21:41:52.518",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 7007.55,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2548.2,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 10192.8,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2548.2,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 7007.55,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 13456.84,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 109.31,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:41:52",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "27040": {
+              "offerGrossPrice": 12741,
+              "offerGrossVehiclePrice": 12741,
+              "offerNetPrice": 12741,
+              "offerNetVehiclePrice": 12741,
+              "offerPriceCreatedAt": "2026-10-06T21:41:52",
+              "offerPriceUpdatedAt": "2026-10-06T21:41:52",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:41:52"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2017-04-07",
+            "vin10": "WBA2A31070",
+            "vin17": "WBA2A31070V854991",
+            "vin7": "V854991"
+          },
+          "retailData": {
+            "buNo": "27040",
+            "dealerClass": "EH",
+            "dealerGroupId": "04562",
+            "distributionPartnerId": "04562",
+            "gwmRetailPhysicalLocation": "27040",
+            "initialRegistrationDate": "2017-04-12",
+            "localDealerNumber": "27040",
+            "locationInOutlet": "Filiale Eisenach",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "99817",
+              "street": "Rennbahn 74",
+              "town": "Eisenach"
+            },
+            "locationOutletId": "27040",
+            "locationOutletName": "Filiale - Eisenach"
+          }
+        },
+        "price": {
+          "grossListPrice": 33219.99,
+          "grossSalesPrice": 12741,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 33219.99
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "V854991",
+          "mileage": {
+            "km": 36398,
+            "mi": 22617
+          },
+          "stockNumber": "GW 5861",
+          "vehicleDamage": {
+            "damageDescription": "Ipsum Adipiscing incididunt Enim elit magna do Lorem tempor incididunt Magna consectetur. Amet Enim enim enim Elit elit magna Incididunt sit Enim aliqua Veniam, Amet aliqua Tempor ipsum.",
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218i Active Tourer",
+                "de_DE": "218i Active Tourer"
+              },
+              "modelName": "218i Active Tourer",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFGIJIH34DO",
+        "vssId": "019efe77-762e-73d1-b8b2-d3b49f4949cb",
+        "media": {},
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49h8q9do50amet0b78dolor5c",
+              "buNo": "35235",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49h8ipsum8g0adipiscing6ipsum3consectetur",
+                  "calculationUpdatedAt": "2026-10-06T21:17:51.931",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 6777,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2510,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 10040,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2510,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 6777,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 13233.37,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 109.43,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:17:51",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "35235": {
+              "offerGrossPrice": 12550,
+              "offerGrossVehiclePrice": 12550,
+              "offerNetPrice": 12550,
+              "offerNetVehiclePrice": 12550,
+              "offerPriceCreatedAt": "2026-10-06T21:17:51",
+              "offerPriceUpdatedAt": "2026-10-06T21:17:51",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:17:51"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2016-03-03",
+            "vin10": "WBA2A31070",
+            "vin17": "WBA2A31070V440478",
+            "vin7": "V440478"
+          },
+          "retailData": {
+            "buNo": "35235",
+            "dealerClass": "EH",
+            "dealerGroupId": "35232",
+            "distributionPartnerId": "35232",
+            "gwmRetailPhysicalLocation": "35235",
+            "initialRegistrationDate": "2016-03-16",
+            "localDealerNumber": "35235",
+            "locationInOutlet": "EU",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "23701",
+              "street": "Lübecker Landstr. 61",
+              "town": "Eutin"
+            },
+            "locationOutletId": "35235"
+          }
+        },
+        "price": {
+          "grossListPrice": 37140,
+          "grossSalesPrice": 12550,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 37140
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "RZ-MI 86",
+          "mileage": {
+            "km": 72334,
+            "mi": 44946
+          },
+          "stockNumber": "106539",
+          "vehicleDamage": {
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218i Active Tourer Advantage",
+                "de_DE": "218i Active Tourer Advantage"
+              },
+              "modelName": "218i Active Tourer Advantage",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPAOAEFBIJMI876O",
+        "vssId": "019ff9f8-1974-7767-a4a2-fe31bd6f92d7",
+        "media": {},
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49h2elit9h512p2do9dolor6f",
+              "buNo": "32141",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49h2ipsum7e4c1sed5z67amet",
+                  "calculationUpdatedAt": "2026-10-06T21:14:35.216",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 6375.2,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2452,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 9808,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2452,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 6375.2,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 12884.08,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 110.32,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:14:35",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "32141": {
+              "offerGrossPrice": 12260,
+              "offerGrossVehiclePrice": 12260,
+              "offerNetPrice": 12260,
+              "offerNetVehiclePrice": 12260,
+              "offerPriceCreatedAt": "2026-10-06T21:14:34",
+              "offerPriceUpdatedAt": "2026-10-06T21:14:34",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:14:34"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "productType": "CAR",
+            "productionDate": "2017-07-06",
+            "vin10": "WBA2A31020",
+            "vin17": "WBA2A31020V855708",
+            "vin7": "V855708"
+          },
+          "retailData": {
+            "buNo": "32141",
+            "dealerClass": "EH",
+            "dealerGroupId": "00120",
+            "distributionPartnerId": "32141",
+            "gwmRetailPhysicalLocation": "32141",
+            "initialRegistrationDate": "2017-07-28",
+            "localDealerNumber": "32141",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "97342",
+              "street": "Am Traugraben 2",
+              "town": "Marktsteft"
+            },
+            "locationOutletId": "32141"
+          }
+        },
+        "price": {
+          "grossListPrice": 35440,
+          "grossSalesPrice": 12260,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 35440
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "RH-BK 285",
+          "mileage": {
+            "km": 98900,
+            "mi": 61454
+          },
+          "stockNumber": "569006",
+          "vehicleDamage": {
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "2A31",
+              "derivative": "218I",
+              "effectDateRange": {
+                "from": "2014-07-01",
+                "to": "2018-02-28"
+              },
+              "modelDescription": {
+                "default_DE": "218I",
+                "de_DE": "218I"
+              },
+              "modelName": "218I",
+              "steering": "LL",
+              "vgModelCode": "2A31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "MANUAL"
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "LMPECAEF6IJUFA59M",
+        "vssId": "018e929c-2747-7b76-b5d0-6e1a39a243ab",
+        "media": {
+          "usedCarImages": {
+            "INTERIOR_COCKPIT-9": "https://media.aws.bmw.cloud/1693958a0cba373689e2979ac90f632781cb45a0027910fccb467d38ca7b9169.jpg",
+            "RIM-7": "https://media.aws.bmw.cloud/18670cd260d9eaf7ca94b377fb2510c14a78a9bea4e0fad46071f883fde42d64.jpg",
+            "SIDE-1": "https://media.aws.bmw.cloud/194d6c59a6976a18b5217b2cf29a55a30665f90bad4a962a50fbb41ab5decf27.jpg",
+            "OTHER-11": "https://media.aws.bmw.cloud/ace7d087ef550ee1c520025a3c4fe653ec8bf3fe6fbfd1c4c05d7cbe7c46d0f0.jpg",
+            "OTHER-10": "https://media.aws.bmw.cloud/39cfe1a4f545213bce74c53f603281940a821d83f2ba5e90e271b39da17abee1.jpg",
+            "OTHER-6": "https://media.aws.bmw.cloud/44d67566a5d182e310c180c2908af771b7a782f6b061d3c3261a2a8c82f000e0.jpg",
+            "OTHER-4": "https://media.aws.bmw.cloud/35f6475f9ccca756374c58fe1898765f6e0122df8d161d62313d818a986125cb.jpg",
+            "REARSIDE-8": "https://media.aws.bmw.cloud/77a434cec41fdfa01aa39b8588b45f00de322de81ec65a72c0bc77cc7c789b09.jpg",
+            "FRONTSIDE-5": "https://media.aws.bmw.cloud/8afc1b58209b13153908aee31103d83a1c4df358bacb83dc5c9265f04a3bb290.jpg",
+            "OTHER-0": "https://media.aws.bmw.cloud/90360706976fd8b371045ce6049da2b9a30349cb13bfcc4664ed6205d8f4e80a.jpg",
+            "INTERIOR_INSTRUMENTS-2": "https://media.aws.bmw.cloud/b2924cd296b1c74430150e62a8cb85d61cce36d35bf8bd26a78275974443af15.jpg"
+          }
+        },
+        "offering": {
+          "sfOffers": [
+            {
+              "offerId": "sit_adipiscing_01m49j467do7j0amet1v8lorem09e0",
+              "buNo": "33275",
+              "customerType": "elit",
+              "calculations": [
+                {
+                  "calculationId": "elit_lorem_01m49j476sit89elit609y7sed",
+                  "calculationUpdatedAt": "2026-10-06T21:32:46.215",
+                  "financialProductParameters": {
+                    "annualMileage": 10000,
+                    "balloonAmount": {
+                      "amount": 5831,
+                      "currency": "ipsum"
+                    },
+                    "contractualMileage": 50000,
+                    "downPaymentAmount": {
+                      "amount": 2380,
+                      "currency": "ipsum"
+                    },
+                    "downPaymentPercent": 0.2,
+                    "financeAmount": {
+                      "amount": 9520,
+                      "currency": "ipsum"
+                    },
+                    "firstInstallment": {
+                      "amount": 2380,
+                      "currency": "ipsum"
+                    },
+                    "interestEffective": 0.0779,
+                    "interestNominal": 0.07519999999999999,
+                    "lastInstallment": {
+                      "amount": 5831,
+                      "currency": "ipsum"
+                    },
+                    "offerEndDate": "2026-11-05",
+                    "sumOfAllTotalPayments": {
+                      "amount": 12443.13,
+                      "currency": "ipsum"
+                    },
+                    "term": 60,
+                    "totalInstallment": {
+                      "amount": 112.07,
+                      "currency": "EUR"
+                    }
+                  },
+                  "productCategoryType": "sed",
+                  "financialProductType": "do_elit_dolor",
+                  "productId": "1011138"
+                }
+              ],
+              "offerUpdatedAt": "2026-10-06T21:32:46",
+              "priceSource": "ipsum_elit"
+            }
+          ],
+          "offerPrices": {
+            "33275": {
+              "offerGrossPrice": 11900,
+              "offerGrossVehiclePrice": 11900,
+              "offerNetPrice": 10000,
+              "offerNetVehiclePrice": 10000,
+              "offerPriceCreatedAt": "2026-10-06T21:32:45",
+              "offerPriceUpdatedAt": "2026-10-06T21:32:45",
+              "sfOfferIDs": [],
+              "tokenUpdatedAt": "2026-10-06T21:32:45"
+            }
+          }
+        },
+        "ordering": {
+          "productionData": {
+            "ckdFlag": false,
+            "confirmedProductionWeek": "2018-10-26",
+            "endOfProduction": "2018-10-19",
+            "orderNumber": "1794121",
+            "orderStatus": 298,
+            "plannedEndOfProduction": "2018-10-19",
+            "productType": "CAR",
+            "productionDataError": "NO_ERROR",
+            "productionDate": "2018-10-19",
+            "productionProcess": "N",
+            "vin10": "WBA6Y310X0",
+            "vin17": "WBA6Y310X0VG27536",
+            "vin7": "VG27536",
+            "wholesalerOrderId": 32649510
+          },
+          "retailData": {
+            "buNo": "33275",
+            "dealerClass": "EH",
+            "dealerGroupId": "00139",
+            "deregistrationDate": "2026-04-27",
+            "distributionPartnerId": "00139",
+            "gwmRetailPhysicalLocation": "33275",
+            "initialRegistrationDate": "2019-01-17",
+            "localDealerNumber": "008003",
+            "locationInOutlet": "DIL",
+            "locationOutletAddress": {
+              "countryCode": "DE",
+              "postalCode": "35684",
+              "street": "Auf der Langaar 1",
+              "town": "Dillenburg"
+            },
+            "locationOutletId": "33275",
+            "purchaseAgreementEventDate": "2018-08-30"
+          }
+        },
+        "price": {
+          "grossListPrice": 45130,
+          "grossSalesPrice": 11900,
+          "listPriceCurrency": "EUR",
+          "vehicleGrossPrice": 45130
+        },
+        "vehicleLifeCycle": {
+          "involvedInAccident": false,
+          "licencePlate": "MR-CW 125",
+          "mileage": {
+            "km": 111000,
+            "mi": 68972
+          },
+          "stockNumber": "222175",
+          "vehicleDamage": {
+            "involvedInAccident": false
+          }
+        },
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "bodyType": "GRAN_TURISMO",
+            "bodyTypeDescription": {
+              "de_DE": "Gran Turismo"
+            },
+            "brand": "BMW",
+            "marketingModelRange": "2_U06",
+            "model": {
+              "agModelCode": "6Y31",
+              "derivative": "225XE",
+              "effectDateRange": {
+                "from": "2018-03-01",
+                "to": "2021-10-10"
+              },
+              "modelDescription": {
+                "default_DE": "225xe Active Tourer",
+                "de_DE": "225xe Active Tourer"
+              },
+              "modelName": "225xe Active Tourer",
+              "steering": "LL",
+              "vgModelCode": "6Y31"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "default_DE": "2er Active Tourer - F45",
+                "de_DE": "2er Active Tourer - F45"
+              }
+            },
+            "transmission": "AUTOMATIC"
+          }
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "totalCount": 1356
+  }
+}

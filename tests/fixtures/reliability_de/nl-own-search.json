@@ -1,0 +1,69 @@
+{
+  "buildId": "as24-search-funnel_main-20261008161000",
+  "props": {
+    "pageProps": {
+      "pageQuery": {
+        "cat": "ma47mo1859",
+        "ustate": "N,U",
+        "sort": "standard",
+        "desc": "0",
+        "atype": "C",
+        "powertype": "kw",
+        "mcat": "ma47mo1859",
+        "body": "3",
+        "mmmv": "47|1859||",
+        "fregfrom": "2016",
+        "gear": "A",
+        "ocs_listing": "include",
+        "cy": "NL",
+        "show_nfm": "true",
+        "pricetype": "public",
+        "query_id": "242r8tjf6cp",
+        "tier_rotation": "true"
+      },
+      "numberOfResults": 33,
+      "numberOfPages": 2,
+      "listings": [
+        {
+          "id": "c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-premium-plus-automaat-benzine-wit-cat_ma47mo1859-c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+          "vehicle": {
+            "articleType": "Car",
+            "type": "Car",
+            "make": "Mercedes-Benz",
+            "model": "C 180",
+            "modelGroup": "C-Klasse",
+            "variant": "Coupé",
+            "motorTypeName": "C 180",
+            "modelId": 1859,
+            "modelVersionInput": "Coupé Premium Plus AUTOMAAT",
+            "modelVersionCustom": null,
+            "subtitle": "Lorem, Do, Amet, Aliqua dolore, Eiusmod amet, Veniam magna, Tempor, Elit lorem",
+            "offerType": "U",
+            "transmission": "Automatisch",
+            "fuel": "Benzine",
+            "mileageInKm": "133.944 km",
+            "engineDisplacementInCCM": "1.595 cm³"
+          },
+          "price": {
+            "priceFormatted": "€ 19.999",
+            "isVatLabelLegallyRequired": false,
+            "priceRaw": 19999,
+            "isConditionalPrice": false
+          },
+          "location": {
+            "countryCode": "NL",
+            "city": "TILBURG"
+          },
+          "vehicleDetails": [
+            {
+              "data": "05/2017",
+              "iconName": "calendar",
+              "ariaLabel": "Bouwjaar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

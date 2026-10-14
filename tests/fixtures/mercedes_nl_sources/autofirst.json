@@ -1,0 +1,177 @@
+{
+  "records": [
+    {
+      "uuid": "f6643723-069b-4455-a91e-f727adipiscing42254a",
+      "url": "dolor://lorem.amet-amet.amet/elit/552852-amet-dolor-1-6-ipsum-consectetur-do-elit",
+      "name": "sed do",
+      "brand_name": "do",
+      "model_name": "adipiscing",
+      "version": "1.6 ipsum consectetur do elit",
+      "mileage": 24291,
+      "build_year": 2024,
+      "fuel_type": "dolor (e",
+      "price": 29950,
+      "price_includes_vat": true,
+      "price_includes_bpm": true,
+      "price_vat_suffix": "adipiscing lorem sit sed",
+      "is_sold": false,
+      "has_nap": false,
+      "license_plate": "X-518-RB",
+      "image": "do://elit.ipsum-ipsum.ipsum/amet/311815911c031d0e793b771b35639ipsum5/229529/8480064/4b3sit4d7a0f7amet36a49f7sit7a0do.sit",
+      "created_at": "2026-10-08T09:29:14+02:00",
+      "seller": {
+        "uuid": "consectetur09do92-d382-1328-9c89-do11elit19",
+        "title": "consectetur consectetur dolor",
+        "title_parts": [],
+        "trade_name": "",
+        "statutory_name": "",
+        "kvk_number": "",
+        "tax_number": "",
+        "address": "Industrieweg 37",
+        "city": "Terneuzen",
+        "postalcode": "4538AG",
+        "latitude": 51.3246117,
+        "longitude": 3.8285,
+        "email_1": "redacted@example.invalid",
+        "email_1_label": "",
+        "email_2": "",
+        "email_2_label": "",
+        "phone_1": "[lorem-sed-2741]",
+        "phone_1_for_display": "[lorem-sed-2742]",
+        "phone_1_for_hyperlink": "lorem:+31[sed-137]",
+        "phone_1_label": "",
+        "phone_2": "[lorem-sed-2743]",
+        "phone_2_for_display": "[lorem-sed-2754]",
+        "phone_2_for_hyperlink": "lorem:+31[sed-138]",
+        "phone_2_label": "",
+        "whatsapp": "[lorem-sed-2755]",
+        "whatsapp_for_display": "[lorem-sed-2756]",
+        "whatsapp_label": "adipiscing",
+        "whatsapp_2": "[lorem-sed-2757]",
+        "whatsapp_2_for_display": "[lorem-sed-2758]",
+        "whatsapp_2_label": "adipiscing",
+        "introduction": "<adipiscing>lorem do adipiscing adipiscing sit sit do amet sed dolor dolor elit b.v. elit sit consectetur sit sit 8748 ipsum adipiscing sit adipiscing adipiscing, consectetur ipsum amet do do amet dolor consectetur. adipiscing adipiscing elit sit elit sit elit ipsum, lorem sed ipsum adipiscing lorem elit ipsum ipsum, sit do amet elit lorem amet amet. dolor consectetur dolor adipiscing dolor do sit consectetur sed sit amet’s. lorem lorem sed ipsum adipiscing lorem sit sit lorem amet sed dolor. ipsum adipiscing do sed ipsum elit ipsum’s, elit dolor adipiscing ipsum</elit>",
+        "intro_logos": [],
+        "image": "adipiscing-adipiscing/00-do1-sit-lorem.lorem",
+        "klantenvertellen_image": "",
+        "url": "amet://dolor.adipiscing-adipiscing.adipiscing/",
+        "opening_hours": {
+          "label": "",
+          "monday": "consectetur 08:00 - 17:00 | dolor 09:00 - 18:00",
+          "tuesday": "consectetur 08:00 - 17:00 | dolor 09:00 - 18:00",
+          "wednesday": "consectetur 08:00 - 17:00 | dolor 09:00 - 18:00",
+          "thursday": "consectetur 08:00 - 17:00 | dolor 09:00 - 18:00",
+          "friday": "consectetur 08:00 - 17:00 | dolor 09:00 - 18:00",
+          "saturday": "lorem ipsum | dolor 10:00 - 16:00",
+          "sunday": ""
+        },
+        "opening_hours_2": {
+          "label": "",
+          "monday": "",
+          "tuesday": "",
+          "wednesday": "",
+          "thursday": "",
+          "friday": "",
+          "saturday": "",
+          "sunday": ""
+        },
+        "google_verification_profile": "",
+        "google_tag_manager_id": "lorem-amet64F3",
+        "socials": {
+          "facebook_url": "adipiscing://amet.sed.elit/ipsum-sed-sed-089644262684110",
+          "twitter_url": "",
+          "instagram_url": "",
+          "snapchat_url": "",
+          "tiktok_url": ""
+        },
+        "services_page": null,
+        "services": [],
+        "highlighted_pages": [],
+        "module_klantenvertellen": false,
+        "custom_review_html": "",
+        "base_total_score_on": "adipiscing",
+        "financer": "dolor",
+        "findio_basic_url": "",
+        "domain_type": "consectetur",
+        "is_garage": true,
+        "rdw": true,
+        "bovag": true,
+        "ev_specialist": false,
+        "lease": false,
+        "tender_uuid": "37851c2a-cd53-ea11-a812-000d3a654f72",
+        "module_offers": "0",
+        "call_to_actions": {
+          "topbar": {
+            "title": "sed elit?",
+            "button_text": "lorem consectetur do",
+            "url": "/lorem-ipsum-lorem",
+            "target": "_do",
+            "icon": "/ipsum/sed/amet/sed.amet"
+          },
+          "footer_1": {
+            "title": "sed elit?",
+            "button_text": "lorem consectetur do",
+            "url": "/lorem-ipsum-lorem",
+            "target": "_do",
+            "icon": "/ipsum/sed/amet/sed.amet"
+          },
+          "footer_2": {
+            "title": "elit u consectetur dolor elit?",
+            "button_text": "sed sit ipsum",
+            "url": "/dolor-lorem",
+            "target": "_do",
+            "icon": "/lorem/elit/sit/elit.dolor"
+          },
+          "garagefinder_appointment": {
+            "title": "sed elit?",
+            "button_text": "lorem consectetur do",
+            "url": "/lorem-ipsum-lorem",
+            "target": "_do",
+            "icon": "/ipsum/sed/amet/sed.amet"
+          },
+          "garagefinder_visit": null,
+          "mobile_nav_1": {
+            "title": "sed elit?",
+            "button_text": "lorem consectetur do",
+            "url": "/lorem-ipsum-lorem",
+            "target": "_do",
+            "icon": "/ipsum/sed/amet/sed.amet"
+          },
+          "mobile_nav_2": {
+            "title": "elit u consectetur dolor elit?",
+            "button_text": "sed sit ipsum",
+            "url": "/dolor-lorem",
+            "target": "_do",
+            "icon": "/lorem/elit/sit/elit.dolor"
+          },
+          "mobile_nav_3": null
+        },
+        "module_vacancies": {
+          "whatsapp": null,
+          "facebook_messenger": null,
+          "linkedin": null,
+          "email": null,
+          "email_open_application": null
+        },
+        "sidebar_image": "",
+        "cta_contact": {
+          "appointment": true,
+          "callmeback": true,
+          "whatsapp": true,
+          "contactform": true,
+          "maintenance": false
+        },
+        "cta_occasion": {
+          "showroomappointment": true,
+          "testdrive": true,
+          "contact": true,
+          "callmeback": true,
+          "contactform": true,
+          "whatsapp": true
+        }
+      },
+      "dtc_enabled": true,
+      "lease_calculator_url": "do://elit.ipsum-ipsum.ipsum/amet/229529-ipsum-do-1-6-sed-dolor-adipiscing-amet/lorem-adipiscing"
+    }
+  ]
+}

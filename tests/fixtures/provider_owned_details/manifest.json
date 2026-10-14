@@ -1,0 +1,48 @@
+[
+  {
+    "kind": "wiveda_html",
+    "fixture": "wiveda_html.gz",
+    "fixture_sha256": "0fd3d9a9099d5f3af4afb8f0199ab9907fddd22bfdf5874c2db97015e82ada8e",
+    "decoded_sha256": "0ffe70f7c3bd0b51cfbab3c3f16335b6d35e3f0babcf07e339de63acefb992bc",
+    "url": "https://wiveda.de/fahrzeug/0292649c-b74e-4a26-9d87-de8dea75d3b8",
+    "fetch_id": 390301,
+    "fetched_at": "2026-10-11T10:21:21.584339+00:00",
+    "final_url": "https://wiveda.de/fahrzeug/0292649c-b74e-4a26-9d87-de8dea75d3b8",
+    "source": "dealer:wiveda.de"
+  },
+  {
+    "kind": "wiveda_payload",
+    "fixture": "wiveda_payload.gz",
+    "fixture_sha256": "15c3f41ce96eb78a2ba7a18a828e51583fa5478673d2e1a8c8e81c453ed0b4aa",
+    "decoded_sha256": "48c905bfe43258db6e1c95cca5adbf88beec656de47ab88f96922c8b132b0336",
+    "url": "https://wiveda.de/fahrzeug/0292649c-b74e-4a26-9d87-de8dea75d3b8/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "fetch_id": 390302,
+    "fetched_at": "2026-10-11T10:21:22.243403+00:00",
+    "final_url": "https://wiveda.de/fahrzeug/0292649c-b74e-4a26-9d87-de8dea75d3b8/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "source": "dealer:wiveda.de"
+  },
+  {
+    "kind": "weller_html",
+    "fixture": "weller-133317.html.gz",
+    "fixture_sha256": "95cb922dde878d6d63acdf5c5775c641668b6101d27d802c4554f91788d3b887",
+    "decoded_sha256": "16d48ce673a3d28541c000e630d09d0005c6fadf6404024aa844c0e795603a85",
+    "url": "https://wellergruppe.de/fahrzeuge/mercedes-benz/c-klasse/kombi-diesel-125kw-313016483/",
+    "fetch_id": 133317,
+    "fetched_at": "2026-10-11T10:18:42.578633+00:00",
+    "publication_id": "313016483",
+    "final_url": "https://wellergruppe.de/fahrzeuge/mercedes-benz/c-klasse/kombi-diesel-125kw-313016483/",
+    "source": "dealer:wellergruppe.de"
+  },
+  {
+    "kind": "weller_html",
+    "fixture": "weller-133316.html.gz",
+    "fixture_sha256": "267002486593c1b7ffa719a8d7de5f5e2fe03cb18b1292ee9edeafe30761df0b",
+    "decoded_sha256": "6d571e5043d1f8cd8c4e018457624a2a7a81173669b7954ca1e0ce59968adf39",
+    "url": "https://wellergruppe.de/fahrzeuge/mercedes-benz/c-klasse/kombi-diesel-143kw-77081417/",
+    "fetch_id": 133316,
+    "fetched_at": "2026-10-11T10:18:41.831545+00:00",
+    "publication_id": "77081417",
+    "final_url": "https://wellergruppe.de/fahrzeuge/mercedes-benz/c-klasse/kombi-diesel-143kw-77081417/",
+    "source": "dealer:wellergruppe.de"
+  }
+]

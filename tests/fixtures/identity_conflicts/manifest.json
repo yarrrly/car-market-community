@@ -1,0 +1,46 @@
+[
+  {
+    "filename": "marktnet-7ZHL92.xml.gz",
+    "source": "marktnet",
+    "external_id": "96714297",
+    "plate": "7ZHL92",
+    "native_year": 2015,
+    "captured_at": "2026-10-11T13:36:39.594153+00:00",
+    "decoded_sha256": "0114d848ea19517f50959114d128fa8e4a921738b2d86cb7ca03d95695feb01f",
+    "compressed_sha256": "8a2bc660261e7b584b4e11e846431a29cf37edb55d8866416c2694c535f94d24",
+    "url": "https://www.marktnet.nl/advertentie.xml?id=96714297"
+  },
+  {
+    "filename": "marktnet-6ZFK13.xml.gz",
+    "source": "marktnet",
+    "external_id": "96678094",
+    "plate": "6ZFK13",
+    "native_year": 2015,
+    "captured_at": "2026-10-11T13:43:35.161772+00:00",
+    "decoded_sha256": "1bd51449bafcdb7562e388285cd3d4a48bcc2ac1725eca10914a2a8e1c1b290f",
+    "compressed_sha256": "01c69faf9e9785d0fd5ca71e0d55e863f72923542c04e4e290c6caa2995709df",
+    "url": "https://www.marktnet.nl/advertentie.xml?id=96678094"
+  },
+  {
+    "filename": "marktplaats-7ZHL92.html.gz",
+    "source": "marktplaats",
+    "external_id": "m2448773855",
+    "plate": "7ZHL92",
+    "native_year": 2014,
+    "captured_at": "2026-10-11T09:35:45.247939+00:00",
+    "decoded_sha256": "86a239a06a9fa1147a8687a0ced2d05f064b855fc757f4153ece746c573b30ec",
+    "url": "https://www.marktplaats.nl/v/auto-s/bmw/m2448773855-bmw-2-serie-active-tourer-218i-133000-km-nette-auto",
+    "compressed_sha256": "f01df0b99c077acd07f063f6de62962658d7841b674be8a4908889e434c268d0"
+  },
+  {
+    "filename": "marktplaats-6ZFK13.html.gz",
+    "source": "marktplaats",
+    "external_id": "m2444823691",
+    "plate": "6ZFK13",
+    "native_year": 2014,
+    "captured_at": "2026-10-11T10:09:26.052255+00:00",
+    "decoded_sha256": "ee624900542d6c2731f5909e4cffde11944c5e7b3950d89b13d4c59d98a2f76f",
+    "url": "https://www.marktplaats.nl/v/auto-s/bmw/m2444823691-bmw-2-serie-active-tourer-218i-executive",
+    "compressed_sha256": "0d7f5bc2eaa62826d9df41f31f7f037f91a7a1f9ba071fd49085958706b35519"
+  }
+]

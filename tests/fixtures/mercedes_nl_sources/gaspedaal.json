@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "advertentieId": 136508988,
+      "datumGeplaatst": "2026-05-23T16:16:20.000Z",
+      "aanbieder": {
+        "aanbiedergegevens": {
+          "naamsvermelding": "",
+          "plaatsnaam": "elit",
+          "provincieHulpwaarde": "ZH"
+        }
+      },
+      "autogegevens": {
+        "algemeen": {
+          "merknaam": "do-sed",
+          "modelnaam": "C-adipiscing",
+          "uitvoering": "ipsum C180 dolor ipsum consectetur do ipsum adipiscing sit",
+          "brandstofsoort": "sit",
+          "transmissietype": "elit",
+          "carrosserievorm": "ipsum",
+          "kleur": "ipsum",
+          "aantalDeuren": 2
+        },
+        "geschiedenis": {
+          "bouwjaar": 2016,
+          "kilometerstand": 149171
+        },
+        "motor": {
+          "motorinhoud": 1595,
+          "vermogenKw": 115
+        }
+      },
+      "prijs": {
+        "totaalInclusiefBtw": 21999
+      },
+      "gpFotos": {
+        "fotoKlein": "adipiscing://amet.sed.sed/ipsum/sed/58a2d6e9dolor223730lorem93e00elit26c79a1f4647690.consectetur?do=adipiscing://amet-lorem.lorem.elit.lorem/01259288461/consectetur.lorem",
+        "fotoGroot": "adipiscing://amet.sed.sed/ipsum/sed/58a2d6e9dolor223730lorem93e00elit26c79a1f4647690.consectetur?do=adipiscing://amet-lorem.lorem.elit.lorem/01259288461/consectetur.lorem"
+      },
+      "portalen": []
+    }
+  ]
+}

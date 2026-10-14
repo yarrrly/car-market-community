@@ -1,0 +1,126 @@
+[
+  {
+    "fixture": "12gebrauchtwagen-base.html",
+    "fixture_sha256": "a7ae796c6df3274b8f34e94dc3f9f6f53c367c20f4e50d7c789686163dfc09e4",
+    "requested_url": "sit://ipsum.12elit.dolor/consectetur/lorem/2consectetur-sed-consectetur",
+    "final_url": "https://www.12gebrauchtwagen.de/auto/bmw/2er-active-tourer",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:47.645165+00:00",
+    "extraction": "sit elit amet/lorem-consectetur/sed/elit/sed/sed dolor; sit elit sit, ipsum elit amet do"
+  },
+  {
+    "fixture": "12gebrauchtwagen-page2.html",
+    "fixture_sha256": "8974a4544a69858740e50c435f0bf945a4cd804b4d97f3f9cbaf8210db991ecc",
+    "requested_url": "lorem://sed.12amet.do/dolor/elit/2dolor-consectetur-dolor?do=2",
+    "final_url": "https://www.12gebrauchtwagen.de/auto/bmw/2er-active-tourer?page=2",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:02:16.297083+00:00",
+    "extraction": "lorem amet ipsum/elit-dolor/consectetur/amet/consectetur/consectetur do; lorem elit sed, consectetur dolor amet lorem"
+  },
+  {
+    "fixture": "12gebrauchtwagen-benzin.html",
+    "fixture_sha256": "f266457c135e8251962a96b0fb53e5b916dd992b814ca5d8f3c56b5148d29d3f",
+    "requested_url": "dolor://lorem.12adipiscing.ipsum/amet/consectetur/dolor/218",
+    "final_url": "https://www.12gebrauchtwagen.de/kraftstoff/benzin/bmw/218",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:02:16.422348+00:00",
+    "extraction": "dolor adipiscing sit/do-amet/elit/adipiscing/elit/elit ipsum; dolor amet consectetur, lorem elit amet do"
+  },
+  {
+    "fixture": "quoka-search.html",
+    "fixture_sha256": "3cb9aac16e2773b65e28b45a4e89fa9be1663ba18f9501f2eef51bb17ca5bd5d",
+    "requested_url": "lorem://sed.dolor.sed/ipsum/lorem-consectetur/amet/?q=elit%43664i%20lorem%20do",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/?q=bmw%20218i%20active%20tourer",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:47.606377+00:00",
+    "extraction": "lorem amet ipsum/elit-dolor/consectetur/amet/consectetur/consectetur do; lorem ipsum sed, dolor sed do ipsum"
+  },
+  {
+    "fixture": "quoka-page2.html",
+    "fixture_sha256": "11c282732f6552c868a4b03e62b1e3bc998af30cae86660968efa48247c2f286",
+    "requested_url": "adipiscing://amet.sed.amet/elit/adipiscing-ipsum/lorem/?q=sit%09220i%20adipiscing%20consectetur&dolor=2",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/?q=bmw%20218i%20active%20tourer&pag=2",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:02:16.048233+00:00",
+    "extraction": "dolor adipiscing sit/do-amet/elit/adipiscing/elit/elit ipsum; dolor elit amet, lorem adipiscing amet sed"
+  },
+  {
+    "fixture": "quoka-detail.html",
+    "fixture_sha256": "cb0c54604470ca9d1edebfa79eccd6ecb514d904968fa0b58df7ad379085e0ba",
+    "requested_url": "dolor://lorem.amet.lorem/sit/dolor-elit/adipiscing/adipiscing/amet-218/45i0f0sed83e7i78e62i1f1283i61918.consectetur",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/anzeige/bmw-218/45i0f0dgf83e7i78e62i1f7726i26340.html",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:02:16.248853+00:00",
+    "extraction": "consectetur do adipiscing/dolor-elit/lorem/do/lorem/lorem amet; consectetur dolor sed, adipiscing ipsum sed do"
+  },
+  {
+    "fixture": "quoka-own-active.html",
+    "fixture_sha256": "7a91d44c8227097649539c39b50c5f5dbcc740dad59a0e288162960365af4465",
+    "retained_sha256": "2d9dolor6025lorem55amet711e68840a95b05dolor9a7731a70d8b6elit56652consectetur2d8e52",
+    "requested_url": "dolor://lorem.amet.lorem/sit/dolor-elit/adipiscing/adipiscing/amet-218/6sit2883h46i67g1884lorem9e8consectetur368i7h.consectetur",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/anzeige/bmw-218/6he8326h46i67g7327ff9e8ggh368i7h.html",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:04:30.053908+00:00",
+    "extraction": "sit lorem, consectetur ipsum, amet do/adipiscing/consectetur/ipsum; lorem, do amet sed amet"
+  },
+  {
+    "fixture": "quoka-own-encoded-title.html",
+    "fixture_sha256": "b8aee2a734b2a908d03188c2d846fce606eb4557003c24a0288ea4cfdbc59d72",
+    "retained_sha256": "9114d62077834c4c74977lorem6e705842b88f7e87b3864f8f9f9lorem167a5e5c91a",
+    "requested_url": "dolor://lorem.amet.lorem/sit/dolor-elit/adipiscing/adipiscing/amet-218/d182g21f335d75g27411i1amet315do59d.consectetur",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/anzeige/bmw-218/d182g21f335d75g82843i1ff315ie59d.html",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:04:32.044288+00:00",
+    "extraction": "elit ipsum, elit consectetur, sit lorem/amet/sit/do; sed, elit dolor adipiscing dolor"
+  },
+  {
+    "fixture": "autoland-own.html",
+    "fixture_sha256": "6bed5f0f266f5d725d9f06a3ac0cb9b4f89585f20ee12b9068032742c356356f",
+    "retained_sha256": "6lorem9c225f63lorem59consectetur66932a3f48a2a7c64103ipsum3amet41e19a80214elit67b9",
+    "requested_url": "consectetur://sit.12do.amet/c/do?elit_sit=087121226",
+    "final_url": "https://autoland.de/bmw/2er-reihe/gera/103897/bmw-218i-aut.-active-tourer-led-navi-sitzheizung-dab",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:03:23.558866+00:00",
+    "extraction": "elit ipsum, elit consectetur, sit lorem/amet/sit/do; sed, elit dolor adipiscing dolor"
+  },
+  {
+    "fixture": "carwow-own-country-unknown.html",
+    "fixture_sha256": "79f98118c5d0890aeedbf8fa269368d07cd13701ff0b60b61b42d52af3d55be3",
+    "retained_sha256": "6f675amet04e56sit51a6d525d99adipiscing619d47b584f83a08d452939ipsum4594d363f3",
+    "requested_url": "consectetur://sit.12do.amet/c/do?elit_sit=020423327",
+    "final_url": "https://angebote.carwow.de/deals/539f4327a07030e149e7d45d14f40053?irclickid=RgcyCcQTlxyZRDXVYjwAUW3MUkrwYZxtC3QPTg0&irgwc=1&afsrc=1&utm_source=affiliate&utm_medium=5239011&utm_campaign=af_impact_radius_Autoplenum%20GmbH&affiliate_ref=5239011&impact_ad_id=1951293&impact_product_sku=DE-9648fe91e7bd1fb5ec69dce8b37b17434fe46533&impact_click_id=RgcyCcQTlxyZRDXVYjwAUW3MUkrwYZxtC3QPTg0&sharedid=&custom1=&utm_group=&utm_content=impact_adid:1951293_sharedid:",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:03:21.772009+00:00",
+    "extraction": "do lorem, elit amet, lorem elit/sed/elit/sit; dolor, ipsum adipiscing lorem adipiscing"
+  },
+  {
+    "fixture": "quoka-native-partitions.html",
+    "fixture_sha256": "d66a25b33870872f38c860dfeb08db1c29527a2996368637cf6f43656c7e26b9",
+    "retained_sha256": "8lorem21c364980c4c5consectetur169d9442elit40491d2e0c9lorem6d9adipiscing04ipsum762716c6",
+    "requested_url": "lorem://sed.dolor.sed/ipsum/lorem-consectetur/amet/?q=elit%43664i%20lorem%20do",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/?q=bmw%20218i%20active%20tourer",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:03:18.911843+00:00",
+    "extraction": "consectetur do-amet, dolor, ipsum elit sed lorem sit do"
+  },
+  {
+    "fixture": "quoka-private-last.html",
+    "fixture_sha256": "99b563e7622b188e8d99055b2248c622b83550010b8a809ce19844e21c5581f1",
+    "retained_sha256": "do6dolor8adipiscing5b06b740sed3252e241sed7f30670do783e317037193adipiscing31ipsum",
+    "requested_url": "elit://consectetur.do.consectetur/sed/elit-dolor/ipsum/?q=amet+218i+sit+lorem&elit=sed&amet=5",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/?q=bmw+218i+active+tourer&commercial=false&pag=5",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:05:45.346602+00:00",
+    "extraction": "lorem amet-do, elit, lorem consectetur lorem adipiscing ipsum do"
+  },
+  {
+    "fixture": "weller-own.html",
+    "fixture_sha256": "127a94caf7bfa7407798c74742bb582348dca4e0ff15ece7064f6bbc2bff441b",
+    "retained_sha256": "c05523consectetur5a90ipsum61consectetur998a0146808f071sit7f0sed546amet33a43consectetur6201",
+    "requested_url": "sit://ipsum.amet/elit/elit/2dolor/consectetur-do-sed-100sed-193796332/",
+    "final_url": "https://wellergruppe.de/fahrzeuge/bmw/2er/van-kleinbus-benzin-100kw-636906219/",
+    "http_status": 200,
+    "fetched_at": "2026-10-08T05:14:12.640291+00:00",
+    "extraction": "consectetur do, lorem/amet elit ipsum, sed sit lorem sit h1; sit adipiscing/consectetur/lorem"
+  }
+]

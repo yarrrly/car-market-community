@@ -1,0 +1,18 @@
+[
+  {
+    "original_fetch_id": 305906,
+    "original_clock": "2026-10-13T04:29:48.158159+00:00",
+    "original_status": 200,
+    "original_error": "lorem_elit",
+    "original_body_SHA256": "f4c2a3e2f46e333515826f0c8amet3sed490a210c9d42d6595elit4a46e8d98d2d4",
+    "original_gzip_SHA256": "7d5b1f5f98c9ipsum9e4413sit771sed9b79a7e84do7dolor256711795090b764c2",
+    "original_request_SHA256": "28a6sit66739c06574elit7677sit785lorem95a76a1ipsum085f3a6a7f4799elit6627",
+    "original_final_URI_SHA256": "5lorem2789669541sit52d5e0ipsum9amet4a45c14sit1700d7907392810lorem063consectetur8d7d18",
+    "fixture": "do.do",
+    "projected_SHA256": "45844bb37a9b8bb2f4473c62ee8591ac4b8cc6a8e33abc5f7d9cca100f3e47f8",
+    "projected_final_route": "https://autos.trovit.nl/index.php/cod.captcha_check/url.native-redacted/",
+    "kept": "elit ipsum/elit dolor elit/amet g-sit/sit ipsum amet sed adipiscing",
+    "omitted": "consectetur/amet/dolor consectetur, dolor do adipiscing, consectetur adipiscing sit, dolor/elit/lorem/elit",
+    "original_body_inside_Git": false
+  }
+]

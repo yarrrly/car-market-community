@@ -1,0 +1,38 @@
+{
+  "searchRequest": {},
+  "listings": [
+    {
+      "itemId": "m2422779040",
+      "title": "Volkswagen 8 GTI, Moonstone Grey, Dealer onderhouden.",
+      "attributes": [
+        {
+          "key": "constructionYear",
+          "value": "2021"
+        },
+        {
+          "key": "mileage",
+          "value": "67230"
+        },
+        {
+          "key": "fuel",
+          "value": "Benzine"
+        },
+        {
+          "key": "transmission",
+          "value": "Automaat"
+        },
+        {
+          "key": "model",
+          "value": "Golf"
+        },
+        {
+          "key": "priceType",
+          "value": "Te koop"
+        }
+      ],
+      "location": {
+        "countryAbbreviation": "NL"
+      }
+    }
+  ]
+}

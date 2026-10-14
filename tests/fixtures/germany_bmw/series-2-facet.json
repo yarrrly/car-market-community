@@ -1,0 +1,1582 @@
+{
+  "aggregateGeneric": [
+    {
+      "count": 27106,
+      "name": "MARKETING_SERIES",
+      "values": [
+        {
+          "count": 10314,
+          "name": "X",
+          "values": [
+            {
+              "count": 10314,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 2826,
+                  "name": "X1_U11",
+                  "values": [
+                    {
+                      "count": 2826,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 2328,
+                          "name": "U11"
+                        },
+                        {
+                          "count": 495,
+                          "name": "F48"
+                        },
+                        {
+                          "count": 3,
+                          "name": "E84"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 2580,
+                  "name": "X3_G01",
+                  "values": [
+                    {
+                      "count": 2580,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1369,
+                          "name": "G01"
+                        },
+                        {
+                          "count": 1193,
+                          "name": "G45"
+                        },
+                        {
+                          "count": 18,
+                          "name": "F25"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 1677,
+                  "name": "X5_G05",
+                  "values": [
+                    {
+                      "count": 1677,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1663,
+                          "name": "G05"
+                        },
+                        {
+                          "count": 14,
+                          "name": "F15"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 827,
+                  "name": "X2_F39",
+                  "values": [
+                    {
+                      "count": 827,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 435,
+                          "name": "F39"
+                        },
+                        {
+                          "count": 392,
+                          "name": "U10"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 533,
+                  "name": "X4_G02",
+                  "values": [
+                    {
+                      "count": 533,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 527,
+                          "name": "G02"
+                        },
+                        {
+                          "count": 6,
+                          "name": "F26"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 508,
+                  "name": "iX1_U11E",
+                  "values": [
+                    {
+                      "count": 508,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 508,
+                          "name": "U11"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 381,
+                  "name": "X6_G06",
+                  "values": [
+                    {
+                      "count": 381,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 373,
+                          "name": "G06"
+                        },
+                        {
+                          "count": 8,
+                          "name": "F16"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 338,
+                  "name": "iX_I20",
+                  "values": [
+                    {
+                      "count": 338,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 338,
+                          "name": "I20"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 302,
+                  "name": "X7_G07",
+                  "values": [
+                    {
+                      "count": 302,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 302,
+                          "name": "G07"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 103,
+                  "name": "iX2_U10E",
+                  "values": [
+                    {
+                      "count": 103,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 103,
+                          "name": "U10"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 56,
+                  "name": "X3M_F97",
+                  "values": [
+                    {
+                      "count": 56,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 56,
+                          "name": "F97"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 51,
+                  "name": "XM_G09",
+                  "values": [
+                    {
+                      "count": 51,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 51,
+                          "name": "G09"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 43,
+                  "name": "X5M_F95",
+                  "values": [
+                    {
+                      "count": 43,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 43,
+                          "name": "F95"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 37,
+                  "name": "X4M_F98",
+                  "values": [
+                    {
+                      "count": 37,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 37,
+                          "name": "F98"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 29,
+                  "name": "iX3_NA5",
+                  "values": [
+                    {
+                      "count": 29,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 29,
+                          "name": "NA5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 23,
+                  "name": "X6M_F96",
+                  "values": [
+                    {
+                      "count": 23,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 22,
+                          "name": "F96"
+                        },
+                        {
+                          "count": 1,
+                          "name": "F86"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 3911,
+          "name": "3",
+          "values": [
+            {
+              "count": 3911,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 2806,
+                  "name": "3_G21",
+                  "values": [
+                    {
+                      "count": 2806,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 2771,
+                          "name": "G21"
+                        },
+                        {
+                          "count": 34,
+                          "name": "F31"
+                        },
+                        {
+                          "count": 1,
+                          "name": "E91"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 909,
+                  "name": "3_G20",
+                  "values": [
+                    {
+                      "count": 909,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 903,
+                          "name": "G20"
+                        },
+                        {
+                          "count": 6,
+                          "name": "F30"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 124,
+                  "name": "M3_G81",
+                  "values": [
+                    {
+                      "count": 124,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 124,
+                          "name": "G81"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 64,
+                  "name": "M3_G80",
+                  "values": [
+                    {
+                      "count": 64,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 64,
+                          "name": "G80"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 8,
+                  "name": "3_F34",
+                  "values": [
+                    {
+                      "count": 8,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 8,
+                          "name": "F34"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 2932,
+          "name": "5",
+          "values": [
+            {
+              "count": 2932,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 1948,
+                  "name": "5_G31",
+                  "values": [
+                    {
+                      "count": 1948,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1019,
+                          "name": "G61"
+                        },
+                        {
+                          "count": 922,
+                          "name": "G31"
+                        },
+                        {
+                          "count": 7,
+                          "name": "F11"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 787,
+                  "name": "5_G30",
+                  "values": [
+                    {
+                      "count": 787,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 600,
+                          "name": "G60"
+                        },
+                        {
+                          "count": 185,
+                          "name": "G30"
+                        },
+                        {
+                          "count": 2,
+                          "name": "F10"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 62,
+                  "name": "i5_G60E",
+                  "values": [
+                    {
+                      "count": 62,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 62,
+                          "name": "G60"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 61,
+                  "name": "M5_G99",
+                  "values": [
+                    {
+                      "count": 61,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 61,
+                          "name": "G99"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 51,
+                  "name": "M5_F90",
+                  "values": [
+                    {
+                      "count": 51,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 41,
+                          "name": "G90"
+                        },
+                        {
+                          "count": 10,
+                          "name": "F90"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 23,
+                  "name": "i5_G61E",
+                  "values": [
+                    {
+                      "count": 23,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 23,
+                          "name": "G61"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 2537,
+          "name": "2",
+          "values": [
+            {
+              "count": 2537,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 1356,
+                  "name": "2_U06",
+                  "values": [
+                    {
+                      "count": 1356,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1260,
+                          "name": "U06"
+                        },
+                        {
+                          "count": 96,
+                          "name": "F45"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 521,
+                  "name": "2_F44",
+                  "values": [
+                    {
+                      "count": 521,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 334,
+                          "name": "F74"
+                        },
+                        {
+                          "count": 187,
+                          "name": "F44"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 351,
+                  "name": "2_G42",
+                  "values": [
+                    {
+                      "count": 351,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 340,
+                          "name": "G42"
+                        },
+                        {
+                          "count": 11,
+                          "name": "F22"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 212,
+                  "name": "M2_F87",
+                  "values": [
+                    {
+                      "count": 212,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 204,
+                          "name": "G87"
+                        },
+                        {
+                          "count": 8,
+                          "name": "F87"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 51,
+                  "name": "2_F46",
+                  "values": [
+                    {
+                      "count": 51,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 51,
+                          "name": "F46"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 46,
+                  "name": "2_F23",
+                  "values": [
+                    {
+                      "count": 46,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 46,
+                          "name": "F23"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 2376,
+          "name": "1",
+          "values": [
+            {
+              "count": 2376,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 2370,
+                  "name": "1_F40",
+                  "values": [
+                    {
+                      "count": 2370,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1173,
+                          "name": "F40"
+                        },
+                        {
+                          "count": 1155,
+                          "name": "F70"
+                        },
+                        {
+                          "count": 42,
+                          "name": "F20"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 6,
+                  "name": "1_F21",
+                  "values": [
+                    {
+                      "count": 6,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 6,
+                          "name": "F21"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 1827,
+          "name": "4",
+          "values": [
+            {
+              "count": 1827,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 852,
+                  "name": "4_G26",
+                  "values": [
+                    {
+                      "count": 852,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 837,
+                          "name": "G26"
+                        },
+                        {
+                          "count": 15,
+                          "name": "F36"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 341,
+                  "name": "4_G23",
+                  "values": [
+                    {
+                      "count": 341,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 329,
+                          "name": "G23"
+                        },
+                        {
+                          "count": 11,
+                          "name": "F33"
+                        },
+                        {
+                          "count": 1,
+                          "name": "E93"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 247,
+                  "name": "i4_G26E",
+                  "values": [
+                    {
+                      "count": 247,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 247,
+                          "name": "G26"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 222,
+                  "name": "4_G22",
+                  "values": [
+                    {
+                      "count": 222,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 215,
+                          "name": "G22"
+                        },
+                        {
+                          "count": 7,
+                          "name": "F32"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 78,
+                  "name": "M4_G82",
+                  "values": [
+                    {
+                      "count": 78,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 78,
+                          "name": "G82"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 69,
+                  "name": "M4_G83",
+                  "values": [
+                    {
+                      "count": 69,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 67,
+                          "name": "G83"
+                        },
+                        {
+                          "count": 2,
+                          "name": "F83"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 18,
+                  "name": "M4_G22",
+                  "values": [
+                    {
+                      "count": 18,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 18,
+                          "name": "G22"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 1451,
+          "name": "i",
+          "values": [
+            {
+              "count": 1451,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 508,
+                  "name": "iX1_U11E",
+                  "values": [
+                    {
+                      "count": 508,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 508,
+                          "name": "U11"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 338,
+                  "name": "iX_I20",
+                  "values": [
+                    {
+                      "count": 338,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 338,
+                          "name": "I20"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 247,
+                  "name": "i4_G26E",
+                  "values": [
+                    {
+                      "count": 247,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 247,
+                          "name": "G26"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 103,
+                  "name": "i7_G70E",
+                  "values": [
+                    {
+                      "count": 103,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 103,
+                          "name": "G70"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 103,
+                  "name": "iX2_U10E",
+                  "values": [
+                    {
+                      "count": 103,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 103,
+                          "name": "U10"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 62,
+                  "name": "i5_G60E",
+                  "values": [
+                    {
+                      "count": 62,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 62,
+                          "name": "G60"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 38,
+                  "name": "i3_I01",
+                  "values": [
+                    {
+                      "count": 38,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 38,
+                          "name": "I01"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 29,
+                  "name": "iX3_NA5",
+                  "values": [
+                    {
+                      "count": 29,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 29,
+                          "name": "NA5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 23,
+                  "name": "i5_G61E",
+                  "values": [
+                    {
+                      "count": 23,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 23,
+                          "name": "G61"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 909,
+          "name": "M",
+          "values": [
+            {
+              "count": 909,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 212,
+                  "name": "M2_F87",
+                  "values": [
+                    {
+                      "count": 212,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 204,
+                          "name": "G87"
+                        },
+                        {
+                          "count": 8,
+                          "name": "F87"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 124,
+                  "name": "M3_G81",
+                  "values": [
+                    {
+                      "count": 124,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 124,
+                          "name": "G81"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 78,
+                  "name": "M4_G82",
+                  "values": [
+                    {
+                      "count": 78,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 78,
+                          "name": "G82"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 69,
+                  "name": "M4_G83",
+                  "values": [
+                    {
+                      "count": 69,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 67,
+                          "name": "G83"
+                        },
+                        {
+                          "count": 2,
+                          "name": "F83"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 64,
+                  "name": "M3_G80",
+                  "values": [
+                    {
+                      "count": 64,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 64,
+                          "name": "G80"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 61,
+                  "name": "M5_G99",
+                  "values": [
+                    {
+                      "count": 61,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 61,
+                          "name": "G99"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 56,
+                  "name": "X3M_F97",
+                  "values": [
+                    {
+                      "count": 56,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 56,
+                          "name": "F97"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 51,
+                  "name": "M5_F90",
+                  "values": [
+                    {
+                      "count": 51,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 41,
+                          "name": "G90"
+                        },
+                        {
+                          "count": 10,
+                          "name": "F90"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 51,
+                  "name": "XM_G09",
+                  "values": [
+                    {
+                      "count": 51,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 51,
+                          "name": "G09"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 43,
+                  "name": "X5M_F95",
+                  "values": [
+                    {
+                      "count": 43,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 43,
+                          "name": "F95"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 37,
+                  "name": "X4M_F98",
+                  "values": [
+                    {
+                      "count": 37,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 37,
+                          "name": "F98"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 23,
+                  "name": "X6M_F96",
+                  "values": [
+                    {
+                      "count": 23,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 22,
+                          "name": "F96"
+                        },
+                        {
+                          "count": 1,
+                          "name": "F86"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 18,
+                  "name": "M4_G22",
+                  "values": [
+                    {
+                      "count": 18,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 18,
+                          "name": "G22"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 12,
+                  "name": "M8_F91",
+                  "values": [
+                    {
+                      "count": 12,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 12,
+                          "name": "F91"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 8,
+                  "name": "M8_F93",
+                  "values": [
+                    {
+                      "count": 8,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 8,
+                          "name": "F93"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 2,
+                  "name": "M8_F92",
+                  "values": [
+                    {
+                      "count": 2,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 2,
+                          "name": "F92"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 348,
+          "name": "7",
+          "values": [
+            {
+              "count": 348,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 245,
+                  "name": "7_G11",
+                  "values": [
+                    {
+                      "count": 245,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 221,
+                          "name": "G70"
+                        },
+                        {
+                          "count": 23,
+                          "name": "G11"
+                        },
+                        {
+                          "count": 1,
+                          "name": "G12"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 103,
+                  "name": "i7_G70E",
+                  "values": [
+                    {
+                      "count": 103,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 103,
+                          "name": "G70"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 289,
+          "name": "Z",
+          "values": [
+            {
+              "count": 289,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 289,
+                  "name": "Z4_G29",
+                  "values": [
+                    {
+                      "count": 289,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 282,
+                          "name": "G29"
+                        },
+                        {
+                          "count": 6,
+                          "name": "E89"
+                        },
+                        {
+                          "count": 1,
+                          "name": "E85"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 186,
+          "name": "8",
+          "values": [
+            {
+              "count": 186,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 70,
+                  "name": "8_G16",
+                  "values": [
+                    {
+                      "count": 70,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 70,
+                          "name": "G16"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 51,
+                  "name": "8_G15",
+                  "values": [
+                    {
+                      "count": 51,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 51,
+                          "name": "G15"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 43,
+                  "name": "8_G14",
+                  "values": [
+                    {
+                      "count": 43,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 43,
+                          "name": "G14"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 12,
+                  "name": "M8_F91",
+                  "values": [
+                    {
+                      "count": 12,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 12,
+                          "name": "F91"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 8,
+                  "name": "M8_F93",
+                  "values": [
+                    {
+                      "count": 8,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 8,
+                          "name": "F93"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 2,
+                  "name": "M8_F92",
+                  "values": [
+                    {
+                      "count": 2,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 2,
+                          "name": "F92"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 26,
+          "name": "6",
+          "values": [
+            {
+              "count": 26,
+              "name": "MARKETING_MODEL_RANGE",
+              "values": [
+                {
+                  "count": 21,
+                  "name": "6_G32",
+                  "values": [
+                    {
+                      "count": 21,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 20,
+                          "name": "G32"
+                        },
+                        {
+                          "count": 1,
+                          "name": "F07"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 3,
+                  "name": "6_F12",
+                  "values": [
+                    {
+                      "count": 3,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 3,
+                          "name": "F12"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 1,
+                  "name": "6_F06",
+                  "values": [
+                    {
+                      "count": 1,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1,
+                          "name": "F06"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "count": 1,
+                  "name": "6_F13",
+                  "values": [
+                    {
+                      "count": 1,
+                      "name": "MODEL_RANGE",
+                      "values": [
+                        {
+                          "count": 1,
+                          "name": "F13"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

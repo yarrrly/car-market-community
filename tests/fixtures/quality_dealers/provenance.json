@@ -1,0 +1,44 @@
+{
+  "autofirst-detail-1.html": {
+    "url": "https://www.autofirst-nederland.nl/occasions/91456-bmw-2-serie-active-tourer-218i-essential-navigatie-cruise-control",
+    "final_url": "https://www.autofirst-nederland.nl/occasions/91456-bmw-2-serie-active-tourer-218i-essential-navigatie-cruise-control",
+    "checked_at": "2026-10-07T05:59:06.179670+00:00",
+    "sha256": "72044d427bd5cd7c09f9278faa02a3c105e08133030e594e27f58d497e61b2cc",
+    "snapshot": "autofirst-detail-1-72044d427bd5.gz"
+  },
+  "carteam-detail-1.html": {
+    "url": "https://www.carteam.nl/occasions/bmw/2-serie/active-tourer-218i",
+    "final_url": "https://www.carteam.nl/occasions/bmw/2-serie/active-tourer-218i",
+    "checked_at": "2026-10-07T05:55:59.758689+00:00",
+    "sha256": "84f40a79941b96670446fddb25b4f9f47c9adcc9e9a74956e6f6508194333761",
+    "snapshot": "carteam-detail-1-84f40a79941b.gz"
+  },
+  "vakgarage-detail-1.html": {
+    "url": "https://www.vakgarage.nl/p/840239610/bmw-2-serie-active-tourer-218i-high-executive-840239610",
+    "final_url": "https://www.vakgarage.nl/p/840239610/bmw-2-serie-active-tourer-218i-high-executive-840239610",
+    "checked_at": "2026-10-07T05:55:59.609268+00:00",
+    "sha256": "3ac0ce3a26eac133633e75f83c6c4755b33f5e9cc5e0ed5fa1cb2f4d211c6982",
+    "snapshot": "vakgarage-detail-1-3ac0ce3a26ea.gz"
+  },
+  "autouncle-detail-1.html": {
+    "url": "https://www.autouncle.nl/nl-nl/d/15585848-tweedehands-2015-bmw-218-active-tourer-sport-line-136-pk",
+    "final_url": "https://www.autouncle.nl/nl-nl/d/15585848-tweedehands-2015-bmw-218-active-tourer-sport-line-136-pk",
+    "checked_at": "2026-10-07T05:56:04.836337+00:00",
+    "sha256": "c66fdf68103114f7c60bfb7cecf9f062a68bd1496ab034d9fd394716484689ff",
+    "snapshot": "autouncle-detail-1-c66fdf681031.gz"
+  },
+  "autokopen-detail-1.html": {
+    "url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-218i-lci-high-executive-automa-2018-11468981",
+    "final_url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-218i-lci-high-executive-automa-2018-11468981",
+    "checked_at": "2026-10-07T05:56:16.834820+00:00",
+    "sha256": "59fab0b4cf1bfa15b6aea0cce6f2d0b715e70f3a6fdebe821dbe644b664c8d00",
+    "snapshot": "autokopen-detail-1-59fab0b4cf1b.gz"
+  },
+  "autokopen-detail-2.html": {
+    "url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-218i-actie-betaal-nu-50-11950-2022-11537797",
+    "final_url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-218i-actie-betaal-nu-50-11950-2022-11537797",
+    "checked_at": "2026-10-07T05:56:17.444955+00:00",
+    "sha256": "a335ad0617aff2185d85ed9fde46b533a49ae5d36097338cda2ac38a92b553f4",
+    "snapshot": "autokopen-detail-2-a335ad0617af.gz"
+  }
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "fixture": "search-12877109.html",
+    "projection": "labore amet ipsum, magna do minim-ID DOM card; unrelated records/UI/dealer contacts removed",
+    "source": "autokopen",
+    "external_id": "12877109",
+    "fetch_id": 276689,
+    "url": "https://autokopen.nl/auto/bmw/2-serie?page=2",
+    "final_url": "https://autokopen.nl/auto/bmw/2-serie?page=2",
+    "fetched_at": "2026-10-12T05:44:34.932377+00:00",
+    "status": 200,
+    "error": null,
+    "original_content_sha256": "bcbcc2ed48909f50276bc33c8157ad34f022d67e781a74027222cacaea7c8eae",
+    "original_gzip_sha256": "a363f2cdad9b59c9dbc0dde12c8fd61a3ca6b33da680416096d2a80834824473",
+    "projected_body_sha256": "f0d10747a30931d89ac231f53c8b1558289c73cc5b4f3f855c332815c6af0fdb",
+    "projected_body_bytes": 2980,
+    "selected_public_facts": {
+      "source": "autokopen",
+      "external_id": "12877109",
+      "url": "https://autokopen.nl/auto/detail/bmw-2-serie-218i-executive-2017-12877109",
+      "title": "BMW 2-Serie · 2017 218i Executive",
+      "price": 16950.0,
+      "price_type": "advertised_price",
+      "mileage": 69294.0,
+      "year": 2017,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "description": "B BMW 2-Serie · 2017 218i Executive € 16.950 v.a. € 340/mnd Scherp geprijsd 2017 · 69.294 km · Benzine · Automaat Van der Meij Auto's - garagebedrijf · Zwaag 4,5 ( 69 ) Bekijk aanbieding → Vergelijk",
+      "images": [
+        "https://images.autokopen.nl/v/vandermeijautos-nl/57152479/0-e7bfa7c2-c.webp"
+      ],
+      "scope": "excluded"
+    }
+  },
+  {
+    "fixture": "search-12305730.html",
+    "projection": "magna adipiscing sit, enim tempor lorem-ID DOM card; unrelated records/UI/dealer contacts removed",
+    "source": "autokopen",
+    "external_id": "12305730",
+    "fetch_id": 276690,
+    "url": "https://autokopen.nl/auto/bmw/2-serie?page=3",
+    "final_url": "https://autokopen.nl/auto/bmw/2-serie?page=3",
+    "fetched_at": "2026-10-12T05:44:35.588674+00:00",
+    "status": 200,
+    "error": null,
+    "original_content_sha256": "e951dfe68316fc6149ea9fdca120ead8583e5f37db468e5edc7aa367e4cbf0cb",
+    "original_gzip_sha256": "a0c3c504892e7e64326b417e5bb74ec40b181d6ea83e7a4bdbb9ea053af14558",
+    "projected_body_sha256": "29820169b322330edfd1ff10c232cde842c893ae4334e424b1d7dc76a5dcbaa7",
+    "projected_body_bytes": 3465,
+    "selected_public_facts": {
+      "source": "autokopen",
+      "external_id": "12305730",
+      "url": "https://autokopen.nl/auto/detail/bmw-2-serie-218i-high-executive-navigatie-2017-12305730",
+      "title": "BMW 2-Serie · 2017 218i High Executive (NAVIGATIE, PARKEERSENSOREN, CRUISE CONTROL)",
+      "price": 12945.0,
+      "price_type": "advertised_price",
+      "mileage": 111733.0,
+      "year": 2017,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "description": "B BMW 2-Serie · 2017 218i High Executive (NAVIGATIE, PARKEERSENSOREN, CRUISE CONTROL) € 12.945 v.a. € 259/mnd Scherp geprijsd 2017 · 111.733 km · Benzine · Automaat Autocentrum Brabant Breda · Breda 4,5 ( 493 ) Bekijk aanbieding → Vergelijk",
+      "images": [
+        "https://images2.autokopen.nl/v/autocentrum-brabant-breda/occasions-kopen_57098641-bmw-2-serie-active-tourer-218i-high-executive-navigatie-parkeersensoren-cruise-control/0-5dbae45f-c.webp"
+      ],
+      "scope": "excluded"
+    }
+  },
+  {
+    "fixture": "search-11411914.html",
+    "projection": "eiusmod ipsum minim, incididunt adipiscing magna-ID DOM card; unrelated records/UI/dealer contacts removed",
+    "source": "autokopen",
+    "external_id": "11411914",
+    "fetch_id": 276210,
+    "url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer?page=10",
+    "final_url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer?page=10",
+    "fetched_at": "2026-10-12T05:32:51.502584+00:00",
+    "status": 200,
+    "error": null,
+    "original_content_sha256": "a43c5f01764ab7306c4b4424857b7fa767cafb14ba95f4d50f6943ce6fca0db0",
+    "original_gzip_sha256": "0447e64af8142729acafc4f25e43535f49708d5d065341650cd33d20a201427b",
+    "projected_body_sha256": "e7e4bca6c28d867755750d3ca44c7c07f14b1e416b6d8cadecd3b28994e5bae1",
+    "projected_body_bytes": 3093,
+    "selected_public_facts": {
+      "source": "autokopen",
+      "external_id": "11411914",
+      "url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-active-tourer-2015-11411914",
+      "title": "BMW 2-Serie Active Tourer · 2015 Active Tourer",
+      "price": 7350.0,
+      "price_type": "advertised_price",
+      "mileage": 168205.0,
+      "year": 2015,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "description": "BMW 2-Serie Active Tourer · 2015 Active Tourer € 7.350 v.a. € 158/mnd 2015 · 168.205 km · Benzine · Handgeschakeld FLEVO Mobiel · Dronten 4,4 ( 1010 ) Bekijk aanbieding → Vergelijk",
+      "images": [
+        "https://images2.autokopen.nl/v/flevomobiel-nl/BMW_2-serie-Active-Tourer_218i-Executive-NaviClimaLMV-6815553_1589_1_36_details.aspx_so-gallerij/0-0f67cd78-c.webp"
+      ],
+      "scope": "excluded"
+    }
+  },
+  {
+    "fixture": "search-11411915.html",
+    "projection": "incididunt sit lorem, dolore sed enim-ID DOM card; unrelated records/UI/dealer contacts removed",
+    "source": "autokopen",
+    "external_id": "11411915",
+    "fetch_id": 276210,
+    "url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer?page=10",
+    "final_url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer?page=10",
+    "fetched_at": "2026-10-12T05:32:51.502584+00:00",
+    "status": 200,
+    "error": null,
+    "original_content_sha256": "a43c5f01764ab7306c4b4424857b7fa767cafb14ba95f4d50f6943ce6fca0db0",
+    "original_gzip_sha256": "0447e64af8142729acafc4f25e43535f49708d5d065341650cd33d20a201427b",
+    "projected_body_sha256": "7eaacbee6da99632810bcb5304ef463a38d7e613ddc788798eff753d49d12c26",
+    "projected_body_bytes": 3080,
+    "selected_public_facts": {
+      "source": "autokopen",
+      "external_id": "11411915",
+      "url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-active-tourer-2019-11411915",
+      "title": "BMW 2-Serie Active Tourer · 2019 Active Tourer",
+      "price": 14850.0,
+      "price_type": "advertised_price",
+      "mileage": 131511.0,
+      "year": 2019,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "description": "BMW 2-Serie Active Tourer · 2019 Active Tourer € 14.850 v.a. € 298/mnd 2019 · 131.511 km · Benzine · Automaat FLEVO Mobiel · Dronten 4,4 ( 1010 ) Bekijk aanbieding → Vergelijk",
+      "images": [
+        "https://images2.autokopen.nl/v/flevomobiel-nl/BMW_2-serie-Active-Tourer_218i-Executive-CamClimaLED-6853552_1589_1_37_details.aspx_so-gallerij/0-3b63e350-c.webp"
+      ],
+      "scope": "excluded"
+    }
+  },
+  {
+    "fixture": "search-11411916.html",
+    "projection": "lorem tempor sed, dolor aliqua consectetur-ID DOM card; unrelated records/UI/dealer contacts removed",
+    "source": "autokopen",
+    "external_id": "11411916",
+    "fetch_id": 276210,
+    "url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer?page=10",
+    "final_url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer?page=10",
+    "fetched_at": "2026-10-12T05:32:51.502584+00:00",
+    "status": 200,
+    "error": null,
+    "original_content_sha256": "a43c5f01764ab7306c4b4424857b7fa767cafb14ba95f4d50f6943ce6fca0db0",
+    "original_gzip_sha256": "0447e64af8142729acafc4f25e43535f49708d5d065341650cd33d20a201427b",
+    "projected_body_sha256": "78d5a9ae9c452625900af8ee6666e96b35687b91615e5edecbd0e9f7b805acd4",
+    "projected_body_bytes": 3191,
+    "selected_public_facts": {
+      "source": "autokopen",
+      "external_id": "11411916",
+      "url": "https://autokopen.nl/auto/detail/bmw-2-serie-active-tourer-active-tourer-2015-11411916",
+      "title": "BMW 2-Serie Active Tourer · 2015 Active Tourer",
+      "price": 10250.0,
+      "price_type": "advertised_price",
+      "mileage": 178606.0,
+      "year": 2015,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "description": "BMW 2-Serie Active Tourer · 2015 Active Tourer € 10.250 v.a. € 205/mnd 2015 · 178.606 km · Benzine · Automaat FLEVO Mobiel · Dronten 4,4 ( 1010 ) Bekijk aanbieding → Vergelijk",
+      "images": [
+        "https://images2.autokopen.nl/v/flevomobiel-nl/BMW_2-serie-Active-Tourer_218i-High-Executive-Aut.-LeerStoelvewPanoNaviClimaAfn.-Trekhaak-6875024_1589_1_39_details.aspx_so-gallerij/0-fee86266-c.webp"
+      ],
+      "scope": "excluded"
+    }
+  },
+  {
+    "fixture": "search-6155926.html",
+    "projection": "lorem tempor sed, dolor aliqua consectetur-ID DOM card; unrelated records/UI/dealer contacts removed",
+    "source": "autokopen",
+    "external_id": "6155926",
+    "fetch_id": 276697,
+    "url": "https://autokopen.nl/auto/bmw/2-serie?page=10",
+    "final_url": "https://autokopen.nl/auto/bmw/2-serie?page=10",
+    "fetched_at": "2026-10-12T05:44:40.494307+00:00",
+    "status": 200,
+    "error": null,
+    "original_content_sha256": "88b247ff4334ac5b984e7303af82adce0b60a482b7743a66154e53018431bce4",
+    "original_gzip_sha256": "a4e59f5d24e0c666d307c95463d590ea684b1c35bdfbd1564200ff88570168f7",
+    "projected_body_sha256": "6e9884a4c2d73643762710a6159df7a948f236473acc84e0f58ba1ecee0cbe17",
+    "projected_body_bytes": 2772,
+    "selected_public_facts": {
+      "source": "autokopen",
+      "external_id": "6155926",
+      "url": "https://autokopen.nl/auto/detail/bmw-2-serie-2020-6155926",
+      "title": "BMW 2-Serie · 2020 € 15.900",
+      "price": 15900.0,
+      "price_type": "advertised_price",
+      "mileage": 116185.0,
+      "year": 2020,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "description": "D BMW 2-Serie · 2020 € 15.900 v.a. € 319/mnd Scherp geprijsd 2020 · 116.185 km · Benzine · Automaat Van Leeuwen Emmen · Emmen 4,0 ( 599 ) Bekijk aanbieding → Vergelijk",
+      "images": [
+        "https://images.autokopen.nl/v/van-leeuwen-emmen/7404534/0-b7ebd11e-c.webp"
+      ],
+      "scope": "excluded"
+    }
+  }
+]

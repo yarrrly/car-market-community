@@ -1,0 +1,579 @@
+{
+  "scope": {
+    "country": "NL",
+    "model_profile": "mercedes_c180_c205",
+    "model": "Mercedes-Benz C180 Coupe",
+    "generation": "C205",
+    "first_registration_from": "2016-01-01",
+    "fuel": "petrol",
+    "transmissions": [
+      "automatic"
+    ],
+    "price_ceiling": null,
+    "purchase_ceiling": null
+  },
+  "research_paths": {
+    "data": "~/src/mercedes-c180/nl/data/market.sqlite3",
+    "production_writer_authorized": true
+  },
+  "queries": [
+    {
+      "source": "autoscout24",
+      "key": "c180_c205_automatic_2016",
+      "url": "https://www.autoscout24.nl/lst/mercedes-benz/c-180/bt_coupe?cy=NL&atype=C&fregfrom=2016&gear=A&damaged_listing=include&ocs_listing=include",
+      "infer_missing": false,
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "verification": {
+        "total": 33
+      }
+    },
+    {
+      "source": "gaspedaal",
+      "key": "c180_coupe",
+      "url": "https://www.gaspedaal.nl/mercedes-benz/c-klasse/c180?bmin=2016&trns=AUTOMATISCH&brnst=BENZINE&crs=COUPE",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 10
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "gaspedaal",
+      "key": "coupe_control",
+      "url": "https://www.gaspedaal.nl/mercedes-benz/c-klasse?bmin=2016&trns=AUTOMATISCH&brnst=BENZINE&crs=COUPE",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": false,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": null
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "marktplaats",
+      "key": "c180_coupe",
+      "url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 9
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "marktplaats",
+      "key": "180_coupe_control",
+      "url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=180&searchInTitleAndDescription=true",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 44
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "marktplaats",
+      "key": "c180_broad_control",
+      "url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&query=c180&searchInTitleAndDescription=true",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 365
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autotrack",
+      "key": "180_coupe",
+      "url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 27
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autotrack",
+      "key": "coupe_broad_control",
+      "url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 73
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "anwb",
+      "key": "coupe_native_post",
+      "url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 65
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autotrader",
+      "key": "c180_coupe",
+      "url": "https://www.autotrader.nl/auto/mercedes-benz/c-180?cy=NL&body=3&gear=A&fuel=B&fregfrom=2016&sort=price&desc=0",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 29
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "viabovag",
+      "key": "c_klasse_coupe",
+      "url": "https://www.viabovag.nl/auto/merk-mercedes-benz/model-c-klasse/coupe",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 28
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "nederlandmobiel",
+      "key": "c_klasse_coupe",
+      "url": "https://www.nederlandmobiel.nl/index.php?module=zoeken&voertuig=auto&merk%5B%5D=145&model%5B%5D=1099&brandstof%5B%5D=benzine&transmissie%5B%5D=automaat&categorie%5B%5D=sportwagen-coupe&bouwjaar_van=2016&source=search",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 104
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autokopen",
+      "key": "c_klasse_coupe",
+      "url": "https://autokopen.nl/auto?brand=mercedes-benz&model=c-klasse&transmission=automaat&fuel=benzine&body=coupe&year_min=2016",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 84
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autouncle",
+      "key": "c180_coupe",
+      "url": "https://www.autouncle.nl/nl-nl/gebruikte-auto/Mercedes/C180/b-coupe",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 148
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "marktnet",
+      "key": "c180_mercedes_xml",
+      "url": "https://www.marktnet.nl/zoeken.xml?cat_id=57&q=c180&descr=on",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 69
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "vakgarage",
+      "key": "c_klasse_coupe",
+      "url": "https://www.vakgarage.nl/occasions?merk%5B%5D=Mercedes-Benz&model%5BMercedes-Benz%5D%5B%5D=C-Klasse&transmissie%5B%5D=Automaat&brandstof%5B%5D=Benzine&carrosserie%5B%5D=Coup%C3%A9",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 5
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autofirst",
+      "key": "all_inventory",
+      "url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 2066
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "carteam",
+      "key": "c_klasse",
+      "url": "https://www.carteam.nl/occasions?f1=1964&f2=2034",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": true,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 6
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "trovit",
+      "key": "c180_coupe_discovery",
+      "url": "https://autos.trovit.nl/mercedes-c180-coupe",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": false,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 14
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autoweek",
+      "key": "c_klasse_discovery",
+      "url": "https://www.autoweek.nl/occasions/mercedes-benz/c-klasse/",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": false,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": 2010
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "autowereld",
+      "key": "c180_discovery",
+      "url": "https://www.autowereld.nl/mercedes-benz/c-klasse/_c180",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": false,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": null
+        },
+        "observations": [
+          {
+            "status": 403
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "dealer:www.autohuisdevaart.nl",
+      "key": "shared_stock_shareddealer-0",
+      "url": "https://www.autohuisdevaart.nl/occasions-kopen/53661498",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": false,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": null
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "dealer:www.hedinautomotive.nl",
+      "key": "shared_stock_shareddealer-1",
+      "url": "https://www.hedinautomotive.nl/mercedes-benz/occasion/p/84100937/mercedes-benz-c-klasse-c-180-coupe-automaat-amg-line-parktronic-led-stoelverwarming-zitcomfortpakket-spiegelpakket",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "enabled": false,
+      "infer_missing": false,
+      "verification": {
+        "parsed": {
+          "total": null
+        },
+        "observations": [
+          {
+            "status": 200
+          }
+        ],
+        "market_complete": false,
+        "c205_target_complete": false
+      }
+    },
+    {
+      "source": "mercedes_benz_nl",
+      "key": "hedin_c_class_coupe_control",
+      "url": "https://www.hedinautomotive.nl/voorraad-api/vehiclelist/88/vehicles.json?limit=22&sort=most_recently_updated&webspaceKey=mercedes-benz&locale=nl&brand%5B%5D=Mercedes-Benz&model%5BMercedes-Benz%5D%5B%5D=C-Klasse&carrosserie%5B%5D=Coup%C3%A9",
+      "enabled": true,
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "verification": {
+        "fixture": "lorem-c-sed.amet.do"
+      }
+    },
+    {
+      "source": "mercedes_benz_nl",
+      "key": "hedin_c180_control_auto_petrol",
+      "url": "https://www.hedinautomotive.nl/voorraad-api/vehiclelist/88/vehicles.json?limit=22&sort=most_recently_updated&webspaceKey=mercedes-benz&locale=nl&brand%5B%5D=Mercedes-Benz&brand%5B%5D=Mercedes-Benz&model%5BMercedes-Benz%5D%5B%5D=C-Klasse&carrosserie%5B%5D=Coup%C3%A9&brandstof%5B%5D=Benzine&transmissie%5B%5D=Automaat&page=1&aanschafvormen%5B%5D=buy&aanschafvormen_private%5B%5D=buy&aanschafvormen_business%5B%5D=buy",
+      "enabled": true,
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "verification": {
+        "fixture": "amet-lorem-elit-1.dolor.elit"
+      }
+    },
+    {
+      "source": "mercedes_benz_nl",
+      "key": "vanmossel_c_class_coupe_control",
+      "url": "https://www.vanmossel.nl/mercedes-benz/voorraad?brand=mercedes-benz&model=mercedes-benz%2Fc-class&bodystyle=coupe&country=nl",
+      "enabled": true,
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "verification": {
+        "fixture": "amet-elit-amet.dolor.elit"
+      }
+    },
+    {
+      "source": "mercedes_benz_nl",
+      "key": "certified_c_class_coupe_control",
+      "url": "https://certified.cars.mercedes-benz.nl/cgi/voertuigen.cgi?site=certified-cars&zipcode_field=dealer_postcode&perpage=18&template=&sort=&sort_actieprijs=1&locatie_voertuig=&dealer_id=&transmissiemerk=&carrosserie_soort=COUP&model=C-Klasse&transmissie=&brandstof=&bouwjaar_van=&bouwjaar_tot=&prijs_range=&kmstand_range=&zipcode=&distance=5&kleur_basis=&import_id=&keyword=",
+      "enabled": true,
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "verification": {
+        "fixture": "sed-ipsum-sed-amet1.lorem.consectetur"
+      }
+    },
+    {
+      "source": "mercedes_benz_nl",
+      "key": "certified_c180_coupe_auto_petrol",
+      "url": "https://certified.cars.mercedes-benz.nl/cgi/voertuigen.cgi?site=certified-cars&zipcode_field=dealer_postcode&perpage=18&template=&sort=&sort_actieprijs=1&locatie_voertuig=&dealer_id=&transmissiemerk=&carrosserie_soort=COUP&model=C-Klasse&transmissie=A&brandstof=B&bouwjaar_van=&bouwjaar_tot=&prijs_range=&kmstand_range=&zipcode=&distance=5&kleur_basis=&import_id=&keyword=C+180",
+      "enabled": true,
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "verification": {
+        "fixture": "sed-ipsum-sed-amet1.lorem.consectetur"
+      }
+    },
+    {
+      "source": "autohero",
+      "key": "c_class",
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2?pageNumber=1",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "enabled": true,
+      "verification": {
+        "parsed_total": 3
+      }
+    },
+    {
+      "source": "autohero",
+      "key": "c180",
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2?pageNumber=1",
+      "country": "NL",
+      "model_profile": "mercedes_c180_c205",
+      "infer_missing": false,
+      "enabled": true,
+      "verification": {
+        "parsed_total": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "fixture": "active-tourer-inventory.json",
+    "fixture_sha256": "50f0fd487cee0abe336387e4d157db8258477ca24dae00cbee1561ee8eca80b8",
+    "requested_url": "sed://adipiscing-amet.amet.do.consectetur-sed-1.sed.dolor.adipiscing/dolor/adipiscing/sit-adipiscing/do?amet=12&sed=0&ipsum=elit&ipsum=9c0f478sit9adipiscing2a0e27a62sit2001e1a98consectetur51416178d147lorem92amet238&ipsum=do-elit",
+    "final_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:06:28.169728+00:00",
+    "method": "POST",
+    "transport": "browser_isolated_chrome_no_auth"
+  },
+  {
+    "fixture": "national-control-inventory.json",
+    "fixture_sha256": "19f902eab5f75e1d7268aa293c7086ecd5d345c14d1a51be2657df2f3754521c",
+    "requested_url": "sed://adipiscing-amet.amet.do.consectetur-sed-1.sed.dolor.adipiscing/dolor/adipiscing/sit-adipiscing/do?amet=12&sed=0&ipsum=elit&ipsum=9c0f478sit9adipiscing2a0e27a62sit2001e1a98consectetur51416178d147lorem92amet238&ipsum=do-elit",
+    "final_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:04:26.549754+00:00",
+    "method": "POST",
+    "transport": "browser_isolated_chrome_no_auth"
+  },
+  {
+    "fixture": "all-2er-page1-own-UI-bundle.json",
+    "fixture_sha256": "36103250d00816c86d30b7fc692c0e4e96872b32e8cc012fe11ca434b36788f9",
+    "requested_url": "sed://adipiscing-amet.amet.do.consectetur-sed-1.sed.dolor.adipiscing/dolor/adipiscing/sit-adipiscing/do?amet=12&sed=0&ipsum=elit&ipsum=9c0f478sit9adipiscing2a0e27a62sit2001e1a98consectetur51416178d147lorem92amet238&ipsum=do-elit",
+    "final_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "http_status": 200,
+    "method": "POST",
+    "fetched_at": "2026-10-07T21:12:56.089260+00:00",
+    "transport": "isolated_anonymous_Chrome_native_UI_action"
+  },
+  {
+    "fixture": "all-2er-page2-own-UI-bundle.json",
+    "fixture_sha256": "c0dc664b1b07ba94988d6636d6a0b5ed5376310c45b448c06e10d3d69ec28dd1",
+    "requested_url": "do://elit-consectetur.consectetur.lorem.adipiscing-do-1.do.sit.elit/sit/elit/amet-elit/lorem?consectetur=12&do=12&sit=do&sit=9c0f478consectetur9sed2a0e27a62consectetur3112e1a98elit62527289d147dolor92adipiscing238&sit=ipsum-do",
+    "final_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=12&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "http_status": 200,
+    "method": "POST",
+    "fetched_at": "2026-10-07T21:12:57.891955+00:00",
+    "transport": "isolated_anonymous_Chrome_native_UI_action"
+  },
+  {
+    "fixture": "all-2er-page10-native.json",
+    "fixture_sha256": "c7761a6fbfbfe936001648b7d3f68a64b61ea5d4b914810bee74a01e5d95ed5f",
+    "requested_url": "lorem://sed-adipiscing.adipiscing.ipsum.elit-lorem-1.lorem.amet.sed/amet/sed/consectetur-sed/ipsum?adipiscing=12&lorem=108&consectetur=ipsum&consectetur=9c0f478elit9lorem2a0e27a62elit4223e1a98do73638390d147amet92sed238&consectetur=sit-ipsum",
+    "final_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=108&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "http_status": 200,
+    "method": "POST",
+    "fetched_at": "2026-10-07T21:05:35.316627+00:00",
+    "transport": "isolated_anonymous_Chrome_native_UI_action"
+  }
+]

@@ -1,0 +1,25 @@
+name: Live Docker acceptance
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: live-acceptance
+  cancel-in-progress: false
+jobs:
+  fresh-docker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - run: docker build -t car-market:acceptance .
+      - name: Anonymous bounded collection from new volumes
+        run: python3 tools/live_acceptance.py --image car-market:acceptance --output acceptance --max-pages 1 --detail-limit 2 --browser --command-timeout 180
+      - name: Retain aggregate metrics only
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: live-acceptance-metrics
+          path: acceptance/summary.json
+          if-no-files-found: warn
+          retention-days: 14

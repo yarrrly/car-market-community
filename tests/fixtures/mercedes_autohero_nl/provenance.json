@@ -1,0 +1,320 @@
+{
+  "cclass-search.json": {
+    "sha256": "de8ec9e8c00c239e290c401ee23b7bd2a79a31a8c11fbe1434a246311a0813b1",
+    "original": {
+      "probe": 8,
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "parser_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "status": 200,
+      "timestamp": "2026-10-08T16:42:47.730996+00:00",
+      "timestamp_kind": "raw_file_write_time",
+      "sha256": "de8ec9e8c00c239e290c401ee23b7bd2a79a31a8c11fbe1434a246311a0813b1",
+      "method": "POST",
+      "request_body": {
+        "operationName": "searchAdV9AdsV2",
+        "variables": {
+          "search": {
+            "offset": 0,
+            "limit": 24,
+            "sort": "most_popular",
+            "filter": {
+              "field": null,
+              "op": "and",
+              "value": [
+                {
+                  "field": "countryCode",
+                  "op": "eq",
+                  "value": "NL"
+                },
+                {
+                  "field": null,
+                  "op": "and",
+                  "value": [
+                    {
+                      "field": "make",
+                      "op": "eq",
+                      "value": "570"
+                    },
+                    {
+                      "field": "model",
+                      "op": "eq",
+                      "value": [
+                        "c-klasse"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "aggs": [],
+            "postFilter": null,
+            "fields": [
+              "registration",
+              "firstEligibleToBePurchasedAt",
+              "variablePositioning"
+            ],
+            "properties": {
+              "filterByEligibleDate": true,
+              "firstPublishedDays": -30,
+              "includeProspective": true,
+              "resultsCombiner": "abbabbc",
+              "shuffleCategoryBResults": true
+            }
+          }
+        },
+        "query": "query searchAdV9AdsV2($search: EsSearchRequestProjectionInput!, $tradeInId: UUID) {\n  searchAdV9AdsV2(search: $search, tradeInId: $tradeInId)\n}"
+      }
+    }
+  },
+  "c180-search.json": {
+    "sha256": "af9d65fefcc3a9a8288dcd34fe79532ec1685f5f156b3485449d2226c8bcefb9",
+    "original": {
+      "probe": 10,
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "parser_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "status": 200,
+      "timestamp": "2026-10-08T16:43:38.474778+00:00",
+      "sha256": "af9d65fefcc3a9a8288dcd34fe79532ec1685f5f156b3485449d2226c8bcefb9",
+      "method": "POST",
+      "request_body": {
+        "operationName": "searchAdV9AdsV2",
+        "variables": {
+          "search": {
+            "offset": 0,
+            "limit": 24,
+            "sort": "most_popular",
+            "filter": {
+              "field": null,
+              "op": "and",
+              "value": [
+                {
+                  "field": "countryCode",
+                  "op": "eq",
+                  "value": "NL"
+                },
+                {
+                  "field": null,
+                  "op": "and",
+                  "value": [
+                    {
+                      "field": "make",
+                      "op": "eq",
+                      "value": "570"
+                    },
+                    {
+                      "field": "model",
+                      "op": "eq",
+                      "value": [
+                        "c-klasse"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "field": null,
+                  "op": "or",
+                  "value": [
+                    {
+                      "field": "subType",
+                      "op": "eq",
+                      "value": [
+                        "C 180"
+                      ]
+                    },
+                    {
+                      "field": "subTypeExtra",
+                      "op": "eq",
+                      "value": []
+                    }
+                  ]
+                }
+              ]
+            },
+            "aggs": [],
+            "postFilter": null,
+            "fields": [
+              "registration",
+              "firstEligibleToBePurchasedAt",
+              "variablePositioning"
+            ],
+            "properties": {
+              "filterByEligibleDate": true,
+              "firstPublishedDays": -30,
+              "includeProspective": true,
+              "resultsCombiner": "abbabbc",
+              "shuffleCategoryBResults": true
+            }
+          }
+        },
+        "query": "query searchAdV9AdsV2($search: EsSearchRequestProjectionInput!, $tradeInId: UUID) {\n  searchAdV9AdsV2(search: $search, tradeInId: $tradeInId)\n}"
+      },
+      "contract_kind": "own_C180_subtype_value_in_existing_UI_or_eq_filter_shape; no_unobserved_bodyType_filter"
+    }
+  },
+  "c180-detail.json": {
+    "sha256": "d5a9b8a70661178ca1dd8bf68b6dc2aa161b9d3b7b9b8b6af35b676ad31fd444",
+    "original": {
+      "probe": 9,
+      "url": "https://www.autohero.com/nl/mercedes-benz-c-klasse/id/1259063a-731a-4230-a424-c269d810e650/",
+      "parser_url": "https://www.autohero.com/nl/mercedes-benz-c-klasse/id/1259063a-731a-4230-a424-c269d810e650/",
+      "final_url": "https://www.autohero.com/nl/mercedes-benz-c-klasse/id/1259063a-731a-4230-a424-c269d810e650/",
+      "status": 200,
+      "timestamp": "2026-10-08T16:43:05.888652+00:00",
+      "sha256": "7a6608a58a81586dde2f4b9f8f2d015a1a681338b0de934f1496d0d27e87cd3f",
+      "method": "GET"
+    },
+    "excerpt": "lossless own getCarDetailsStoreAd record; unrelated Apollo records omitted"
+  },
+  "request-cclass.json": {
+    "sha256": "1b10d314e2d7863a83885454b0f0c00a907b206ca56e752e158d6727a56842bb",
+    "original": {
+      "probe": 8,
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "parser_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "status": 200,
+      "timestamp": "2026-10-08T16:42:47.730996+00:00",
+      "timestamp_kind": "raw_file_write_time",
+      "sha256": "de8ec9e8c00c239e290c401ee23b7bd2a79a31a8c11fbe1434a246311a0813b1",
+      "method": "POST",
+      "request_body": {
+        "operationName": "searchAdV9AdsV2",
+        "variables": {
+          "search": {
+            "offset": 0,
+            "limit": 24,
+            "sort": "most_popular",
+            "filter": {
+              "field": null,
+              "op": "and",
+              "value": [
+                {
+                  "field": "countryCode",
+                  "op": "eq",
+                  "value": "NL"
+                },
+                {
+                  "field": null,
+                  "op": "and",
+                  "value": [
+                    {
+                      "field": "make",
+                      "op": "eq",
+                      "value": "570"
+                    },
+                    {
+                      "field": "model",
+                      "op": "eq",
+                      "value": [
+                        "c-klasse"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "aggs": [],
+            "postFilter": null,
+            "fields": [
+              "registration",
+              "firstEligibleToBePurchasedAt",
+              "variablePositioning"
+            ],
+            "properties": {
+              "filterByEligibleDate": true,
+              "firstPublishedDays": -30,
+              "includeProspective": true,
+              "resultsCombiner": "abbabbc",
+              "shuffleCategoryBResults": true
+            }
+          }
+        },
+        "query": "query searchAdV9AdsV2($search: EsSearchRequestProjectionInput!, $tradeInId: UUID) {\n  searchAdV9AdsV2(search: $search, tradeInId: $tradeInId)\n}"
+      }
+    }
+  },
+  "request-c180.json": {
+    "sha256": "3dd60e0530f30573f664f30bfeedbfb1093388e5750e329b2d5ba3f8e5bc0d46",
+    "original": {
+      "probe": 10,
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "parser_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+      "status": 200,
+      "timestamp": "2026-10-08T16:43:38.474778+00:00",
+      "sha256": "af9d65fefcc3a9a8288dcd34fe79532ec1685f5f156b3485449d2226c8bcefb9",
+      "method": "POST",
+      "request_body": {
+        "operationName": "searchAdV9AdsV2",
+        "variables": {
+          "search": {
+            "offset": 0,
+            "limit": 24,
+            "sort": "most_popular",
+            "filter": {
+              "field": null,
+              "op": "and",
+              "value": [
+                {
+                  "field": "countryCode",
+                  "op": "eq",
+                  "value": "NL"
+                },
+                {
+                  "field": null,
+                  "op": "and",
+                  "value": [
+                    {
+                      "field": "make",
+                      "op": "eq",
+                      "value": "570"
+                    },
+                    {
+                      "field": "model",
+                      "op": "eq",
+                      "value": [
+                        "c-klasse"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "field": null,
+                  "op": "or",
+                  "value": [
+                    {
+                      "field": "subType",
+                      "op": "eq",
+                      "value": [
+                        "C 180"
+                      ]
+                    },
+                    {
+                      "field": "subTypeExtra",
+                      "op": "eq",
+                      "value": []
+                    }
+                  ]
+                }
+              ]
+            },
+            "aggs": [],
+            "postFilter": null,
+            "fields": [
+              "registration",
+              "firstEligibleToBePurchasedAt",
+              "variablePositioning"
+            ],
+            "properties": {
+              "filterByEligibleDate": true,
+              "firstPublishedDays": -30,
+              "includeProspective": true,
+              "resultsCombiner": "abbabbc",
+              "shuffleCategoryBResults": true
+            }
+          }
+        },
+        "query": "query searchAdV9AdsV2($search: EsSearchRequestProjectionInput!, $tradeInId: UUID) {\n  searchAdV9AdsV2(search: $search, tradeInId: $tradeInId)\n}"
+      },
+      "contract_kind": "own_C180_subtype_value_in_existing_UI_or_eq_filter_shape; no_unobserved_bodyType_filter"
+    }
+  }
+}

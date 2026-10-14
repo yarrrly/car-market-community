@@ -1,0 +1,37 @@
+[
+  {
+    "file": "nl-search-page1.json",
+    "country": "NL",
+    "url": "https://www.autoscout24.nl/lst/mercedes-benz/c-180/bt_coupe?cy=NL&atype=C&fregfrom=2016&gear=A&damaged_listing=include&ocs_listing=include",
+    "captured_at": "2026-10-08T15:25:02.978939+00:00",
+    "selection": "adipiscing enim amet minim tempor eiusmod"
+  },
+  {
+    "file": "nl-search-page2.json",
+    "country": "NL",
+    "url": "https://www.autoscout24.nl/_next/data/as24-search-funnel_main-20261008161000/lst/mercedes-benz/c-180/bt_coupe.json?cy=NL&atype=C&fregfrom=2016&gear=A&damaged_listing=include&ocs_listing=include&page=2",
+    "captured_at": "2026-10-08T15:25:03.776730+00:00",
+    "selection": "do lorem elit ipsum dolore labore"
+  },
+  {
+    "file": "de-search-page1.json",
+    "country": "DE",
+    "url": "https://www.autoscout24.de/lst/mercedes-benz/c-klasse/mt_c-180/bt_coupe/tr_automatik?fregfrom=2016&cy=D&damaged_listing=include&ocs_listing=include&atype=C",
+    "captured_at": "2026-10-08T15:25:04.287204+00:00",
+    "selection": "enim sed magna do dolor ipsum"
+  },
+  {
+    "file": "de-search-page2.json",
+    "country": "DE",
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261008161000/lst/mercedes-benz/c-klasse/mt_c-180/bt_coupe/tr_automatik.json?fregfrom=2016&cy=D&damaged_listing=include&ocs_listing=include&atype=C&page=2",
+    "captured_at": "2026-10-08T15:25:04.788470+00:00",
+    "selection": "veniam eiusmod enim tempor amet sit"
+  },
+  {
+    "file": "de-search-page3.json",
+    "country": "DE",
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261008161000/lst/mercedes-benz/c-klasse/mt_c-180/bt_coupe/tr_automatik.json?fregfrom=2016&cy=D&damaged_listing=include&ocs_listing=include&atype=C&page=3",
+    "captured_at": "2026-10-08T15:25:05.623332+00:00",
+    "selection": "ipsum incididunt veniam labore adipiscing consectetur"
+  }
+]

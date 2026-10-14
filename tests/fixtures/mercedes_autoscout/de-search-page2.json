@@ -1,0 +1,166 @@
+{
+  "pageProps": {
+    "pageQuery": {
+      "cat": "ma47gr100056mt292",
+      "atype": "C",
+      "damaged_listing": "include",
+      "powertype": "kw",
+      "ocs_listing": "include",
+      "mcat": "ma47gr100056",
+      "body": "3",
+      "gear": "A",
+      "mmmv": "47|||",
+      "fregfrom": "2016",
+      "page": "2",
+      "cy": "D",
+      "lm_premium": "true",
+      "specialconditions": "true",
+      "show_nfm": "true",
+      "pricetype": "public"
+    },
+    "listings": [
+      {
+        "id": "1e9fb66b-1891-4e78-8c19-63b425b2ae58",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-7g-tronic-edition-1-benzin-cat_ma47gr100056ge12va119mt292tr480497-1e9fb66b-1891-4e78-8c19-63b425b2ae58",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "7171508f-75d8-4181-b5c3-cd6ff0c00cc4",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-5-j-garantie-amg-night-edition-pano-benzin-weiss-cat_ma47gr100056ge12va119mt292tr480497-7171508f-75d8-4181-b5c3-cd6ff0c00cc4",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "877bb24a-bb0a-4ace-bad4-f1603d32bf37",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-7g-tronic-benzin-cat_ma47gr100056ge12va119mt292tr480497-877bb24a-bb0a-4ace-bad4-f1603d32bf37",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "e8fd2523-09a1-43ed-8c7e-843b68ab933c",
+        "url": "/angebote/mercedes-benz-c-klasse-c-180-edition-1-205-340-benzin-cat_ma47gr100056ge12va119mt292tr480497-e8fd2523-09a1-43ed-8c7e-843b68ab933c",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "7f127a27-4796-471c-b860-5143265a3549",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-amg-amg+led+navi+aut+pts+park-assist-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr1149-7f127a27-4796-471c-b860-5143265a3549",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "611975c8-09ee-4bb3-8c8f-96a2eec7d8e5",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-611975c8-09ee-4bb3-8c8f-96a2eec7d8e5",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "a0b0c707-b3f4-469e-a753-6ad71ed5864c",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-leder-aut-alu-benzin-weiss-cat_ma47gr100056ge12va119mt292tr480497-a0b0c707-b3f4-469e-a753-6ad71ed5864c",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "7e393563-0761-46f1-bf61-c3f452604ca4",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-amg-burmester-scheckheft-unfallfrei-benzin-grau-cat_ma47gr100056ge11va119mt292tr480497-7e393563-0761-46f1-bf61-c3f452604ca4",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "b5e4e079-bfc2-442c-b4e9-4e715c15af78",
+        "url": "/angebote/mercedes-benz-c-klasse-kompressor-sportcoupe-automatik-sport-edition-benzin-cat_ma47gr100056ge10va121mt292tr480497-b5e4e079-bfc2-442c-b4e9-4e715c15af78",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "11a9f678-5d83-4888-9614-70263c6ade79",
+        "url": "/angebote/mercedes-benz-c-klasse-amg-navi-led-ahk-kamera-benzin-grau-cat_ma47gr100056ge12va119mt292tr1149-11a9f678-5d83-4888-9614-70263c6ade79",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "47b31d19-43b6-4cd2-a893-e68ce8007fc0",
+        "url": "/angebote/mercedes-benz-c-klasse-c-180-cp-180-pano-night-diamantweiss-2x18-benzin-cat_ma47gr100056ge10va121mt292tr480497-47b31d19-43b6-4cd2-a893-e68ce8007fc0",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "0a6eea86-59e3-492a-b1ab-415119ec4d5b",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-+-garantie-benzin-blau-cat_ma47gr100056ge12va119mt292tr480497-0a6eea86-59e3-492a-b1ab-415119ec4d5b",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "478e4b0c-4f8c-4d18-8d26-c4fcb62888c3",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-amg-mbux-shz-temp-keyl-led-klima-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-478e4b0c-4f8c-4d18-8d26-c4fcb62888c3",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "f6f5a3d6-4d98-461d-a67b-c3cb7778d24b",
+        "url": "/angebote/mercedes-benz-c-klasse-c-180-kompressor-sportcoupe-automatik-benzin-weiss-cat_ma47gr100056ge10va121mt292tr480497-f6f5a3d6-4d98-461d-a67b-c3cb7778d24b",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "28d196c9-7502-40ac-969b-674554e870d0",
+        "url": "/angebote/mercedes-benz-c-klasse-mercedes-benz-c-180-amg-line-coupe-benzin-schwarz-cat_ma47gr100056ge12va118mt292tr1149-28d196c9-7502-40ac-969b-674554e870d0",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "96c0e3a1-7381-4f0d-add7-01a8eeab7271",
+        "url": "/angebote/mercedes-benz-c-klasse-amg-line-leder-navi-ruefaka-tempo-keyless-pdc-ss-benzin-grau-cat_ma47gr100056ge11va119mt292tr480497-96c0e3a1-7381-4f0d-add7-01a8eeab7271",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "23e5829c-6e0f-4cba-a7fe-a2546bdc36e5",
+        "url": "/angebote/mercedes-benz-c-klasse-c-klasse-coupe-coupe-9g-tronic-benzin-rot-cat_ma47gr100056ge12va119mt292tr480497-23e5829c-6e0f-4cba-a7fe-a2546bdc36e5",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "67d3d833-c152-44d5-b3a9-d59d774da66c",
+        "url": "/angebote/mercedes-benz-c-klasse-2018-amg-line-9-g-ambiente-pano-shz-benzin-cat_ma47gr100056ge12va119mt292tr1149-67d3d833-c152-44d5-b3a9-d59d774da66c",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "6cdc9af1-354b-417b-b23f-207bbd212a08",
+        "url": "/angebote/mercedes-benz-c-klasse-autom-amg-pano-navi-klima-kamera-alcantara-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-6cdc9af1-354b-417b-b23f-207bbd212a08",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "f79ff76c-f60c-41fb-b552-903f981d3d8f",
+        "url": "/angebote/mercedes-benz-c-klasse-c-180-amg-line-aut-navi-tempo-led-cam-shz-benzin-weiss-cat_ma47gr100056ge12va119mt292tr1149-f79ff76c-f60c-41fb-b552-903f981d3d8f",
+        "location": {
+          "countryCode": "DE"
+        }
+      }
+    ],
+    "numberOfResults": 44,
+    "numberOfPages": 3
+  }
+}

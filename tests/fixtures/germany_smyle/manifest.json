@@ -1,0 +1,16 @@
+[
+  {
+    "fixture": "search.json",
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261007192840/lst/bmw.json?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&ocs_listing=include&priceto=20000&page=4",
+    "timestamp": "2026-10-07T20:42:45.860674+00:00",
+    "fixture_hash": "a4fe6a62d76fe5a992a3cad7657a65a917b87600f4940bffe3a08447e8a4eb33",
+    "extraction": "ipsum elit ipsum adipiscing/dolor/ipsum lorem"
+  },
+  {
+    "fixture": "detail.json",
+    "url": "https://www.autoscout24.de/smyle/details/a48028c7-d667-4367-8948-25be23511ca3/",
+    "timestamp": "2026-10-07T20:48:31.873634+00:00",
+    "fixture_hash": "c6c29123754b39fc1cbd74511de38c3f0dfb2615362e9dd2c06aca4237cdcbe1",
+    "extraction": "dolor sed dolor/do/amet; adipiscing adipiscing/consectetur sit dolor"
+  }
+]

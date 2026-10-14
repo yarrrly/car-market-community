@@ -1,0 +1,31 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "e74ebc2e-8acc-464d-ac0e-511e41e3de3e",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.de/angebote/mercedes-benz-c-klasse-edition-night-amg-line-autom-leder-led-19-zoll-benzin-grau-cat_ma47gr100056ge12va119mt292tr1149-e74ebc2e-8acc-464d-ac0e-511e41e3de3e",
+        "location": {
+          "countryCode": "DE"
+        },
+        "vehicle": {
+          "make": "Mercedes-Benz",
+          "motorTypeName": "C 180",
+          "firstRegistrationDateRaw": "2017-11-01",
+          "transmissionType": "Automatik",
+          "fuelCategory": {
+            "formatted": "Benzin"
+          },
+          "bodyType": "Coupé",
+          "rawData": {
+            "classification": {
+              "modelGeneration": {
+                "formatted": "205"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

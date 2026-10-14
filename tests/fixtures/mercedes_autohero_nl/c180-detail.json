@@ -1,0 +1,234 @@
+{
+  "ROOT_QUERY": {
+    "getCarDetailsStoreAd({\"adId\":\"1259063a-731a-4230-a424-c269d810e650\",\"locale\":\"nl-NL\"})": {
+      "adId": "1259063a-731a-4230-a424-c269d810e650",
+      "bodyType": "Cabrio",
+      "carUrlTitle": "mercedes-benz-c-klasse",
+      "branch": {
+        "street": "Karolusstraat 5"
+      },
+      "features": [
+        {
+          "items": [
+            {
+              "__typename": "ipsum",
+              "description": "19'' Lichtmetalen Velgen"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Achteruitrijcamera"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "BURMESTER Geluidssysteem"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Cabriodak Soft"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Cruise Control"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Dodehoeksensor"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Elektrisch Bedienbare Achterklep"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Grootlicht Assistent"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "LED Koplampen"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Navigatiesysteem"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Nekverwarming"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Parkeerassistent"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Parkeersensoren Achter"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Parkeersensoren Voor"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Snelheidsbegrenzer"
+            },
+            {
+              "__typename": "ipsum",
+              "description": "Stoelverwarming"
+            }
+          ]
+        }
+      ],
+      "fuelType": "Benzine",
+      "gearType": "Automaat",
+      "carDetailsImageComposites": {
+        "exterior": [
+          {
+            "id": "do7d428e-a575-5991-9135-5c0e5sed1d67f",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/1/{sed}e6f932do5945a0sed57646069685a984.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}df7d428e-a575-4767-8901-5c0e5ef1d67f.jpg?t=1782982439",
+            "order": 1
+          },
+          {
+            "id": "b7c063b6-42lorem-4amet-a7lorem-3amet3e37lorem65c",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/2/{sed}302b43a7ipsum2c40e680589242c035563c.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}b7c063b6-42cb-4cae-a7eb-3cd3e37eb65c.jpg?t=1782982439",
+            "order": 2
+          },
+          {
+            "id": "b6f4sit85-d426-44a6-9f6a-55f329do9f4c",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/3/{sed}sit2909a3734e41elit82ipsum878324d14c69.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}b6f4fc85-d426-44a6-9f6a-55f329db9f4c.jpg?t=1782982439",
+            "order": 3
+          },
+          {
+            "id": "f83dolor8b1-7512-49d8-8do-4b145c8lorem2sit",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/4/{sed}e64948do209167664d6dolor30d9e042dolor9.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}f83be8b1-6388-49d8-8cbf-4b145c8ca2ee.jpg?t=1782982439",
+            "order": 4
+          },
+          {
+            "id": "09366amet0-2do-484f-8do5-6f0828do3dolor",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/5/{sed}9381112lorem4648e5a20d9d4e3632ipsum5.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}97021bb0-2afc-484f-8fa5-6f9694cd3fdb.jpg?t=1782982439",
+            "order": 5
+          },
+          {
+            "id": "f14c9amet6-sed28-4d63-b645-836adipiscing262e9",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/6/{sed}5f61a834c1555adipiscing6b08d71sed139sit.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}f14c9ef6-db28-4d63-b645-836daed262e9.jpg?t=1782982439",
+            "order": 6
+          },
+          {
+            "id": "951f0c6d-c257-5340-9489-760516do13d0",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/7/{sed}c25c90b9676a4adipiscing9b81dolor3elit03ipsum0.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}951f0c6d-c257-4116-8255-647160cf13d0.jpg?t=1782982439",
+            "order": 7
+          },
+          {
+            "id": "71e1sit5-4581-5304-0752-1a39888e5dolor2",
+            "fullUrl": "adipiscing://amet-sed-c1.amet.sit/elit/41b726f88lorem00amet6d2do8dolor93adipiscing40c9sit7b68c7a44c0elit69a31233elit0ipsum09/adipiscing/8/{sed}8f076d298e004155241dolor1adipiscing4do037a.adipiscing",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}71e1dfe5-3357-4170-9528-1a27543e5ca2.jpg?t=1782982439",
+            "order": 8
+          }
+        ],
+        "nextgen_highlight": [
+          {
+            "id": "do169-b38f-5316-85f1-3c9701654e09",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/1/{lorem}b834c0ipsum2f3665b71b91f5do9b68.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}aaddf169-b38f-4182-85f1-3c8577197e09.jpg?t=1782982439",
+            "order": 1
+          },
+          {
+            "id": "do5sit60-5do2-5408-sed-sit75005c4b65",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/2/{lorem}9adipiscing866b7514c4sed84845adipiscing6f11sit70.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}abd5bc60-5ef2-4274-bbde-cd63760c4b65.jpg?t=1782982439",
+            "order": 2
+          },
+          {
+            "id": "7a3a71b9-8271-5244-98f6-65consectetur12530845",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/3/{lorem}consectetur23196754473e93b31a9adipiscing2113dolor26.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}7a3a71b9-7047-4010-98f6-65bd00295277.jpg?t=1782982439",
+            "order": 3
+          },
+          {
+            "id": "e1033amet5-2do-4c69-a359-1307d731652a",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/4/{lorem}consectetur8633sit0451lorem7sit29113lorem31b32.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}e0809ea5-2dff-4c69-a359-0173d618206a.jpg?t=1782982439",
+            "order": 4
+          },
+          {
+            "id": "161d2e1b-5291-4e25-sed02-82980834d7f6",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/5/{lorem}76282067sit364sed89a05adipiscing2d5ipsum6c02.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}161d2e1b-4067-4e25-ad02-70645266d7f6.jpg?t=1782982439",
+            "order": 5
+          },
+          {
+            "id": "do3dolor5b-7c90-4amet2-84lorem-37d4a2f53dolor",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/6/{lorem}077sed648sit2d41f7ipsum7c98281lorem294consectetur.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}cd3eca5b-7c90-4fe2-84ae-37d4a2f53dfb.jpg?t=1782982439",
+            "order": 6
+          },
+          {
+            "id": "4b63e98a-52lorem-42c3-sed3-f3consectetur1f85644",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/7/{lorem}consectetur1d45d15a5057a5ipsum5848sed187805c.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}4b63e98a-52da-42c3-bcb3-f3dfd1f73309.jpg?t=1782982439",
+            "order": 7
+          },
+          {
+            "id": "c0ipsum2d-8do7-4c6e-9do6-2639elit196853",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/8/{lorem}64e51f6151849173ipsum9b3c196dolor991.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}c0cdfc2d-8ab7-4c6e-9ca6-1405da073407.jpg?t=1782982439",
+            "order": 8
+          },
+          {
+            "id": "do7436e2-41lorem-49a6-b509-1a87984f71f6",
+            "fullUrl": "elit://consectetur-do-c1.consectetur.amet/sed/41b726f88ipsum00consectetur6d2lorem8sit93elit40c9amet7b68c7a44c0sed69a42344sed0dolor09/elit/9/{lorem}d6elit689e02166do63adipiscing2049a24consectetur.sed",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}ae6202e2-41ae-49a6-b509-1a75649f71f6.jpg?t=1782982439",
+            "order": 9
+          },
+          {
+            "id": "888a3amet4-d727-5650-a45a-1amet2elit26ipsum47",
+            "fullUrl": "sed://adipiscing-lorem-c1.adipiscing.consectetur/do/41b726f88dolor00adipiscing6d2ipsum8amet93sed40c9consectetur7b68c7a44c0do69a53455do0sit09/sed/10/{dolor}071721a262elit443a9amet418do786b2466.lorem",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}888a3bf4-d727-4426-a45a-1bb2ab26fd47.jpg?t=1782982439",
+            "order": 10
+          },
+          {
+            "id": "3c27992b-5f3b-41c9-b990-4f16elit29ipsum9b",
+            "fullUrl": "sed://adipiscing-lorem-c1.adipiscing.consectetur/do/41b726f88dolor00adipiscing6d2ipsum8amet93sed40c9consectetur7b68c7a44c0do69a53455do0sit09/sed/11/{dolor}c37lorem126b249774dolor26939a9b75782d4.lorem",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}3c15657b-5f3b-41c9-b990-4f16bf29fc9b.jpg?t=1782982439",
+            "order": 11
+          },
+          {
+            "id": "96140amet9-8c7a-4amet5-sed1b-9amet9a4do8dolor0",
+            "fullUrl": "sed://adipiscing-lorem-c1.adipiscing.consectetur/do/41b726f88dolor00adipiscing6d2ipsum8amet93sed40c9consectetur7b68c7a44c0do69a53455do0sit09/sed/12/{dolor}112a3d3594f24a9dolor20b10284consectetur0e.lorem",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}84805cc9-8c7a-4dc5-af1b-9ae9a4bc8cb0.jpg?t=1782982439",
+            "order": 12
+          },
+          {
+            "id": "do3d01-4860-4e40-a8c1-sit1e45a7633",
+            "fullUrl": "sed://adipiscing-lorem-c1.adipiscing.consectetur/do/41b726f88dolor00adipiscing6d2ipsum8amet93sed40c9consectetur7b68c7a44c0do69a53455do0sit09/sed/13/{dolor}elit13ipsum8480888dolor6consectetur26288f3c4e72.lorem",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}acbe3d01-3636-4e40-a8c1-bbc1e45a6409.jpg?t=1782982439",
+            "order": 13
+          },
+          {
+            "id": "46e8d869-sed21-5286-0790-26176141170a",
+            "fullUrl": "sed://adipiscing-lorem-c1.adipiscing.consectetur/do/41b726f88dolor00adipiscing6d2ipsum8amet93sed40c9consectetur7b68c7a44c0do69a53455do0sit09/sed/14/{dolor}a94d71798a31665343b572045dolor09e6.lorem",
+            "ahUrl": "https://c2.autohero.com/1259063a-731a-4230-a424-c269d810e650/{size}46e8d869-db21-4052-9566-14831573279a.jpg?t=1782982439",
+            "order": 14
+          }
+        ]
+      },
+      "licensePlate": "RZ894H",
+      "manufacturer": "Mercedes-Benz",
+      "price": {
+        "amountMinorUnits": 2625000,
+        "conversionMajor": 100,
+        "currency": "EUR"
+      },
+      "registration": "2018-02-27",
+      "retailCountry": "NL",
+      "subType": "C 180",
+      "vatType": 1053,
+      "vin": "WDD2054401F701985"
+    }
+  }
+}

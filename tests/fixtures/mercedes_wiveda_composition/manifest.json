@@ -1,0 +1,80 @@
+[
+  {
+    "identity": "ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81",
+    "kind": "html",
+    "file": "ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81-html.gz",
+    "body_SHA256": "ca9e2edc2737bfcae1fb018ee7bdfd65bd8eaa334c13c44a569ec8d185a6390b",
+    "gzip_SHA256": "48838b7802b5468aabe83c9c350eb0f1f23c852b37775bf6f00169173e5dc260",
+    "original_body_SHA256": "cf732340eadf2160faf42be3b05863e15aba66e01117b58793a5205e087b4168",
+    "original_clock": "2026-10-12T04:04:57.959064+00:00",
+    "original_fetch_ID": 135394,
+    "url": "https://wiveda.de/fahrzeug/ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81",
+    "final_url": "https://wiveda.de/fahrzeug/ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81",
+    "projection": "Exact native Nuxt route/state projection; tempor veniam incididunt adipiscing aliqua amet elit lorem eiusmod. Dolore labore sed dolor incididunt magna adipiscing; production raw unchanged."
+  },
+  {
+    "identity": "ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81",
+    "kind": "payload",
+    "file": "ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81-payload.gz",
+    "body_SHA256": "59efa651834f54068d45080e15c9c8f6961a692c800430334fb08ae398732cff",
+    "gzip_SHA256": "e4311e1538a58f9805bc679f3860d025678d65fdab572ea459c0b17f99ef7860",
+    "original_body_SHA256": "83672dd54e8732bc36c18bbb6dfd196b9bb9961586dc82613be61925f6947d05",
+    "original_clock": "2026-10-11T10:16:34.548649+00:00",
+    "original_fetch_ID": 133159,
+    "url": "https://wiveda.de/fahrzeug/ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "final_url": "https://wiveda.de/fahrzeug/ed1bbfd4-7674-4f2a-b8c6-546d1b4f0f81/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "projection": "Do aliqua Elit amet do magna elit minim Consectetur dolor. Aliqua aliqua dolor/email/contact fields omitted; original gz/provenance retained outside Git."
+  },
+  {
+    "identity": "2d7c77bb-796f-40a6-9223-95beae929343",
+    "kind": "html",
+    "file": "2d7c77bb-796f-40a6-9223-95beae929343-html.gz",
+    "body_SHA256": "f959a23958fa5149d0a00d40197024ba7647e6cf8d94252d8cbdd8e3e1f6f0b9",
+    "gzip_SHA256": "ed2cd26b07f5aa843a812061e797e43614b88475113077136f456d45a3dad080",
+    "original_body_SHA256": "45ac2e10d505be109ab4a27f6b66d72cdd2a0c87e249baf2d65b50e486b09093",
+    "original_clock": "2026-10-12T04:05:01.061543+00:00",
+    "original_fetch_ID": 135398,
+    "url": "https://wiveda.de/fahrzeug/2d7c77bb-796f-40a6-9223-95beae929343",
+    "final_url": "https://wiveda.de/fahrzeug/2d7c77bb-796f-40a6-9223-95beae929343",
+    "projection": "Exact native Nuxt route/state projection; sit tempor amet minim sed aliqua veniam incididunt dolor. Adipiscing consectetur lorem dolore amet elit minim; production raw unchanged."
+  },
+  {
+    "identity": "2d7c77bb-796f-40a6-9223-95beae929343",
+    "kind": "payload",
+    "file": "2d7c77bb-796f-40a6-9223-95beae929343-payload.gz",
+    "body_SHA256": "0544ac325812d8d9cda9fab01e170d6eef67319e9cf65e2fd0ee1523279bc1f3",
+    "gzip_SHA256": "48bd5495039e190d114e58fc134cdd0a4c96fcbcb8df0b79b6de89202d721ea2",
+    "original_body_SHA256": "6ac75ab398136f865efadd0013f17a112eb4525ed8ce1f88bef0767adef4f618",
+    "original_clock": "2026-10-11T10:16:50.610138+00:00",
+    "original_fetch_ID": 133179,
+    "url": "https://wiveda.de/fahrzeug/2d7c77bb-796f-40a6-9223-95beae929343/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "final_url": "https://wiveda.de/fahrzeug/2d7c77bb-796f-40a6-9223-95beae929343/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "projection": "Ipsum sed Veniam aliqua ipsum elit veniam eiusmod Enim dolore. Sed sed dolore/email/contact fields omitted; original gz/provenance retained outside Git."
+  },
+  {
+    "identity": "2bf1a5cf-7949-4dea-bdb4-0846a5d15104",
+    "kind": "html",
+    "file": "2bf1a5cf-7949-4dea-bdb4-0846a5d15104-html.gz",
+    "body_SHA256": "41a6fcc927e2969e42cf7dfc5c2bdd2759bbcba3a87f1c02be6f1b6657067abd",
+    "gzip_SHA256": "8474fbaf19c23a6fb0a554ba24ab5e683676289a629bf595ea1e1769c2805721",
+    "original_body_SHA256": "2e2bfd3844313e8327c47bd619290e9336902dc2f322615a5ce309a0eb4d5f8f",
+    "original_clock": "2026-10-12T04:05:04.581421+00:00",
+    "original_fetch_ID": 135403,
+    "url": "https://wiveda.de/fahrzeug/2bf1a5cf-7949-4dea-bdb4-0846a5d15104",
+    "final_url": "https://wiveda.de/fahrzeug/2bf1a5cf-7949-4dea-bdb4-0846a5d15104",
+    "projection": "Exact native Nuxt route/state projection; magna sit aliqua eiusmod lorem sed tempor amet dolore. Minim enim incididunt adipiscing aliqua veniam eiusmod; production raw unchanged."
+  },
+  {
+    "identity": "2bf1a5cf-7949-4dea-bdb4-0846a5d15104",
+    "kind": "payload",
+    "file": "2bf1a5cf-7949-4dea-bdb4-0846a5d15104-payload.gz",
+    "body_SHA256": "d15c0200b49a031f8430615368eed79ab12e08beb517eed03c3f8ab377aa1cea",
+    "gzip_SHA256": "7cf79a0fcb8d7b17e79e0007a3db0a3259248e123a15da7d823ee67feec3e295",
+    "original_body_SHA256": "a75c20e0885a1e13e118e8ffc0f1e160c22d3114e412d5c9327a4751b248cdf6",
+    "original_clock": "2026-10-11T10:17:34.171105+00:00",
+    "original_fetch_ID": 133233,
+    "url": "https://wiveda.de/fahrzeug/2bf1a5cf-7949-4dea-bdb4-0846a5d15104/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "final_url": "https://wiveda.de/fahrzeug/2bf1a5cf-7949-4dea-bdb4-0846a5d15104/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "projection": "Labore lorem Tempor sed labore veniam tempor dolor Do adipiscing. Lorem lorem adipiscing/email/contact fields omitted; original gz/provenance retained outside Git."
+  }
+]

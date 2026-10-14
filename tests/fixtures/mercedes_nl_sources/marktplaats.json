@@ -1,0 +1,50 @@
+{
+  "provenance": {
+    "parser_url": "ipsum://do.sit.consectetur/sed/dolor/adipiscing?l1consectetur=91&l2ipsum[]=130&do=100&do=0&sed=consectetur_lorem&adipiscing=adipiscing&elit=do-amet&do[]=965&lorem[]=486&ipsum[]=534&dolor[]=473&sit[]=ipsum:5462:&amet=c180&consectetur=sit"
+  },
+  "records": [
+    {
+      "location": {
+        "countryAbbreviation": "NL"
+      },
+      "attributes": [
+        {
+          "key": "constructionYear",
+          "value": "2019"
+        },
+        {
+          "key": "mileage",
+          "value": "229410"
+        },
+        {
+          "key": "energyLabel",
+          "value": "D"
+        },
+        {
+          "key": "fuel",
+          "value": "Benzine"
+        },
+        {
+          "key": "transmission",
+          "value": "Automaat"
+        },
+        {
+          "key": "body",
+          "value": "Coupé"
+        },
+        {
+          "key": "model",
+          "value": "C-Klasse"
+        },
+        {
+          "key": "options",
+          "value": "Verwarmde buitenspiegels"
+        },
+        {
+          "key": "priceType",
+          "value": "Te koop"
+        }
+      ]
+    }
+  ]
+}

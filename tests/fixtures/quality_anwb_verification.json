@@ -1,0 +1,72 @@
+{
+  "capture": {
+    "source": "anwb",
+    "original_fetch_id": 98603,
+    "captured_at": "2026-10-07T08:18:49.485829+00:00",
+    "original_decoded_sha256": "a7ba4d7bde849df1c5d320ab3bc8ac3d0ac1b0596bc5ea7eacb45f2b71d8d6cd",
+    "url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=100&pageNumber=1",
+    "projection": "Unmodified own publication ID/Dolore, tempor, dolor aliqua aliqua tempor ipsum/seller facts; tempor sit enim elit dolore amet. Adipiscing magna ipsum do-minim enim lorem minim labore amet ipsum."
+  },
+  "native_card": {
+    "advertisementId": 60151903,
+    "url": "https://www.autotrack.nl/a/bmw-2-serie-active-tourer-benzine-2020-60151903",
+    "price": {
+      "amount": 19800,
+      "includingTax": true,
+      "total": 19800,
+      "totalIncludingTax": 19800,
+      "amountIncludingTax": 19800
+    },
+    "licencePlate": "H505FV",
+    "carData": {
+      "engine": {
+        "powerHp": 140,
+        "powerKw": 103,
+        "engineCapacity": 1499
+      },
+      "general": {
+        "brandId": "1a67a3d8-178b-43ee-9071-9ae7f19b316a",
+        "brandName": "BMW",
+        "brandSlug": "bmw",
+        "modelId": "05876d23-52bb-4941-829c-11cd5343f5a6",
+        "modelName": "2-Serie Active Tourer",
+        "modelSlug": "2-serie-active-tourer",
+        "numberOfDoors": 5,
+        "bodyType": "MPV",
+        "bodyTypeSlug": "mpv",
+        "fuelType": "BENZINE",
+        "fuelTypeSlug": "benzine",
+        "vehicleType": "PERSONENAUTO",
+        "vehicleTypeSlug": "personenauto",
+        "transmissionType": "AUTOMATISCH",
+        "transmissionTypeSlug": "automatisch",
+        "color": "ZWART",
+        "colorSlug": "zwart",
+        "editon": "218i High Executive Edition M Magna Lorem Dolor Sit Enim Minim-Up LED Koplampen Camera",
+        "commercialEdition": "218i High Executive Edition M Aliqua Ipsum Sit Amet Minim Veniam-Up LED Koplampen Camera"
+      },
+      "history": {
+        "catalogPrice": 47152,
+        "dateFirstAdmissionInternational": "2020-01-21T00:00:00Z",
+        "mileage": 80104,
+        "taxDeductible": false,
+        "imported": false,
+        "constructionYear": 2020
+      },
+      "environment": {
+        "energyLabel": "D",
+        "energyLabelSlug": "d"
+      },
+      "measuresAndWeights": {
+        "minimumRoadTax": 226,
+        "maximumRoadTax": 247
+      }
+    },
+    "seller": {
+      "sellerData": {
+        "name": "Janssen Van Kouwen Huizen",
+        "city": "Huizen"
+      }
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "country": "DE",
+    "model_profile": "mercedes_c180_c205",
+    "generation": "C205",
+    "transmissions": [
+      "automatic"
+    ],
+    "price_ceiling": null
+  },
+  "queries": [
+    {
+      "source": "adipiscing24_sed",
+      "infer_missing": false
+    },
+    {
+      "source": "sed_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "sit_dolor_ipsum_do"
+    },
+    {
+      "source": "sed_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "sit_dolor_ipsum_do"
+    },
+    {
+      "source": "sed_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "sit_dolor_ipsum_do"
+    },
+    {
+      "source": "sed_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "consectetur_sit_lorem_consectetur_50_dolor_221"
+    },
+    {
+      "source": "sed_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "sit_dolor_do"
+    },
+    {
+      "source": "sit_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "sit_dolor_do"
+    },
+    {
+      "source": "sit_dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "sit_dolor_do"
+    },
+    {
+      "source": "adipiscing_sed",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "lorem_sed_adipiscing_37_sit_41"
+    },
+    {
+      "source": "ipsum_sed",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "do_sed_consectetur_ipsum_elit_consectetur"
+    },
+    {
+      "source": "do_amet",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "elit_adipiscing_adipiscing_dolor_adipiscing_amet"
+    },
+    {
+      "source": "lorem_adipiscing",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_lorem_elit_consectetur_sit429"
+    },
+    {
+      "source": "lorem_adipiscing",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "lorem_sed3_amet_sit1"
+    },
+    {
+      "source": "lorem_adipiscing",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "adipiscing_consectetur_ipsum_consectetur"
+    },
+    {
+      "source": "lorem_adipiscing",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "adipiscing_consectetur_ipsum_consectetur"
+    },
+    {
+      "source": "lorem_adipiscing",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "adipiscing_consectetur_ipsum_consectetur"
+    },
+    {
+      "source": "sed:consectetur.dolor",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "amet_sit_lorem_consectetur_ipsum_dolor"
+    },
+    {
+      "source": "lorem:elit.adipiscing",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "lorem_do_adipiscing_dolor_consectetur_amet_lorem"
+    },
+    {
+      "source": "amet:ipsum.amet",
+      "status": "sit_dolor_do",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "adipiscing_amet_dolor_do_adipiscing"
+    },
+    {
+      "source": "ipsum_sed",
+      "status": "sed_adipiscing_403",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_dolor"
+    },
+    {
+      "source": "ipsum_sed",
+      "status": "sed_adipiscing_403",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_dolor"
+    },
+    {
+      "source": "ipsum_sed",
+      "status": "sed_adipiscing_403",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_dolor"
+    },
+    {
+      "source": "ipsum_sed",
+      "status": "sed_adipiscing_403",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_dolor"
+    },
+    {
+      "source": "amet_amet",
+      "status": "sed_adipiscing_403",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_dolor"
+    },
+    {
+      "source": "amet:ipsum.amet",
+      "status": "elit_404_adipiscing_do_elit",
+      "infer_missing": false,
+      "collection_callable": "car_market.mercedes_de_sources.collect_mercedes_de_source",
+      "coverage_status": "ipsum_dolor"
+    },
+    {
+      "source": "sed_elit_dolor",
+      "infer_missing": false
+    },
+    {
+      "source": "sed_elit_dolor",
+      "infer_missing": false
+    }
+  ]
+}

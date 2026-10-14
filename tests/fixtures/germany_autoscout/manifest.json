@@ -1,0 +1,146 @@
+[
+  {
+    "fixture": "de-search.html",
+    "url": "https://www.autoscout24.de/lst/bmw/218?atype=C&cy=D&desc=0&sort=standard&ustate=N%2CU",
+    "final_url": "https://www.autoscout24.de/lst/bmw/218?atype=C&cy=D&desc=0&sort=standard&ustate=N%2CU",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:07.723188+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "4e081dd46c00d602da3a279ac21bc588e8480cabbb6b6262c85ba32ef666e4e9"
+  },
+  {
+    "fixture": "com-de-search.json",
+    "url": "https://www.autoscout24.com/lst/bmw/218?atype=C&cy=D&desc=0&sort=standard&ustate=N%2CU",
+    "final_url": "https://www.autoscout24.com/lst/bmw/218?atype=C&cy=D&desc=0&sort=standard&ustate=N%2CU",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:07.652692+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "41ac9a438b77cfafd419058216b962f90a9c4eb66f5ac4b1316d9c9473105938"
+  },
+  {
+    "fixture": "de-page2.html",
+    "url": "https://www.autoscout24.de/lst/bmw/218?cy=D&atype=C&page=2",
+    "final_url": "https://www.autoscout24.de/lst/bmw/218?cy=D&atype=C&page=2",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:46.519279+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "c182f0b1fc95f00fbbcc8d3505031aa9b2f29808c31dd9c385f41097c993ec1a"
+  },
+  {
+    "fixture": "de-next2.json",
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261007192840/lst/bmw/218.json?cy=D&atype=C&page=2",
+    "final_url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261007192840/lst/bmw/218.json?cy=D&atype=C&page=2",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:46.769129+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "16513aee83e92c723f6434240f8aa53ce9e4d645c3a5f0dcb774b7e41fb97c7d"
+  },
+  {
+    "fixture": "de-page122.json",
+    "url": "https://www.autoscout24.de/lst/bmw/218?cy=D&atype=C&page=122",
+    "final_url": "https://www.autoscout24.de/lst/bmw/218?cy=D&atype=C&page=122",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:59:57.583330+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "4b3d409207d3db7fc0c3ea65e9142c54b2923ffa3592d091cf81eae03b4547ca"
+  },
+  {
+    "fixture": "de-page123.json",
+    "url": "https://www.autoscout24.de/lst/bmw/218?cy=D&atype=C&page=123",
+    "final_url": "https://www.autoscout24.de/lst/bmw/218?cy=D&atype=C&page=123",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:59:57.368001+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "ca8f50bf268e2966fb009750e7596532c861083c68bf7c04b105486e1ff2458f"
+  },
+  {
+    "fixture": "de-group-all.json",
+    "url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&ustate=N%2CU&ocs_listing=include",
+    "final_url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&ustate=N%2CU&ocs_listing=include",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:00:19.310988+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "552b82304b8e4dcf42101f49de270f6bb17b22306697d96c4229f1ebb9101ea1"
+  },
+  {
+    "fixture": "de-group-low.json",
+    "url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&priceto=20000",
+    "final_url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&priceto=20000",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:00:19.118490+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "848a6c9a1a9ce4885e7043258b98142612e28ace54519a5d48171a2fb0805feb"
+  },
+  {
+    "fixture": "de-group-high.json",
+    "url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&pricefrom=20001",
+    "final_url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&damaged_listing=include&pricefrom=20001",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:00:19.201418+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "f20dd1f2bed86c344f82fcf8d5e8b4676765231f05f9147b4a9478491ee09b57"
+  },
+  {
+    "fixture": "de-group-page200.json",
+    "url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&page=200",
+    "final_url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&page=200",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:00:19.170413+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "6c7233e918e4cf049faea43835373adcd6008df5a6c0ee9e65351428e211e9ff"
+  },
+  {
+    "fixture": "de-group-page201.json",
+    "url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&page=201",
+    "final_url": "https://www.autoscout24.de/lst/bmw?cy=D&atype=C&cat=ma13gr100098&page=201",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:00:19.360691+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "abcd4fb9b602b1e1a6e89f4c697d6484bbbc6ceb70d98f08e43cd7bcf7699750"
+  },
+  {
+    "fixture": "de-unknown-country.json",
+    "url": "https://www.autoscout24.de/lst/bmw/218?cy=NL&atype=C",
+    "final_url": "https://www.autoscout24.de/lst/bmw/218?cy=NL&atype=C",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T20:00:44.352818+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  {
+    "fixture": "de-target-2e5a3510-4132-41b9-91b8-dec32375c254.html",
+    "url": "https://www.autoscout24.de/angebote/bmw-2er-led-scheinwerfer-sportsitze-benzin-cat_ma13gr100098ge351va426mt713tr294-2e5a3510-4132-41b9-91b8-dec32375c254",
+    "final_url": "https://www.autoscout24.de/angebote/bmw-2er-led-scheinwerfer-sportsitze-benzin-cat_ma13gr100098ge351va426mt713tr294-2e5a3510-4132-41b9-91b8-dec32375c254",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:59:57.348904+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "c212a8ee4e18a21a8617a26578efb7fda12d021919b43dfcac3241419a4955aa"
+  },
+  {
+    "fixture": "de-target-c7564ef4-c21e-4f86-9007-d35234728a54.html",
+    "url": "https://www.autoscout24.de/angebote/bmw-2er-active-tourer-advantage-automatik-wenig-km-navi-te-benzin-grau-cat_ma13gr100098ge351va426mt713tr290-c7564ef4-c21e-4f86-9007-d35234728a54",
+    "final_url": "https://www.autoscout24.de/angebote/bmw-2er-active-tourer-advantage-automatik-wenig-km-navi-te-benzin-grau-cat_ma13gr100098ge351va426mt713tr290-c7564ef4-c21e-4f86-9007-d35234728a54",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:59:57.466619+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "6992c36d1d025177f67aed9fa140870330127a5e9e6990a159843b8ea931879b"
+  },
+  {
+    "fixture": "com-target.html",
+    "url": "https://www.autoscout24.com/offers/2e5a3510-4132-41b9-91b8-dec32375c254",
+    "final_url": "https://www.autoscout24.com/offers/bmw-218-led-scheinwerfer-sportsitze-gasoline-cat_ma13mo20327-2e5a3510-4132-41b9-91b8-dec32375c254",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:59:57.851378+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "de43cbd94f480b2624787427a0e8342ab1c246353646b3d24fe5b2c730c5a389"
+  },
+  {
+    "fixture": "de-detail-3ecd2ec7-4293-45ba-bae3-5efabcae0f7d.html",
+    "url": "https://www.autoscout24.de/angebote/bmw-2er-i-m-sport-pano-hk-hud-acc-benzin-rot-cat_ma13gr100098ge351va315mt713tr293-3ecd2ec7-4293-45ba-bae3-5efabcae0f7d",
+    "final_url": "https://www.autoscout24.de/angebote/bmw-2er-i-m-sport-pano-hk-hud-acc-benzin-rot-cat_ma13gr100098ge351va315mt713tr293-3ecd2ec7-4293-45ba-bae3-5efabcae0f7d",
+    "http_status": 200,
+    "fetched_at": "2026-10-07T19:58:46.429864+00:00",
+    "extraction": "ipsum dolor sed sed; adipiscing adipiscing ipsum/amet sit. dolor elit adipiscing a ipsum do.",
+    "fixture_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+]

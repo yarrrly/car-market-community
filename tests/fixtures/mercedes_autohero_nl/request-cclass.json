@@ -1,0 +1,37 @@
+{
+  "operationName": "searchAdV9AdsV2",
+  "variables": {
+    "search": {
+      "offset": 0,
+      "limit": 24,
+      "filter": {
+        "op": "and",
+        "value": [
+          {
+            "field": "countryCode",
+            "op": "eq",
+            "value": "NL"
+          },
+          {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "make",
+                "op": "eq",
+                "value": "570"
+              },
+              {
+                "field": "model",
+                "op": "eq",
+                "value": [
+                  "c-klasse"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

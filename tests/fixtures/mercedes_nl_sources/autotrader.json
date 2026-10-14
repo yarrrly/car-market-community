@@ -1,0 +1,24 @@
+{
+  "provenance": {
+    "parser_url": "amet://dolor.adipiscing.elit/lorem/consectetur-amet/c-180?consectetur=sed&ipsum=3&sed=A&consectetur=B&dolor=8795&adipiscing=ipsum&elit=0"
+  },
+  "contract": {
+    "filters": {}
+  },
+  "records": [
+    {
+      "id": "b9b5283f-04do-457f-80e3-dolor0elit751b6",
+      "url": "/consectetur/lorem/do-sed-c-180-do-consectetur-amet-sit-elit-sit-ipsum-consectetur_do47sit7538/b9b1849f-04ipsum-457f-80e3-amet0do751b6",
+      "vehicle": {
+        "make": "Mercedes-Benz",
+        "variant": "Coupé",
+        "motorTypeName": "C 180"
+      },
+      "location": {
+        "countryCode": "NL",
+        "zip": "8243 PM",
+        "street": "Vijzelweg 8"
+      }
+    }
+  ]
+}

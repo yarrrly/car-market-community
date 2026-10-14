@@ -1,0 +1,383 @@
+{
+  "scope": {
+    "country": "NL",
+    "model": "BMW 218i Active Tourer",
+    "transmissions": [
+      "manual",
+      "automatic"
+    ],
+    "price_ceiling": null,
+    "purchase_ceiling": 10000
+  },
+  "interval_hours": 6,
+  "workers": 4,
+  "max_pages": 100,
+  "detail_limit": 4000,
+  "rdw_limit": 200,
+  "queries": [
+    {
+      "source": "gaspedaal",
+      "key": "218i_all",
+      "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i",
+      "pagination": "page",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "autoscout24",
+      "key": "218_all_bodies",
+      "url": "https://www.autoscout24.nl/lst/bmw/218?sort=price&desc=0&cy=NL",
+      "pagination": "page",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "marktplaats",
+      "key": "active_all",
+      "url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=96&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=11585",
+      "pagination": "marktplaats_api",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "autotrack",
+      "key": "active_all",
+      "url": "https://www.autotrack.nl/aanbod/merk/bmw/model/2-serie-active-tourer?pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "pagination": "autotrack",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "autouncle",
+      "key": "218_active_all",
+      "url": "https://www.autouncle.nl/nl-nl/gebruikte-auto/BMW/218%20Active%20Tourer",
+      "pagination": "page",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "autotrader",
+      "key": "218_active_all",
+      "url": "https://www.autotrader.nl/auto/bmw/218/ve_active%20tourer",
+      "pagination": "page",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "viabovag",
+      "key": "active_all",
+      "url": "https://www.viabovag.nl/auto/merk-bmw/model-2-serie-active-tourer",
+      "pagination": "viabovag",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "nederlandmobiel",
+      "key": "active_all",
+      "url": "https://www.nederlandmobiel.nl/auto-occasions/29/2699/bmw/2-serie-active-tour",
+      "pagination": "mobiel",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "autowereld",
+      "key": "218i_all",
+      "url": "https://www.autowereld.nl/bmw/2-serie-active-tourer/_218i",
+      "pagination": "p",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "anwb",
+      "key": "active_all",
+      "url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=100&pageNumber=1",
+      "pagination": "anwb",
+      "coverage": "enumerate",
+      "request_body": {
+        "brandModel": {
+          "filter": [
+            {
+              "slug": "bmw",
+              "models": [
+                {
+                  "slug": "2-serie-active-tourer"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "source": "autohero",
+      "key": "inventory",
+      "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2?pageNumber=1",
+      "pagination": "autohero",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "bmw",
+      "key": "active_all",
+      "url": "https://occasions.bmw.nl/bmw/zoeken/resultaten?filters=YToyOntzOjQ6Im5hbWUiO3M6MjE6IjIgU2VyaWUgQWN0aXZlIFRvdXJlciI7czo0OiJwYWdlIjtpOjE7fQ%3D%3D",
+      "pagination": "bmw",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "trovit",
+      "key": "218i_discovery",
+      "url": "https://autos.trovit.nl/bmw-218i",
+      "pagination": "trovit",
+      "coverage": "enumerate"
+    },
+    {
+      "source": "autoscout24",
+      "key": "broad_control",
+      "url": "https://www.autoscout24.nl/lst/bmw/2-serie-alle?sort=price&desc=0&cy=NL",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "marktplaats",
+      "key": "broad_control",
+      "url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=96&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&query=218i&searchInTitleAndDescription=true",
+      "pagination": "marktplaats_api",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "autotrack",
+      "key": "broad_control",
+      "url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=bmw&data.merkModel.filter.0.models.0.slug=2-serie&pageNumber=1&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "pagination": "autotrack",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "viabovag",
+      "key": "broad_control",
+      "url": "https://www.viabovag.nl/auto/merk-bmw/model-2-serie",
+      "pagination": "viabovag",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "gaspedaal",
+      "key": "broad_control",
+      "url": "https://www.gaspedaal.nl/bmw/2-serie/218i-active-tourer",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "autokopen",
+      "key": "active_all",
+      "url": "https://autokopen.nl/auto/bmw/2-serie-active-tourer",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad"
+    },
+    {
+      "source": "autoweek",
+      "key": "active_all",
+      "url": "https://www.autoweek.nl/occasions/bmw/2-serie-tourer/",
+      "pagination": "autoweek",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "workers": 1
+    },
+    {
+      "source": "nederlandmobiel",
+      "key": "broad_control_until2021",
+      "url": "https://www.nederlandmobiel.nl/index.php?module=zoeken&voertuig=auto&merk%5B%5D=29&model%5B%5D=2178&source=search&bouwjaar_tot=2021",
+      "pagination": "mobiel",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "nederlandmobiel",
+      "key": "broad_control_from2022",
+      "url": "https://www.nederlandmobiel.nl/index.php?module=zoeken&voertuig=auto&merk%5B%5D=29&model%5B%5D=2178&source=search&bouwjaar_van=2022",
+      "pagination": "mobiel",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "marktnet",
+      "key": "218i_xml_recent",
+      "url": "https://www.marktnet.nl/zoeken.xml?q=218i&descr=on",
+      "pagination": "p",
+      "coverage": "recent",
+      "page_limit": 1,
+      "role": "pulse"
+    },
+    {
+      "source": "marktnet",
+      "key": "218i_bmw_xml_full",
+      "url": "https://www.marktnet.nl/zoeken.xml?q=218i&descr=on&cat_id=40",
+      "pagination": "p",
+      "coverage": "enumerate",
+      "partition": "price",
+      "cadence": "broad",
+      "partition_page_size": 20,
+      "partition_request_limit": 150
+    },
+    {
+      "source": "marktnet",
+      "key": "218i_xml_full",
+      "url": "https://www.marktnet.nl/zoeken.xml?q=218i&descr=on",
+      "pagination": "p",
+      "coverage": "enumerate",
+      "partition": "price",
+      "cadence": "broad",
+      "partition_page_size": 20,
+      "partition_request_limit": 150
+    },
+    {
+      "source": "marktnet",
+      "key": "active_xml_control",
+      "url": "https://www.marktnet.nl/zoeken.xml?q=active%20tourer&descr=on",
+      "pagination": "p",
+      "coverage": "enumerate",
+      "partition": "price",
+      "cadence": "broad",
+      "role": "control",
+      "partition_page_size": 20,
+      "partition_request_limit": 150
+    },
+    {
+      "source": "vakgarage",
+      "key": "2serie_all",
+      "url": "https://www.vakgarage.nl/occasions?merk%5B%5D=BMW&model%5BBMW%5D%5B%5D=2+Serie",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad"
+    },
+    {
+      "source": "autofirst",
+      "key": "all_inventory",
+      "url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "max_pages": 150
+    },
+    {
+      "source": "carteam",
+      "key": "bmw_all",
+      "url": "https://www.carteam.nl/occasions?f1=1948",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad"
+    },
+    {
+      "source": "autotrader",
+      "key": "broad_control",
+      "url": "https://www.autotrader.nl/auto/bmw/218",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "anwb",
+      "key": "broad_control",
+      "url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=100&pageNumber=1",
+      "pagination": "anwb",
+      "request_body": {
+        "brandModel": {
+          "filter": [
+            {
+              "slug": "bmw",
+              "models": [
+                {
+                  "slug": "2-serie"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    },
+    {
+      "source": "autokopen",
+      "key": "2serie_broad_control",
+      "url": "https://autokopen.nl/auto/bmw/2-serie",
+      "pagination": "page",
+      "coverage": "enumerate",
+      "cadence": "broad",
+      "role": "control"
+    }
+  ],
+  "channels": [
+    {
+      "source": "dealers",
+      "status": "via_listing_links",
+      "note": "Incididunt veniam tempor magna sed do consectetur magna"
+    },
+    {
+      "source": "facebook",
+      "status": "access_required",
+      "intake": "import-facebook",
+      "surfaces": [
+        "marketplace",
+        "buy_sell_groups",
+        "dealer_pages"
+      ],
+      "search_terms": [
+        "BMW 218i Active Tourer",
+        "BMW 218i",
+        "BMW 2 serie Active Tourer"
+      ],
+      "note": "Ipsum Lorem amet sed amet aliqua elit sit magna adipiscing eiusmod labore; magna lorem adipiscing minim labore dolor enim. Sed/CAPTCHA failures stop Facebook only."
+    },
+    {
+      "source": "bynco",
+      "status": "closed",
+      "note": "Official discontinuation notice on bynco.com"
+    },
+    {
+      "source": "carnext",
+      "status": "closed_retail",
+      "note": "Do Lorem elit eiusmod elit Do ipsum aliqua: no sales to private buyers; BCA B2B is a separate channel. https://www.bca.com/dam/EU/CarNext/private-buyer-NL.pdf"
+    },
+    {
+      "source": "ooyyo",
+      "status": "unverified",
+      "note": "Audited route returned 410"
+    }
+  ],
+  "fast_interval_minutes": 5,
+  "fast_sources": [
+    "gaspedaal",
+    "autoscout24",
+    "marktplaats",
+    "autotrack",
+    "autouncle",
+    "autotrader",
+    "viabovag",
+    "autowereld",
+    "anwb",
+    "marktnet",
+    "bmw"
+  ],
+  "fast_detail_limit": 25,
+  "detail_batch_limit": 75,
+  "detail_cache_hours": 24,
+  "detail_error_backoff_hours": 6,
+  "detail_parser_revision": "source-quality-2026-10-07",
+  "facebook_refresh": {
+    "enabled": false
+  },
+  "detail_parser_revisions": {
+    "marktnet": "explicit-fuel-2026-10-07",
+    "autotrack": "own-uuid-layout-2026-10-07",
+    "gaspedaal": "verified-portal-identity-2026-10-07",
+    "autoscout24": "own-next-listing-id-2026-10-07",
+    "autotrader": "own-next-listing-id-2026-10-07",
+    "trovit": "own-listing-dom-2026-10-07",
+    "dealer:www.schalkautomotive.nl": "own-stock-vdp-2026-10-07",
+    "dealer:www.drive-works.nl": "own-stock-vdp-2026-10-07"
+  }
+}

@@ -1,0 +1,605 @@
+[
+  {
+    "fixture": "pkw-c180-api.json",
+    "source": "pkw_de",
+    "url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=49_522&source=autokatalog",
+    "final_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=49_522&source=autokatalog",
+    "captured_at": "2026-10-08T14:57:02.429079+00:00",
+    "status": 200,
+    "wire_sha256": "84754be635940fb4ea35e3aadc359481ffdec8cd4a2483280ca888af33357921",
+    "fixture_sha256": "84754be635940fb4ea35e3aadc359481ffdec8cd4a2483280ca888af33357921",
+    "request_body": null
+  },
+  {
+    "fixture": "pkw-c180-api-2.json",
+    "source": "pkw_de",
+    "url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=49_522&source=autokatalog&page=2",
+    "final_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=49_522&source=autokatalog&page=2",
+    "captured_at": "2026-10-08T14:59:37.992997+00:00",
+    "status": 200,
+    "wire_sha256": "5801b8d0b0a647ad43613308382690447bd962c023ee669df4a0592204dc6ff9",
+    "fixture_sha256": "5801b8d0b0a647ad43613308382690447bd962c023ee669df4a0592204dc6ff9",
+    "request_body": null
+  },
+  {
+    "fixture": "pkw-c180-api-10.json",
+    "source": "pkw_de",
+    "url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=49_522&source=autokatalog&page=10",
+    "final_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=49_522&source=autokatalog&page=10",
+    "captured_at": "2026-10-08T14:59:45.388481+00:00",
+    "status": 200,
+    "wire_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "fixture_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "request_body": null
+  },
+  {
+    "fixture": "pkw-detail-142208737556145407.json",
+    "source": "pkw_de",
+    "url": "https://www.pkw.de/api/v1/cars/142208737556145407",
+    "final_url": "https://www.pkw.de/api/v1/cars/142208737556145407",
+    "captured_at": "2026-10-08T15:10:49.550717+00:00",
+    "status": 200,
+    "wire_sha256": "e543848e3230e4713d494c75186f289bcf593c67efb97e927f9d43fbe1607918",
+    "fixture_sha256": "e543848e3230e4713d494c75186f289bcf593c67efb97e927f9d43fbe1607918",
+    "request_body": null
+  },
+  {
+    "fixture": "autohero-broad-api-1.json",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "final_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "captured_at": "2026-10-08T15:08:45.207433+00:00",
+    "status": 200,
+    "wire_sha256": "c9300e5274eefca06ef2af9b11222060133f3ac527057467c3053eea7b8f6ebc",
+    "fixture_sha256": "c9300e5274eefca06ef2af9b11222060133f3ac527057467c3053eea7b8f6ebc",
+    "request_body": {
+      "operationName": "searchAdV9AdsV2",
+      "variables": {
+        "search": {
+          "offset": 0,
+          "limit": 24,
+          "sort": "sed_sit",
+          "filter": {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "countryCode",
+                "op": "eq",
+                "value": "DE"
+              },
+              {
+                "field": null,
+                "op": "and",
+                "value": [
+                  {
+                    "field": "make",
+                    "op": "eq",
+                    "value": "570"
+                  },
+                  {
+                    "field": "model",
+                    "op": "eq",
+                    "value": [
+                      "C-Klasse"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "aggs": [],
+          "postFilter": null,
+          "fields": [],
+          "properties": {
+            "abTestViewParams": null,
+            "firstPublishedDays": -30,
+            "shuffleCategoryBResults": true,
+            "resultsCombiner": "lorem",
+            "filterByEligibleDate": true,
+            "includeProspective": true
+          }
+        }
+      },
+      "query": "consectetur ipsum9ipsum2($sed: adipiscing!, $lorem: ipsum) {\n  ipsum9ipsum2(elit: $adipiscing, amet: $adipiscing)\n}"
+    }
+  },
+  {
+    "fixture": "autohero-broad-api-8.json",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "final_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "captured_at": "2026-10-08T15:08:50.029525+00:00",
+    "status": 200,
+    "wire_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "fixture_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "request_body": {
+      "operationName": "searchAdV9AdsV2",
+      "variables": {
+        "search": {
+          "offset": 168,
+          "limit": 24,
+          "sort": "sed_sit",
+          "filter": {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "countryCode",
+                "op": "eq",
+                "value": "DE"
+              },
+              {
+                "field": null,
+                "op": "and",
+                "value": [
+                  {
+                    "field": "make",
+                    "op": "eq",
+                    "value": "570"
+                  },
+                  {
+                    "field": "model",
+                    "op": "eq",
+                    "value": [
+                      "C-Klasse"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "aggs": [],
+          "postFilter": null,
+          "fields": [],
+          "properties": {
+            "abTestViewParams": null,
+            "firstPublishedDays": -30,
+            "shuffleCategoryBResults": true,
+            "resultsCombiner": "lorem",
+            "filterByEligibleDate": true,
+            "includeProspective": true
+          }
+        }
+      },
+      "query": "consectetur ipsum9ipsum2($sed: adipiscing!, $lorem: ipsum) {\n  ipsum9ipsum2(elit: $adipiscing, amet: $adipiscing)\n}"
+    }
+  },
+  {
+    "fixture": "autohero-complete-ui-3.json",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "final_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "captured_at": "2026-10-08T15:11:15.326729+00:00",
+    "status": 200,
+    "wire_sha256": "42b91062f24a3644c31b6f1db70b586de8c1dc1f454735153475f7cea136feb5",
+    "fixture_sha256": "42b91062f24a3644c31b6f1db70b586de8c1dc1f454735153475f7cea136feb5",
+    "request_body": {
+      "operationName": "searchAdV9AdsV2",
+      "variables": {
+        "search": {
+          "offset": 0,
+          "limit": 24,
+          "sort": "sed_sit",
+          "filter": {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "countryCode",
+                "op": "eq",
+                "value": "DE"
+              },
+              {
+                "field": null,
+                "op": "and",
+                "value": [
+                  {
+                    "field": "make",
+                    "op": "eq",
+                    "value": "570"
+                  },
+                  {
+                    "field": "model",
+                    "op": "eq",
+                    "value": [
+                      "C-Klasse"
+                    ]
+                  }
+                ]
+              },
+              {
+                "field": "firstRegistrationYear",
+                "op": "gte",
+                "value": "2016"
+              },
+              {
+                "field": "bodyType",
+                "op": "eq",
+                "value": [
+                  1008
+                ]
+              },
+              {
+                "field": "gearType",
+                "op": "eq",
+                "value": [
+                  "1139",
+                  "1140",
+                  "1141"
+                ]
+              }
+            ]
+          },
+          "aggs": [],
+          "postFilter": null,
+          "fields": [],
+          "properties": {
+            "abTestViewParams": null,
+            "firstPublishedDays": -30,
+            "shuffleCategoryBResults": true,
+            "resultsCombiner": "lorem",
+            "filterByEligibleDate": true,
+            "includeProspective": true
+          }
+        }
+      },
+      "query": "consectetur ipsum9ipsum2($sed: adipiscing!, $lorem: ipsum) {\n  ipsum9ipsum2(elit: $adipiscing, amet: $adipiscing)\n}"
+    }
+  },
+  {
+    "fixture": "autohero-combined-ui-4.json",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "final_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "captured_at": "2026-10-08T15:21:06.447810+00:00",
+    "status": 200,
+    "wire_sha256": "83519ec82ca32375b1c4571605d057fd3c629f82bc55bf1d2763b7e14584e316",
+    "fixture_sha256": "83519ec82ca32375b1c4571605d057fd3c629f82bc55bf1d2763b7e14584e316",
+    "request_body": {
+      "operationName": "searchAdV9AdsV2",
+      "variables": {
+        "search": {
+          "offset": 0,
+          "limit": 24,
+          "sort": "sed_sit",
+          "filter": {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "countryCode",
+                "op": "eq",
+                "value": "DE"
+              },
+              {
+                "field": null,
+                "op": "and",
+                "value": [
+                  {
+                    "field": "make",
+                    "op": "eq",
+                    "value": "570"
+                  },
+                  {
+                    "field": "model",
+                    "op": "eq",
+                    "value": [
+                      "C-Klasse"
+                    ]
+                  }
+                ]
+              },
+              {
+                "field": "firstRegistrationYear",
+                "op": "gte",
+                "value": "2016"
+              },
+              {
+                "field": "bodyType",
+                "op": "eq",
+                "value": [
+                  1008
+                ]
+              },
+              {
+                "field": "fuelType",
+                "op": "eq",
+                "value": [
+                  "1039"
+                ]
+              },
+              {
+                "field": "gearType",
+                "op": "eq",
+                "value": [
+                  "1139",
+                  "1140",
+                  "1141"
+                ]
+              }
+            ]
+          },
+          "aggs": [],
+          "postFilter": null,
+          "fields": [],
+          "properties": {
+            "abTestViewParams": null,
+            "firstPublishedDays": -30,
+            "shuffleCategoryBResults": true,
+            "resultsCombiner": "lorem",
+            "filterByEligibleDate": true,
+            "includeProspective": true
+          }
+        }
+      },
+      "query": "consectetur ipsum9ipsum2($sed: adipiscing!, $lorem: ipsum) {\n  ipsum9ipsum2(elit: $adipiscing, amet: $adipiscing)\n}"
+    }
+  },
+  {
+    "fixture": "autohero-fuel-ui-1.json",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "final_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "captured_at": "2026-10-08T15:14:58.677863+00:00",
+    "status": 200,
+    "wire_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "fixture_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "request_body": {
+      "operationName": "searchAdV9AdsV2",
+      "variables": {
+        "search": {
+          "offset": 0,
+          "limit": 24,
+          "sort": "sed_sit",
+          "filter": {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "countryCode",
+                "op": "eq",
+                "value": "DE"
+              },
+              {
+                "field": null,
+                "op": "and",
+                "value": [
+                  {
+                    "field": "make",
+                    "op": "eq",
+                    "value": "570"
+                  },
+                  {
+                    "field": "model",
+                    "op": "eq",
+                    "value": [
+                      "C-Klasse"
+                    ]
+                  }
+                ]
+              },
+              {
+                "field": "fuelType",
+                "op": "eq",
+                "value": [
+                  "1039"
+                ]
+              }
+            ]
+          },
+          "aggs": [],
+          "postFilter": null,
+          "fields": [],
+          "properties": {
+            "abTestViewParams": null,
+            "firstPublishedDays": -30,
+            "shuffleCategoryBResults": true,
+            "resultsCombiner": "lorem",
+            "filterByEligibleDate": true,
+            "includeProspective": true
+          }
+        }
+      },
+      "query": "consectetur ipsum9ipsum2($sed: adipiscing!, $lorem: ipsum) {\n  ipsum9ipsum2(elit: $adipiscing, amet: $adipiscing)\n}"
+    }
+  },
+  {
+    "fixture": "autohero-c205-detail.html",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/de/mercedes-benz-c-klasse/id/15ce297b-b4e3-478d-b65e-71c39769935d/",
+    "final_url": "https://www.autohero.com/de/mercedes-benz-c-klasse/id/15ce297b-b4e3-478d-b65e-71c39769935d/?_abe=1",
+    "captured_at": "2026-10-08T15:11:34.022567+00:00",
+    "status": 200,
+    "wire_sha256": "dca7af99eba72a08e3a8c23c9e21d222171b716d10ffe741498588884c8ee3ea",
+    "fixture_sha256": "b46df7871e2dbb5d7b2dc142765109cce3046d3e999caa09b513485c3e7aaac9",
+    "request_body": null
+  },
+  {
+    "fixture": "klein-c180-coupe-date-1.html",
+    "source": "kleinanzeigen_de",
+    "url": "https://www.kleinanzeigen.de/s-autos/mercedes-c180-coupe/k0c216?sortingField=SORTING_DATE",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/mercedes-c180-coupe/k0c216?sortingField=SORTING_DATE",
+    "captured_at": "2026-10-08T14:54:51.421402+00:00",
+    "status": 200,
+    "wire_sha256": "5134c40cf3691271a012093ca1d9c4b44a2ef184f214859977d297edc00281c4",
+    "fixture_sha256": "52cf6424ff2b35a03314a82e2bdb18765a27350280b75d531e8fd75f9bd76b2c",
+    "request_body": null
+  },
+  {
+    "fixture": "klein-c180-coupe-date-11.html",
+    "source": "kleinanzeigen_de",
+    "url": "https://www.kleinanzeigen.de/s-autos/seite:11/mercedes-c180-coupe/k0c216?sortingField=SORTING_DATE",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/seite:11/mercedes-c180-coupe/k0c216?sortingField=SORTING_DATE",
+    "captured_at": "2026-10-08T14:57:15.522592+00:00",
+    "status": 200,
+    "wire_sha256": "fea55151e68a05b69a3d3a3e9df9b4ebb7779694e733df9be248313a8b7bb125",
+    "fixture_sha256": "5366ea153ce5da497bdfb2c92f59a3b76aa562f06873c6addbab5fbbd0b54aac",
+    "request_body": null
+  },
+  {
+    "fixture": "klein-modern-detail.html",
+    "source": "kleinanzeigen_de",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/mercedes-benz-c-180-coupe-amg-line-night-paket-navi-led-sch-s/3458904226-216-9361",
+    "final_url": "https://www.kleinanzeigen.de/s-anzeige/mercedes-benz-c-180-coupe-amg-line-night-paket-navi-led-sch-s/3458904226-216-9361",
+    "captured_at": "2026-10-08T15:03:46.648798+00:00",
+    "status": 200,
+    "wire_sha256": "4f5303ddbc98c2bdd66be6dcabca84420e569ab31b92e54ddc79a4b458e32067",
+    "fixture_sha256": "ed2bc735a3d79703e4883bf63db5e92d080be5e80aa9c4288153da42080b2fbf",
+    "request_body": null
+  },
+  {
+    "fixture": "instamotion-c180.html",
+    "source": "instamotion_de",
+    "url": "https://www.instamotion.com/de/autos/mercedes-benz/c-180",
+    "final_url": "https://www.instamotion.com/de/autos/mercedes-benz/c-180",
+    "captured_at": "2026-10-08T14:54:53.254040+00:00",
+    "status": 200,
+    "wire_sha256": "d3703088c645b7b565023d34c8b118715bdeffc47e175ee4288712b6905c64ac",
+    "fixture_sha256": "59c584335563d71bc7455b942a4d4ae1746df294f50549db7224263eb1f5ae78",
+    "request_body": null
+  },
+  {
+    "fixture": "instamotion-c180-3.html",
+    "source": "instamotion_de",
+    "url": "https://www.instamotion.com/de/autos?model[]=MAKE_MERCEDES_BENZ-MODELFAMILY_C_180&sort=publish-date&direction=desc&page=3&limit=20",
+    "final_url": "https://www.instamotion.com/de/autos/mercedes-benz/c-180?page=3",
+    "captured_at": "2026-10-08T15:00:06.612937+00:00",
+    "status": 200,
+    "wire_sha256": "0d8f185e1e1f9f520cc217ebbc37f050bb68b46901ad1b1d91c25a7372bfd041",
+    "fixture_sha256": "ed6d4461eb68c33b2125dc7f7c15a802334f291f120262cc9ef9b11a5521aaae",
+    "request_body": null
+  },
+  {
+    "fixture": "wiveda-c180-payload.json",
+    "source": "dealer:wiveda.de",
+    "url": "https://wiveda.de/gebrauchtwagen/mercedes-benz/c-180/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "final_url": "https://wiveda.de/gebrauchtwagen/mercedes-benz/c-180/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "captured_at": "2026-10-08T14:57:03.270648+00:00",
+    "status": 200,
+    "wire_sha256": "902b067323d76c5073f6c1dab130748842d4cefc33d995a721d310f563735c1b",
+    "fixture_sha256": "7c9c1a2b49095344bac4893c2a5e0e806e3b5e40c7b99505aeac6507eccf2125",
+    "request_body": null
+  },
+  {
+    "fixture": "wiveda-c180-5-payload.json",
+    "source": "dealer:wiveda.de",
+    "url": "https://wiveda.de/gebrauchtwagen/mercedes-benz/c-180/_payload.json?page=5&_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "final_url": "https://wiveda.de/gebrauchtwagen/mercedes-benz/c-180/_payload.json?page=5&_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "captured_at": "2026-10-08T14:59:57.971532+00:00",
+    "status": 200,
+    "wire_sha256": "bbdd9133681524da112dda172681d81efdddb426d09ba385bdaad346a539ab97",
+    "fixture_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "request_body": null
+  },
+  {
+    "fixture": "wiveda-detail-2bf1a5cf-7949-4dea-bdb4-0846a5d15104-payload.json",
+    "source": "dealer:wiveda.de",
+    "url": "https://wiveda.de/fahrzeug/2bf1a5cf-7949-4dea-bdb4-0846a5d15104/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "final_url": "https://wiveda.de/fahrzeug/2bf1a5cf-7949-4dea-bdb4-0846a5d15104/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "captured_at": "2026-10-08T15:10:35.499510+00:00",
+    "status": 200,
+    "wire_sha256": "4b80e197c78d3d7a97793dccc6a7cbbdae902539832c7ce34abfb8d1b206ac77",
+    "fixture_sha256": "568c853677a6244bdbb67d52ad0f3ee5d1c9f3770faf4939a975f0f61f2ab6de",
+    "request_body": null
+  },
+  {
+    "fixture": "wiveda-native-payload-link.html",
+    "source": "dealer:wiveda.de",
+    "url": "https://wiveda.de/gebrauchtwagen/mercedes-benz/c-180",
+    "final_url": "https://wiveda.de/gebrauchtwagen/mercedes-benz/c-180",
+    "captured_at": "2026-10-08T14:56:01.250980+00:00",
+    "status": 200,
+    "wire_sha256": "4d188216bb5c1f208359fa523ba62e05191341f4965f064837ea695a7b7a4006",
+    "fixture_sha256": "271ec18b18ac5e847065090e929684138fab9dc16b2105e0677993719e7a5d0e",
+    "request_body": null
+  },
+  {
+    "fixture": "carwow-native-c-class.html",
+    "source": "carwow_de",
+    "url": "https://angebote.carwow.de/stock_cars/deal-cards?brand_slug=mercedes&model_slug=c-klasse&vehicle_state_group=all",
+    "final_url": "https://angebote.carwow.de/stock_cars/deal-cards?brand_slug=mercedes&model_slug=c-klasse&vehicle_state_group=all",
+    "captured_at": "2026-10-08T15:05:12.748628+00:00",
+    "status": 200,
+    "wire_sha256": "70eac42e6689958aabdd2f8da21b2a2239ab9c9398480a8ea98726526256d061",
+    "fixture_sha256": "0e1d3c8bb0357c76356615c86b25f9990d42a51848691ef2ee198bca63924535",
+    "request_body": null
+  },
+  {
+    "fixture": "twelve-coupe.html",
+    "source": "gebrauchtwagen_de",
+    "url": "https://www.12gebrauchtwagen.de/auto/mercedes-benz/c-180/coupe",
+    "final_url": "https://www.12gebrauchtwagen.de/auto/mercedes-benz/c-180/coupe",
+    "captured_at": "2026-10-08T14:56:01.408599+00:00",
+    "status": 200,
+    "wire_sha256": "c2e55023593802a9057175f7f32c5ea10ca91fb0f010d96c2cb5028d15336c07",
+    "fixture_sha256": "291b844b9ead33eca386074c0b04627c046b4599325dddc03e500119e5a25e38",
+    "request_body": null
+  },
+  {
+    "fixture": "quoka-c180.html",
+    "source": "quoka_de",
+    "url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/?q=mercedes+c180+coupe&commercial=true",
+    "final_url": "https://www.quoka.de/anzeigen/auto-motorrad/automarkt/?q=mercedes+c180+coupe&commercial=true",
+    "captured_at": "2026-10-08T14:54:51.875728+00:00",
+    "status": 200,
+    "wire_sha256": "8df89e1612f26167b7c0baa0081793a689530d04695c826e8893fb643782b0c4",
+    "fixture_sha256": "5cc0d4ae41b326e6fec9073f2920c8f30bbe4acf8e6d293c0085668c5c4aad18",
+    "request_body": null
+  },
+  {
+    "fixture": "markt-c180.html",
+    "source": "markt_de",
+    "url": "https://www.markt.de/fahrzeuge/autos/suche/mercedes+c180+coupe/",
+    "final_url": "https://www.markt.de/fahrzeuge/autos/suche/mercedes+c180+coupe/",
+    "captured_at": "2026-10-08T14:54:51.756501+00:00",
+    "status": 200,
+    "wire_sha256": "8d868d33825b109f4ad4d7fc108aad9ca48b9e39df4b34d2c030d9e5e78965c0",
+    "fixture_sha256": "79877b0ee72b4ea57bc6c78de9e28a99694c71a3b9656a0a8a14e1eb58dd2fae",
+    "request_body": null
+  },
+  {
+    "fixture": "autoland-c-class.html",
+    "source": "dealer:autoland.de",
+    "url": "https://autoland.de/mercedes-benz/c-klasse",
+    "final_url": "https://autoland.de/mercedes-benz/c-klasse",
+    "captured_at": "2026-10-08T14:54:53.069946+00:00",
+    "status": 200,
+    "wire_sha256": "f0bebcbf3cded87b08443e47c02f7666b5ae0d2422c5c093ca24f4d7b36f3628",
+    "fixture_sha256": "bb4744d8e5f50c0c28f35e9131f68cdfe2d55d9780ba78e340ddd3bb01220a1b",
+    "request_body": null
+  },
+  {
+    "fixture": "autoland-c-class-4.html",
+    "source": "dealer:autoland.de",
+    "url": "https://autoland.de/mercedes-benz/c-klasse?page=4",
+    "final_url": "https://autoland.de/mercedes-benz/c-klasse?page=4",
+    "captured_at": "2026-10-08T14:59:53.828824+00:00",
+    "status": 200,
+    "wire_sha256": "1d8ea025cce1d3293135b2776cff2bdeb217b32bc8c4cb1815375ad53b25bdde",
+    "fixture_sha256": "856de438155627c4d81d934a06ebc533a38edc273df3927277af860cae7df794",
+    "request_body": null
+  },
+  {
+    "fixture": "weller-c-class.html",
+    "source": "dealer:wellergruppe.de",
+    "url": "https://wellergruppe.de/fahrzeuge/mercedes-benz/c-klasse%20%28alle%29/",
+    "final_url": "https://wellergruppe.de/fahrzeuge/mercedes-benz/c-klasse%20%28alle%29/",
+    "captured_at": "2026-10-08T14:56:00.740680+00:00",
+    "status": 200,
+    "wire_sha256": "05d96bde5281d78403f4786cdb17f4314f24f820961fb6ca42ad7eb16747b77e",
+    "fixture_sha256": "eed94df531d313abceb0e162ba6b566fbbc75268904d29341183f4daf5508a56",
+    "request_body": null
+  },
+  {
+    "fixture": "autohero-other-engine-detail.html",
+    "source": "autohero_de",
+    "url": "https://www.autohero.com/de/mercedes-benz-c-klasse/id/0930fb0a-1c10-41a1-ae20-13f5f1aa10b9/",
+    "final_url": "https://www.autohero.com/de/mercedes-benz-c-klasse/id/0930fb0a-1c10-41a1-ae20-13f5f1aa10b9/?_abe=1",
+    "captured_at": "2026-10-08T15:31:14.433709+00:00",
+    "status": 200,
+    "wire_sha256": "41316ab959b0f3c308b7c950d327bda06716fd19f6bd414694ad400b908724a3",
+    "fixture_sha256": "d2b797cc772c3c9b56b14e0deda8f0563629ec80e15a5a69d12bd13a4b6d8f19",
+    "request_body": null
+  }
+]

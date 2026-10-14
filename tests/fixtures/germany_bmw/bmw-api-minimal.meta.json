@@ -1,0 +1,5 @@
+{
+  "transport": "http_urllib_no_auth",
+  "status": 403,
+  "response_body_not_retained": true
+}

@@ -1,0 +1,255 @@
+[
+  {
+    "fixture": "straussberger-search.html",
+    "fixture_sha256": "1a082c9d85a0d026caaad45eb42ff7b43c86b1c4c3a9d679dfe6d7e11d99c78d",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/suche/?fwp_klasse=pkw&_modell=218-active-tourer",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/suche/?fwp_klasse=pkw&_modell=218-active-tourer",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:15.443344+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ef6cdc307ec653d2ff797a89ffa3f8a5a452648fb00c018c23d18db8479be5f8",
+      "retained_sha256": "116800d4fc93e9e0c2eca827b4ec9c6123c7a39a973967c5ef960d451db24e05"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51908193.html",
+    "fixture_sha256": "3bba9127596a71b2502462f72fc293e2e14c3693e6e5d1360dd068190f3a14c1",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908193/218i-at-m-sport-acc-pano-hk-2zk-memory-adpt-led/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908193/218i-at-m-sport-acc-pano-hk-2zk-memory-adpt-led/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:10:13.926757+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "08ac267d1a51b481cc433144cd8c068137431f7c81e21264991fbeb43dee4bd0",
+      "retained_sha256": "11389e3b8ccdebdfa570ddae0baf3c37b1df21affbbcfd07e57fca6567bd03cc"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51908316.html",
+    "fixture_sha256": "829fd22baba3811d6dd4f52d213b3196290850fd55279bdf804bc05ee53b1d25",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908316/218i-at-m-sport-ahk-acc-pano-h-k-hud-shz-memory/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908316/218i-at-m-sport-ahk-acc-pano-h-k-hud-shz-memory/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:10:15.436815+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1326b457ac0f490b61859ecf8c491f6ca051d1825621c364a972957e97f2fa81",
+      "retained_sha256": "b0e1d3462493e931f76c9aa1512ea97e93d8187ee8ce1eefb63f00fac1f3326d"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51908513.html",
+    "fixture_sha256": "cd2a47041e829e49404d8e88be340b4985ebd0eed5eba936e193b4fd7a4829dd",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908513/218i-active-tourer-m-sport-ahk-acc-hk-kzu-hud/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908513/218i-active-tourer-m-sport-ahk-acc-hk-kzu-hud/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:17.549105+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "bfea3edd38fd4c02a87c6e04b3232c4d54f741f17920b82589516e26af1c374f",
+      "retained_sha256": "3a2bb9cc42acbcf278b1b13c5fdc3e5b5875cefbceeb1b34889af8251bfad87c"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51908582.html",
+    "fixture_sha256": "a8a2e28377f3ed1636385136f6bf479df819a42d71b3f08f4f72e5082614dde8",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908582/218i-at-m-sport-acc-ahk-pano-h-k-2zk-hud-memory/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51908582/218i-at-m-sport-acc-ahk-pano-h-k-2zk-hud-memory/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:19.336255+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3fb0e6d3c0f0c2ae55a7cb5199972ec41ac1de33587fec34cdba6993aab2985e",
+      "retained_sha256": "12278b1a956b9c1495eadd7f0aec1eb070ce3a9003a4e4639b0ec29639ccd29c"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51909728.html",
+    "fixture_sha256": "4bfb1f39ad2bace8da13d6539639cfac44f7346ed83d877a33b7b59ad48d477f",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51909728/218i-at-m-sport-acc-2zk-hud-hk-shz-adpt-led/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51909728/218i-at-m-sport-acc-2zk-hud-hk-shz-adpt-led/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:21.048209+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "7df97fa45918acc2d8ecc3b096e81642626e7938971eeaa46c2ece8a774ec4f6",
+      "retained_sha256": "e03e48980b664ad1f857885a59815b2773ab511d46aa4c9d51619f4c26a77cd1"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51912206.html",
+    "fixture_sha256": "d9a1c18c7d77df1ecfab43338f854938163539a3d2edabfd2c0545b948af5778",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51912206/218i-active-tourer-m-sport-acc-hud-kz-2zk-360/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51912206/218i-active-tourer-m-sport-acc-hud-kz-2zk-360/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:22.757512+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4d3093358c71b4c8e71d3d90c4ac90f31b0783e2dc5d31e86bffe6e584b65240",
+      "retained_sha256": "9395f63632823535d07cc2976709b6029b036c364efc7d3510ee85d5fb9ef257"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51914189.html",
+    "fixture_sha256": "33c99c726cac4b9e3fa83d5a9bc602baaaaacba2b399cee95489e813101b6387",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51914189/218i-at-acc-2zk-rfk-pdc-kzu-qi-hifi-adaptive-led/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51914189/218i-at-acc-2zk-rfk-pdc-kzu-qi-hifi-adaptive-led/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:24.403086+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "99b65ec5c4fc349642a159987a1c1e7441ccc17524df1b8e1237666f8054f79e",
+      "retained_sha256": "2e449a7fc0f86bd1aa804125574cf0bf36c45f0ff8f3ea995b2f477a2df95a48"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51916710.html",
+    "fixture_sha256": "4da0d90bc1784eb12958c4238162e0b578051aed40b1e6fe29fb81e952884889",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51916710/218i-at-m-sport-acc-hk-ahk-360-hud-adpt-led/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51916710/218i-at-m-sport-acc-hk-ahk-360-hud-adpt-led/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:26.036885+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d523624a7e964183bcf4406a7df0805d903f6eda3873284de615240677cd5814",
+      "retained_sha256": "ad5fabbf4f8cd39ff1fdacdef32d1ce74c743428f8c21edb62e653216b10834c"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-51917694.html",
+    "fixture_sha256": "4fd12c24c7ffea1e1d45bd147ccdf6427f45e876363f1706acb85a27e48b027a",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51917694/218i-active-tourer-acc-kzu-qi-led-hk-memory/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/51917694/218i-active-tourer-acc-kzu-qi-led-hk-memory/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:27.636113+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "94c449c2da099f34fdf49623f93705395d258c0a247000d2dc8d4cc377d45bb5",
+      "retained_sha256": "37b2b3e9083a65a74d4956fafc1366e6dbd5e0696e984ad9d21d2f31c90c3163"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-52613151.html",
+    "fixture_sha256": "3c195b7f815dbbe0d4941ff039e751c445376047850a748780cf6a66f956992e",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/52613151/218i-at-m-sport-acc-ahk-pano-hk-2zk-memory-360/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/52613151/218i-at-m-sport-acc-ahk-pano-hk-2zk-memory-360/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:29.104187+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "aaf8f6e36bac5dd8634e2e029fbfa0bd26e9af17fe5fe92d5d291d4d16e92975",
+      "retained_sha256": "d72c4c59577897a384a6190ddd6494281272935d7acf7abc5cec50e01303d561"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-52748685.html",
+    "fixture_sha256": "0464e1b55807aae2ea6daa48e0997b75b4f5ee0137e0fc9ff14abdb91affc98c",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/52748685/218i-active-tourer-m-sport-acc-2zk-rfk-kzu-dsc/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/52748685/218i-active-tourer-m-sport-acc-2zk-rfk-kzu-dsc/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:30.999776+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "f9c712e1cde838948d1ad759018516c0ada39f78eeaa65a1a0b13bdf04361747",
+      "retained_sha256": "6e93f7883129c599924331aecb2181719891ca3bad2ab47a381d771dda728049"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-52956720.html",
+    "fixture_sha256": "ad673cca669bdfdcb618902d56061e6967afad5fced6600a7495b161dec09478",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/52956720/218i-active-tourer-m-sport-hud-2zk-ahk-pano-acc/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/52956720/218i-active-tourer-m-sport-hud-2zk-ahk-pano-acc/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:33.983292+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3966ce0ca6dcb11023358acd9c4de5b9104ded978da67d04c7e1bb906d8616d2",
+      "retained_sha256": "6a1be82852b714dd121052848a76a340ba1756c0bb643524acbb00e3e6aa7de6"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-53031025.html",
+    "fixture_sha256": "858bb073c90094468e16acaf73fe707a4bb901d9c666044b9d85f93b18beba8a",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/53031025/218i-active-tourer-m-sport-led-acc-2zk-rfk-hifi/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/53031025/218i-active-tourer-m-sport-led-acc-2zk-rfk-hifi/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:36.450878+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b6091d467f100c6fbbcf9381291403dc066693b323adc5819c2c9210dbe0c41a",
+      "retained_sha256": "eef54db910193e1eb67bdd58e59ad8d5e0f26bdd9c65cbbd9c20fe21e2063847"
+    }
+  },
+  {
+    "fixture": "straussberger-detail-53031060.html",
+    "fixture_sha256": "f32c5a13ecd6508b8248546b36d7fbfaadedef124e68ac1dc3715122b7364667",
+    "metadata": {
+      "requested_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/53031060/218i-active-tourer-m-sport-acc-hk-360-hud-ahk/",
+      "final_url": "https://fahrzeugmarkt.auto-straussberger.de/fahrzeuge/53031060/218i-active-tourer-m-sport-acc-hk-360-hud-ahk/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:16:39.162425+00:00",
+      "method": "GET",
+      "transport": "ordinary_urllib_no_auth",
+      "error": null,
+      "phase": "enumeration",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "283f506841d692dd2364db9b59863128eff14679b335ef52f1120e0db58062d4",
+      "retained_sha256": "e892b5e78ea9c093384132bfaaff73f7ea3f7eaa2c78b5ba12b0a50892ef25fc"
+    }
+  }
+]

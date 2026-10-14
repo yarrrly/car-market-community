@@ -1,0 +1,121 @@
+[
+  {
+    "fixture": "search.html",
+    "url": "https://www.kleinanzeigen.de/s-autos/bmw-218i-active-tourer/k0c216",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/bmw-218i-active-tourer/k0c216",
+    "status": 200,
+    "fetched_at": "2026-10-07T19:58:47.128038+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/0/lorem_do",
+    "original_decoded_sha256": "2be710192d4639526feca4aa46fa2b85b446e4646f6ac688ebca6d7d3d3548f8",
+    "fixture_sha256": "2c2e766191c930985138564db83479892d57b8925f1a32b18fd1176c3fa0603f",
+    "extraction": "do lorem amet ipsum sed/amet lorem sit elit amet/dolor/ipsum/amet/amet; dolor adipiscing consectetur ipsum; ipsum consectetur."
+  },
+  {
+    "fixture": "page2.html",
+    "url": "https://www.kleinanzeigen.de/s-autos/seite:2/bmw-218i-active-tourer/k0c216",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/seite:2/bmw-218i-active-tourer/k0c216",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:02:16.047895+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/1/lorem_do",
+    "original_decoded_sha256": "2535b2e8a34337981b1f0f1cfdf8592d8a7a67eeb2968b5541d8f4c7f4f5acee",
+    "fixture_sha256": "dfd111071e3b0a0b70657b66af042ba3e81b091132f3b1804f78ca6c2f34849a",
+    "extraction": "do lorem amet ipsum sed/amet lorem sit elit amet/dolor/ipsum/amet/amet; dolor adipiscing consectetur ipsum; ipsum consectetur."
+  },
+  {
+    "fixture": "last.html",
+    "url": "https://www.kleinanzeigen.de/s-autos/seite:24/bmw-218i-active-tourer/k0c216",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/seite:24/bmw-218i-active-tourer/k0c216",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:07:22.661386+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/2/lorem_do",
+    "original_decoded_sha256": "31c366698267620f2a989fba2513e14398a8583f15d982264809be5dae1535e1",
+    "fixture_sha256": "b6f42b7f0777cd0e4d565e8182ea27193203cdef7bb324d8cfb4ee74f57253a9",
+    "extraction": "do lorem amet ipsum sed/amet lorem sit elit amet/dolor/ipsum/amet/amet; dolor adipiscing consectetur ipsum; ipsum consectetur."
+  },
+  {
+    "fixture": "after-last.html",
+    "url": "https://www.kleinanzeigen.de/s-autos/seite:25/bmw-218i-active-tourer/k0c216",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/seite:25/bmw-218i-active-tourer/k0c216",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:07:22.661521+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/3/lorem_do",
+    "original_decoded_sha256": "a9dcef25c55ea75e5e9b09a062d0c818b8e751d0063fc915cd73fe9707387e43",
+    "fixture_sha256": "819b53a8e55099e36a46a3b943f08b13baa2eb7c9db20d9cd5f8eadf5b909426",
+    "extraction": "do lorem amet ipsum sed/amet lorem sit elit amet/dolor/ipsum/amet/amet; dolor adipiscing consectetur ipsum; ipsum consectetur."
+  },
+  {
+    "fixture": "detail.html",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/bmw-218i-active-tourer-steptronic-dct-m-sport-ahk/3534143984-216-9267",
+    "final_url": "https://www.kleinanzeigen.de/s-anzeige/bmw-218i-active-tourer-steptronic-dct-m-sport-ahk/3534143984-216-9267",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:02:16.047271+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/4/lorem_do",
+    "original_decoded_sha256": "e9117f795c12b7034c8bc2e0161049b10afbc53fba026b2bda3abc3861b44d7a",
+    "fixture_sha256": "0e64ca23d1f12c6f503fb015b68046967e9e6021fe54b001c80cd3dc967d0623",
+    "extraction": "do lorem amet ipsum sed/amet lorem sit elit amet/dolor/ipsum/amet/amet; dolor adipiscing consectetur ipsum; ipsum consectetur."
+  },
+  {
+    "fixture": "active-date-first.html",
+    "url": "https://www.kleinanzeigen.de/s-autos/bmw-active-tourer/k0c216?sortingField=SORTING_DATE",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/bmw-active-tourer/k0c216?sortingField=SORTING_DATE",
+    "status": 200,
+    "fetched_at": "2026-10-07T21:02:22.666965+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/5/lorem_do",
+    "original_decoded_sha256": "91ef99bb242d4813829ac1c453d95d1fb76c7630d2412bdcc6a078c1c0786d0d",
+    "fixture_sha256": "069615fcb3f12854d3707528878591c3fa464fbfb72e31196d1673874ee17eb7",
+    "extraction": "dolor lorem adipiscing sit/do amet sed sit elit amet dolor. sed adipiscing sit lorem; elit ipsum."
+  },
+  {
+    "fixture": "218i-date-last.html",
+    "url": "https://www.kleinanzeigen.de/s-autos/seite:44/bmw-218i/k0c216?sortingField=SORTING_DATE",
+    "final_url": "https://www.kleinanzeigen.de/s-autos/seite:44/bmw-218i/k0c216?sortingField=SORTING_DATE",
+    "status": 200,
+    "fetched_at": "2026-10-07T21:02:22.943104+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/6/lorem_do",
+    "original_decoded_sha256": "7efefc7ea8356c3037c2517af4e4200b9edc80dd2111f1b949782ad12e05572b",
+    "fixture_sha256": "c6cf80844f7de525d4d86f16445fc0c7f617651f27e30f1014d3d94da74fc2e1",
+    "extraction": "do elit sit lorem/adipiscing sed do ipsum dolor do sit. lorem amet ipsum amet; ipsum consectetur."
+  },
+  {
+    "fixture": "autohero-syndication-3526227598.html",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/bmw-2er-218i-active-tourer-aut-navi-head-up-led-cam/3526227598-216-6620",
+    "final_url": "https://www.kleinanzeigen.de/s-anzeige/bmw-2er-218i-active-tourer-aut-navi-head-up-led-cam/3526227598-216-6620",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:59:03.772146+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/7/lorem_do",
+    "original_decoded_sha256": "65d6ea209e53022d2fa3e06d1d0234bc362fc03203254c228e00063244f90b97",
+    "fixture_sha256": "43c8d77a657e89c632fa3b5584fc07c46a8bfe16551a9c9edbe8247d5b572b97",
+    "audit_database_path": "consectetur-sit:dolor/sed/elit_consectetur/do.sed#/7/adipiscing_dolor_ipsum",
+    "audit_database_access": "sit=sed; dolor_sed=sit; elit sit",
+    "original_fetch_id": 1046,
+    "extraction": "sed dolor/dolor/ipsum/do dolor; dolor adipiscing, consectetur, lorem/sed/consectetur consectetur lorem ipsum; lorem consectetur do sit lorem."
+  },
+  {
+    "fixture": "autohero-syndication-3533829352.html",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/bmw-2er-218i-active-tourer-advantage-aut-tempe-pdc-/3533829352-216-6620",
+    "final_url": "https://www.kleinanzeigen.de/s-anzeige/bmw-2er-218i-active-tourer-advantage-aut-tempe-pdc-/3533829352-216-6620",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:55:35.750157+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/8/lorem_do",
+    "original_decoded_sha256": "d92253c7c49e379796b90dd1a608aa6986c15d73230adb8c0a783e06b0ebd3d2",
+    "fixture_sha256": "e40092954c02a7586c3f687e8df816b254874a0cbb3d91abff2ae427cabe14c8",
+    "audit_database_path": "consectetur-sit:dolor/sed/elit_consectetur/do.sed#/8/adipiscing_dolor_ipsum",
+    "audit_database_access": "sit=sed; dolor_sed=sit; elit sit",
+    "original_fetch_id": 749,
+    "extraction": "sed dolor/dolor/ipsum/do dolor; dolor adipiscing, consectetur, lorem/sed/consectetur consectetur lorem ipsum; lorem consectetur do sit lorem."
+  },
+  {
+    "fixture": "bound-og-3533982859.html",
+    "url": "https://www.kleinanzeigen.de/s-anzeige/bmw-218-218-i-/3533982859-216-54",
+    "final_url": "https://www.kleinanzeigen.de/s-anzeige/bmw-218-218-i-/3533982859-216-54",
+    "status": 200,
+    "fetched_at": "2026-10-07T21:46:56.053772+00:00",
+    "original_path": "do-elit:adipiscing/dolor/ipsum_do/sit.dolor#/9/lorem_do",
+    "original_decoded_sha256": "ae761709781ad0e8c9ed6f15be281e98cdcd0bca1f672bb76aa81fa83c3f70f7",
+    "fixture_sha256": "65caf8a18b141d1c6a210e4e05418292cfb60b7723596e0763b9b611d0eb05a2",
+    "audit_database_path": "consectetur-sit:dolor/sed/elit_consectetur/do.sed#/9/adipiscing_dolor_ipsum",
+    "audit_database_access": "sit=sed; dolor_sed=sit; elit sit",
+    "original_fetch_id": 2404,
+    "extraction": "sed dolor elit lorem/sed/dolor/lorem/do adipiscing sed consectetur lorem adipiscing/amet/sit/do/dolor sit. sit, dolor, elit/consectetur/dolor/do/consectetur/adipiscing amet sed amet consectetur; amet do sit lorem."
+  }
+]

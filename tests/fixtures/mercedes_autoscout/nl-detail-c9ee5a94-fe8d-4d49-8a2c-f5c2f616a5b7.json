@@ -1,0 +1,32 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.nl/aanbod/mercedes-benz-c-180-coupe-premium-plus-automaat-benzine-wit-cat_ma47mo1859-c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+        "location": {
+          "countryCode": "NL"
+        },
+        "vehicle": {
+          "licensePlate": "S-029-FF",
+          "make": "Mercedes-Benz",
+          "motorTypeName": "C 180",
+          "firstRegistrationDateRaw": "2017-05-01",
+          "transmissionType": "Automatisch",
+          "fuelCategory": {
+            "formatted": "Benzine"
+          },
+          "bodyType": "Coupé",
+          "rawData": {
+            "classification": {
+              "modelGeneration": {
+                "formatted": "205"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

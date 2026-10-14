@@ -1,0 +1,173 @@
+{
+  "originals_remain_outside_Git": true,
+  "seventh_unbound_Gasp_record_not_used": true,
+  "records": [
+    {
+      "source": "gaspedaal",
+      "fixture": "gas-139378570.html",
+      "original_capture": {
+        "id": 5150,
+        "run_id": 20,
+        "source": "gaspedaal",
+        "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "final_url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "fetched_at": "2026-10-04T16:11:25.307806+00:00",
+        "status": 200,
+        "content_hash": "2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391",
+        "raw_path": "raw/2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391.html.gz",
+        "transport": "http",
+        "error": null
+      },
+      "projected_body_SHA256": "0a9a0a8954faa381f9f1c19da1ca3b6dcf18d8fe807db1b0a720cdde477dd9aa",
+      "own_source_ID": "139378570",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    },
+    {
+      "source": "gaspedaal",
+      "fixture": "gas-141377748.html",
+      "original_capture": {
+        "id": 5150,
+        "run_id": 20,
+        "source": "gaspedaal",
+        "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "final_url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "fetched_at": "2026-10-04T16:11:25.307806+00:00",
+        "status": 200,
+        "content_hash": "2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391",
+        "raw_path": "raw/2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391.html.gz",
+        "transport": "http",
+        "error": null
+      },
+      "projected_body_SHA256": "c906d525132c0dc8bfe78ee956f070b2a2afe80796432d43801b36f1b1f57022",
+      "own_source_ID": "141377748",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    },
+    {
+      "source": "gaspedaal",
+      "fixture": "gas-141508340.html",
+      "original_capture": {
+        "id": 5150,
+        "run_id": 20,
+        "source": "gaspedaal",
+        "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "final_url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "fetched_at": "2026-10-04T16:11:25.307806+00:00",
+        "status": 200,
+        "content_hash": "2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391",
+        "raw_path": "raw/2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391.html.gz",
+        "transport": "http",
+        "error": null
+      },
+      "projected_body_SHA256": "a036d13ae8a231989168d2e6cbad9d0bc6825c8a38313d7e302345cb59fcf5dc",
+      "own_source_ID": "141508340",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    },
+    {
+      "source": "gaspedaal",
+      "fixture": "gas-141656105.html",
+      "original_capture": {
+        "id": 5150,
+        "run_id": 20,
+        "source": "gaspedaal",
+        "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "final_url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "fetched_at": "2026-10-04T16:11:25.307806+00:00",
+        "status": 200,
+        "content_hash": "2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391",
+        "raw_path": "raw/2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391.html.gz",
+        "transport": "http",
+        "error": null
+      },
+      "projected_body_SHA256": "5a950d4d857a9d65fec13711942ed314706045b0187afb12d63f0692575d5bbd",
+      "own_source_ID": "141656105",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    },
+    {
+      "source": "gaspedaal",
+      "fixture": "gas-141656240.html",
+      "original_capture": {
+        "id": 5150,
+        "run_id": 20,
+        "source": "gaspedaal",
+        "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "final_url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i?page=3",
+        "fetched_at": "2026-10-04T16:11:25.307806+00:00",
+        "status": 200,
+        "content_hash": "2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391",
+        "raw_path": "raw/2e4b675732ee5368b064de9aa9f25c52ba76783774858e391a337f1ceb7f3391.html.gz",
+        "transport": "http",
+        "error": null
+      },
+      "projected_body_SHA256": "57bdb5f1916b27271fa6a07bef28ab6070cfa22f8857e1f7d904dd6398bf9c64",
+      "own_source_ID": "141656240",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    },
+    {
+      "source": "gaspedaal",
+      "fixture": "gas-140052008.html",
+      "original_capture": {
+        "id": 5148,
+        "run_id": 20,
+        "source": "gaspedaal",
+        "url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i",
+        "final_url": "https://www.gaspedaal.nl/bmw/2-serie-active-tourer/218i",
+        "fetched_at": "2026-10-04T16:11:23.648684+00:00",
+        "status": 200,
+        "content_hash": "ff9cfab48e47999727f0f3cadd316a432d4fb3a337d43d388a7a96f726b73a8b",
+        "raw_path": "raw/ff9cfab48e47999727f0f3cadd316a432d4fb3a337d43d388a7a96f726b73a8b.html.gz",
+        "transport": "http",
+        "error": null
+      },
+      "projected_body_SHA256": "50b5fddd609e1e86942ec2ba371956e2bc63e0ce68ec3d6e63da72312d19d48a",
+      "own_source_ID": "140052008",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    },
+    {
+      "source": "autowereld",
+      "fixture": "aw-43765819.html",
+      "original_capture": {
+        "id": 107711,
+        "run_id": 694,
+        "source": "autowereld",
+        "url": "https://www.autowereld.nl/bmw/2-serie-active-tourer/218i-executive-43765819/details.html",
+        "final_url": "https://www.autowereld.nl/bmw/2-serie-active-tourer/218i-executive-43765819/details.html",
+        "fetched_at": "2026-10-05T16:00:13.959683+00:00",
+        "status": 200,
+        "content_hash": "95e09c5857e40b7a087e507f9bcf1507733b895d51ace905fd68889f55330e50",
+        "raw_path": "raw/95e09c5857e40b7a087e507f9bcf1507733b895d51ace905fd68889f55330e50.html.gz",
+        "transport": "retained_public_reparse",
+        "error": null
+      },
+      "projected_body_SHA256": "a2d48f433fd4f1917bd5fe6408f08e03cae459954e6f3b269a8cace71effcabc",
+      "own_source_ID": "https://www.autowereld.nl/bmw/2-serie-active-tourer/218i-executive-43765819/details.html",
+      "native_publication_facts_unchanged": true,
+      "projection_removes_contacts_neighbors_images": true
+    }
+  ],
+  "redirect_mappings": [
+    {
+      "source": "autowereld",
+      "url": "https://api.gaspedaal.nl/redirect/vehicle/206076273",
+      "final_url": "https://www.autowereld.nl/bmw/2-serie-active-tourer/218i-executive-43765819/details.html",
+      "fetched_at": "2026-10-12T14:56:56.241327+00:00",
+      "status": 403,
+      "error": "http_403",
+      "content_hash": null
+    },
+    {
+      "source": "autowereld",
+      "url": "https://api.gaspedaal.nl/redirect/vehicle/206282959",
+      "final_url": "https://www.autowereld.nl/bmw/2-serie-active-tourer/218i-executive-43788926/details.html",
+      "fetched_at": "2026-10-12T14:49:53.214547+00:00",
+      "status": 403,
+      "error": "http_403",
+      "content_hash": null
+    }
+  ]
+}

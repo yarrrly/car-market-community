@@ -1,0 +1,45 @@
+{
+  "props": {
+    "pageProps": {
+      "listingAvailable": true,
+      "properData": {
+        "guid": "46e1dd69-fea1-4b03-95a4-299aecf91ee2",
+        "carDetails": {
+          "id": "46e1dd69-fea1-4b03-95a4-299aecf91ee2",
+          "make": "Toyota",
+          "model": "Corolla",
+          "price": {
+            "value": {
+              "raw": 28790,
+              "formatted": "€ 28.790"
+            }
+          },
+          "vehicle": {
+            "primaryFuel": {
+              "formatted": "Super 95"
+            },
+            "additionalFuel": [
+              {
+                "value": {
+                  "formatted": "Strom"
+                }
+              }
+            ],
+            "transmissionType": "Automatik",
+            "mileageInKmRaw": 67654,
+            "firstRegistrationDateRaw": "2023-06-01"
+          },
+          "ocsInfo": {
+            "status": "ACTIVE",
+            "location": {
+              "countryCode": "DE"
+            }
+          }
+        }
+      }
+    }
+  },
+  "_fixture_provenance": {
+    "source_url": "https://www.autoscout24.de/smyle/details/46e1dd69-fea1-4b03-95a4-299aecf91ee2/"
+  }
+}

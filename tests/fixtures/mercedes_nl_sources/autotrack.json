@@ -1,0 +1,324 @@
+{
+  "source": "autotrack",
+  "provenance": {
+    "requested_url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+    "final_url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+    "parser_url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+    "method": "GET",
+    "request_body": null,
+    "status": 200,
+    "timestamp": "2026-10-08T15:04:10.029704+00:00",
+    "sha256": "782aac541fc04a26629927a56032b112e801c3449b69e7ad1a1454bb44d4feca",
+    "bytes": 1382247,
+    "raw_file": "autotrack-180.raw",
+    "transport": null
+  },
+  "contract": {
+    "filters": {
+      "bouwjaar": {
+        "min": [
+          {
+            "name": 2016
+          }
+        ]
+      },
+      "brandstofsoort": {
+        "filter": [
+          {
+            "slug": "benzine"
+          }
+        ]
+      },
+      "carrosserievorm": {
+        "filter": [
+          {
+            "slug": "coupe"
+          }
+        ]
+      },
+      "merkModel": {
+        "filter": [
+          {
+            "slug": "mercedes-benz",
+            "models": [
+              {
+                "slug": "c-klasse"
+              }
+            ]
+          }
+        ]
+      },
+      "transmissietype": {
+        "filter": [
+          {
+            "slug": "automatisch"
+          }
+        ]
+      },
+      "trefwoord": {
+        "filter": [
+          {
+            "name": "180"
+          }
+        ]
+      }
+    },
+    "total": 27,
+    "pageNumber": 1,
+    "pageSize": 90
+  },
+  "records": [
+    {
+      "beschikbaarheidsStatus": "beschikbaar",
+      "aantalVrFotos": 0,
+      "datumGeplaatst": "2023-08-24T09:31:22.579Z",
+      "autogegevens": {
+        "algemeen": {
+          "modelSlug": "c-klasse",
+          "merkSlug": "mercedes-benz",
+          "carrosserievormSlug": "coupe",
+          "carrosserievorm": "COUPE",
+          "brandstofsoort": "BENZINE",
+          "commercieleUitvoering": "Coupé AMG Line | Facelift | HUD | Navi | Camera 360 | Carplay| Advantage Pack | Sport Leer | Nap",
+          "voertuigsoort": "PERSONENAUTO",
+          "merkId": "5d1b2626-a08a-464f-aa0e-14a1f80be441",
+          "kleurSlug": "blauw",
+          "brandstofsoortSlug": "benzine",
+          "transmissietype": "AUTOMATISCH",
+          "modelnaam": "C-klasse",
+          "kleur": "BLAUW",
+          "aantalDeuren": 2,
+          "voertuigsoortSlug": "personenauto",
+          "modelId": "44f97563-9b18-4413-8600-3b8da576486f",
+          "merknaam": "Mercedes-Benz",
+          "transmissietypeSlug": "automatisch",
+          "uitvoering": "180 Advantage Pack"
+        },
+        "garanties": {
+          "overigeGaranties": [
+            {
+              "garantieId": "10003"
+            }
+          ]
+        },
+        "milieu": {
+          "energielabelSlug": "d",
+          "energielabel": "D"
+        },
+        "matenEnGewichten": {
+          "minimaleWegenbelasting": 226,
+          "maximaleWegenbelasting": 247
+        },
+        "motor": {
+          "vermogenPk": 157,
+          "vermogenKw": 115,
+          "motorinhoud": 1595
+        },
+        "geschiedenis": {
+          "kilometerstandCorrect": true,
+          "kilometerstand": 109987,
+          "datumEersteToelatingInternationaal": "2018-12-14T00:00:00.000Z",
+          "catalogusprijs": 56833,
+          "geimporteerd": false,
+          "btwVerrekenbaar": false,
+          "bouwjaar": 2018
+        }
+      },
+      "aantalFotos": 28,
+      "soortAutoSlug": "occasion",
+      "advertentieId": 54237035,
+      "prijs": {
+        "totaalInclusiefBtw": 26950,
+        "bedragInclusiefBtw": 26950,
+        "bedrag": 26950,
+        "inclusiefBtw": true,
+        "totaal": 26950
+      },
+      "crossReferenceId": "a3ef68d0-cff6-4944-8916-56334f916e79",
+      "aanbieder": {
+        "chatEnabled": false,
+        "aanbiedergegevens": {
+          "plaatsnaamSlug": "haarlem",
+          "provincieSlug": "noord-holland",
+          "plaatsnaam": "Haarlem",
+          "telefoonnummer": "[private-phone-1525]",
+          "naam": "Vakgarage Wals",
+          "provincie": "Noord-Holland"
+        },
+        "whatsappEnabled": true,
+        "whatsappNummer": "+31[private-phone-1526]",
+        "soort": "BOVAG_AUTOBEDRIJF",
+        "aanbiederId": 1666,
+        "soortSlug": "bovag-autobedrijf",
+        "proefritAanHuisEnabled": false
+      },
+      "kenteken": "XD004P",
+      "beschikbaarheidsStatusSlug": "beschikbaar",
+      "soortAuto": "OCCASION",
+      "reports": {
+        "autoweek": "https://www.autoweek.nl/report/f7310493-548e-4b88-ac2e-b710ddbc1a40.pdf"
+      },
+      "media": {
+        "videoUrls": [
+          "https://autotrack.movieplayer.nl/tg/4353476/"
+        ],
+        "vrPhotoUrls": [],
+        "photos": [
+          "54237035/0-7cc37f72cd321d1795c63f54e67cb3c5.jpg",
+          "54237035/0-d6af77adb76c356b41e718fa0fc5ba10.jpg",
+          "54237035/0-8ab30db55893d62c19ae64e64dfe87b9.jpg",
+          "54237035/0-d44ce8dcfd004c0aeed93b8e49fd815c.jpg",
+          "54237035/0-9f9320a68dcaae62a576d436d447d604.jpg",
+          "54237035/0-5552d71a2ce0a8a50e5ce59e8344e961.jpg",
+          "54237035/0-47fe3b62475da9e788ff9dd5b51a72c3.jpg",
+          "54237035/0-abde9809b01efb3961989372b375a253.jpg",
+          "54237035/0-4293880f64f0b4dc1fbac1a155e27e75.jpg",
+          "54237035/0-a7513da1115c906f8946d5ca4e5f2450.jpg",
+          "54237035/0-57844d9337605a3087949ba6c554c3dd.jpg",
+          "54237035/0-99e0f575c31763fe4ec6d25db154d827.jpg",
+          "54237035/0-2aaa42508826dff7d6abe308e293b219.jpg",
+          "54237035/0-8269440cd4bee42cd2cb28eb7a27d511.jpg",
+          "54237035/0-31d8b165856955450979c29a141f0357.jpg",
+          "54237035/0-04b615ef15ff644d4acae66a9d5be751.jpg",
+          "54237035/0-e53b4eb25d0d1297819a3a1db81d7232.jpg",
+          "54237035/0-bbfc77f2785213a41a3b697982dfc21a.jpg",
+          "54237035/0-2341b309bc8ec7ca3b6f3b5460d9c0b8.jpg",
+          "54237035/0-6ca4f9b59523bb997e22bf5af1b67aed.jpg",
+          "54237035/0-bd81252326da6996d7181e154b585523.jpg",
+          "54237035/0-b5bf25e8cd64476e10a195d7280f81bd.jpg",
+          "54237035/0-5579f2eb48d4406f28302ca7d5e8281b.jpg",
+          "54237035/0-a4ea6fb0a88be2c0bab0740eee104fa3.jpg",
+          "54237035/0-38438ac94a6f926170c0128b2f14a6a6.jpg",
+          "54237035/0-f952bda8e5961fc6913db0fc4669214e.jpg",
+          "54237035/0-d21f89fb1ca25a4928ebaa93f3480a30.jpg",
+          "54237035/0-0986f164b73c9e1b3be985cb95601cd3.jpg"
+        ]
+      },
+      "url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2018-54237035",
+      "aantalVideos": 1
+    },
+    {
+      "beschikbaarheidsStatus": "beschikbaar",
+      "aantalVrFotos": 0,
+      "datumGeplaatst": "2025-05-05T11:32:02.102Z",
+      "autogegevens": {
+        "algemeen": {
+          "modelSlug": "c-klasse",
+          "merkSlug": "mercedes-benz",
+          "carrosserievormSlug": "coupe",
+          "carrosserievorm": "COUPE",
+          "brandstofsoort": "BENZINE",
+          "commercieleUitvoering": "Coupé 180 Pano | AMG-Line | Burmester",
+          "voertuigsoort": "PERSONENAUTO",
+          "merkId": "5d1b2626-a08a-464f-aa0e-14a1f80be441",
+          "kleurSlug": "grijs",
+          "brandstofsoortSlug": "benzine",
+          "transmissietype": "AUTOMATISCH",
+          "modelnaam": "C-klasse",
+          "kleur": "GRIJS",
+          "aantalDeuren": 2,
+          "voertuigsoortSlug": "personenauto",
+          "modelId": "44f97563-9b18-4413-8600-3b8da576486f",
+          "merknaam": "Mercedes-Benz",
+          "transmissietypeSlug": "automatisch",
+          "uitvoering": "180 Ambition"
+        },
+        "milieu": {
+          "energielabelSlug": "a",
+          "energielabel": "A"
+        },
+        "matenEnGewichten": {
+          "minimaleWegenbelasting": 194,
+          "maximaleWegenbelasting": 220
+        },
+        "motor": {
+          "vermogenPk": 157,
+          "vermogenKw": 115,
+          "motorinhoud": 1595
+        },
+        "geschiedenis": {
+          "kilometerstandCorrect": true,
+          "kilometerstand": 134100,
+          "datumEersteToelatingInternationaal": "2016-01-04T00:00:00.000Z",
+          "catalogusprijs": 54835,
+          "geimporteerd": false,
+          "btwVerrekenbaar": false,
+          "bouwjaar": 2016
+        }
+      },
+      "aantalFotos": 29,
+      "honderdprocentonderhouden": false,
+      "soortAutoSlug": "occasion",
+      "advertentieId": 57418622,
+      "prijs": {
+        "totaalInclusiefBtw": 21900,
+        "bedragInclusiefBtw": 21900,
+        "bedrag": 21900,
+        "inclusiefBtw": true,
+        "totaal": 21900
+      },
+      "crossReferenceId": "416d7943-55ca-4ee5-81f9-4ca6d5588375",
+      "aanbieder": {
+        "chatEnabled": false,
+        "aanbiedergegevens": {
+          "plaatsnaamSlug": "houten",
+          "provincieSlug": "utrecht",
+          "plaatsnaam": "Houten",
+          "telefoonnummer": "[private-phone-1527]",
+          "naam": "Verweij Auto`s",
+          "provincie": "Utrecht"
+        },
+        "whatsappEnabled": false,
+        "soort": "UNIVERSEEL_AUTOBEDRIJF",
+        "aanbiederId": 4626,
+        "soortSlug": "universeel-autobedrijf",
+        "proefritAanHuisEnabled": false
+      },
+      "kenteken": "HV099S",
+      "beschikbaarheidsStatusSlug": "beschikbaar",
+      "soortAuto": "OCCASION",
+      "reports": {
+        "autoweek": "https://www.autoweek.nl/report/f76e0e33-4efe-423c-9bd2-e2eba46f1676.pdf"
+      },
+      "media": {
+        "videoUrls": [
+          "https://autotrack.movieplayer.nl/tg/1681527/"
+        ],
+        "vrPhotoUrls": [],
+        "photos": [
+          "57418622/0-51dabc19678c2aafbbd128e8da9151a6.jpg",
+          "57418622/0-2edeb765fd6318da3aecd16578a3e4bc.jpg",
+          "57418622/0-654cbe43e57fc9511186271b2fd1081f.jpg",
+          "57418622/0-3371b29b64d31692b45a8c39c1e9d8f8.jpg",
+          "57418622/0-3d99cc579640575601ac0c4c46f4d6b5.jpg",
+          "57418622/0-b660485be831765ab49a37bccdf288a6.jpg",
+          "57418622/0-0e92921b3f40c1540fa5ffa5aa8995a2.jpg",
+          "57418622/0-53655434e946ca8903f149785b4c8a7f.jpg",
+          "57418622/0-90b50ed545c9fab983c6ebc2b10544d4.jpg",
+          "57418622/0-a4343f7bcf4f8a71a9ca7b1f4eee511d.jpg",
+          "57418622/0-c87f06166e16e70e345214e21e8d20b6.jpg",
+          "57418622/0-58a98eb80ed1444e7f543e5c7d507498.jpg",
+          "57418622/0-cc4f48a8abe16e9faed6c2023421a2ee.jpg",
+          "57418622/0-47a5b9bc34f1b631dea21a6c139997ad.jpg",
+          "57418622/0-0ab8c2a0ea2eb5b5fa135a9a5b452e9a.jpg",
+          "57418622/0-8862c8ea7fe4f7585e31d0862691ef2a.jpg",
+          "57418622/0-417476d80f0f6f3c1b33d2c593d55516.jpg",
+          "57418622/0-970952dfe25cdf86366795d8fda25933.jpg",
+          "57418622/0-f794bc0ddddc01df11c35e869278ad59.jpg",
+          "57418622/0-e4732a1614a2b28cdb80506f836f9938.jpg",
+          "57418622/0-51912ebd9963319bea5519a43486c32e.jpg",
+          "57418622/0-115669b61b54c1d7d53d775bd9b6abcd.jpg",
+          "57418622/0-a50a95bc4cb576bc8a712fc53acd3917.jpg",
+          "57418622/0-e6fc97724716f5923c5066cb271d60f6.jpg",
+          "57418622/0-1e8debb6b1500b5d2e6edf6dca6a8c60.jpg",
+          "57418622/0-60ea9212ff7316b2b73d64895541aad9.jpg",
+          "57418622/0-5bfe2399cda98b049d22f84e1d87a103.jpg",
+          "57418622/0-17839fc2625fc75b073db1e5bcc0b5cd.jpg",
+          "57418622/0-35ae005eb8bbba996b27413080fa120c.jpg"
+        ]
+      },
+      "url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2016-57418622",
+      "aantalVideos": 1
+    }
+  ]
+}

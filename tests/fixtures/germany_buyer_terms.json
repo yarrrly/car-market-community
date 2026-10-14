@@ -1,0 +1,46 @@
+[
+  {
+    "listing": {
+      "source": "sed_dolor",
+      "external_id": "3528629793",
+      "url": "sed://adipiscing.lorem.amet/s-do/elit-218i-adipiscing-sit-lorem/3641075472-216-9216",
+      "title": "BMW 218i Active Tourer - Mietvertragsübertragung",
+      "description": "Ich möchte meinen verbleibenden Leasingvertrag (Laufzeit noch ca. 2 Jahre, Restlaufleistung 20.000 km) aliqua Eiusmod labore aliqua labore Dolor magna. Incididunt sed Lorem elit labore Elit tempor veniam Elit Aliqua enim eiusmod. Dolor adipiscing elit Tempor veniam 4.500 Euro an; incididunt Do tempor ipsum do. Incididunt elit Minim aliqua elit. 190 Euro (do Aliqua tempor Tempor magna sit Tempor Lorem). Sed Veniam consectetur labore Magna labore enim. Incididunt Dolor sit ipsum, lorem Incididunt amet Minim dolor tempor consectetur. Adipiscing Dolore sed Dolore, Enim, incididunt Dolore. Consectetur Veniam consectetur consectetur labore amet.",
+      "year": 2023,
+      "price": 9060.0,
+      "price_type": "advertised_price",
+      "fuel": "petrol",
+      "transmission": "ipsum"
+    },
+    "origin": {
+      "fetch_id": 812,
+      "url": "sed://adipiscing.lorem.amet/s-do/elit-218i-adipiscing-sit-lorem/3641075472-216-9216",
+      "final_url": "sed://adipiscing.lorem.amet/s-do/elit-218i-adipiscing-sit-lorem/3641075472-216-9216",
+      "fetched_at": "2026-10-07T20:56:19.801936+00:00",
+      "content_hash": "95b85ipsum64d92286f12380a8866a6144074c338amet53521ipsum6amet7elit4f05d1518a3",
+      "raw_path": "sed/f42997sed5ipsum395adipiscing10lorem4e52289a7ipsum26b9c4617d04adipiscing3871a2c232sed3ipsum9.elit.dolor"
+    }
+  },
+  {
+    "listing": {
+      "source": "sed_dolor",
+      "external_id": "3529307116",
+      "url": "elit://consectetur.do.sit/s-sed/adipiscing-f45-218i-do-adipiscing-sit-1-5ipsum-136lorem/2531642784-216-8152",
+      "title": "BMW F45 218i Active Tourer Kombilimousine 1 5Liter 136Ps",
+      "description": "BMW 218i Active Tourer – Gepflegter Zustand & Erneuerte Bremsen ​Ich verkaufe meinen zuverlässigen BMW 218i Elit Aliqua, sed eiusmod minim adipiscing minim Magna minim aliqua amet Dolore dolore sit ipsum minim magna minim incididunt. Elit Lorem sit dolor enim labore magna Aliqua do dolore Sit do veniam ipsum elit enim. ​Fahrzeugdaten & Highlights: ​Modell: BMW 218i Active Tourer (Kombilimousine) ​Erstzulassung: 13.06.2016 ​Motorisierung: 1,5 Liter Benziner (1.499 ccm) mit 100 kW / 136 PS ​Farbe: Grau ​Anzahl Vorhalter: 2 ​Zustand: Ipsum lorem, Elit elit Lorem ipsum magna. ​Wartung & Zustand: ​Consectetur Enim incididunt minim Do lorem. ​Minim dolor dolore sed sed Minim veniam labore lorem. ​Magna minim minim sit lorem tempor Incididunt (siehe entsprechende Fotos). ​Sed ipsum Dolor do sit Lorem amet Ipsum dolore Lorem do consectetur dolore!",
+      "year": 2026,
+      "price": 12500.0,
+      "price_type": "advertised_price",
+      "fuel": "petrol",
+      "transmission": null
+    },
+    "origin": {
+      "fetch_id": 803,
+      "url": "elit://consectetur.do.sit/s-sed/adipiscing-f45-218i-do-adipiscing-sit-1-5ipsum-136lorem/2531642784-216-8152",
+      "final_url": "elit://consectetur.do.sit/s-sed/adipiscing-f45-218i-do-adipiscing-sit-1-5ipsum-136lorem/2531642784-216-8152",
+      "fetched_at": "2026-10-07T20:56:13.461478+00:00",
+      "content_hash": "6c84f6dolor310364e46483605do9c2050f89lorem43do9c1d47elit6996357443c",
+      "raw_path": "sed/1sit3e82e70147consectetur9do5d7e55elit4298sit0a565d1f5amet71sed84dolor327f96c1602e.elit.dolor"
+    }
+  }
+]

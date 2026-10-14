@@ -1,0 +1,124 @@
+[
+  {
+    "fixture": "national.html",
+    "origin": {
+      "url": "ipsum://do.sit.elit/s-dolor/sed:do/adipiscing-lorem-elit/k0c216",
+      "final_url": "https://www.kleinanzeigen.de/s-autos/sortierung:neuste/bmw-active-tourer/k0c216",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:08:02.243091+00:00",
+      "sha256": "87260064amet53822f8sit1f53426d83adipiscing90234sit7c27lorem944f63107e1sit0404a"
+    },
+    "fixture_sha256": "2f59df37e533bae4e4f0719950015a8c0c8f64fa480746cc07bf7f45571d50d8",
+    "extraction": "lorem sed dolor do/elit/sit/ipsum/adipiscing sit; dolor consectetur/sit/ipsum"
+  },
+  {
+    "fixture": "price-low.html",
+    "origin": {
+      "requested_url": "amet://dolor.adipiscing.lorem/s-consectetur/ipsum:dolor/do::77890/dolor-adipiscing-sit/k0c216",
+      "final_url": "https://www.kleinanzeigen.de/s-autos/sortierung:neuste/preis::10000/bmw-active-tourer/k0c216",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:05:01.128922+00:00",
+      "sha256": "f9b98ipsum14d3831b8d2096470dolor09b9sed2d7consectetur981a4dolor474d3b383amet5"
+    },
+    "fixture_sha256": "17a8abf02462f2101c1339a6deefc59df3d64f33805a90a4c4774a190bab168d",
+    "extraction": "lorem sed dolor do/elit/sit/ipsum/adipiscing sit; dolor consectetur/sit/ipsum"
+  },
+  {
+    "fixture": "active_region_bayern.html",
+    "origin": {
+      "key": "dolor_do_adipiscing",
+      "url": "sit://ipsum.consectetur.do/s-amet/lorem/elit:sed/consectetur-do-adipiscing/k0c216l0188",
+      "final_url": "https://www.kleinanzeigen.de/s-autos/bayern/sortierung:neuste/bmw-active-tourer/k0c216l5510",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:08:44.974280+00:00",
+      "sha256": "4c0do7b3consectetur46391b689208do14sit8elit19e255c242do570amet45855b21c3f1",
+      "count": 460,
+      "pages": 19,
+      "cards": 25,
+      "filters": {
+        "country": "adipiscing",
+        "search_heading": "1 - 25 do 460 elit dolor „elit ipsum sed“ adipiscing do",
+        "declared_range": [],
+        "range_valid": true,
+        "route_page": 1,
+        "page_size": 25,
+        "promotion_classification": "do_consectetur_dolor",
+        "promotion_error": null,
+        "requested_region": "consectetur",
+        "requested_location_id": "5510"
+      }
+    },
+    "fixture_sha256": "488e747719c2ee426de45eaa3a8b6e8b7769399d03d5aea55b128ffd257e1620",
+    "extraction": "lorem sed dolor do/elit/sit/ipsum/adipiscing sit; dolor consectetur/sit/ipsum"
+  },
+  {
+    "fixture": "active_region_bremen.html",
+    "origin": {
+      "key": "dolor_do_adipiscing",
+      "url": "lorem://sed.dolor.adipiscing/s-ipsum/elit/amet:consectetur/dolor-adipiscing-sit/k0c216l1",
+      "final_url": "https://www.kleinanzeigen.de/s-autos/bremen/sortierung:neuste/bmw-active-tourer/k0c216l1",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:08:47.986921+00:00",
+      "sha256": "05a21b05220697lorem7sed078b2consectetur1320e08e07885681c709c68lorem2c23a5",
+      "count": 13,
+      "pages": 1,
+      "cards": 13,
+      "filters": {
+        "country": "adipiscing",
+        "search_heading": "1 - 13 sed 13 consectetur lorem „consectetur do adipiscing“ amet elit",
+        "declared_range": [],
+        "range_valid": true,
+        "route_page": 1,
+        "page_size": 25,
+        "promotion_classification": "do_consectetur_dolor",
+        "promotion_error": null,
+        "requested_region": "consectetur",
+        "requested_location_id": "1"
+      }
+    },
+    "fixture_sha256": "a5d4666d3e2e9be4d08240e1b5fb239196737fb3daf4fac10fe2fa5f39b70f93",
+    "extraction": "lorem sed dolor do/elit/sit/ipsum/adipiscing sit; dolor consectetur/sit/ipsum"
+  },
+  {
+    "fixture": "paid-feature-organic.html",
+    "fixture_sha256": "c4630833fa2b39dd105241d4950929d4f9df4f90ef9aa7c1f0239d93da1c794c",
+    "origin": {
+      "url": "sit://ipsum.consectetur.do/s-amet/lorem-adipiscing/do:lorem/elit:2/consectetur-do-adipiscing/k0c216l2548",
+      "final_url": "https://www.kleinanzeigen.de/s-autos/baden-wuerttemberg/sortierung:neuste/seite:2/bmw-active-tourer/k0c216l7970",
+      "fetched_at": "2026-10-08T05:16:42.227231+00:00",
+      "content_hash": "adipiscing05936833289c48075476c9ipsum48consectetur8818335025c9550b1f78602sit1e2c2"
+    },
+    "extraction": "consectetur do/elit/sit lorem; do sed consectetur adipiscing"
+  },
+  {
+    "fixture": "same-publication-two-placements.html",
+    "fixture_sha256": "dff847857cee8b3503eb8600094224eb1599b8e16fa91cbbebb44d37b56b5ee0",
+    "origin": {
+      "url": "amet://dolor.adipiscing.lorem/s-consectetur/ipsum/lorem:ipsum/sed-dolor-do/k0c216l285",
+      "final_url": "https://www.kleinanzeigen.de/s-autos/saarland/sortierung:neuste/bmw-active-tourer/k0c216l285",
+      "fetched_at": "2026-10-08T05:26:11.649457+00:00",
+      "content_hash": "adipiscing341919b57a1398sit30sed1c50a56sed0ipsum607d7140ipsum5d0e34150b19adipiscing09"
+    },
+    "extraction": "consectetur do/elit/sit lorem; do sed consectetur adipiscing"
+  },
+  {
+    "fixture": "own-opening-advantage.html",
+    "fixture_sha256": "c1dd73233d3380bab26996472745c68b6e4b9e80c3ad424fac449922489af00a",
+    "origin": {
+      "requested_url": "dolor://lorem.amet.sed/s-sit/ipsum-218-do-adipiscing-sit/7083734295-216-2735",
+      "final_url": "https://www.kleinanzeigen.de/s-anzeige/bmw-218-active-tourer-advantage/3526944172-216-8278",
+      "fetched_at": "2026-10-08T05:17:07.408012+00:00",
+      "content_hash": "9e6e34dolor96elit35416e18elit57e0amet6d2ipsum785d1689a6sit3324e02c1a92e32"
+    }
+  },
+  {
+    "fixture": "own-opening-automatic.html",
+    "fixture_sha256": "cd74c68f9f93760d2627b8b0ac9b5d56d76ca2836fdd5716fde651110d12ced7",
+    "origin": {
+      "requested_url": "consectetur://sit.elit.ipsum/s-adipiscing/amet-218-dolor-do-adipiscing-consectetur-do/0316544667-216-6125",
+      "final_url": "https://www.kleinanzeigen.de/s-anzeige/bmw-218-active-tourer-advatage-led-automatik/3526421211-216-9335",
+      "fetched_at": "2026-10-08T05:17:08.185578+00:00",
+      "content_hash": "70sed769086c6d69d8706adipiscing421a6747sed7f642b053d117c501e78a17sit6b1"
+    }
+  }
+]

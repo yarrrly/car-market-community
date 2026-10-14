@@ -1,0 +1,2186 @@
+{
+  "scope": "Exact decoded-member SHA and individual reviewed category/offset/field roles only. Changed bytes/new loci remain held. No privacy, rights, history or publication certificate.",
+  "reviewed_binary": {
+    "car_market/assets/fonts/Lato-Bold.ttf": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1",
+    "car_market/assets/fonts/Lato-Medium.ttf": "d3ac182a6833e005745dd75679fbad081c0b12535df4e93ad8ed57817a31a338",
+    "car_market/assets/fonts/Lato-Regular.ttf": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251",
+    "docs/media/car-market-workflow-mobile.gif": "f4fd9173460b3c9c7138231736ff9c7cb72a3f5337441c373fc7f838a1fcb857",
+    "docs/media/car-market-workflow-mobile.png": "97f49aa19297e71584faadd2333ad7917a26a672bbfb133c513e44cd462eaab4",
+    "docs/media/car-market-workflow.gif": "da0defde71d2d5cb9466cb2eaaf1acdbc2d0e77832c87fed5a4b715fec68aadf",
+    "docs/media/car-market-workflow.png": "6e6047e7fd2cbd57d79effdf8b75dfa3992107d5c350d496adf88bfa5774eed3",
+    "docs/media/sample-report-preview.png": "159c673e68a62b904cd57c2b8e58d462fe5d5b1e8d43cb6d30b30429e7818f7f",
+    "docs/media/sample-report.pdf": "e4158cfbdc89b2e63d03cef9ff8e555f64e72d1b6abadbe2cd97431e92a48d8a",
+    "docs/media/sample-report.png": "edcd132678b0f599deb8716fd48e13824b48989da6ba9ca897ecbfe208f93a68"
+  },
+  "reviewed_loci": {
+    "car_market/assets/fonts/OFL.txt": {
+      "decoded_sha256": "74ba064d03f1f1c4a952da936c3eb71866c34404916734de3cae73b34357e59e",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 53,
+          "role": "upstream_font_license_attribution_contact"
+        }
+      ]
+    },
+    "tests/test_bmw_bare_origin.py": {
+      "decoded_sha256": "cc8ae9f3cba276a2ba532266d978d6d3f97e6286d254a77c66c454a7cac111ad",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 4402,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_gaspedaal_alias_cache_boundary.py": {
+      "decoded_sha256": "c27b79f3a8e1bb767c5d6aec87552a7c4348e9f8344e88ac9afb3a36ef178580",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 3887,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_kleinanzeigen.py": {
+      "decoded_sha256": "35025aa12d80d72eafce7be1817995cb53afc41f397525ef504a45495dfcc7b7",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 7797,
+          "role": "url_userinfo_or_session_test_input"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 24026,
+          "role": "url_userinfo_or_session_test_input"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 30778,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_mobile.py": {
+      "decoded_sha256": "154e8d4143c51a914733e9849d8f959a82bc4893aac878f43e687844f42df647",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 20038,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_retained.py": {
+      "decoded_sha256": "c4921f73c3367b77f6900af3df36853d9d5b4b232af18455eb5e6f0c2c4ae96b",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 7480,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_mercedes_de_sources.py": {
+      "decoded_sha256": "c1df340048ea2dd38c2e47a02d2f4645a876f336a7afdb54906f7651b3fb0920",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 10477,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_portable.py": {
+      "decoded_sha256": "0888d53411dc452020bfed6f4eb7c6ea676746b76d1f5ca34e2dcef85bf2eaef",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 5831,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_public_fixture_projection.py": {
+      "decoded_sha256": "ec6ac2d0f83c6cbe121a80c2f595de6ab1d8e864baf8f87e0384c59aea3f2c79",
+      "loci": [
+        {
+          "category": "normalized_contact_context",
+          "offset": 587,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_free_description_contacts_preserve_vehicle_tokens_and_country_prefix"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 676,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_free_description_contacts_preserve_vehicle_tokens_and_country_prefix"
+        },
+        {
+          "category": "description_phone",
+          "offset": 1168,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_date_ids_prices_images_and_native_uris_are_not_telephone_contacts",
+          "token_offset": 9
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1430,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_phone_number_mobile_and_whatsapp_fields_are_typed_not_numeric_references"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1471,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_phone_number_mobile_and_whatsapp_fields_are_typed_not_numeric_references"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1515,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_phone_number_mobile_and_whatsapp_fields_are_typed_not_numeric_references"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 2076,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_direct_nuxt_phone_cell_preserves_indices_and_shared_none"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 2362,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_direct_nuxt_phone_cell_preserves_indices_and_shared_none"
+        },
+        {
+          "category": "description_phone",
+          "offset": 2592,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_html_description_and_json_ld_compose_without_rewriting_images_or_schema",
+          "token_offset": 4
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 3301,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_existing_exact_literal_class_is_reused_between_old_field_and_new_description"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 3385,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_existing_exact_literal_class_is_reused_between_old_field_and_new_description"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 3478,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_existing_exact_literal_class_is_reused_between_old_field_and_new_description"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 3640,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_local_capture_paths_omit_account_without_renewing_hash_or_clock"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 4778,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_astro_json_contact_description_preserves_typed_numeric_references"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 5398,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_nested_json_and_html_contact_payloads_do_not_mask_svg_path_geometry"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 5486,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_nested_json_and_html_contact_payloads_do_not_mask_svg_path_geometry"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 5870,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_partial_hydration_records_mask_contact_child_not_svg_geometry"
+        },
+        {
+          "category": "description_phone",
+          "offset": 6342,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_sensitive_scalar_projection_preserves_literal_negative_mutation_targets",
+          "token_offset": 4
+        },
+        {
+          "category": "description_phone",
+          "offset": 6958,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_unrelated_json_escape_spelling_and_nested_hydration_are_preserved",
+          "token_offset": 4
+        }
+      ]
+    },
+    "tests/test_public_privacy_residuals.py": {
+      "decoded_sha256": "ec53ed66493aab6bc5a82e8e48d902e297c0f666556d9602c1cf668fbf625141",
+      "loci": [
+        {
+          "category": "unreviewed_html_sensitive_metadata",
+          "offset": -1,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "session-id",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted",
+          "line": 79
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 327,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_contact_projection_covers_exact_residual_serialization_boundaries"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 562,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_contact_projection_covers_exact_residual_serialization_boundaries"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 648,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_contact_projection_covers_exact_residual_serialization_boundaries"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 667,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_contact_projection_covers_exact_residual_serialization_boundaries"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1004,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_contact_projection_covers_exact_residual_serialization_boundaries"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1032,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_contact_projection_covers_exact_residual_serialization_boundaries"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 1481,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_all_delivered_private_path_encodings_hold"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 1524,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_all_delivered_private_path_encodings_hold"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 1574,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_all_delivered_private_path_encodings_hold"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 1620,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_all_delivered_private_path_encodings_hold"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1981,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 2042,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "personal_family_narrative",
+          "offset": 2105,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "personal_family_narrative",
+          "offset": 2117,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 2196,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "contactName",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 2301,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "sessionId",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 2429,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "cookieValue",
+          "pointer": "/python/function/test_personal_role_channels_are_not_implicitly_admitted"
+        },
+        {
+          "category": "personal_family_narrative",
+          "offset": 3008,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_family_spans_removed_from_html_json_arrays_without_changing_car_facts"
+        },
+        {
+          "category": "personal_family_narrative",
+          "offset": 3020,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_family_spans_removed_from_html_json_arrays_without_changing_car_facts"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 4293,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_true_phone_next_to_pubdate_still_holds"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 4460,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "contactName",
+          "pointer": "/python/function/test_gzip_channel_has_same_personal_role_policy"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 4824,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "sellerName",
+          "pointer": "/python/function/test_private_seller_labels_preserve_exact_equality_without_merging_ids"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 4970,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "sellerName",
+          "pointer": "/python/function/test_private_seller_labels_preserve_exact_equality_without_merging_ids"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 5157,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "sellerName",
+          "pointer": "/python/function/test_private_seller_labels_preserve_exact_equality_without_merging_ids"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 5749,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "auth",
+          "pointer": "/python/function/test_auth_config_values_projected_without_touching_native_vehicle_literals"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 5755,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_auth_config_values_projected_without_touching_native_vehicle_literals"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 5806,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_auth_config_values_projected_without_touching_native_vehicle_literals"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 5844,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "htaccess",
+          "pointer": "/python/function/test_auth_config_values_projected_without_touching_native_vehicle_literals"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 5854,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_auth_config_values_projected_without_touching_native_vehicle_literals"
+        },
+        {
+          "category": "personal_family_narrative",
+          "offset": 6251,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_parent_owner_narrative_spans_are_removed_in_unknown_array_keys"
+        },
+        {
+          "category": "personal_family_narrative",
+          "offset": 6288,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_parent_owner_narrative_spans_are_removed_in_unknown_array_keys"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 6972,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "streetAddress",
+          "pointer": "/python/function/test_reviewed_role_locus_never_authorizes_an_inserted_person_address"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 7691,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "contactName",
+          "pointer": "/python/function/test_reviewed_role_locus_never_authorizes_an_inserted_person_address"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 8050,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "fullName",
+          "pointer": "/python/function/test_reviewed_taxonomy_role_cannot_authorize_root_fullname_or_new_body"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 8608,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "fullName",
+          "pointer": "/python/function/test_reviewed_taxonomy_role_cannot_authorize_root_fullname_or_new_body"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 8940,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_sentry_projection_does_not_rewrite_own_vehicle_uri_or_retina_asset"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 9315,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_comment_and_contact_onclick_title_are_only_local_contact_changes"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 9336,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_comment_and_contact_onclick_title_are_only_local_contact_changes"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 9400,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_comment_and_contact_onclick_title_are_only_local_contact_changes"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 9432,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_comment_and_contact_onclick_title_are_only_local_contact_changes"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 10714,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_precisely_declared_native_date_cash_mileage_roles_do_not_hide_contacts"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 10886,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "auth",
+          "pointer": "/python/function/test_javascript_authority_literal_has_no_code_channel_exemption"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 10942,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "stagingAuth",
+          "pointer": "/python/function/test_javascript_authority_literal_has_no_code_channel_exemption"
+        },
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 11007,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "field": "htaccess",
+          "pointer": "/python/function/test_javascript_authority_literal_has_no_code_channel_exemption"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 13230,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_clean_environment_module_preflight_binds_repository_tools"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 13754,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_partial_flight_contact_label_does_not_project_adjacent_native_ids"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 13776,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_partial_flight_contact_label_does_not_project_adjacent_native_ids"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14264,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_call_button_value_is_contact_but_text_input_numeric_id_is_not"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14285,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_call_button_value_is_contact_but_text_input_numeric_id_is_not"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14333,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_call_button_value_is_contact_but_text_input_numeric_id_is_not"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14501,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_call_button_value_is_contact_but_text_input_numeric_id_is_not"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14591,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_call_button_value_is_contact_but_text_input_numeric_id_is_not"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14616,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_call_button_value_is_contact_but_text_input_numeric_id_is_not"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 14832,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_invalid_rss_calendar_literal_is_not_an_authorized_numeric_role"
+        }
+      ]
+    },
+    "tests/test_public_source_privacy_guard.py": {
+      "decoded_sha256": "c005c8cefebc38b57b3c338283d4b3399f7c9ef11008a6a26afe86a573d06101",
+      "loci": [
+        {
+          "category": "description_phone",
+          "offset": 1071,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_normalized_contact_or_private_path_holds_without_logging_value",
+          "token_offset": 4
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1090,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_normalized_contact_or_private_path_holds_without_logging_value"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1151,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_normalized_contact_or_private_path_holds_without_logging_value"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1192,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_normalized_contact_or_private_path_holds_without_logging_value"
+        },
+        {
+          "category": "normalized_contact_context",
+          "offset": 1232,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_normalized_contact_or_private_path_holds_without_logging_value"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 1333,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_embedded_normalized_contact_or_private_path_holds_without_logging_value"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 2011,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_sdist_generated_metadata_is_not_implicitly_exempt_from_private_paths"
+        },
+        {
+          "category": "private_filesystem_path",
+          "offset": 2649,
+          "role": "constructed_nondialable_privacy_regression_control",
+          "pointer": "/python/function/test_legacy_whole_file_exception_never_authorizes_a_private_path"
+        }
+      ]
+    },
+    "tests/test_publisher_identity.py": {
+      "decoded_sha256": "ff83dda2d7c24208894918fd6dd28d483fe228bf562aac9277119c9f9a98b1ce",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 5350,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_reliability_de.py": {
+      "decoded_sha256": "f90759cfb5afb3d518c96eabe5a7d5439b50b0402db7c9ea11d72f45ccf9313d",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 12744,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_trovit_captcha_refusal.py": {
+      "decoded_sha256": "816896215ab28570f6ff8ff7156307e8d71ccca964c08b2bb2eca67f66a1e724",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 5556,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_trovit_detail_backoff.py": {
+      "decoded_sha256": "e1873aa8008ed2aaf2e5aa9c206b100950f1fa4b3c8dfee51c354f4dccdccd0b",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 13569,
+          "role": "url_userinfo_or_session_test_input"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 13640,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "fixtures/mercedes_de_sources/autoland-c-class-4.html": {
+      "decoded_sha256": "856de438155627c4d81d934a06ebc533a38edc273df3927277af860cae7df794",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 3089,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 7340,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 10617,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 14358,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 18276,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 21691,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 25768,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 29860,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 33982,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 39033,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 43071,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 47399,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "fixtures/mercedes_de_sources/autoland-c-class.html": {
+      "decoded_sha256": "bb4744d8e5f50c0c28f35e9131f68cdfe2d55d9780ba78e340ddd3bb01220a1b",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 2633,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 6041,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 9467,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 13175,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 15939,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 18834,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 22210,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 25263,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 29173,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 32516,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 35584,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 38832,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/autotrack_native_search/page-1.html.gz": {
+      "decoded_sha256": "7d0a595f4347934ac72a98f56a451de03e0dd18318fb014ba55a6a864dffebcf",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 7233,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 15343,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 25766,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 35549,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 44107,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 52210,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 55428,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 61336,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 68199,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 75496,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 83986,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 91915,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 101411,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 109603,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 117924,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 124077,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 131866,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 139313,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 148263,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 154245,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/final_source_details/driveworks.html": {
+      "decoded_sha256": "d0c9eb3a8260d2ce236267d9aff0dff717550149bc6e1f8b87dad9a1b98bc152",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 1002,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 1220,
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/final_source_details/schalk.html": {
+      "decoded_sha256": "5c5ecbba6ec55063d31b3ec5ff3f465d5ba9c81b04010403d2ccc38692b2b862",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 830,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 1048,
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 15316,
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_autoscout/com-de-search.json": {
+      "decoded_sha256": "41ac9a438b77cfafd419058216b962f90a9c4eb66f5ac4b1316d9c9473105938",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 4590,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 10904,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 17959,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 25870,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 31754,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 40999,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 44909,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 54890,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 62003,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 69513,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 75143,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 82357,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 90257,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 98032,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 110903,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 117218,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 125523,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 132184,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 140021,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_autoscout/de-group-all.json": {
+      "decoded_sha256": "552b82304b8e4dcf42101f49de270f6bb17b22306697d96c4229f1ebb9101ea1",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 4819,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 11441,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 18847,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 27347,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 33496,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 41751,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 48175,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 56462,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 66009,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 76729,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 80999,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 86915,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 92711,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 99202,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 105315,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 122480,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 130081,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 138308,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 144833,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_autoscout/de-group-high.json": {
+      "decoded_sha256": "f20dd1f2bed86c344f82fcf8d5e8b4676765231f05f9147b4a9478491ee09b57",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 5063,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 14671,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 25395,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 31351,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 37153,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 43655,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 49777,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 57969,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 64499,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 73308,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 80314,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 86359,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 94423,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 102246,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 108900,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 122091,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 132393,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 140617,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 149987,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_autoscout/de-group-low.json": {
+      "decoded_sha256": "848a6c9a1a9ce4885e7043258b98142612e28ace54519a5d48171a2fb0805feb",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 6828,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 14400,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 22756,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 29394,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 33463,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 42042,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50317,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 60418,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 66618,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 73863,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 80063,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 88188,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 94833,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 104016,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 111550,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 118193,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 125242,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 133254,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 140168,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 147661,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_autoscout/de-next2.json": {
+      "decoded_sha256": "16513aee83e92c723f6434240f8aa53ce9e4d645c3a5f0dcb774b7e41fb97c7d",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 6289,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 12860,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 21255,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 29251,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 36390,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 43002,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50859,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 59331,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 66515,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 73485,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 82885,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 90379,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 98165,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 103457,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 110728,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 119206,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 124943,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 135635,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 141634,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 148430,
+          "field": "contactName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-detail-122205.html": {
+      "decoded_sha256": "12024b8b864ea9f6ab9cb4400bb28e61c5bd2dbdf83378d5a2cfc4d337eaac3e",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 3855,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-p1.html": {
+      "decoded_sha256": "25778d2828ab296052baa01095544354432143d07c5874450481a369d559ec18",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 53283,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 56570,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 60159,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 63523,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 67082,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 70754,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 74410,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 77836,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 81476,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 85040,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 88182,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 91688,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-p2.html": {
+      "decoded_sha256": "56a3945843a73e89e8fcc6d71a315815af4378c2727cec2e8e5a6714238987b7",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50114,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 54094,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 57693,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 61300,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 64668,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 68825,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 72096,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 75458,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 79277,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 83168,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 86482,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 90362,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-p3.html": {
+      "decoded_sha256": "4d242ec3dc796b7c16dc75dc8a0092f099aec84151b815ab9ec2d2f809093806",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50710,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 54551,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 58116,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 61193,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 64790,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 68454,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 72159,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 75948,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 79922,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 83862,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 87877,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 91402,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-p4.html": {
+      "decoded_sha256": "ed9a37ef15372fda35097a843aaf1b86ee19bf16b97f9fe0a9c1adc60841d98c",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50386,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 53956,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 57432,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 60715,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 64138,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 67909,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 72458,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 76053,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 80541,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 84317,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 88612,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 92888,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-p5.html": {
+      "decoded_sha256": "91932d4e0aa963ea13d83681d538c0a2590c72ddb72cc2f8bfab1c861e5c2c84",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 18918,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 23080,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 26862,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 30582,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealer_inventory/autoland-refresh.html": {
+      "decoded_sha256": "a5663031a5527f252a296cae7f28836b6e076059d2858716100d5b6089cf0251",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50146,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 53431,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 57021,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 60386,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 63945,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 67617,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 71273,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 74699,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 78339,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 81903,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 85045,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 88551,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealers/autoland-manual.html": {
+      "decoded_sha256": "7524b7facc71564562329b1b0d4003763b03a96aaa595848f70b7fe082b5fb28",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 3377,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_dealers/bmw-faba-detail.html": {
+      "decoded_sha256": "0d7f266957b30859a453b64e8b52fdbc391ca222728220bd8d71fed48f4434a1",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 2126,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 3118,
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/germany_discovery/weller-own.html": {
+      "decoded_sha256": "127a94caf7bfa7407798c74742bb582348dca4e0ff15ece7064f6bbc2bff441b",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 783,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/mercedes_nl_sources/live_detail_addresses.json": {
+      "decoded_sha256": "31f0fdb8f073ce7d13752f70ce55fac121cf35d11f8ee0850afe20974645dc5d",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 8584,
+          "field": "fullName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 20257,
+          "field": "fullName",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 35183,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 39147,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 45517,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        },
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 50734,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/fixtures/quality_dealers/autokopen-detail-2.html": {
+      "decoded_sha256": "0f82a40e9843ea38993656a2c7b05cb0db5ae92c5caf1310e330e3bcbb6ebe18",
+      "loci": [
+        {
+          "category": "unreviewed_name_address_role",
+          "offset": 2824,
+          "field": "streetAddress",
+          "role": "reviewed_synthetic_placeholder_or_dealer_business_field"
+        }
+      ]
+    },
+    "tests/test_germany_additional.py": {
+      "decoded_sha256": "710c3cd5c5fbdaaf9f789e350714a7644f12104dd5148d30518187fd9438514d",
+      "loci": [
+        {
+          "category": "unreviewed_session_literal",
+          "offset": 14983,
+          "field": "access_token",
+          "role": "url_userinfo_or_session_test_input"
+        },
+        {
+          "category": "delivered_email_literal",
+          "offset": 27327,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_autoscout.py": {
+      "decoded_sha256": "3b41ab3d8cd159fad673379eed02dd1d0f52439dee28257525413a00070e10f3",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 9439,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_bmw.py": {
+      "decoded_sha256": "58f3b8d1ea143ed42ff1c8183916e4db173bfeb3191308463a89acae7ba44656",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 16565,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_discovery.py": {
+      "decoded_sha256": "dc54b5218edd09d2f4ab00cc9f0590e5ce51d6f07a66790595e973dbfdafafd6",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 8481,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_germany_identity.py": {
+      "decoded_sha256": "c9bba19b89c1c6711d362ca0946b1fd68b773d20d946927e6702aa189c6852b3",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 34841,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    },
+    "tests/test_mercedes_official.py": {
+      "decoded_sha256": "b06ed28a6f220bce044b40a2ff9efa68c215d10896641bb95bdbbc8e45b3dbe9",
+      "loci": [
+        {
+          "category": "delivered_email_literal",
+          "offset": 15630,
+          "role": "url_userinfo_or_session_test_input"
+        }
+      ]
+    }
+  }
+}

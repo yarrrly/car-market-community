@@ -1,0 +1,31 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "6d29cd3f-36fa-4d53-9c61-07e46738e5a6",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.nl/aanbod/mercedes-benz-c-180-coupe-ambition-navigatie-led-koplampen-trekhaa-benzine-grijs-cat_ma47mo1859-6d29cd3f-36fa-4d53-9c61-07e46738e5a6",
+        "location": {
+          "countryCode": "NL"
+        },
+        "vehicle": {
+          "make": "Mercedes-Benz",
+          "motorTypeName": "C 180",
+          "firstRegistrationDateRaw": "2016-03-01",
+          "transmissionType": "Automatisch",
+          "fuelCategory": {
+            "formatted": "Benzine"
+          },
+          "bodyType": "Coupé",
+          "rawData": {
+            "classification": {
+              "modelGeneration": {
+                "formatted": "205"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

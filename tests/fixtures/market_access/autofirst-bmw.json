@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "brand_name": "consectetur",
+      "build_year": 2020,
+      "created_at": "2026-08-08T22:56:07+02:00",
+      "dtc_enabled": true,
+      "fuel_type": "Benzine",
+      "has_nap": false,
+      "image": "do://elit.ipsum-ipsum.ipsum/amet/311815911c031d0e793b771b35639ipsum5/227821/8272810/1ipsum8098d7c55d65f55lorem12f49c8.sit",
+      "is_sold": false,
+      "lease_calculator_url": "amet://dolor.adipiscing-adipiscing.adipiscing/do/772376-adipiscing-2-dolor-sed-consectetur-218i-elit-dolor-dolor/lorem-adipiscing",
+      "license_plate": "",
+      "mileage": 70119,
+      "model_name": "2 ipsum",
+      "name": "sit 2 do",
+      "price": 18950,
+      "price_includes_bpm": true,
+      "price_includes_vat": true,
+      "price_vat_suffix": "adipiscing lorem sit sed",
+      "seller": {
+        "title": "dolor dolor adipiscing sit sed",
+        "city": "adipiscing"
+      },
+      "url": "elit://consectetur.do-do.do/dolor/005609-do-2-consectetur-ipsum-sed-218i-lorem-consectetur-consectetur",
+      "uuid": "0e10e30a-b35d-4491-8856-7sit39512387",
+      "version": "Active Tourer 218i High Executive Edition"
+    }
+  ]
+}

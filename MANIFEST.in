@@ -1,0 +1,14 @@
+include uv.lock Dockerfile compose.yaml CHANGELOG.md AGENTS.md run .python-version LICENSE
+include CONTRIBUTING.md
+include start.sh start.ps1 compose.build.yaml
+include .gitignore .dockerignore .gitattributes .github/workflows/verify.yml
+recursive-include docs *.md
+recursive-include docs *.gif *.png *.svg *.py *.pdf
+recursive-include examples *.json
+recursive-include fixtures *.json *.html *.md
+recursive-include tests *.py *.json *.html *.md *.xml *.gz *.txt
+recursive-include car_market/assets *.ttf *.txt
+recursive-include tools *.py *.json
+recursive-include release *.py *.ps1
+recursive-include .github/workflows *.yml
+recursive-include .github/ISSUE_TEMPLATE *.md *.yml

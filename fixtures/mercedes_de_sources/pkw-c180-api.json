@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "total": {
+    "count": 183,
+    "pages": 10
+  },
+  "results": [
+    {
+      "id": "265909042928640212",
+      "initial_registration": "2021-12-01",
+      "url": "https://suche.pkw.de/fahrzeuge/details/265909042928640212",
+      "brand": {
+        "id": 49,
+        "warranted_months": 24,
+        "warranted_mileage": null,
+        "name": "Mercedes-Benz"
+      },
+      "model": {
+        "id": 522,
+        "parent_id": 977,
+        "name": "C 180"
+      },
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      },
+      "owner": {
+        "id": "938683921021413244",
+        "name": "adipiscing elit sed do lorem ipsum",
+        "type": "amet",
+        "phone": "[redacted-38]",
+        "mobile": "[private-phone-1450]",
+        "url_friendly_name": "automobile-rabe-aura-gmbh",
+        "city": "Wardenburg",
+        "street": "adipiscing elit sed",
+        "zip": "26203",
+        "country": "Deutschland",
+        "homepage": "https://www.au-ra.de/",
+        "coordinates": [
+          53.05014,
+          8.213504
+        ],
+        "higher_visibility_package": false,
+        "has_free_package": false,
+        "dormant": false,
+        "online_dealing_only": false,
+        "yourrate_id": null,
+        "facebook_page": "",
+        "instagram_page": "",
+        "products": {
+          "car_widget": false,
+          "evaluation_widget": false,
+          "website": false,
+          "trade_in_plugin": false,
+          "purchase_station": false
+        },
+        "url": "https://www.pkw.de/autohaus/wardenburg/automobile-rabe-aura-gmbh",
+        "country_iso": "DE",
+        "opening_hours": []
+      },
+      "location": {
+        "country": "DEU",
+        "city": "Wardenburg",
+        "zip": "26203",
+        "coordinates": [
+          53.05014,
+          8.213504
+        ]
+      }
+    },
+    {
+      "id": "113654156826040106",
+      "name": "Mercedes-Benz C 180 Limo,Comand,Wide,Matrix,Sport/Leder,Avant",
+      "url": "https://suche.pkw.de/fahrzeuge/details/113654156826040106",
+      "bodytype": {
+        "id": 1,
+        "name": "Limousine"
+      }
+    },
+    {
+      "id": "330864989454487015",
+      "name": "Mercedes-Benz C 180 Avantg./MBUX/Totw./Winter-Pa/Rü-Ka. Navi",
+      "url": "https://suche.pkw.de/fahrzeuge/details/330864989454487015",
+      "bodytype": {
+        "id": 1,
+        "name": "Limousine"
+      }
+    },
+    {
+      "id": "39196412237444735",
+      "name": "Mercedes-Benz C 180 D Elit Tempor Lorem Aliqua Enim Tempor Veniam",
+      "url": "https://suche.pkw.de/fahrzeuge/details/39196412237444735"
+    },
+    {
+      "id": "729358079449370584",
+      "name": "Mercedes-Benz C 180 Cabrio Aut.-KAMERA-LED-SHZ-AHK-TEMP.-",
+      "url": "https://suche.pkw.de/fahrzeuge/details/729358079449370584"
+    },
+    {
+      "id": "724528126798225048",
+      "name": "Mercedes-Benz C 180 AMG Line Navi*LED*Widescreen*Ambiente*Kam",
+      "url": "https://suche.pkw.de/fahrzeuge/details/724528126798225048",
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      }
+    },
+    {
+      "id": "907011638120279437",
+      "name": "Mercedes-Benz C 180 9G Avantgarde Kamera LED",
+      "url": "https://suche.pkw.de/fahrzeuge/details/907011638120279437",
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      }
+    },
+    {
+      "id": "147870559780606865",
+      "url": "https://suche.pkw.de/fahrzeuge/details/147870559780606865",
+      "fueltype": {
+        "id": 2,
+        "name": "Diesel"
+      }
+    },
+    {
+      "id": "961213601308259634",
+      "name": "Mercedes-Benz C 180 T Avantgarde AHK Kamera Totwkl. Winter",
+      "url": "https://suche.pkw.de/fahrzeuge/details/961213601308259634",
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      }
+    },
+    {
+      "id": "697734928874782619",
+      "url": "https://suche.pkw.de/fahrzeuge/details/697734928874782619",
+      "geartype": {
+        "id": 3,
+        "name": "Schaltgetriebe"
+      }
+    },
+    {
+      "id": "129856280286849119",
+      "initial_registration": "2014-11-01",
+      "url": "https://suche.pkw.de/fahrzeuge/details/129856280286849119"
+    },
+    {
+      "id": "325820493449328626",
+      "name": "Mercedes-Benz C 180 T Edition AMG-Line-MBUX*AHK*360°Kamera*Pan",
+      "url": "https://suche.pkw.de/fahrzeuge/details/325820493449328626",
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      }
+    },
+    {
+      "id": "495202802291009938",
+      "name": "Mercedes-Benz C 180 C Dolor Incididunt Ipsum Minim Amet Incididunt",
+      "url": "https://suche.pkw.de/fahrzeuge/details/495202802291009938",
+      "bodytype": {
+        "id": 1,
+        "name": "Limousine"
+      }
+    },
+    {
+      "id": "620356043809638276",
+      "name": "Mercedes-Benz C 180 T AMG*LED*Sitzhzg.*Memory*PDC*360°*AHK",
+      "url": "https://suche.pkw.de/fahrzeuge/details/620356043809638276",
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      }
+    },
+    {
+      "id": "611803831910635263",
+      "name": "Mercedes-Benz C 180 AMG Line/ AHK/360°/Totw./Night/LED/Memory",
+      "url": "https://suche.pkw.de/fahrzeuge/details/611803831910635263",
+      "bodytype": {
+        "id": 1,
+        "name": "Limousine"
+      }
+    },
+    {
+      "id": "438110131109289915",
+      "name": "Mercedes-Benz C 180 Cabrio/AMG/Klima/Kamera/Navi/Sitzhzg/LED",
+      "url": "https://suche.pkw.de/fahrzeuge/details/438110131109289915"
+    },
+    {
+      "id": "886394981792117400",
+      "name": "Mercedes-Benz C 180 Cabrio AMG Line *2.Hand*Kamera*",
+      "url": "https://suche.pkw.de/fahrzeuge/details/886394981792117400"
+    },
+    {
+      "id": "802207069518891082",
+      "name": "Mercedes-Benz C 180 T Lorem Eiusmod Minim Adipiscing Enim Amet Sit Sit.",
+      "url": "https://suche.pkw.de/fahrzeuge/details/802207069518891082",
+      "bodytype": {
+        "id": 6,
+        "name": "Kombi"
+      }
+    },
+    {
+      "id": "938139457872498461",
+      "name": "Mercedes-Benz C 180 d Labore Dolor Enim. Minim. Magna. Sed",
+      "url": "https://suche.pkw.de/fahrzeuge/details/938139457872498461"
+    },
+    {
+      "id": "497792700329607500",
+      "mot": "10/2028",
+      "name": "Mercedes-Benz C 180 AMG Line/Totw./Winter-Paket/Distronic/LED/",
+      "initial_registration": "2025-08-01",
+      "main_image": {
+        "thumb": "https://images.pkw.net/mercedes-benz-c-180-1026403068-120x90_086f605cc3.jpg",
+        "full": "https://images.pkw.net/mercedes-benz-c-180-1026403068-640x480_adfda44342.jpg",
+        "original": "https://images.pkw.net/mercedes-benz-c-180-1026403068-0x0_978a1c6132.jpg",
+        "webp": {
+          "thumb": "https://images.pkw.net/mercedes-benz-c-180-1026403068-120x90_0b652778ae.webp",
+          "full": "https://images.pkw.net/mercedes-benz-c-180-1026403068-640x480_ed4086e129.webp",
+          "original": "https://images.pkw.net/mercedes-benz-c-180-1026403068-0x0_21dbbd3eeb.webp"
+        }
+      },
+      "emission": {
+        "allowed_formats": {
+          "nedc": false,
+          "wltp": true
+        },
+        "consumption_unit": "l/100km",
+        "co2_emission": 149,
+        "consumption": {
+          "intown": null,
+          "outtown": null,
+          "average": null,
+          "electro": null
+        },
+        "wltp": {
+          "wltp_emission_combined": 142,
+          "wltp_consumption_combined": 6.2,
+          "wltp_consumption_slow": 9.5,
+          "wltp_consumption_medium": 6.3,
+          "wltp_consumption_fast": 5.2,
+          "wltp_consumption_very_fast": 5.8,
+          "wltp_consumption_electricity_combined": null,
+          "wltp_electric_motor_range": null,
+          "wltp_electric_motor_range_urban_areas": null,
+          "wltp_total_range": null,
+          "wltp_total_range_urban_areas": null,
+          "wltp_emission_weighted_combined": null,
+          "wltp_consumption_electricity_weighted_combined": null,
+          "wltp_consumption_fuel_weighted_combined": null,
+          "wltp_co2_emission_class": "E",
+          "wltp_co2_emission_class_weighted": null,
+          "wltp_co2_emission_discharged_battery": null,
+          "wltp_emission_class_weighted_combined_empty_battery": null,
+          "wltp_consumption_discharged_battery_combined": null,
+          "wltp_consumption_electricity_slow": null,
+          "wltp_consumption_electricity_medium": null,
+          "wltp_consumption_electricity_fast": null,
+          "wltp_consumption_electricity_very_fast": null,
+          "wltp_consumption_city_discharged_battery": null,
+          "wltp_consumption_suburban_discharged_battery": null,
+          "wltp_consumption_rural_discharged_battery": null,
+          "wltp_consumption_highway_discharged_battery": null
+        },
+        "consumption_co2_emission_data": "sit amet consectetur adipiscing elit sed do lorem ipsum dolor"
+      },
+      "price": {
+        "price_type": null,
+        "price_advantage": true,
+        "netto_price": 29159.66386554622,
+        "initial_price": 35950,
+        "overprice_amount": -1439.0999999999985,
+        "customer": 34700,
+        "underprice": 0.9601788644432209,
+        "predicted": 36139.1,
+        "prediction_class": "fairerpreis",
+        "price_cut_good": 29742.479,
+        "price_cut_fair": 33211.832,
+        "price_cut_high": 39066.367,
+        "price_cut_expensive": 44920.902,
+        "monthly_cost": 0
+      },
+      "power": {
+        "kw": 125,
+        "hp": 170
+      },
+      "url": "https://suche.pkw.de/fahrzeuge/details/497792700329607500",
+      "text_variant": "AMG Line/Totw./Winter-Paket/Distronic/LED/",
+      "mileage": 12551,
+      "brand": {
+        "id": 49,
+        "warranted_months": 24,
+        "warranted_mileage": null,
+        "name": "consectetur"
+      },
+      "model": {
+        "id": 522,
+        "parent_id": 977,
+        "name": "C 180"
+      },
+      "bodytype": {
+        "id": 1,
+        "name": "amet"
+      },
+      "agetype": {
+        "id": 4,
+        "name": "Jahreswagen"
+      },
+      "fueltype": {
+        "id": 1,
+        "name": "Benzin"
+      },
+      "geartype": {
+        "id": 1,
+        "name": "Automatik"
+      },
+      "color": {
+        "exterior": {
+          "id": 7,
+          "name": "ipsum",
+          "origin": "amet consectetur",
+          "id_and_name": "7|grau"
+        },
+        "interior": {
+          "id": 11,
+          "name": "schwarz",
+          "id_and_name": "11|schwarz"
+        }
+      },
+      "owner": {
+        "id": "748731910408350872",
+        "name": "Rheinbacher Kraftwagen Handelsgesellschaft mbH",
+        "type": "dealer",
+        "phone": "[redacted-23]",
+        "mobile": null,
+        "url_friendly_name": "rheinbacher-kraftwagen-handelsgesellschaft-mbh",
+        "city": "Rheinbach",
+        "street": "Meckenheimer Straße 12",
+        "zip": "53359",
+        "country": "Deutschland",
+        "homepage": "http://www.rkh-mb.de",
+        "coordinates": [
+          50.624638,
+          6.9626956
+        ],
+        "higher_visibility_package": false,
+        "has_free_package": false,
+        "dormant": false,
+        "online_dealing_only": false,
+        "yourrate_id": null,
+        "facebook_page": "",
+        "instagram_page": "",
+        "products": {
+          "car_widget": false,
+          "evaluation_widget": false,
+          "website": false,
+          "trade_in_plugin": false,
+          "purchase_station": false
+        },
+        "url": "https://www.pkw.de/autohaus/rheinbach/rheinbacher-kraftwagen-handelsgesellschaft-mbh",
+        "country_iso": "DE",
+        "opening_hours": [
+          {
+            "days": "Mo-Fr",
+            "type": "elit",
+            "raw": [
+              {
+                "days": [
+                  "Mo",
+                  "Di",
+                  "Mi",
+                  "Do",
+                  "Fr"
+                ],
+                "time": {
+                  "started_at": "08:00",
+                  "ended_at": "18:00"
+                }
+              }
+            ],
+            "time": "08:00-18:00",
+            "time_array": [
+              "08:00-18:00"
+            ]
+          },
+          {
+            "days": "Sa",
+            "type": "consectetur",
+            "raw": [
+              {
+                "days": [
+                  "Sa"
+                ],
+                "time": {
+                  "started_at": "08:00",
+                  "ended_at": "12:45"
+                }
+              }
+            ],
+            "time": "08:00-12:45",
+            "time_array": [
+              "08:00-12:45"
+            ]
+          }
+        ]
+      },
+      "location": {
+        "country": "DEU",
+        "city": "Rheinbach",
+        "zip": "53359",
+        "coordinates": [
+          50.624638,
+          6.9626956
+        ]
+      },
+      "offernumber": "263671",
+      "premium_highlight": {
+        "low_mileage": false,
+        "one_owner": false,
+        "service_history": false
+      },
+      "vatable": true,
+      "vat_percent": 19,
+      "deleted": false,
+      "ancestors": 1
+    }
+  ]
+}

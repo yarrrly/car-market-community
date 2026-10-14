@@ -1,0 +1,246 @@
+{
+  "props": {
+    "pageProps": {
+      "pageQuery": {
+        "cat": "ma47mo1859",
+        "ustate": "N,U",
+        "atype": "C",
+        "powertype": "kw",
+        "mcat": "ma47mo1859",
+        "body": "3",
+        "mmmv": "47|1859||",
+        "fregfrom": "2016",
+        "gear": "A",
+        "ocs_listing": "include",
+        "cy": "NL",
+        "show_nfm": "true",
+        "pricetype": "public"
+      },
+      "listings": [
+        {
+          "id": "c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-premium-plus-automaat-benzine-wit-cat_ma47mo1859-c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "6d29cd3f-36fa-4d53-9c61-07e46738e5a6",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-ambition-navigatie-led-koplampen-trekhaa-benzine-grijs-cat_ma47mo1859-6d29cd3f-36fa-4d53-9c61-07e46738e5a6",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "cc0d4069-1ac4-4e29-b93b-04fea0970e05",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-edition-one-i-automaat-i-schuif-kanteldak-i-benzine-grijs-cat_ma47mo1859-cc0d4069-1ac4-4e29-b93b-04fea0970e05",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "f3a0dd9c-7407-4e3d-9c4e-9138600b9b74",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-lease-edition-stoelverwarming-camera-c-benzine-grijs-cat_ma47mo1859-f3a0dd9c-7407-4e3d-9c4e-9138600b9b74",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "e0447476-87e8-444d-933a-b11e4045a738",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-amg-line-premium-benzine-wit-cat_ma47mo1859-e0447476-87e8-444d-933a-b11e4045a738",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "9846a548-4209-47a8-a54d-0924ac6a47e4",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-premium-plus-panorama-schuifdak-nieuwe-velge-benzine-wit-cat_ma47mo1859-9846a548-4209-47a8-a54d-0924ac6a47e4",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "94104f19-575e-43e2-9908-fa64e6369c52",
+          "url": "/aanbod/mercedes-benz-c-180-prestige-benzine-wit-cat_ma47mo1859-94104f19-575e-43e2-9908-fa64e6369c52",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "324b4833-299a-4332-b7db-60cab574a6f5",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-ambition-amg-line-airco-ecc-burmester-benzine-grijs-cat_ma47mo1859-324b4833-299a-4332-b7db-60cab574a6f5",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "7e0b6025-1b44-4063-b9af-bca4f161b74a",
+          "url": "/aanbod/mercedes-benz-c-180-prestige-xenon-pano-c43-amg-look-benzine-wit-cat_ma47mo1859-7e0b6025-1b44-4063-b9af-bca4f161b74a",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "10baa657-9be0-4387-b823-255d5650bd26",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-amg-xenon-btw-benzine-grijs-cat_ma47mo1859-10baa657-9be0-4387-b823-255d5650bd26",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "d8681786-db05-4ef6-8127-200d58951cba",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-amg-cruise-navi-cam-ambition-benzine-wit-cat_ma47mo1859-d8681786-db05-4ef6-8127-200d58951cba",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "4902001e-42b0-4782-9393-5ff0fa3dd669",
+          "url": "/aanbod/mercedes-benz-c-180-premium-plus-pack-luchtvering-burmester-pano-benzine-blauw-cat_ma47mo1859-4902001e-42b0-4782-9393-5ff0fa3dd669",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "ec2876b8-194c-4201-8160-e44df76690c1",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-pano-amg-line-burmester-benzine-grijs-cat_ma47mo1859-ec2876b8-194c-4201-8160-e44df76690c1",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "4c9ead1e-bbec-4c1d-8d5c-7c7e82100dd2",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-prestige-amg-style-goed-onderh-panorama-benzine-grijs-cat_ma47mo1859-4c9ead1e-bbec-4c1d-8d5c-7c7e82100dd2",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "2029d046-125b-4623-b20d-8ab46dd17aad",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-amg-night-pack-pano-dak-burmester-camera-benzine-wit-cat_ma47mo1859-2029d046-125b-4623-b20d-8ab46dd17aad",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "156f7e68-660f-4e5b-a3f1-d69d09283c26",
+          "url": "/aanbod/mercedes-benz-c-180-156pk-aut-coupe-amg-line-panoramadak-360-cam-benzine-rood-cat_ma47mo1859-156f7e68-660f-4e5b-a3f1-d69d09283c26",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "0bbab1ec-3a31-4f6f-ac34-742a35dcf6b8",
+          "url": "/aanbod/mercedes-benz-c-180-top-onderhouden-auto-met-alle-opties-recent-onderhoudsbeurt-b-gehad-en-apk-tot-eind-2027-benzine-cat_ma47mo1859-0bbab1ec-3a31-4f6f-ac34-742a35dcf6b8",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "ea56fe94-0059-422f-86fe-74782e97890e",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-prestige-benzine-blauw-cat_ma47mo1859-ea56fe94-0059-422f-86fe-74782e97890e",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "3e75dd7b-7a11-41a9-8fcb-a9923290a373",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-prestige-amg-benzine-blauw-cat_ma47mo1859-3e75dd7b-7a11-41a9-8fcb-a9923290a373",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        },
+        {
+          "id": "6a8f7af7-e876-4fdd-8e86-bf0eae1143d6",
+          "url": "/aanbod/mercedes-benz-c-180-coupe-amg-styling-nap-origineel-nl-benzine-grijs-cat_ma47mo1859-6a8f7af7-e876-4fdd-8e86-bf0eae1143d6",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "NL"
+          }
+        }
+      ],
+      "numberOfResults": 33,
+      "numberOfPages": 2
+    }
+  },
+  "buildId": "as24-search-funnel_main-20261008161000"
+}

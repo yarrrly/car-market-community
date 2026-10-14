@@ -1,0 +1,38 @@
+[
+  {
+    "file": "nl-detail-6d29cd3f-36fa-4d53-9c61-07e46738e5a6.json",
+    "publication_id": "6d29cd3f-36fa-4d53-9c61-07e46738e5a6",
+    "country": "NL",
+    "selection": "bounded native own fields; original retained alongside HTTP SHA/time manifest"
+  },
+  {
+    "file": "nl-detail-c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7.json",
+    "publication_id": "c9ee5a94-fe8d-4d49-8a2c-f5c2f616a5b7",
+    "country": "NL",
+    "selection": "bounded native own fields; original retained alongside HTTP SHA/time manifest"
+  },
+  {
+    "file": "nl-detail-f3a0dd9c-7407-4e3d-9c4e-9138600b9b74.json",
+    "publication_id": "f3a0dd9c-7407-4e3d-9c4e-9138600b9b74",
+    "country": "NL",
+    "selection": "bounded native own fields; original retained alongside HTTP SHA/time manifest"
+  },
+  {
+    "file": "de-detail-5f2131d0-8b2f-4b06-9f99-d905304c2cda.json",
+    "publication_id": "5f2131d0-8b2f-4b06-9f99-d905304c2cda",
+    "country": "DE",
+    "selection": "bounded native own fields; original retained alongside HTTP SHA/time manifest"
+  },
+  {
+    "file": "de-detail-cd165c81-152d-4221-9b2c-af7be7d83583.json",
+    "publication_id": "cd165c81-152d-4221-9b2c-af7be7d83583",
+    "country": "DE",
+    "selection": "bounded native own fields; original retained alongside HTTP SHA/time manifest"
+  },
+  {
+    "file": "de-detail-e74ebc2e-8acc-464d-ac0e-511e41e3de3e.json",
+    "publication_id": "e74ebc2e-8acc-464d-ac0e-511e41e3de3e",
+    "country": "DE",
+    "selection": "bounded native own fields; original retained alongside HTTP SHA/time manifest"
+  }
+]

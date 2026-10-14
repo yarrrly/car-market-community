@@ -1,0 +1,217 @@
+{
+  "links": [
+    {
+      "href": "dolor://lorem.amet.sed/ipsum/v1/sed/sit/lorem?adipiscing=1"
+    },
+    {
+      "href": "dolor://lorem.amet.sed/ipsum/v1/sed/sit/lorem?adipiscing=2"
+    }
+  ],
+  "page": 1,
+  "total": {
+    "count": 78,
+    "pages": 4
+  },
+  "results": [
+    {
+      "id": "584066870576851785",
+      "url": "https://suche.pkw.de/fahrzeuge/details/584066870576851785",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "338267040480122033",
+      "url": "https://suche.pkw.de/fahrzeuge/details/338267040480122033",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "805052139538699436",
+      "url": "https://suche.pkw.de/fahrzeuge/details/805052139538699436",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "635878100259431844",
+      "url": "https://suche.pkw.de/fahrzeuge/details/635878100259431844",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "659250948593868870",
+      "url": "https://suche.pkw.de/fahrzeuge/details/659250948593868870",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "922604246627919216",
+      "url": "https://suche.pkw.de/fahrzeuge/details/922604246627919216",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "356979125750224210",
+      "url": "https://suche.pkw.de/fahrzeuge/details/356979125750224210",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "150941248187050740",
+      "url": "https://suche.pkw.de/fahrzeuge/details/150941248187050740",
+      "fueltype": {
+        "name": "andere"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "419467770588072231",
+      "url": "https://suche.pkw.de/fahrzeuge/details/419467770588072231",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "471433813794323303",
+      "url": "https://suche.pkw.de/fahrzeuge/details/471433813794323303",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "282013560509063697",
+      "url": "https://suche.pkw.de/fahrzeuge/details/282013560509063697",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "72342906677998684",
+      "url": "https://suche.pkw.de/fahrzeuge/details/72342906677998684",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "730195018864544225",
+      "url": "https://suche.pkw.de/fahrzeuge/details/730195018864544225",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "274193632549200125",
+      "url": "https://suche.pkw.de/fahrzeuge/details/274193632549200125",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "503616558926513718",
+      "url": "https://suche.pkw.de/fahrzeuge/details/503616558926513718",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "805659025952659537",
+      "url": "https://suche.pkw.de/fahrzeuge/details/805659025952659537",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "914798564993789303",
+      "url": "https://suche.pkw.de/fahrzeuge/details/914798564993789303",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "294600476118606415",
+      "url": "https://suche.pkw.de/fahrzeuge/details/294600476118606415",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "179740093094526794",
+      "url": "https://suche.pkw.de/fahrzeuge/details/179740093094526794",
+      "fueltype": {
+        "name": "Diesel"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "10662954745876253",
+      "url": "https://suche.pkw.de/fahrzeuge/details/10662954745876253",
+      "fueltype": {
+        "name": "Benzin"
+      },
+      "location": {
+        "country": "DEU"
+      }
+    }
+  ]
+}

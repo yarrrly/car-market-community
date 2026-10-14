@@ -1,0 +1,284 @@
+{
+  "gaspedaal.json": {
+    "sha256": "1c01bf2f01661470e87699d0e224430a27431030f75899474d527cf7997a05dc",
+    "source": "gaspedaal",
+    "original": {
+      "requested_url": "https://www.gaspedaal.nl/mercedes-benz/c-klasse/c180?bmin=2016&trns=AUTOMATISCH&brnst=BENZINE&crs=COUPE",
+      "final_url": "https://www.gaspedaal.nl/mercedes-benz/c-klasse/c180?bmin=2016&trns=AUTOMATISCH&brnst=BENZINE&crs=COUPE",
+      "parser_url": "https://www.gaspedaal.nl/mercedes-benz/c-klasse/c180?bmin=2016&trns=AUTOMATISCH&brnst=BENZINE&crs=COUPE",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T15:00:34.259983+00:00",
+      "sha256": "afa6849cc8ca3c1fbf31dbe6d6a410fdc69feabed9851d9829226192c9ff8be1",
+      "bytes": 1123897,
+      "raw_file": "gaspedaal-native.raw",
+      "transport": null
+    },
+    "fixture_sha256": "1c01bf2f01661470e87699d0e224430a27431030f75899474d527cf7997a05dc",
+    "containment_input_file_sha256": "1c01bf2f01661470e87699d0e224430a27431030f75899474d527cf7997a05dc",
+    "public_projection": "Current projection bytes; tempor labore incididunt ipsum sed adipiscing lorem."
+  },
+  "autotrack.json": {
+    "sha256": "8c0ba5b549d028d4f5ade210267fcdb0f65f174f2bd9b030c0fb2a21695bb994",
+    "source": "autotrack",
+    "original": {
+      "requested_url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "final_url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "parser_url": "https://www.autotrack.nl/aanbod?data.merkModel.filter.0.slug=mercedes-benz&data.merkModel.filter.0.models.0.slug=c-klasse&data.carrosserievorm.filter.0.slug=coupe&data.transmissietype.filter.0.slug=automatisch&data.brandstofsoort.filter.0.slug=benzine&data.bouwjaar.min.0.name=2016&data.trefwoord.filter.0.name=180&pageSize=90&sortField=datumGeplaatst&sortOrder=asc",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T15:04:10.029704+00:00",
+      "sha256": "782aac541fc04a26629927a56032b112e801c3449b69e7ad1a1454bb44d4feca",
+      "bytes": 1382247,
+      "raw_file": "autotrack-180.raw",
+      "transport": null
+    },
+    "fixture_sha256": "8c0ba5b549d028d4f5ade210267fcdb0f65f174f2bd9b030c0fb2a21695bb994",
+    "containment_input_file_sha256": "8c0ba5b549d028d4f5ade210267fcdb0f65f174f2bd9b030c0fb2a21695bb994",
+    "public_projection": "Current projection bytes; sed eiusmod do minim consectetur sit enim."
+  },
+  "anwb.json": {
+    "sha256": "f355d2869b2268892d3b0241abdc866077702eb3d302036b3e3a26ae9de122a9",
+    "source": "anwb",
+    "original": {
+      "requested_url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+      "final_url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+      "parser_url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+      "method": "POST",
+      "request_body": {
+        "brandModel": {
+          "filter": [
+            {
+              "slug": "mercedes-benz",
+              "models": [
+                {
+                  "slug": "c-klasse"
+                }
+              ]
+            }
+          ]
+        },
+        "fuelType": {
+          "filter": [
+            {
+              "slug": "benzine"
+            }
+          ]
+        },
+        "constructionYear": {
+          "min": [
+            {
+              "name": 2016
+            }
+          ]
+        },
+        "transmissionType": {
+          "filter": [
+            {
+              "slug": "automatisch"
+            }
+          ]
+        },
+        "bodyType": {
+          "filter": [
+            {
+              "slug": "coupe"
+            }
+          ]
+        }
+      },
+      "status": 200,
+      "timestamp": "2026-10-08T15:15:39.112718+00:00",
+      "sha256": "bc12468f2d78f3ac7d9b4bc4e7b3695c82a1f8d1e98fe39eb253163a9b638846",
+      "bytes": 136498,
+      "raw_file": "anwb-filtered-page1.raw",
+      "transport": "anonymous_browser_own_http"
+    },
+    "fixture_sha256": "f355d2869b2268892d3b0241abdc866077702eb3d302036b3e3a26ae9de122a9",
+    "containment_input_file_sha256": "f355d2869b2268892d3b0241abdc866077702eb3d302036b3e3a26ae9de122a9",
+    "public_projection": "Current projection bytes; dolore aliqua magna amet tempor do sit."
+  },
+  "autotrader.json": {
+    "sha256": "ca8ce7b54571d0b5ada61475bb2a05e9507b0f5ed02b08d6da2e3568b53a9320",
+    "source": "autotrader",
+    "original": {
+      "requested_url": "https://www.autotrader.nl/auto/mercedes-benz/c-180?cy=NL&body=3&gear=A&fuel=B&fregfrom=2016&sort=price&desc=0",
+      "final_url": "https://www.autotrader.nl/auto/mercedes-benz/c-180?cy=NL&body=3&gear=A&fuel=B&fregfrom=2016&sort=price&desc=0",
+      "parser_url": "https://www.autotrader.nl/auto/mercedes-benz/c-180?cy=NL&body=3&gear=A&fuel=B&fregfrom=2016&sort=price&desc=0",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T14:56:08.605823+00:00",
+      "sha256": "05499fa87a49c590bb702102fb6729ff1b2c8c0cf169a15958d694881c9dd77e",
+      "bytes": 812609,
+      "raw_file": "autotrader-filtered.raw",
+      "transport": null
+    },
+    "fixture_sha256": "ca8ce7b54571d0b5ada61475bb2a05e9507b0f5ed02b08d6da2e3568b53a9320",
+    "containment_input_file_sha256": "ca8ce7b54571d0b5ada61475bb2a05e9507b0f5ed02b08d6da2e3568b53a9320",
+    "public_projection": "Current projection bytes; amet adipiscing consectetur dolore ipsum veniam labore."
+  },
+  "viabovag.json": {
+    "sha256": "6c1db664439054b14cf5baade95beb5c1b194266ecf60003a2aab24c85fd8359",
+    "source": "viabovag",
+    "original": {
+      "requested_url": "https://www.viabovag.nl/auto/merk-mercedes-benz/model-c-klasse/coupe",
+      "final_url": "https://www.viabovag.nl/auto/merk-mercedes-benz/model-c-klasse/coupe",
+      "parser_url": "https://www.viabovag.nl/auto/merk-mercedes-benz/model-c-klasse/coupe",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T14:59:06.997305+00:00",
+      "sha256": "d2612a076b0d1680171f9b51833bb991b2ffa129898dc46cbccd7e9793ce4d44",
+      "bytes": 926302,
+      "raw_file": "viabovag-coupe.raw",
+      "transport": null
+    },
+    "fixture_sha256": "6c1db664439054b14cf5baade95beb5c1b194266ecf60003a2aab24c85fd8359",
+    "containment_input_file_sha256": "6c1db664439054b14cf5baade95beb5c1b194266ecf60003a2aab24c85fd8359",
+    "public_projection": "Current projection bytes; eiusmod incididunt tempor lorem elit consectetur veniam."
+  },
+  "autokopen.json": {
+    "sha256": "2b159bd984ebd2f4b639fdef30f100b5469a086093de890233e563c392f53baa",
+    "source": "autokopen",
+    "original": {
+      "requested_url": "https://autokopen.nl/auto?brand=mercedes-benz&model=c-klasse&transmission=automaat&fuel=benzine&body=coupe&year_min=2016",
+      "final_url": "https://autokopen.nl/auto?brand=mercedes-benz&model=c-klasse&transmission=automaat&fuel=benzine&body=coupe&year_min=2016",
+      "parser_url": "https://autokopen.nl/auto?brand=mercedes-benz&model=c-klasse&transmission=automaat&fuel=benzine&body=coupe&year_min=2016",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T15:02:22.506935+00:00",
+      "sha256": "4cc4ec24581e3d5329a2ac903b8cbef8f6bfe0ee52cc826a678df1a753564570",
+      "bytes": 424032,
+      "raw_file": "autokopen-query.raw",
+      "transport": null
+    },
+    "fixture_sha256": "2b159bd984ebd2f4b639fdef30f100b5469a086093de890233e563c392f53baa",
+    "containment_input_file_sha256": "2b159bd984ebd2f4b639fdef30f100b5469a086093de890233e563c392f53baa",
+    "public_projection": "Current projection bytes; do tempor eiusmod veniam adipiscing amet minim."
+  },
+  "marktplaats.json": {
+    "sha256": "eab46ce2ab876967d6271a93b4080d79b7849b98ac4a2fce9cc9b0dbc77961da",
+    "source": "marktplaats",
+    "original": {
+      "requested_url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "final_url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "parser_url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T14:56:08.204966+00:00",
+      "sha256": "30fb8be0bae8281bf90201fefb39fd81c75fb92b8ceff4fc49c6744d79cd79f2",
+      "bytes": 103336,
+      "raw_file": "marktplaats-filtered.raw",
+      "transport": null
+    },
+    "fixture_sha256": "eab46ce2ab876967d6271a93b4080d79b7849b98ac4a2fce9cc9b0dbc77961da",
+    "containment_input_file_sha256": "eab46ce2ab876967d6271a93b4080d79b7849b98ac4a2fce9cc9b0dbc77961da",
+    "public_projection": "Current projection bytes; enim veniam minim elit dolore incididunt adipiscing."
+  },
+  "autofirst.json": {
+    "sha256": "78ccaac642dccb966fc7203332504478b6825de69a41213b45f997625f8bf3e6",
+    "source": "autofirst",
+    "original": {
+      "requested_url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions",
+      "final_url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions",
+      "parser_url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T14:54:42.432438+00:00",
+      "sha256": "f2f8f1e6fb8c61eaf30321a7bb6767f4a340959d33c668ecd817f6a9e230903b",
+      "bytes": 108558,
+      "raw_file": "autofirst-base.raw",
+      "transport": null
+    },
+    "fixture_sha256": "78ccaac642dccb966fc7203332504478b6825de69a41213b45f997625f8bf3e6",
+    "containment_input_file_sha256": "78ccaac642dccb966fc7203332504478b6825de69a41213b45f997625f8bf3e6",
+    "public_projection": "Current projection bytes; elit do sed enim amet dolor aliqua."
+  },
+  "marktplaats-filtered.json": {
+    "sha256": "30fb8be0bae8281bf90201fefb39fd81c75fb92b8ceff4fc49c6744d79cd79f2",
+    "original": {
+      "requested_url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "final_url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "parser_url": "https://www.marktplaats.nl/lrp/api/search?l1CategoryId=91&l2CategoryIds[]=130&limit=100&offset=0&sortBy=SORT_INDEX&sortOrder=INCREASING&viewOptions=list-view&attributesById[]=965&attributesById[]=486&attributesById[]=534&attributesById[]=473&attributeRanges[]=constructionYear:2016:&query=c180&searchInTitleAndDescription=true",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T14:56:08.204966+00:00",
+      "sha256": "30fb8be0bae8281bf90201fefb39fd81c75fb92b8ceff4fc49c6744d79cd79f2",
+      "bytes": 103336,
+      "raw_file": "marktplaats-filtered.raw",
+      "transport": null
+    },
+    "fixture_sha256": "30fb8be0bae8281bf90201fefb39fd81c75fb92b8ceff4fc49c6744d79cd79f2",
+    "containment_input_file_sha256": "30fb8be0bae8281bf90201fefb39fd81c75fb92b8ceff4fc49c6744d79cd79f2",
+    "public_projection": "Current projection bytes; magna enim aliqua consectetur incididunt eiusmod amet."
+  },
+  "marktnet-c180cat.xml": {
+    "sha256": "2fa251d530b138abf26758af383af90a00c0a9760d1dcdc64a4949a6468a2993",
+    "original": {
+      "requested_url": "https://www.marktnet.nl/zoeken.xml?cat_id=57&q=c180&descr=on",
+      "final_url": "https://www.marktnet.nl/zoeken.xml?cat_id=57&q=c180&descr=on",
+      "parser_url": "https://www.marktnet.nl/zoeken.xml?cat_id=57&q=c180&descr=on",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T15:02:22.723798+00:00",
+      "sha256": "2fa251d530b138abf26758af383af90a00c0a9760d1dcdc64a4949a6468a2993",
+      "bytes": 22337,
+      "raw_file": "marktnet-c180cat.raw",
+      "transport": null
+    },
+    "fixture_sha256": "2fa251d530b138abf26758af383af90a00c0a9760d1dcdc64a4949a6468a2993",
+    "containment_input_file_sha256": "2fa251d530b138abf26758af383af90a00c0a9760d1dcdc64a4949a6468a2993",
+    "public_projection": "Current projection bytes; elit do sed enim amet dolor aliqua."
+  },
+  "marktnet-categories.xml": {
+    "sha256": "b1dccd17ca4bd71eedc0bebf97db02eff10d8c6dafdfaf541fa0318f7234bde9",
+    "original": {
+      "requested_url": "https://www.marktnet.nl/rubrieken.xml",
+      "final_url": "https://www.marktnet.nl/rubrieken.xml",
+      "parser_url": "https://www.marktnet.nl/rubrieken.xml",
+      "method": "GET",
+      "request_body": null,
+      "status": 200,
+      "timestamp": "2026-10-08T15:00:34.260565+00:00",
+      "sha256": "b1dccd17ca4bd71eedc0bebf97db02eff10d8c6dafdfaf541fa0318f7234bde9",
+      "bytes": 85329,
+      "raw_file": "marktnet-categories.raw",
+      "transport": null
+    },
+    "fixture_sha256": "b1dccd17ca4bd71eedc0bebf97db02eff10d8c6dafdfaf541fa0318f7234bde9",
+    "containment_input_file_sha256": "b1dccd17ca4bd71eedc0bebf97db02eff10d8c6dafdfaf541fa0318f7234bde9",
+    "public_projection": "Current projection bytes; minim lorem veniam sed magna labore elit."
+  },
+  "hedin.json": {
+    "sha256": "c5024e320ae6bf0bbd19f49244923541063663642a7ffa2c05a47a29d48faeef",
+    "original": {
+      "requested_url": "https://api.gaspedaal.nl/redirect/vehicle/196691721",
+      "final_url": "https://www.hedinautomotive.nl/mercedes-benz/occasion/p/84100937/mercedes-benz-c-klasse-c-180-coupe-automaat-amg-line-parktronic-led-stoelverwarming-zitcomfortpakket-spiegelpakket",
+      "timestamp": "2026-10-08T15:03:08.410326+00:00",
+      "completed_at": "2026-10-08T15:03:09.117105+00:00",
+      "status": 200,
+      "method": "GET",
+      "request_body": null,
+      "sha256": "aea89b54612c76d56bd2ba40acbb6ecb6a8092a9516d17429aeb69bb720227c1",
+      "bytes": 855426,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "Date": "Thu, 08 Oct 2026 15:03:09 GMT",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "raw_file": "shareddealer-1.raw",
+      "parser_url": "https://www.hedinautomotive.nl/mercedes-benz/occasion/p/84100937/mercedes-benz-c-klasse-c-180-coupe-automaat-amg-line-parktronic-led-stoelverwarming-zitcomfortpakket-spiegelpakket"
+    },
+    "fixture_sha256": "c5024e320ae6bf0bbd19f49244923541063663642a7ffa2c05a47a29d48faeef",
+    "containment_input_file_sha256": "c5024e320ae6bf0bbd19f49244923541063663642a7ffa2c05a47a29d48faeef",
+    "public_projection": "Current projection bytes; labore magna dolore sit eiusmod sed dolor."
+  }
+}

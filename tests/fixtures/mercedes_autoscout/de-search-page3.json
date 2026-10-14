@@ -1,0 +1,54 @@
+{
+  "pageProps": {
+    "pageQuery": {
+      "cat": "ma47gr100056mt292",
+      "atype": "C",
+      "damaged_listing": "include",
+      "powertype": "kw",
+      "ocs_listing": "include",
+      "mcat": "ma47gr100056",
+      "body": "3",
+      "gear": "A",
+      "mmmv": "47|||",
+      "fregfrom": "2016",
+      "page": "3",
+      "cy": "D",
+      "lm_premium": "true",
+      "specialconditions": "true",
+      "show_nfm": "true",
+      "pricetype": "public"
+    },
+    "listings": [
+      {
+        "id": "b13aca5d-448d-43f5-bcdd-1eef7f191ac6",
+        "url": "/angebote/mercedes-benz-c-klasse-edition-amg-line-navi-distronic-amg-line-keyless-go-start-funktion-styling-autom-klima-led-park-assist-sitzhzg-benzin-schwarz-cat_ma47gr100056ge13va120mt292tr2913-b13aca5d-448d-43f5-bcdd-1eef7f191ac6",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "e0feb7a7-0d12-4d1d-a635-64f75654ae54",
+        "url": "/angebote/mercedes-benz-c-klasse-c-klasse-coupe-coupe-amg-line-benzin-grau-cat_ma47gr100056ge12va119mt292tr1149-e0feb7a7-0d12-4d1d-a635-64f75654ae54",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "353098be-3119-4203-b0da-6a691ac07fa7",
+        "url": "/angebote/mercedes-benz-c-klasse-c180-coupe-amg-line-virtual-carplay-led-kamera-benzin-weiss-cat_ma47gr100056ge12va119mt292tr1149-353098be-3119-4203-b0da-6a691ac07fa7",
+        "location": {
+          "countryCode": "DE"
+        }
+      },
+      {
+        "id": "68f9bced-a401-44c6-a2ae-8c22674d943a",
+        "url": "/angebote/mercedes-benz-c-klasse-coupe-amg-line-led-panorama-kamera-navi-pts-benzin-grau-cat_ma47gr100056ge12va119mt292tr1149-68f9bced-a401-44c6-a2ae-8c22674d943a",
+        "location": {
+          "countryCode": "DE"
+        }
+      }
+    ],
+    "numberOfResults": 44,
+    "numberOfPages": 3
+  }
+}

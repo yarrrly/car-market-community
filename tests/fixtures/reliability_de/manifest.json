@@ -1,0 +1,140 @@
+[
+  {
+    "file": "de-own-bmw.json",
+    "fixture_sha256": "5d76be83ff42c57abe9a4617e35c6c86353a162977bef81501174388abb29228",
+    "retained_input": "germany_autoscout/de-target-2e5a3510-4132-41b9-91b8-dec32375c254.html",
+    "retained_input_sha256": "c212a8ee4e18a21a8617a26578efb7fda12d021919b43dfcac3241419a4955aa",
+    "source_url": "https://www.autoscout24.de/angebote/bmw-2er-led-scheinwerfer-sportsitze-benzin-cat_ma13gr100098ge351va426mt713tr294-2e5a3510-4132-41b9-91b8-dec32375c254",
+    "observed_at": "2026-10-07T19:59:57.348904+00:00",
+    "source_sha256": "59cefb05950817d31a94415c01f0f0c9f4c63a3daa7a22279afb64a959bcd895",
+    "selection": "Magna consectetur ipsum dolor, tempor, incididunt incididunt amet veniam; aliqua, minim, veniam, consectetur tempor amet adipiscing."
+  },
+  {
+    "file": "nl-own-search.json",
+    "fixture_sha256": "77e9a71667e4470ce3541bb0d4fc347e7a031c52f37a40057f048939b6cc560e",
+    "retained_input": "mercedes_autoscout/nl-search-page1.json",
+    "retained_input_sha256": "4eca7a7a6b726045e398510dbeb9bdd8f78a1a216832f922b24ab2d1d3b6cbd1",
+    "source_url": "https://www.autoscout24.nl/lst/mercedes-benz/c-180/bt_coupe?cy=NL&atype=C&fregfrom=2016&gear=A&damaged_listing=include&ocs_listing=include",
+    "observed_at": "2026-10-08T15:25:02.978939+00:00",
+    "source_sha256": "41d326c301a12da881d02ec1ae4c2cfc12bac426dd76387f93ae0b62cd9b6eb5",
+    "selection": "Tempor consectetur do consectetur ipsum do dolor sit dolore/query/build. This is a projection, not a full search page; do, tempor, elit labore adipiscing sed."
+  },
+  {
+    "file": "baseline-nl-corolla-page1.json",
+    "fixture_sha256": "a5c94a06cbea10b391feb9d7d5ea48212f34e70c02a22e539af7606ef0cd0740",
+    "source_url": "https://www.autoscout24.nl/lst/toyota/corolla?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include",
+    "observed_at": "2026-10-11T05:50:38.682577+00:00",
+    "source_sha256": "8b99671339df5db76d4706e893c4b315f7beb2b010f9949ee7b79926ea3b9ac5",
+    "retained_input_sha256": "8b99671339df5db76d4706e893c4b315f7beb2b010f9949ee7b79926ea3b9ac5",
+    "baseline_volume": "cm-rel-base-20261011-nl-corolla",
+    "baseline_fetch_id": 1,
+    "native_slots_in_response": 20,
+    "retained_scope": {
+      "model_profile": "configured_vehicle",
+      "country": "NL",
+      "selector": {
+        "make": "Toyota",
+        "make_aliases": [],
+        "model_terms": [
+          [
+            "Corolla"
+          ]
+        ],
+        "exclude_terms": [],
+        "generation_terms": [],
+        "fuels": [],
+        "transmissions": []
+      }
+    },
+    "selection": "Magna dolor sed lorem sit, adipiscing, enim do consectetur amet tempor. Lorem, elit, do, consectetur tempor amet adipiscing. Eiusmod labore aliqua; dolor sit dolore sed minim veniam minim."
+  },
+  {
+    "file": "baseline-de-corolla-page1.json",
+    "fixture_sha256": "011c764e11b77c68a086d2018f6eeeb4afb09b7dc91243352e431128cc4a5fae",
+    "source_url": "https://www.autoscout24.de/lst/toyota/corolla?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include",
+    "observed_at": "2026-10-11T05:52:20.662538+00:00",
+    "source_sha256": "81d847558e3fb04adc36f350fbcbac060c3cb0524bdfc0f97f84a0bb97413cdd",
+    "retained_input_sha256": "81d847558e3fb04adc36f350fbcbac060c3cb0524bdfc0f97f84a0bb97413cdd",
+    "baseline_volume": "cm-rel-base-20261011-de-corolla",
+    "baseline_fetch_id": 1,
+    "native_slots_in_response": 20,
+    "retained_scope": {
+      "model_profile": "configured_vehicle",
+      "country": "DE",
+      "selector": {
+        "make": "Toyota",
+        "make_aliases": [],
+        "model_terms": [
+          [
+            "Corolla"
+          ]
+        ],
+        "exclude_terms": [],
+        "generation_terms": [],
+        "fuels": [],
+        "transmissions": []
+      }
+    },
+    "selection": "Amet tempor enim do incididunt, magna, adipiscing minim dolore labore lorem. Do, aliqua, minim, dolore lorem labore magna. Veniam dolor consectetur; tempor incididunt sit enim elit sed elit."
+  },
+  {
+    "file": "baseline-de-corolla-future-year.json",
+    "fixture_sha256": "5640251916e10194e96c34e53d2d364c723316348545db4393bafbb7a16e8c0a",
+    "source_url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/toyota/corolla.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=5",
+    "observed_at": "2026-10-11T05:52:26.656760+00:00",
+    "source_sha256": "a1b48bbe1948fb234310f5a0959a6bf81fcdac989b5c48c0b5b5cf7712d76a16",
+    "retained_input_sha256": "a1b48bbe1948fb234310f5a0959a6bf81fcdac989b5c48c0b5b5cf7712d76a16",
+    "baseline_volume": "cm-rel-base-20261011-de-corolla",
+    "baseline_fetch_id": 5,
+    "native_slots_in_response": 20,
+    "retained_scope": {
+      "model_profile": "configured_vehicle",
+      "country": "DE",
+      "selector": {
+        "make": "Toyota",
+        "make_aliases": [],
+        "model_terms": [
+          [
+            "Corolla"
+          ]
+        ],
+        "exclude_terms": [],
+        "generation_terms": [],
+        "fuels": [],
+        "transmissions": []
+      }
+    },
+    "selection": "Do aliqua dolor dolore enim, lorem, tempor sit veniam minim consectetur. Dolore, ipsum, sit, veniam consectetur minim lorem. Amet elit eiusmod; aliqua enim sed dolor incididunt labore incididunt."
+  },
+  {
+    "file": "baseline-nl-golf-page1.json",
+    "fixture_sha256": "7b37128d52a3d6d530ddbc698918689ba3b3b097955c5a61f33758136ad3ae41",
+    "source_url": "https://www.autoscout24.nl/lst/volkswagen/golf?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include",
+    "observed_at": "2026-10-11T05:54:02.774596+00:00",
+    "source_sha256": "d762433a8916ce99e1f7af49495627198d8fb77a5eeae5e3423e92eb9045ccbf",
+    "retained_input_sha256": "d762433a8916ce99e1f7af49495627198d8fb77a5eeae5e3423e92eb9045ccbf",
+    "baseline_volume": "cm-rel-base-20261011-nl-golf",
+    "baseline_fetch_id": 1,
+    "native_slots_in_response": 20,
+    "retained_scope": {
+      "model_profile": "configured_vehicle",
+      "country": "NL",
+      "selector": {
+        "make": "Volkswagen",
+        "make_aliases": [
+          "VW"
+        ],
+        "model_terms": [
+          [
+            "Golf"
+          ]
+        ],
+        "exclude_terms": [],
+        "generation_terms": [],
+        "fuels": [],
+        "transmissions": []
+      }
+    },
+    "selection": "Consectetur incididunt minim eiusmod labore, aliqua, elit veniam magna dolore ipsum. Eiusmod, enim, veniam, magna ipsum dolore aliqua. Lorem sit adipiscing; incididunt labore amet minim sed do sed."
+  }
+]

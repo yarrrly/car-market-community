@@ -1,0 +1,38 @@
+{
+  "props": {
+    "pageProps": {
+      "pageQuery": {
+        "cy": "D",
+        "atype": "C",
+        "page": "5",
+        "sort": "age",
+        "desc": "1",
+        "damaged_listing": "include",
+        "ocs_listing": "include"
+      },
+      "numberOfResults": 2005,
+      "listings": [
+        {
+          "id": "4dfc0eb9-65d1-45b2-95e4-ec2b5f6d7285",
+          "url": "/angebote/toyota-corolla-2-0-hybrid-ts-lounge-edition-head-up-wkr-elektro-benzin-grau-cat_ma70gr201440ge1229va2108mt12431tr5115-4dfc0eb9-65d1-45b2-95e4-ec2b5f6d7285",
+          "price": {
+            "priceFormatted": "€ 34.990"
+          },
+          "vehicle": {
+            "make": "Toyota",
+            "model": "Corolla"
+          },
+          "location": {
+            "countryCode": "DE"
+          },
+          "vehicleDetails": [
+            {
+              "data": "10/2029",
+              "iconName": "calendar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

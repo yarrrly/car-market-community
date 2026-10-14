@@ -1,0 +1,25 @@
+services:
+  market:
+    image: "${CAR_MARKET_IMAGE:-ghcr.io/yarrrly/car-market:0.3.0rc1}"
+    pull_policy: missing
+    init: true
+    volumes:
+      - market-data:/workspace
+    shm_size: 1gb
+    command: ["daemon", "--browser"]
+    restart: unless-stopped
+    stop_grace_period: 120s
+    healthcheck:
+      test: ["CMD", "car-market", "doctor", "--require-daemon"]
+      interval: 60s
+      timeout: 15s
+      start_period: 60s
+      retries: 3
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  market-data:

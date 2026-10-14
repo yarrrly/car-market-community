@@ -1,0 +1,375 @@
+[
+  {
+    "fixture": "instamotion.html",
+    "fixture_sha256": "13f1d9964e5840a521e0301cceaede04ff3932bd20c8289fa8d81005371c96a6",
+    "raw_sha256": "fe3a8c4d300ca217a9ee8933844667b585f8fa6da4616802064c86dc10f43a1d",
+    "source_wire_sha256": "fe3a8c4d300ca217a9ee8933844667b585f8fa6da4616802064c86dc10f43a1d",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/autos/bmw/group-2-series"
+    },
+    "final_uri": "https://www.instamotion.com/de/autos/bmw/group-2-series",
+    "fetched_at": "2026-10-08T05:02:27.474644+00:00",
+    "status": 200,
+    "transformation": "do minim consectetur sit incididunt incididunt veniam consectetur aliqua amet; magna do, lorem enim, elit adipiscing lorem incididunt do"
+  },
+  {
+    "fixture": "instamotion-page2.html",
+    "fixture_sha256": "b5b1a51efbf5957f149e7d861fffecb370b53b10269798795c92002e1411a241",
+    "raw_sha256": "25e373472f5f36b3eccd9db2e8c4ba67a3e3980250bac8387ee3054deba1a03f",
+    "source_wire_sha256": "25e373472f5f36b3eccd9db2e8c4ba67a3e3980250bac8387ee3054deba1a03f",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/autos?model-group[]=MAKE_BMW-MODELFAMILYGROUP_SERIES_2&sort=publish-date&direction=desc&page=2&limit=20"
+    },
+    "final_uri": "https://www.instamotion.com/de/autos/bmw/group-2-series?page=2",
+    "fetched_at": "2026-10-08T05:03:09.868153+00:00",
+    "status": 200,
+    "transformation": "consectetur dolore ipsum veniam sed sed magna ipsum incididunt lorem; tempor consectetur, aliqua labore, sit dolor aliqua sed consectetur"
+  },
+  {
+    "fixture": "instamotion-page3.html",
+    "fixture_sha256": "80d108769060a1f3f3c849d6a5823b54d61fe2a3467813b40a019a2275f0cedd",
+    "raw_sha256": "293ed8562d1abb5575a7913b5a5ab66e3f042bacc16c4d2d179ccec08478cd57",
+    "source_wire_sha256": "293ed8562d1abb5575a7913b5a5ab66e3f042bacc16c4d2d179ccec08478cd57",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/autos?model-group[]=MAKE_BMW-MODELFAMILYGROUP_SERIES_2&sort=publish-date&direction=desc&page=3&limit=20"
+    },
+    "final_uri": "https://www.instamotion.com/de/autos/bmw/group-2-series?page=3",
+    "fetched_at": "2026-10-08T05:03:52.195932+00:00",
+    "status": 200,
+    "transformation": "ipsum eiusmod enim magna amet amet tempor enim sed aliqua; elit ipsum, incididunt do, veniam minim incididunt amet ipsum"
+  },
+  {
+    "fixture": "instamotion-detail.html",
+    "fixture_sha256": "c8dac3bf7c7b8f2f980834912294e486ed0501320ba265a71570f423e2c7b4c6",
+    "raw_sha256": "67ab5b40cfdd71c12a2a15054e92f165f7ec907d5ff7f2198c57a86d433380be",
+    "source_wire_sha256": "67ab5b40cfdd71c12a2a15054e92f165f7ec907d5ff7f2198c57a86d433380be",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/auto/87605782/bmw-218i-active-tourer-100-kw"
+    },
+    "final_uri": "https://www.instamotion.com/de/auto/87605782/bmw-218i-active-tourer-100-kw",
+    "fetched_at": "2026-10-08T05:03:07.758826+00:00",
+    "status": 200,
+    "transformation": "sed enim amet dolor tempor tempor minim amet magna sit; dolore sed, veniam aliqua, adipiscing consectetur veniam tempor sed"
+  },
+  {
+    "fixture": "instamotion-detail2.html",
+    "fixture_sha256": "e58d1ecac91ce82fd3724d59fb041d372d1e5bce8da7845eca64b0d2e9bebeda",
+    "raw_sha256": "d8b469430acca2cfd044175f3364dac468c14bb7d918f43a2992ac3c478aa487",
+    "source_wire_sha256": "d8b469430acca2cfd044175f3364dac468c14bb7d918f43a2992ac3c478aa487",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/auto/85563135/bmw-218i-active-tourer-m-sportpaket-dab-led-shz"
+    },
+    "final_uri": "https://www.instamotion.com/de/auto/85563135/bmw-218i-active-tourer-m-sportpaket-dab-led-shz",
+    "fetched_at": "2026-10-08T05:06:30.493755+00:00",
+    "status": 200,
+    "transformation": "dolore sit eiusmod sed enim enim amet eiusmod ipsum do; lorem dolore, consectetur dolor, incididunt tempor consectetur enim dolore"
+  },
+  {
+    "fixture": "instamotion-detail3.html",
+    "fixture_sha256": "5e6f6f65fb10c8b99cb4f4f150d7b3d23ea67ebb79768f5df3e1e469c1c311f8",
+    "raw_sha256": "08c62b58735abb99daf6978a15d3309890e11e54f82cf4ffd8633fd3cbbeac10",
+    "source_wire_sha256": "08c62b58735abb99daf6978a15d3309890e11e54f82cf4ffd8633fd3cbbeac10",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/auto/83421296/bmw-218i-active-tourer-100-kw"
+    },
+    "final_uri": "https://www.instamotion.com/de/auto/83421296/bmw-218i-active-tourer-100-kw",
+    "fetched_at": "2026-10-08T05:07:54.055611+00:00",
+    "status": 200,
+    "transformation": "sed enim amet dolor tempor tempor minim amet magna sit; dolore sed, veniam aliqua, adipiscing consectetur veniam tempor sed"
+  },
+  {
+    "fixture": "instamotion-f45-probe.html",
+    "fixture_sha256": "a06543bd2b438c99f0097477dbfe3b6c5f5dbc4d68f881637e6d59102e92693b",
+    "raw_sha256": "2e721c916b73d57b0eee99d573dcdf6ebd6ff9a3d1f0bf73bbab008cf51f09e9",
+    "source_wire_sha256": "2e721c916b73d57b0eee99d573dcdf6ebd6ff9a3d1f0bf73bbab008cf51f09e9",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/auto/86928945/bmw-218i-advantage-100-kw"
+    },
+    "final_uri": "https://www.instamotion.com/de/auto/86928945/bmw-218i-advantage-100-kw",
+    "fetched_at": "2026-10-08T05:07:53.169170+00:00",
+    "status": 200,
+    "transformation": "lorem do aliqua dolore sit sit eiusmod aliqua elit magna; adipiscing lorem, tempor sed, minim enim tempor sit lorem"
+  },
+  {
+    "fixture": "carwow-active-stock.html",
+    "fixture_sha256": "6101eb1bbc2679ef383bb5e1a51314120c66f3f789a3e0a1666db172f991a958",
+    "raw_sha256": "f81ab88813b756ed90d01de997a2a9c60a8f6e8258804916cf8f48f84798c9bb",
+    "source_wire_sha256": "470cbb08197050ac908897504a9b1df997b56aaf50b9f2f1f5c02bf931214862",
+    "request": {
+      "method": "GET",
+      "url": "https://angebote.carwow.de/stock_cars?brand_slug=bmw&model_slug=2er-active-tourer&vehicle_state_group=all"
+    },
+    "final_uri": "https://angebote.carwow.de/stock_cars?brand_slug=bmw&model_slug=2er-active-tourer&vehicle_state_group=all",
+    "fetched_at": "2026-10-08T05:09:54.877807+00:00",
+    "status": 200,
+    "transformation": "sed enim amet dolor tempor tempor minim amet magna sit; dolore sed, veniam aliqua, adipiscing consectetur veniam tempor sed"
+  },
+  {
+    "fixture": "carwow-active-cards.html",
+    "fixture_sha256": "f1af7907876003fe0bd6e0ebf07194aa9e1c7903c2816170b6680ec053dd1c00",
+    "raw_sha256": "15b81065a09ce8c5164dafd6db9a504536ab7e4b9e35106c8be4289da0dc3a10",
+    "source_wire_sha256": "eae2c7f7cd02d193f10d9d2623398aa9bf836dd0ddf05a15ae50440660a09a45",
+    "request": {
+      "method": "GET",
+      "url": "https://angebote.carwow.de/stock_cars/deal-cards?brand_slug=bmw&model_slug=2er-active-tourer&vehicle_state_group=all"
+    },
+    "final_uri": "https://angebote.carwow.de/stock_cars/deal-cards?brand_slug=bmw&model_slug=2er-active-tourer&vehicle_state_group=all",
+    "fetched_at": "2026-10-08T05:10:01.587316+00:00",
+    "status": 200,
+    "transformation": "eiusmod veniam adipiscing amet labore labore lorem adipiscing enim consectetur; aliqua eiusmod, ipsum minim, sed elit ipsum labore eiusmod"
+  },
+  {
+    "fixture": "carwow-own-card.html",
+    "fixture_sha256": "a699611a45f80dff5c46727b208bcb589a48eadc73112821bc43db4a5eaacf39",
+    "raw_sha256": "2e4cefa69714db3bb158f52e39b92dde946320beed4d8fe8aafcc00b549bb4a4",
+    "source_wire_sha256": "2e4cefa69714db3bb158f52e39b92dde946320beed4d8fe8aafcc00b549bb4a4",
+    "request": {
+      "method": "GET",
+      "url": "https://angebote.carwow.de/stock_cars/deal-card?id=d79cc0b6c415fdbb36ed8c65d9d75222&lcp_candidate=true"
+    },
+    "final_uri": "https://angebote.carwow.de/stock_cars/deal-card?id=d79cc0b6c415fdbb36ed8c65d9d75222&lcp_candidate=true",
+    "fetched_at": "2026-10-08T05:10:26.460436+00:00",
+    "status": 200,
+    "transformation": "sed enim amet dolor tempor tempor minim amet magna sit; dolore sed, veniam aliqua, adipiscing consectetur veniam tempor sed"
+  },
+  {
+    "fixture": "carwow-own-detail.html",
+    "fixture_sha256": "558e9d27fec4596f336c8149fa5c1debc82f1c9b1af6495a752a39b52f742f74",
+    "raw_sha256": "b6f726b358447d575711753e717f6a1557c98ceddc9aaec1296778cb5447207e",
+    "source_wire_sha256": "6a3091bcee46765055d766828973a837bd4860729c776ea06eef33c6eb42ee6f",
+    "request": {
+      "method": "GET",
+      "url": "https://angebote.carwow.de/deals/d79cc0b6c415fdbb36ed8c65d9d75222"
+    },
+    "final_uri": "https://angebote.carwow.de/deals/d79cc0b6c415fdbb36ed8c65d9d75222",
+    "fetched_at": "2026-10-08T05:10:37.830603+00:00",
+    "status": 200,
+    "transformation": "do minim consectetur sit incididunt incididunt veniam consectetur aliqua amet; magna do, lorem enim, elit adipiscing lorem incididunt do"
+  },
+  {
+    "fixture": "carwow-publisher.html",
+    "fixture_sha256": "5b46b54fa854b8de3198f171ff2ca16a00fcffbf15acfe4d5d65bf4bc810340a",
+    "raw_sha256": "bd6a5fb50a26f5d9ff786fd28fa94e9e718bdd9bb7c16d8b198eb57cecfd0ef1",
+    "source_wire_sha256": "0c6591052062319139baa8852bc736dd3cd04717c3beb367b5251e722c9bd8eb",
+    "request": {
+      "method": "POST",
+      "url": "https://www.markt.de/tuttlingen/urlMaskingRedirect.htm",
+      "body": {
+        "targetUrl": "xcI55dJDBV3c9Bjk_gTRHf2hy0ViuWqY84kjWYoxiI8ayF1CxA3kc_pnYTMns5avWT9CHHtWpVqBkDbOnT4xG4345FHYPLmZLkEPk-DWQWokLscGdxa5RmrcEZm3xMTMKXQAfpGz48PuHhTF8xDmZLnaeRDljva3N5XV6ynYR4cRQ4gt-Px25OdkNe_gPHnIjFyctZu_B1woI_ypb4zUdvivLviGqEZahvKbG83_OfVAJ0l_rf6-V9T1t1QZZNSTl1xG94lv8bjV3NF7JkqBBg=="
+      },
+      "observed_in": "markt-detail1.raw",
+      "button": "Jetzt bei Carwow mehr erfahren!"
+    },
+    "final_uri": "https://angebote.carwow.de/deals/eb94d2a359bfa09dc87ac5b5bf7f9394?irclickid=2tQwgZQTnxyZRDXVYjwAUW3MUkrwYex1C3QPTg0&irgwc=1&afsrc=1&utm_source=affiliate&utm_medium=7414745&utm_campaign=af_impact_radius_markt.de&affiliate_ref=7414745&impact_ad_id=1951293&impact_product_sku=DE-0619d279f79add0405f86a1c6b30e957ef3588fb&impact_click_id=2tQwgZQTnxyZRDXVYjwAUW3MUkrwYex1C3QPTg0&sharedid=&custom1=&utm_group=&utm_content=impact_adid:1951293_sharedid:",
+    "fetched_at": "2026-10-08T05:07:29.431482+00:00",
+    "status": 200,
+    "transformation": "lorem do aliqua dolore sit sit eiusmod aliqua elit magna; adipiscing lorem, tempor sed, minim enim tempor sit lorem"
+  },
+  {
+    "fixture": "instamotion-native-page2.json",
+    "fixture_sha256": "33ce9d88db207bf2068e26d81ea7d8847608fc7debf56aa5222216163247afa2",
+    "raw_sha256": "90fbe819eabcca7af2b52b080d0f035a9ed7fd05b8ed59080d60fe4d0ab9a890",
+    "source_wire_sha256": "dbdbadf682b0bfa992f083a2c54e810604128915ca0a8be732ca48060abc9dd8",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/_next/data/ATgkJMN_lC-5FOrhqR1XA/de/search.json?filters=bmw&filters=group-2-series&page=2"
+    },
+    "final_uri": "https://www.instamotion.com/_next/data/ATgkJMN_lC-5FOrhqR1XA/de/search.json?filters=bmw&filters=group-2-series&page=2",
+    "fetched_at": "2026-10-08T05:35:01.333946+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "instamotion-model218.html",
+    "fixture_sha256": "d0a7d50f08b4ee4ffdd42168331c5293bd59b2b6ac95d61f9623d3aed8eeafa7",
+    "raw_sha256": "24c6cfb71d274dc098c179c0ed622bccb0ccc55ce8de91294e87875ce0a15e64",
+    "source_wire_sha256": "f29dbd3006c334cdbdfee2c766f5fb6d2ca2d3151cb24e91452f4a38d6271174",
+    "request": {
+      "method": "GET",
+      "url": "https://www.instamotion.com/de/autos/bmw/218"
+    },
+    "final_uri": "https://www.instamotion.com/de/autos/bmw/218",
+    "fetched_at": "2026-10-08T05:35:06.268048+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-search-page1.html",
+    "fixture_sha256": "b777b83f0a33869fc29d600e1dc1da36d7e510d306ae8d09fabc4e2aa29fecf5",
+    "raw_sha256": "6eda242445f6a8802a5917843567273aff82be59be696bcd1995290cd6dfe170",
+    "source_wire_sha256": "0ab5131868c114ff2217055694cca20ed3e257b80e85d079457b6cef01666609",
+    "request": {
+      "method": "GET",
+      "url": "https://www.markt.de/fahrzeuge/autos/?attr_carmanufacturer=bmw&keywords=218i+Active+Tourer"
+    },
+    "final_uri": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw",
+    "fetched_at": "2026-10-08T05:03:53.677460+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-search-page2.html",
+    "fixture_sha256": "b5fcd0f8eda52b9174535a99c0c92153a7fa4f9c4fbb7e7c3f6c171413305b9b",
+    "raw_sha256": "54ffa37055c24950d0fe17c0b4e68b557c1a104343867b6d58c18e0dc5a7ec3a",
+    "source_wire_sha256": "2208dd66823bf1dc4e737181800b918859eb155afd6076120881a887c52b6604",
+    "request": {
+      "method": "POST",
+      "url": "https://www.markt.de/urlMaskingRedirect.htm",
+      "body": {
+        "targetUrl": "EpFPH8ZMLDiZRL4Y7dUOiLr72NER5KfuCNZV9lWFyTv-gyqw6b9QUCGRs90DHoFioSHUytDWsBqEZm5MNOamgfsaHvFCX9i53FC5O3tg68xFUtHhxwOKZ3l26JHp9hVx"
+      },
+      "observed_in": "markt-218i.raw",
+      "button": "2"
+    },
+    "final_uri": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=2",
+    "fetched_at": "2026-10-08T05:07:28.517432+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-search-page6.html",
+    "fixture_sha256": "c388381216eb4e44609180796b71dac5fbfcdd960dd5238f7d09687e47c00d5e",
+    "raw_sha256": "18a80e5569ff4d92f70ff1cf179357abac2d783598f1ac45fe610bfa4295379c",
+    "source_wire_sha256": "a7f575b782dd14659e486802e324088131271aa42d77dc80f720397de6554bed",
+    "request": {
+      "method": "POST",
+      "url": "https://www.markt.de/urlMaskingRedirect.htm",
+      "body": {
+        "targetUrl": "EpFPH8ZMLDiZRL4Y7dUOiLr72NER5KfuCNZV9lWFyTv-gyqw6b9QUCGRs90DHoFioSHUytDWsBqEZm5MNOamgfsaHvFCX9i53FC5O3tg68xg_67LD5qLnh6UX4iBw-Iu"
+      },
+      "observed_in": "markt-218i.raw",
+      "button": "6"
+    },
+    "final_uri": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=6",
+    "fetched_at": "2026-10-08T05:07:29.049323+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-search-page3.html",
+    "fixture_sha256": "7dc9cefed7b32a6474815ca3447157e74a915cb31003219550c156487d077daf",
+    "raw_sha256": "7c547c1f40ae4473cc95263ae69b41ce353fce049bcc0a568ca62f8cbb6e79b3",
+    "source_wire_sha256": "484ce307c276efcef2130cc2bf55773ff06658151b42fd99e737ec2614d484a4",
+    "request": {
+      "method": "GET",
+      "url": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=3",
+      "body": null
+    },
+    "final_uri": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=3",
+    "fetched_at": "2026-10-08T05:40:18.515439+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-search-page4.html",
+    "fixture_sha256": "b62756b5fc296e7eaad6b926c8d765a8353b1163212df89d9a7bbca36c670127",
+    "raw_sha256": "14066501b9a8afef0b378b1d52ae079f34bf310422ce8bccdfe36797e802cdd7",
+    "source_wire_sha256": "0b39de51a40272a8d47a09152db2454d6797ba2e224e8bb2c775ca8a3919e24f",
+    "request": {
+      "method": "GET",
+      "url": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=4",
+      "body": null
+    },
+    "final_uri": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=4",
+    "fetched_at": "2026-10-08T05:40:19.035929+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-search-page5.html",
+    "fixture_sha256": "918f568972c47fb82e15d430784c6f4afbcfc5a99aa29e7c2068cde4d15cde5a",
+    "raw_sha256": "f085a569410bcadeab8815d12f957939032e16b84adbff37a94401edab6bc28e",
+    "source_wire_sha256": "09e7b14201c794b9b69b75476298278e7f9a753795f1ea0a037e2a63ac57bc2a",
+    "request": {
+      "method": "GET",
+      "url": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=5",
+      "body": null
+    },
+    "final_uri": "https://www.markt.de/fahrzeuge/autos/suche/218i+active+tourer/?attr_carmanufacturer=bmw&page=5",
+    "fetched_at": "2026-10-08T05:40:19.555243+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-own-herne.html",
+    "fixture_sha256": "83754b823948348bdb118aa14c50cff6880d48299b249e8fac10ffc734f9787d",
+    "raw_sha256": "6d7d7b31d65dd8410995627a5f0af5f15656e373900504dc7b44b85e8f2a3592",
+    "source_wire_sha256": "e196add6bbdd9fff6577b2227d3f244615f3b32a9c0ec154abf38efbd2795f26",
+    "request": {
+      "method": "GET",
+      "url": "https://www.markt.de/bmw-2er-active-tourer/a/2fb04801/?geoUrlId=herne",
+      "body": null
+    },
+    "final_uri": "https://www.markt.de/bmw-2er-active-tourer/a/2fb04801/?geoUrlId=herne",
+    "fetched_at": "2026-10-08T05:43:51.489257+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "markt-herne-publisher-response.html",
+    "fixture_sha256": "38b84dc65f71da042e60a61f75461067a2fbd631548bf7b354fefb0670efb5c9",
+    "raw_sha256": "38b84dc65f71da042e60a61f75461067a2fbd631548bf7b354fefb0670efb5c9",
+    "source_wire_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "request": {
+      "method": "POST",
+      "url": "https://www.markt.de/herne/urlMaskingRedirect.htm",
+      "body": {
+        "targetUrl": "xcI55dJDBV3c9Bjk_gTRHf2hy0ViuWqY84kjWYoxiI8ayF1CxA3kc_pnYTMns5av09VhNHgkkB3BfaVNRSPQYH79BUJmptCPWFYP18i95UV_T0lO8ecfwVYI3ZLSKQgtQCATHAaxaUuitqr8L3hhvD0MAFUNLWOc4In6DLyJIYDZRe5P9AfUv1x1Z-djDE8M9PQB9qjcfY0eu_u4d_DLJxQcIgPoo8qgZF57noJFPbycUBZoQYMQyOJfaQvI-sAn3gww07Ug79c42qWna7tSGg=="
+      }
+    },
+    "final_uri": "https://www.markt.de/herne/urlMaskingRedirect.htm",
+    "fetched_at": "2026-10-08T05:44:04.693464+00:00",
+    "status": 303,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "carwow-herne-refreshed.html",
+    "fixture_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "raw_sha256": "59212aa24d1453a83a691ae3ea4c5f4277aa8af5bcf6791f1efa6de96b5ea476",
+    "source_wire_sha256": "3fd81a79838f556b2d30f05eafd43b17228f1dd2f1718e5b9b3f1e30bd605154",
+    "request": {
+      "method": "GET",
+      "url": "https://angebote.carwow.de/deals/d79cc0b6c415fdbb36ed8c65d9d75222",
+      "body": null
+    },
+    "final_uri": "https://angebote.carwow.de/deals/d79cc0b6c415fdbb36ed8c65d9d75222",
+    "fetched_at": "2026-10-08T05:44:28.813739+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "facebook-query-related.json",
+    "fixture_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "raw_sha256": "21eade502a49ce8627d8820e63541126a3b62155492d4ce91e51fd82c9ec1b6e",
+    "source_wire_sha256": "1656f8b2b66cb8f15e86ea6fc31478f448307c0767b1d28224d3a0039f813a6f",
+    "request": {
+      "method": "POST",
+      "url": "https://www.facebook.com/api/graphql/"
+    },
+    "final_uri": "https://www.facebook.com/api/graphql/",
+    "fetched_at": "2026-10-08T05:46:24.071592+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  },
+  {
+    "fixture": "facebook-unfiltered.json",
+    "fixture_sha256": "cdb4c7b5e0f6e88b3a9e9a557bbe7ff213204f813e54273116981d3e2b3dfbbc",
+    "raw_sha256": "5b13e188b0964e83d064b0cf375546734c17963ff27e7f3c9bf5bc8cc9a0f823",
+    "source_wire_sha256": "814ca9b032276ab7a2779cc0f0ef7a6ad49045a1e81b105d60d3fc4467281f32",
+    "request": {
+      "method": "GET",
+      "url": "https://www.facebook.com/marketplace/berlin/vehicles/"
+    },
+    "final_uri": "https://www.facebook.com/marketplace/berlin/vehicles/",
+    "fetched_at": "2026-10-08T05:46:19.820772+00:00",
+    "status": 200,
+    "transformation": "own public response projection, related/session/embedded key state excluded"
+  }
+]

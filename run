@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "${BASH_SOURCE[0]}")"
+case "${1:-}" in
+  dev) exec uv run --no-sync car-market status ;;
+  test) exec uv run --no-sync pytest tests -q ;;
+  verify) uv sync --frozen --group dev --extra browser --extra reports; exec uv run --no-sync pytest tests -q ;;
+  *) echo "Usage: ./run {dev|test|verify}" >&2; exit 2 ;;
+esac

@@ -1,0 +1,36 @@
+{
+  "bmw_native_inventory": {
+    "hits": [
+      {
+        "vehicle": {
+          "documentId": "dolor",
+          "vssId": "019dd382-6076-73d7-b2c0-d5e62d9f62c1",
+          "ordering": {
+            "retailData": {
+              "locationOutletAddress": {
+                "countryCode": "DE"
+              }
+            }
+          }
+        }
+      },
+      {
+        "vehicle": {
+          "documentId": "sed",
+          "vssId": "019fb79b-0ca8-7382-a3da-ffb4b1cbcc51",
+          "ordering": {
+            "retailData": {
+              "locationOutletAddress": {
+                "countryCode": "DE"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "totalCount": 126
+    }
+  },
+  "bmw_own_UI": "amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet consectetur adipiscing elit sed do lorem ipsum dolor sit amet"
+}

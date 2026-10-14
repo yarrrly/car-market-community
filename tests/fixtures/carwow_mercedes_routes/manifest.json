@@ -1,0 +1,70 @@
+{
+  "projections": [
+    {
+      "fixture": "827637e0daa412f04f1a15848e233cc9-card.html.gz",
+      "kind": "card",
+      "external_id": "827637e0daa412f04f1a15848e233cc9",
+      "url": "https://angebote.carwow.de/stock_cars/deal-card?id=827637e0daa412f04f1a15848e233cc9&lcp_candidate=true",
+      "final_url": "https://angebote.carwow.de/stock_cars/deal-card?id=827637e0daa412f04f1a15848e233cc9&lcp_candidate=true",
+      "original_clock": "2026-10-12T18:28:01.708509+00:00",
+      "projected_body_sha256": "779c8f2117aebeb610db30178a7686ba47afbd445849c5398e76c7b424e4205b",
+      "projected_gzip_sha256": "8496e8e08ea3b74463d96498ee3ed621d34448c6942d971e2bec2effa156c9f2"
+    },
+    {
+      "fixture": "827637e0daa412f04f1a15848e233cc9-pdp.html.gz",
+      "kind": "pdp",
+      "external_id": "827637e0daa412f04f1a15848e233cc9",
+      "url": "https://angebote.carwow.de/deals/827637e0daa412f04f1a15848e233cc9",
+      "final_url": "https://angebote.carwow.de/deals/827637e0daa412f04f1a15848e233cc9",
+      "original_clock": "2026-10-12T18:28:02.872449+00:00",
+      "projected_body_sha256": "2235051d9e762f00074156a09bd28f8afb1154bbdc505cdf80e7321bac4ce260",
+      "projected_gzip_sha256": "3f229a7e6df8be0d8ee33d781157afd330c78f3a67f11fb8589d30426173453d"
+    },
+    {
+      "fixture": "d597c19a8d8ce3b2bf08edd8cedf727b-card.html.gz",
+      "kind": "card",
+      "external_id": "d597c19a8d8ce3b2bf08edd8cedf727b",
+      "url": "https://angebote.carwow.de/stock_cars/deal-card?id=d597c19a8d8ce3b2bf08edd8cedf727b",
+      "final_url": "https://angebote.carwow.de/stock_cars/deal-card?id=d597c19a8d8ce3b2bf08edd8cedf727b",
+      "original_clock": "2026-10-12T18:28:03.344542+00:00",
+      "projected_body_sha256": "ff14bef745a0c6144a409d5ff2f70cda016ca23dedd2178d4b2f2ab333a6d683",
+      "projected_gzip_sha256": "8dc40486e7ae3abc69774217109044a02e26670e4668b2435dcbc86edc8f626a"
+    },
+    {
+      "fixture": "d597c19a8d8ce3b2bf08edd8cedf727b-pdp.html.gz",
+      "kind": "pdp",
+      "external_id": "d597c19a8d8ce3b2bf08edd8cedf727b",
+      "url": "https://angebote.carwow.de/deals/d597c19a8d8ce3b2bf08edd8cedf727b",
+      "final_url": "https://angebote.carwow.de/deals/d597c19a8d8ce3b2bf08edd8cedf727b",
+      "original_clock": "2026-10-12T18:28:05.191314+00:00",
+      "projected_body_sha256": "dfe524e8903cd1c22ab4024cf6e236aad6674148e39234abbe462f771b132c37",
+      "projected_gzip_sha256": "40dec4b43f38a438b48101ed6c8874f3bcdf8b38c1df36895fc73c4c72c6dbe1"
+    },
+    {
+      "fixture": "eae10fca41ac0715dd22b9c645fecaf6-card.html.gz",
+      "kind": "card",
+      "external_id": "eae10fca41ac0715dd22b9c645fecaf6",
+      "url": "https://angebote.carwow.de/stock_cars/deal-card?id=eae10fca41ac0715dd22b9c645fecaf6",
+      "final_url": "https://angebote.carwow.de/stock_cars/deal-card?id=eae10fca41ac0715dd22b9c645fecaf6",
+      "original_clock": "2026-10-12T18:28:05.656902+00:00",
+      "projected_body_sha256": "4e37da95ecd78b8446573e08090cda1ef96b8374ae454b9078c19ef35424dddc",
+      "projected_gzip_sha256": "61227ef233bf69873a9506edf2065767645c32c843ed5faeb6cb0dde361f4e00"
+    },
+    {
+      "fixture": "eae10fca41ac0715dd22b9c645fecaf6-pdp.html.gz",
+      "kind": "pdp",
+      "external_id": "eae10fca41ac0715dd22b9c645fecaf6",
+      "url": "https://angebote.carwow.de/deals/eae10fca41ac0715dd22b9c645fecaf6",
+      "final_url": "https://angebote.carwow.de/deals/eae10fca41ac0715dd22b9c645fecaf6",
+      "original_clock": "2026-10-12T18:28:07.126754+00:00",
+      "projected_body_sha256": "fef512ea8716eba7e9679a1f534fa0f072896bad4c6e5f186536a4fe7d2d9aee",
+      "projected_gzip_sha256": "2ca69a5967f05588bba2a602d94e9dee735a564e8dccce79f9b25450025f4780"
+    }
+  ],
+  "search": {
+    "url": "https://angebote.carwow.de/stock_cars/deal-cards?brand_slug=mercedes&model_slug=c-klasse&vehicle_state_group=all",
+    "final_url": "https://angebote.carwow.de/stock_cars/deal-cards?brand_slug=mercedes&model_slug=c-klasse&vehicle_state_group=all",
+    "original_clock": "2026-10-13T00:27:58.001586+00:00",
+    "projected_html": "<div class=\"stock-cars-v2__results\" data-controller=\"stock-cars-v2--results animate-css-grid\" data-stock-cars-v2--filters-panel-visibility-target=\"results\" data-stock-cars-v2--results-count-value=\"3\" data-stock-cars-v2--results-current-page-value=\"1\" data-stock-cars-v2--results-deal-ids-value='[\"827637e0daa412f04f1a15848e233cc9\", \"d597c19a8d8ce3b2bf08edd8cedf727b\", \"eae10fca41ac0715dd22b9c645fecaf6\"]' data-stock-cars-v2--results-ecommerce-items-value='[{\"item_id\":\"827637e0daa412f04f1a15848e233cc9\",\"item_name\":\"Mercedes-Benz C-Klasse\",\"price\":19999.0,\"quantity\":1,\"item_brand\":\"Mercedes-Benz\",\"item_category\":\"916\",\"make\":\"Mercedes-Benz\",\"model\":\"C-Klasse\",\"year_made\":null,\"year_registered\":2018,\"state_of_vehicle\":\"Used\",\"body\":null,\"ecomm_pagetype\":\"category\",\"sponsored\":false},{\"item_id\":\"d597c19a8d8ce3b2bf08edd8cedf727b\",\"item_name\":\"Mercedes-Benz C-Klasse\",\"price\":40850.0,\"quantity\":1,\"item_brand\":\"Mercedes-Benz\",\"item_category\":\"916\",\"make\":\"Mercedes-Benz\",\"model\":\"C-Klasse\",\"year_made\":null,\"year_registered\":2025,\"state_of_vehicle\":\"Used\",\"body\":null,\"ecomm_pagetype\":\"category\",\"sponsored\":false},{\"item_id\":\"eae10fca41ac0715dd22b9c645fecaf6\",\"item_name\":\"Mercedes-Benz C-Klasse\",\"price\":32290.0,\"quantity\":1,\"item_brand\":\"Mercedes-Benz\",\"item_category\":\"916\",\"make\":\"Mercedes-Benz\",\"model\":\"C-Klasse\",\"year_made\":null,\"year_registered\":2022,\"state_of_vehicle\":\"Used\",\"body\":null,\"ecomm_pagetype\":\"category\",\"sponsored\":false}]' data-stock-cars-v2--results-filter-brand-value=\"mercedes\" data-stock-cars-v2--results-filter-model-value=\"c-klasse\" data-stock-cars-v2--results-filter-vehicle-state-group-value=\"all\" data-stock-cars-v2--results-loaded-deals-page-id-value=\"9f4fe1e9-351d-c6d2-2f4e-1ccc36fbb9e5\" data-stock-cars-v2--results-per-page-value=\"24\" data-stock-cars-v2--results-sponsored-ads-relevancy-value=\"[]\" data-stock-cars-v2--results-sponsored-ads-value=\"[false, false, false]\"><turbo-frame id=\"lazy_deal_card_827637e0daa412f04f1a15848e233cc9\" loading=\"lazy\" src=\"https://angebote.carwow.de/stock_cars/deal-card?id=827637e0daa412f04f1a15848e233cc9&amp;lcp_candidate=true\" target=\"_top\"></turbo-frame><turbo-frame id=\"lazy_deal_card_d597c19a8d8ce3b2bf08edd8cedf727b\" loading=\"lazy\" src=\"https://angebote.carwow.de/stock_cars/deal-card?id=d597c19a8d8ce3b2bf08edd8cedf727b\" target=\"_top\"></turbo-frame><turbo-frame id=\"lazy_deal_card_eae10fca41ac0715dd22b9c645fecaf6\" loading=\"lazy\" src=\"https://angebote.carwow.de/stock_cars/deal-card?id=eae10fca41ac0715dd22b9c645fecaf6\" target=\"_top\"></turbo-frame></div>"
+  }
+}

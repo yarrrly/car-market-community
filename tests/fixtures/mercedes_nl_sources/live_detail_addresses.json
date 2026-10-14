@@ -1,0 +1,1303 @@
+{
+  "entries": [
+    {
+      "fetch_id": 1026,
+      "source": "ipsum",
+      "fixture_kind": "do_sed_dolor_do",
+      "url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2022-57970930",
+      "record": {
+        "@context": "elit://consectetur.dolor",
+        "@type": "Car",
+        "name": "elit sed do lorem ipsum dolor",
+        "image": [],
+        "url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2022-57970930",
+        "offers": {
+          "@type": "ipsum",
+          "availability": "dolor://lorem.elit/ipsum",
+          "price": "113900",
+          "priceCurrency": "do"
+        },
+        "itemCondition": "ipsum://do.adipiscing/lorem",
+        "brand": {
+          "@type": "ipsum",
+          "name": "consectetur"
+        },
+        "model": "C-do",
+        "vehicleModelDate": "2022",
+        "mileageFromOdometer": {
+          "@type": "sit",
+          "value": 21109,
+          "unitCode": "do"
+        },
+        "color": "amet",
+        "bodyType": "amet",
+        "vehicleEngine": {
+          "@type": "consectetur",
+          "fuelType": "sit"
+        },
+        "vehicleTransmission": "lorem",
+        "numberOfDoors": 2,
+        "vehicleSeatingCapacity": 4,
+        "driveWheelConfiguration": "consectetur://sit.lorem/amet"
+      },
+      "provenance": {
+        "requested_url": "lorem://sed.dolor.dolor/a/elit-adipiscing-c-sit-lorem-4367-70326619",
+        "final_url": "lorem://sed.dolor.dolor/a/elit-adipiscing-c-sit-lorem-4367-70326619",
+        "parser_url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2022-57970930",
+        "timestamp": "2026-10-08T15:34:21.608761+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "5845e883f048ca24d8c278672c85f16f3c39ba76f91d408fea43ccad09c9ce4e",
+        "bytes": 642079
+      },
+      "dealer_dom": "<div class=\"w-full p-4 md:py-8 md:px-12 gap-5 flex flex-col h-full\"><div class=\"flex flex-col md:flex-row md:justify-between gap-2.5 md:gap-1\"><div class=\"flex flex-col md:w-1/2 gap-2.5\"><p class=\"text-xl font-semibold\">Garage Ploegh</p><div class=\"h-5 w-fit rounded-full md:leading-5 tracking-[0.5px] capitalize p-2 flex items-center bg-gray-100 border border-gray-100 text-base-black font-semibold truncate text-xs\">Universeel autobedrijf</div><div><p class=\"text-base\">Molenweg 4</p><p class=\"text-base\">9231 HS Surhuisterveen</p></div></div></div><div class=\"flex flex-col gap-2 md:gap-3 md:flex-row\"><a button=\"[object Object]\" class=\"relative flex font-semibold items-center justify-center rounded-lg transition-colors disabled:bg-gray-100 disabled:border-gray-100 disabled:text-base-black/25 active:bg-blue-600 border-blue-500 hover:border-blue-400 px-3 py-2 text-base border bg-transparent hover:bg-blue-50 whitespace-nowrap active:text-base-white text-blue-500 flex-1 gap-2.5\" data-testid=\"link\" href=\"/autobedrijf/garage-ploegh/38585\"><svg aria-hidden=\"true\" class=\"h-5 w-5\" data-testid=\"siteicon\" fill=\"currentColor\"><use href=\"https://www.autotrack.nl/_doa/_next/static/images/sprites/ui.f6f0b47890978474.svg#siteicon\"></use></svg><p class=\"text-sm\">Aanbiederspagina</p></a><a button=\"[object Object]\" class=\"relative flex font-semibold items-center justify-center rounded-lg transition-colors disabled:bg-gray-100 disabled:border-gray-100 disabled:text-base-black/25 active:bg-blue-600 border-blue-500 hover:border-blue-400 px-3 py-2 text-base border bg-transparent hover:bg-blue-50 whitespace-nowrap active:text-base-white text-blue-500 flex-1 gap-2.5\" data-testid=\"link\" href=\"/autobedrijf/garage-ploegh/38585/voorraad\"><svg aria-hidden=\"true\" class=\"h-5 w-5\" data-testid=\"stockicon\" fill=\"currentColor\"><use href=\"https://www.autotrack.nl/_doa/_next/static/images/sprites/ui.f6f0b47890978474.svg#stockicon\"></use></svg><p class=\"text-sm\">Voorraad</p></a><a class=\"flex-1 gap-2.5\" data-testid=\"vehicle-dealer-route\" href=\"https://www.google.com/maps/dir/?api=1&amp;destination=Garage%20Ploegh%2C%20Molenweg%204%2C%209231%20HS%20Surhuisterveen&amp;travelmode=driving\" rel=\"noreferrer nofollow\" target=\"_blank\"><button class=\"relative flex font-semibold items-center justify-center rounded-lg transition-colors disabled:bg-gray-100 disabled:border-gray-100 disabled:text-base-black/25 active:bg-blue-600 border-blue-500 hover:border-blue-400 px-3 py-2 text-base border bg-transparent hover:bg-blue-50 gap-2 whitespace-nowrap active:text-base-white text-blue-500 w-full\"><svg aria-hidden=\"true\" class=\"h-5 w-5\" data-testid=\"routeicon\" fill=\"currentColor\"><use href=\"https://www.autotrack.nl/_doa/_next/static/images/sprites/ui.f6f0b47890978474.svg#routeicon\"></use></svg><p class=\"text-sm\">Route</p></button></a><a class=\"flex-1 gap-2.5\" data-testid=\"vehicle-dealer-call\" href=\"tel:[redacted-142]\"><button class=\"relative flex font-semibold items-center justify-center rounded-lg transition-colors disabled:bg-gray-100 disabled:border-gray-100 disabled:text-base-black/25 bg-blue-500 active:bg-blue-600 hover:bg-blue-400 border-blue-500 hover:border-blue-400 text-base-white px-3 py-2 text-base border gap-2 whitespace-nowrap w-full\"><svg aria-hidden=\"true\" class=\"h-5 w-5\" data-testid=\"phoneicon\" fill=\"currentColor\"><use href=\"https://www.autotrack.nl/_doa/_next/static/images/sprites/ui.f6f0b47890978474.svg#phoneicon\"></use></svg><p class=\"text-sm\">Bel</p></button></a></div></div>",
+      "heading_dom": "<h1 adipiscing=\"sit-[1.375amet] do-8 do:dolor-4sed ipsum-adipiscing dolor-elit\" elit-dolor=\"lorem-sed-consectetur-1-sit ipsum-do\">consectetur-amet C-ipsum</h1>"
+    },
+    {
+      "fetch_id": 660,
+      "source": "sit",
+      "fixture_kind": "sit_dolor_adipiscing_lorem_elit",
+      "url": "https://www.marktplaats.nl/v/auto-s/mercedes-benz/m2433638348-mercedes-benz-c-klasse-c180-156pk-9g-tronic-2020-grijs",
+      "record": {
+        "itemId": "m2433638348",
+        "title": "sit-dolor C-do C180 156amet 9G-lorem 7698 dolor",
+        "traits": [],
+        "adType": "lorem",
+        "bidsInfo": {
+          "isBiddingEnabled": true,
+          "isRemovingBidEnabled": false,
+          "currentMinimumBid": 0,
+          "bids": []
+        },
+        "priceInfo": {
+          "priceCents": 2129500,
+          "priceType": "sit_elit"
+        },
+        "customDimensions": [],
+        "seller": {
+          "id": 19066119,
+          "encryptedSellerId": "940081E8adipiscing6C8dolor37506do30sit5adipiscing4",
+          "name": "amet consectetur adipiscing elit",
+          "sellerProfileUrl": "/elit-ipsum/do/98078454/",
+          "allAdsUrl": "/u/sed-ipsum-elit-sit/87967343/",
+          "activeSinceDiff": "13 adipiscing",
+          "activeYears": 13,
+          "isAsqEnabled": true,
+          "isSaved": true,
+          "phoneNumberHidden": false,
+          "sellerType": "dolor",
+          "showMap": true,
+          "showProfilePicture": false,
+          "showSalesRepresentatives": false,
+          "showSellerResponseRate": true,
+          "showVerifications": true,
+          "showDealerLegalDisclaimer": false,
+          "financeAvailable": false,
+          "requestExternalReviews": true,
+          "allowCarTestDriveRequest": false,
+          "withCallAvailabilityIndicator": false,
+          "location": {
+            "isAbroad": false,
+            "cityName": "amet",
+            "countryName": "dolor",
+            "isOnCountryLevel": false,
+            "countryAbbreviation": "NL",
+            "latitude": 51.833012826401,
+            "longitude": 5.2568947016415
+          },
+          "contactOptions": []
+        },
+        "gallery": {
+          "imageUrls": [],
+          "media": {
+            "imageSizes": {
+              "XL": "84",
+              "M": "82",
+              "XXXL": "86",
+              "L": "83",
+              "XXL": "85",
+              "XXS": "14",
+              "S": "82",
+              "XXXXL": "87",
+              "XS": "14"
+            },
+            "images": []
+          },
+          "alt": "amet-sit C-lorem C180 156consectetur 9G-ipsum 8709 sit, lorem's, sed-elit, C-consectetur, sit, sed, sed, elit"
+        },
+        "shippingInformation": {
+          "mappedShippingOptions": {
+            "bulletPoints": [],
+            "shippingTypes": []
+          },
+          "augmentedLabels": [],
+          "deliveryType": {
+            "attributeLabel": "ipsum",
+            "attributeValueLabel": "lorem",
+            "attributeValueKey": "lorem"
+          }
+        },
+        "stats": {
+          "favoritedCount": 12,
+          "viewCount": 1574,
+          "since": "2026-08-22T08:16:20Z"
+        },
+        "category": {
+          "id": 130,
+          "name": "lorem",
+          "fullName": "do-sed",
+          "parentId": 91,
+          "parentName": "dolor's"
+        },
+        "isSaved": false,
+        "isSavingEnabled": true,
+        "isFreeAd": false,
+        "isAnimalAd": false,
+        "isCarAd": true,
+        "isAutomotiveAd": true,
+        "isCaravansAndCampingAd": false,
+        "flags": {
+          "showBannersOnVip": true,
+          "showExternalAds": true,
+          "showSellerOtherItems": false,
+          "requestRelevantItems": false,
+          "isAdmarkt": false,
+          "allowTradeInRequest": false,
+          "shippable": true,
+          "requestFeeds": true,
+          "hasCallTracking": false,
+          "isLeaseCar": false,
+          "showLoanIndicators": false,
+          "withBannersFromSeller": false,
+          "hasDeliveryPackages": false,
+          "hasDealerHighlights": false,
+          "isNoCommercialContent": false
+        },
+        "licensePlate": "H-730-PV",
+        "carAttributes": {
+          "groupedWithIcons": [
+            {
+              "key": "amet",
+              "attributes": [
+                {
+                  "key": "brand",
+                  "label": "sed & consectetur, dolor",
+                  "value": "Mercedes C-Klasse Estate, C180 156pk 9G-TRONIC",
+                  "dataType": "lorem",
+                  "icon": "consectetur_sit"
+                },
+                {
+                  "key": "constructionYear",
+                  "label": "dolor",
+                  "value": 2020,
+                  "dataType": "ipsum",
+                  "icon": "consectetur_do_dolor"
+                },
+                {
+                  "key": "mileage",
+                  "label": "sed",
+                  "value": "156.225",
+                  "unit": "adipiscing",
+                  "dataType": "ipsum",
+                  "icon": "consectetur_do"
+                },
+                {
+                  "key": "fuel",
+                  "label": "sit",
+                  "value": "Benzine",
+                  "dataType": "lorem",
+                  "icon": "dolor_adipiscing"
+                },
+                {
+                  "key": "transmission",
+                  "label": "consectetur",
+                  "value": "Automaat 9 versnellingen",
+                  "dataType": "lorem",
+                  "icon": "lorem_amet"
+                },
+                {
+                  "key": "cylinderCapacity",
+                  "label": "consectetur",
+                  "value": "1.5",
+                  "unit": "do",
+                  "dataType": "ipsum",
+                  "icon": "dolor_adipiscing_adipiscing"
+                },
+                {
+                  "key": "powerInHorsePower",
+                  "label": "dolor",
+                  "value": 156,
+                  "unit": "adipiscing",
+                  "dataType": "lorem",
+                  "icon": "sit_elit"
+                }
+              ]
+            },
+            {
+              "key": "adipiscing",
+              "label": "ipsum.adipiscing",
+              "icon": "ipsum_do",
+              "attributes": [
+                {
+                  "key": "brand",
+                  "label": "adipiscing & sit",
+                  "value": "Mercedes C-Klasse Estate",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "trim",
+                  "label": "amet",
+                  "value": "C180 156pk 9G-TRONIC",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "constructionYear",
+                  "label": "dolor",
+                  "value": 2020,
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "mileage",
+                  "label": "sed",
+                  "value": "156.225",
+                  "unit": "adipiscing",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "vehicleType",
+                  "label": "consectetur",
+                  "value": "Stationwagon",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "licensePlate",
+                  "label": "dolor",
+                  "value": "H-730-PV",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "color",
+                  "label": "do",
+                  "value": "Zilver of Grijs",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "numberOfDoors",
+                  "label": "elit amet",
+                  "value": "5",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "numberOfSeats",
+                  "label": "sed consectetur",
+                  "value": "5",
+                  "dataType": "ipsum"
+                }
+              ]
+            },
+            {
+              "key": "do",
+              "label": "amet.do",
+              "icon": "sed_dolor_dolor",
+              "attributes": [
+                {
+                  "key": "transmission",
+                  "label": "consectetur",
+                  "value": "Automaat 9 versnellingen",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "cylinderCapacity",
+                  "label": "consectetur",
+                  "value": "1.5",
+                  "unit": "do",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "numberOfCylinders",
+                  "label": "lorem elit",
+                  "value": "4",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "powerInHorsePower",
+                  "label": "dolor",
+                  "value": 156,
+                  "unit": "adipiscing",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "torque",
+                  "label": "lorem",
+                  "value": "250 nm / 1.200 tpm",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "topSpeed",
+                  "label": "consectetur",
+                  "value": "220",
+                  "unit": "sed/h",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "isTurbo",
+                  "label": "do",
+                  "value": "Ja",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "acceleration",
+                  "label": "adipiscing 0-100 amet/h",
+                  "value": "8.80",
+                  "unit": "elit",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "powerWheelDriver",
+                  "label": "consectetur",
+                  "value": "Achterwiel",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "frontBrakes",
+                  "label": "consectetur dolor",
+                  "value": "Schijfrem",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "rearBrakes",
+                  "label": "elit amet",
+                  "value": "Schijfrem",
+                  "dataType": "lorem"
+                }
+              ]
+            }
+          ],
+          "hasNapStatus": true,
+          "carPassUrl": ""
+        },
+        "carDetails": {
+          "hasNapStatus": true,
+          "carPassUrl": "",
+          "enriched": true,
+          "brand": "amet",
+          "model": "C-Klasse Estate",
+          "condition": "lorem",
+          "constructionYear": "2020",
+          "licensePlate": "H-730-PV"
+        },
+        "automotiveTrustIndicators": {
+          "qualityMarks": [],
+          "warranties": []
+        },
+        "highlights": [],
+        "buyersProtectionAllowed": false,
+        "thinContent": false,
+        "buyItNowEnabled": false,
+        "largeItemShippingLogicalAllowed": false,
+        "isReserved": false
+      },
+      "provenance": {
+        "requested_url": "consectetur://sit.elit.do/v/amet-s/ipsum-lorem/m9223751794-elit-adipiscing-c-sit-c180-156sed-9g-amet-9810-adipiscing",
+        "final_url": "consectetur://sit.elit.do/v/amet-s/ipsum-lorem/m9223751794-elit-adipiscing-c-sit-c180-156sed-9g-amet-9810-adipiscing",
+        "parser_url": "https://www.marktplaats.nl/v/auto-s/mercedes-benz/m2433638348-mercedes-benz-c-klasse-c180-156pk-9g-tronic-2020-grijs",
+        "timestamp": "2026-10-08T15:32:05.111769+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "c2a769378148aff9dd4c8fb83100f598747459af604036e50fde10517048d4c6",
+        "bytes": 159598
+      }
+    },
+    {
+      "fetch_id": 655,
+      "source": "sit",
+      "fixture_kind": "sit_dolor_adipiscing_lorem_elit",
+      "url": "https://www.marktplaats.nl/v/auto-s/mercedes-benz/m2450358935-mercedes-benz-c-klasse-c180-amg-line-9g-tronic-2019-rood",
+      "record": {
+        "itemId": "m2450358935",
+        "title": "adipiscing-consectetur C-dolor C180 amet- do 9G-elit 0910 do",
+        "traits": [],
+        "adType": "lorem",
+        "bidsInfo": {
+          "isBiddingEnabled": true,
+          "isRemovingBidEnabled": false,
+          "currentMinimumBid": 2000,
+          "bids": []
+        },
+        "priceInfo": {
+          "priceCents": 2495000,
+          "priceType": "sit_elit"
+        },
+        "customDimensions": [],
+        "seller": {
+          "id": 8155328,
+          "encryptedSellerId": "65B0dolor609A322sit172sed267A64elit",
+          "name": "do",
+          "sellerProfileUrl": "/u/adipiscing/3723229/",
+          "allAdsUrl": "/u/adipiscing/3723229/",
+          "activeSinceDiff": "19 adipiscing",
+          "activeYears": 19,
+          "isAsqEnabled": true,
+          "isSaved": false,
+          "phoneNumberHidden": false,
+          "sellerType": "amet",
+          "showMap": false,
+          "showProfilePicture": false,
+          "showSalesRepresentatives": false,
+          "showSellerResponseRate": true,
+          "showVerifications": true,
+          "showDealerLegalDisclaimer": false,
+          "financeAvailable": false,
+          "requestExternalReviews": true,
+          "allowCarTestDriveRequest": false,
+          "withCallAvailabilityIndicator": false,
+          "location": {
+            "isAbroad": false,
+            "cityName": "ipsum",
+            "countryName": "dolor",
+            "isOnCountryLevel": false,
+            "countryAbbreviation": "NL"
+          },
+          "contactOptions": []
+        },
+        "gallery": {
+          "imageUrls": [],
+          "media": {
+            "imageSizes": {
+              "XL": "84",
+              "M": "82",
+              "XXXL": "86",
+              "L": "83",
+              "XXL": "85",
+              "XXS": "14",
+              "S": "82",
+              "XXXXL": "87",
+              "XS": "14"
+            },
+            "images": []
+          },
+          "alt": "amet-sit C-lorem C180 dolor- elit 9G-consectetur 8798 elit, sit's, ipsum-lorem, adipiscing, C-ipsum, do, amet"
+        },
+        "shippingInformation": {
+          "mappedShippingOptions": {
+            "bulletPoints": [],
+            "shippingTypes": []
+          },
+          "augmentedLabels": [],
+          "deliveryType": {
+            "attributeLabel": "ipsum",
+            "attributeValueLabel": "lorem",
+            "attributeValueKey": "lorem"
+          }
+        },
+        "stats": {
+          "favoritedCount": 1,
+          "viewCount": 164,
+          "since": "2026-10-05T13:47:15Z"
+        },
+        "category": {
+          "id": 130,
+          "name": "lorem",
+          "fullName": "do-sed",
+          "parentId": 91,
+          "parentName": "dolor's"
+        },
+        "isSaved": false,
+        "isSavingEnabled": true,
+        "isFreeAd": false,
+        "isAnimalAd": false,
+        "isCarAd": true,
+        "isAutomotiveAd": true,
+        "isCaravansAndCampingAd": false,
+        "flags": {
+          "showBannersOnVip": true,
+          "showExternalAds": true,
+          "showSellerOtherItems": false,
+          "requestRelevantItems": false,
+          "isAdmarkt": false,
+          "allowTradeInRequest": false,
+          "shippable": true,
+          "requestFeeds": true,
+          "hasCallTracking": false,
+          "isLeaseCar": false,
+          "showLoanIndicators": false,
+          "withBannersFromSeller": false,
+          "hasDeliveryPackages": false,
+          "hasDealerHighlights": false,
+          "isNoCommercialContent": false
+        },
+        "licensePlate": "H-644-BB",
+        "carAttributes": {
+          "groupedWithIcons": [
+            {
+              "key": "amet",
+              "attributes": [
+                {
+                  "key": "brand",
+                  "label": "sed & consectetur, dolor",
+                  "value": "Mercedes C-Klasse Estate, C180 156pk 9G-TRONIC",
+                  "dataType": "lorem",
+                  "icon": "consectetur_sit"
+                },
+                {
+                  "key": "constructionYear",
+                  "label": "dolor",
+                  "value": 2019,
+                  "dataType": "ipsum",
+                  "icon": "consectetur_do_dolor"
+                },
+                {
+                  "key": "mileage",
+                  "label": "sed",
+                  "value": "140.709",
+                  "unit": "adipiscing",
+                  "dataType": "ipsum",
+                  "icon": "consectetur_do"
+                },
+                {
+                  "key": "fuel",
+                  "label": "sit",
+                  "value": "Benzine",
+                  "dataType": "lorem",
+                  "icon": "dolor_adipiscing"
+                },
+                {
+                  "key": "transmission",
+                  "label": "consectetur",
+                  "value": "Automaat 9 versnellingen",
+                  "dataType": "lorem",
+                  "icon": "lorem_amet"
+                },
+                {
+                  "key": "cylinderCapacity",
+                  "label": "consectetur",
+                  "value": "1.6",
+                  "unit": "do",
+                  "dataType": "ipsum",
+                  "icon": "dolor_adipiscing_adipiscing"
+                },
+                {
+                  "key": "powerInHorsePower",
+                  "label": "dolor",
+                  "value": 156,
+                  "unit": "adipiscing",
+                  "dataType": "lorem",
+                  "icon": "sit_elit"
+                }
+              ]
+            },
+            {
+              "key": "adipiscing",
+              "label": "ipsum.adipiscing",
+              "icon": "ipsum_do",
+              "attributes": [
+                {
+                  "key": "brand",
+                  "label": "adipiscing & sit",
+                  "value": "Mercedes C-Klasse Estate",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "trim",
+                  "label": "amet",
+                  "value": "C180 156pk 9G-TRONIC",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "constructionYear",
+                  "label": "dolor",
+                  "value": 2019,
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "mileage",
+                  "label": "sed",
+                  "value": "140.709",
+                  "unit": "adipiscing",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "vehicleType",
+                  "label": "consectetur",
+                  "value": "Stationwagon",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "licensePlate",
+                  "label": "dolor",
+                  "value": "H-644-BB",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "color",
+                  "label": "do",
+                  "value": "Rood",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "upholstery",
+                  "label": "sit",
+                  "value": "Leder en Alcantara",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "numberOfDoors",
+                  "label": "elit amet",
+                  "value": "5",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "numberOfSeats",
+                  "label": "sed consectetur",
+                  "value": "5",
+                  "dataType": "ipsum"
+                }
+              ]
+            },
+            {
+              "key": "do",
+              "label": "amet.do",
+              "icon": "sed_dolor_dolor",
+              "attributes": [
+                {
+                  "key": "transmission",
+                  "label": "consectetur",
+                  "value": "Automaat 9 versnellingen",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "cylinderCapacity",
+                  "label": "consectetur",
+                  "value": "1.6",
+                  "unit": "do",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "numberOfCylinders",
+                  "label": "lorem elit",
+                  "value": "4",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "powerInHorsePower",
+                  "label": "dolor",
+                  "value": 156,
+                  "unit": "adipiscing",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "torque",
+                  "label": "lorem",
+                  "value": "250 nm / 1.200 tpm",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "topSpeed",
+                  "label": "consectetur",
+                  "value": "222",
+                  "unit": "sed/h",
+                  "dataType": "ipsum"
+                },
+                {
+                  "key": "isTurbo",
+                  "label": "do",
+                  "value": "Ja",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "powerWheelDriver",
+                  "label": "consectetur",
+                  "value": "Achterwiel",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "frontBrakes",
+                  "label": "consectetur dolor",
+                  "value": "Schijfrem",
+                  "dataType": "lorem"
+                },
+                {
+                  "key": "rearBrakes",
+                  "label": "elit amet",
+                  "value": "Schijfrem",
+                  "dataType": "lorem"
+                }
+              ]
+            }
+          ],
+          "hasNapStatus": false,
+          "carPassUrl": ""
+        },
+        "carDetails": {
+          "hasNapStatus": false,
+          "carPassUrl": "",
+          "enriched": true,
+          "brand": "amet",
+          "model": "C-Klasse Estate",
+          "condition": "lorem",
+          "constructionYear": "2019",
+          "licensePlate": "H-644-BB"
+        },
+        "automotiveTrustIndicators": {
+          "qualityMarks": [],
+          "warranties": []
+        },
+        "highlights": [],
+        "buyersProtectionAllowed": false,
+        "thinContent": false,
+        "buyItNowEnabled": false,
+        "largeItemShippingLogicalAllowed": false,
+        "isReserved": false
+      },
+      "provenance": {
+        "requested_url": "elit://consectetur.do.ipsum/v/adipiscing-s/sit-dolor/m1462693503-do-sed-c-consectetur-c180-elit-ipsum-9g-do-1021-ipsum",
+        "final_url": "elit://consectetur.do.ipsum/v/adipiscing-s/sit-dolor/m1462693503-do-sed-c-consectetur-c180-elit-ipsum-9g-do-1021-ipsum",
+        "parser_url": "https://www.marktplaats.nl/v/auto-s/mercedes-benz/m2450358935-mercedes-benz-c-klasse-c180-amg-line-9g-tronic-2019-rood",
+        "timestamp": "2026-10-08T15:32:04.429838+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "5f93727fdf8ec49f9c626d4fbcf673a27c6148c28b16072074ff0759b390223a",
+        "bytes": 158256
+      }
+    },
+    {
+      "fetch_id": 752,
+      "source": "elit",
+      "fixture_kind": "dolor_adipiscing_consectetur_sit_elit_elit",
+      "url": "https://www.nederlandmobiel.nl/tweedehands-auto/mercedes-benz/c-klasse-pack-amgnavixenondynamiccameracruisecuir/11813580?merk[]=145&model[]=1099&brandstof[]=benzine&transmissie[]=automaat&categorie[]=sportwagen-coupe&bouwjaar_van=2016&source=search&p-page=5&i=104",
+      "record": {
+        "attributes": {
+          "Bouwjaar": "01-11- 2017",
+          "Categorie": "Sportwagen/Coupé",
+          "BTW / Marge": "Marge Financieren",
+          "Kmstand": "50.000 km",
+          "Deuren": "2",
+          "Kenteken": "-",
+          "Kleur": "Blauw Bod op je auto",
+          "Brandstof": "Benzine",
+          "Transmissie": "Automaat",
+          "Motorinhoud": "1.595 cc",
+          "Vermogen": "115 kW (157 pk)",
+          "Bedrijfsnaam": "Carrera Cars Concept",
+          "Contactpersoon": "Afdeling verkoop",
+          "Adres": "Rue Arsène Falla 57D",
+          "Postcode": "4621",
+          "Plaats": "",
+          "Land": "België",
+          "Telefoon": "+32[private-phone-1528] bel telefoonnummer toon telefoonnummer",
+          "E-mail": "[redacted]"
+        }
+      },
+      "provenance": {
+        "requested_url": "dolor://lorem.amet.lorem/sit-consectetur/lorem-do/c-adipiscing-sit-sed/56481481?sit[]=145&amet[]=5556&elit[]=do&elit[]=ipsum&lorem[]=dolor-sit&do_sed=6573&elit=amet&p-sit=5&i=104",
+        "final_url": "dolor://lorem.amet.lorem/sit-consectetur/lorem-do/c-adipiscing-sit-sed/56481481?sit[]=145&amet[]=5556&elit[]=do&elit[]=ipsum&lorem[]=dolor-sit&do_sed=6573&elit=amet&p-sit=5&i=104",
+        "parser_url": "https://www.nederlandmobiel.nl/tweedehands-auto/mercedes-benz/c-klasse-pack-amgnavixenondynamiccameracruisecuir/11813580?merk[]=145&model[]=1099&brandstof[]=benzine&transmissie[]=automaat&categorie[]=sportwagen-coupe&bouwjaar_van=2016&source=search&p-page=5&i=104",
+        "timestamp": "2026-10-08T15:32:33.932210+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "e919778c11cfba517f7a85be48e97b78b86016c5c1c93bcdfc5f71476d289b71",
+        "bytes": 155292
+      }
+    },
+    {
+      "fetch_id": 751,
+      "source": "elit",
+      "fixture_kind": "dolor_adipiscing_consectetur_sit_elit_elit",
+      "url": "https://www.nederlandmobiel.nl/tweedehands-auto/mercedes-benz/c-klasse-coupe-led-xenon-automaatsportzetzelsnavigatie/12691955?merk[]=145&model[]=1099&brandstof[]=benzine&transmissie[]=automaat&categorie[]=sportwagen-coupe&bouwjaar_van=2016&source=search&p-page=5&i=103",
+      "record": {
+        "attributes": {
+          "Bouwjaar": "01-01- 2017",
+          "Categorie": "Sportwagen/Coupé",
+          "BTW / Marge": "Marge Financieren",
+          "Kmstand": "48.645 km",
+          "Deuren": "2",
+          "Kenteken": "-",
+          "Kleur": "Grijs Bod op je auto",
+          "Brandstof": "Benzine",
+          "Transmissie": "Automaat",
+          "Motorinhoud": "1.598 cc",
+          "Vermogen": "115 kW (157 pk)",
+          "Bedrijfsnaam": "Autohandel Wingels",
+          "Contactpersoon": "Afdeling verkoop",
+          "Adres": "Brusselsesteenweg 351",
+          "Postcode": "1730",
+          "Plaats": "Asse",
+          "Land": "België",
+          "GSM": "+32[private-phone-1529] bel telefoonnummer toon telefoonnummer",
+          "Website": "www.garagewingels.be",
+          "E-mail": "[redacted]"
+        }
+      },
+      "provenance": {
+        "requested_url": "elit://consectetur.do.consectetur/sed-lorem/consectetur-amet/c-ipsum-sed-amet-sed-amet/02714301?sit[]=145&amet[]=0001&elit[]=do&elit[]=ipsum&lorem[]=dolor-sit&do_sed=1028&elit=amet&p-sit=5&i=103",
+        "final_url": "elit://consectetur.do.consectetur/sed-lorem/consectetur-amet/c-ipsum-sed-amet-sed-amet/02714301?sit[]=145&amet[]=0001&elit[]=do&elit[]=ipsum&lorem[]=dolor-sit&do_sed=1028&elit=amet&p-sit=5&i=103",
+        "parser_url": "https://www.nederlandmobiel.nl/tweedehands-auto/mercedes-benz/c-klasse-coupe-led-xenon-automaatsportzetzelsnavigatie/12691955?merk[]=145&model[]=1099&brandstof[]=benzine&transmissie[]=automaat&categorie[]=sportwagen-coupe&bouwjaar_van=2016&source=search&p-page=5&i=103",
+        "timestamp": "2026-10-08T15:32:33.234093+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "b93b8cd7178419d3c13df50665cd89e001d5d51d0b175ccfa615574e9c85a3c5",
+        "bytes": 161061
+      }
+    },
+    {
+      "fetch_id": 417,
+      "source": "lorem",
+      "fixture_kind": "do_sed_dolor_do",
+      "url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-amg-63-panoramadak-leer-memory-burmester-camera-complete-historie-pa0xb22",
+      "record": {
+        "@context": "elit://consectetur.dolor",
+        "@type": "Vehicle",
+        "name": "adipiscing elit sed do lorem ipsum dolor sit",
+        "description": "Mercedes-Benz C-Klasse coupe AMG 63 / Panoramadak / Leer / Memory / Burmester / Camera / Complete historie nu voor 41.950,-. ✓ Erkend BOVAG bedrijf ✓ Omruilgarantie ✓ All-in prijzen",
+        "image": "https://stsharedprdweu.blob.core.windows.net/vehicles-media/1169b879-2c07-4a34-9cef-43f1c1e9ec1c/media.0148.jpg",
+        "url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-amg-63-panoramadak-leer-memory-burmester-camera-complete-historie-pa0xb22",
+        "brand": {
+          "@type": "ipsum",
+          "name": "lorem"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "lorem"
+        },
+        "model": "C-do",
+        "color": "dolor",
+        "sku": "1169b879-2c07-4a34-9cef-43f1c1e9ec1c",
+        "bodyType": "amet",
+        "itemCondition": "dolor",
+        "offers": {
+          "@type": "ipsum",
+          "price": 41950,
+          "priceCurrency": "do",
+          "url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-amg-63-panoramadak-leer-memory-burmester-camera-complete-historie-pa0xb22",
+          "availability": "sit",
+          "availabilityStarts": "2025-12-04T13:12:40.1079234+00:00",
+          "offeredBy": {
+            "@type": "AutoDealer",
+            "name": "amet consectetur adipiscing elit sed",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Musterstraße 697",
+              "postalCode": "3433NP",
+              "addressLocality": "NIEUWEGEIN",
+              "addressCountry": {
+                "@type": "Country",
+                "name": "nl"
+              }
+            },
+            "@id": "https://www.viabovag.nl/auto/aanbieder-vakgarage-de-liesbosch-verkoop-b-v-994"
+          }
+        },
+        "fuelType": "Benzine",
+        "vehicleTransmission": "elit",
+        "vehicleConfiguration": "coupe AMG 63 / Panoramadak / Leer / Memory / Burmester / Camera / Complete historie",
+        "vehicleInteriorColor": "Wit",
+        "vehicleEngine": {
+          "@type": "consectetur",
+          "engineDisplacement": "3.982 cc",
+          "enginePower": "476pk (350kW)"
+        },
+        "productionDate": "07-2016",
+        "driveWheelConfiguration": "adipiscing",
+        "emissionsCO2": 200,
+        "vehicleInteriorType": "Leder",
+        "vehicleSeatingCapacity": "4",
+        "numberOfDoors": "2",
+        "mileageFromOdometer": {
+          "@type": "sit",
+          "unitCode": "do",
+          "value": 134898
+        },
+        "accelerationTime": {
+          "@type": "QuantitativeValue",
+          "unitCode": "SEC",
+          "unitText": "0..100 km/h",
+          "value": 4.2
+        },
+        "speed": {
+          "@type": "QuantitativeValue",
+          "unitCode": "KMH",
+          "minValue": 0,
+          "maxValue": 250
+        }
+      },
+      "provenance": {
+        "requested_url": "elit://consectetur.do.sed/ipsum/adipiscing/sit-dolor-c-do-adipiscing-dolor-63-do-ipsum-adipiscing-sit-sit-lorem-do-sed0ipsum22",
+        "final_url": "elit://consectetur.do.sed/ipsum/adipiscing/sit-dolor-c-do-adipiscing-dolor-63-do-ipsum-adipiscing-sit-sit-lorem-do-sed0ipsum22",
+        "parser_url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-amg-63-panoramadak-leer-memory-burmester-camera-complete-historie-pa0xb22",
+        "timestamp": "2026-10-08T15:31:36.449185+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "a49af0a1dd8357c87fa9f4fe923b0290e7a7e333f3a12d50696db040362fe35c",
+        "bytes": 544239
+      }
+    },
+    {
+      "fetch_id": 407,
+      "source": "lorem",
+      "fixture_kind": "do_sed_dolor_do",
+      "url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-180-premium-plus-panorama-schuifdak-nieuwe-velgen-en-banden-iy65in1",
+      "record": {
+        "@context": "elit://consectetur.dolor",
+        "@type": "Vehicle",
+        "name": "sit amet consectetur adipiscing elit sed do",
+        "description": "Mercedes-Benz C-Klasse Coupé 180 Premium Plus nu voor 20.900,-. ✓ Erkend BOVAG bedrijf ✓ Omruilgarantie ✓ All-in prijzen",
+        "image": "https://stsharedprdweu.blob.core.windows.net/vehicles-media/ca2fc6c8-ba96-4e7a-89bf-5988d8b76ed5/media.0001.jpg",
+        "url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-180-premium-plus-panorama-schuifdak-nieuwe-velgen-en-banden-iy65in1",
+        "brand": {
+          "@type": "ipsum",
+          "name": "adipiscing"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "do"
+        },
+        "model": "C-do",
+        "vehicleModelDate": "2015",
+        "color": "dolor",
+        "sku": "ca2fc6c8-ba96-4e7a-89bf-5988d8b76ed5",
+        "bodyType": "amet",
+        "numberOfForwardGears": "9",
+        "itemCondition": "dolor",
+        "offers": {
+          "@type": "ipsum",
+          "price": 20900,
+          "priceCurrency": "do",
+          "url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-180-premium-plus-panorama-schuifdak-nieuwe-velgen-en-banden-iy65in1",
+          "availability": "sit",
+          "availabilityStarts": "2026-06-16T11:48:49.0348455+00:00",
+          "offeredBy": {
+            "@type": "AutoDealer",
+            "name": "consectetur adipiscing ",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Musterstraße 697",
+              "postalCode": "7575PD",
+              "addressLocality": "Oldenzaal",
+              "addressCountry": {
+                "@type": "Country",
+                "name": "nl"
+              }
+            },
+            "@id": "https://www.viabovag.nl/auto/aanbieder-autobedrijf-wieldijk-6098"
+          }
+        },
+        "fuelType": "Benzine",
+        "vehicleTransmission": "elit",
+        "vehicleConfiguration": "Coupé 180 Premium Plus",
+        "vehicleInteriorColor": "POLAR WHITE (149)",
+        "vehicleEngine": {
+          "@type": "consectetur",
+          "engineDisplacement": "1.595 cc",
+          "enginePower": "156pk (115kW)"
+        },
+        "productionDate": "11-2017",
+        "driveWheelConfiguration": "adipiscing",
+        "emissionsCO2": 136,
+        "vehicleInteriorType": "Leder",
+        "vehicleSeatingCapacity": "4",
+        "numberOfDoors": "2",
+        "mileageFromOdometer": {
+          "@type": "sit",
+          "unitCode": "do",
+          "value": 175956
+        },
+        "accelerationTime": {
+          "@type": "QuantitativeValue",
+          "unitCode": "SEC",
+          "unitText": "0..100 km/h",
+          "value": 8.5
+        },
+        "fuelCapacity": {
+          "@type": "QuantitativeValue",
+          "unitCode": "LTR",
+          "value": 66
+        },
+        "speed": {
+          "@type": "QuantitativeValue",
+          "unitCode": "KMH",
+          "minValue": 0,
+          "maxValue": 225
+        },
+        "trailerWeight": {
+          "@type": "QuantitativeValue",
+          "unitCode": "KGM",
+          "value": 1800,
+          "valueReference": {
+            "@type": "PropertyValue",
+            "name": "do",
+            "value": "Geremd"
+          }
+        }
+      },
+      "provenance": {
+        "requested_url": "ipsum://do.sit.dolor/consectetur/lorem/elit-adipiscing-c-sit-lorem-180-lorem-sed-sit-dolor-dolor-do-adipiscing-do-adipiscing65lorem1",
+        "final_url": "ipsum://do.sit.dolor/consectetur/lorem/elit-adipiscing-c-sit-lorem-180-lorem-sed-sit-dolor-dolor-do-adipiscing-do-adipiscing65lorem1",
+        "parser_url": "https://www.viabovag.nl/auto/aanbod/mercedes-benz-c-klasse-coupe-180-premium-plus-panorama-schuifdak-nieuwe-velgen-en-banden-iy65in1",
+        "timestamp": "2026-10-08T15:31:35.044965+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "088e4ebcbda6bc873196c332dc62f8a71cf06494d4f9f030d4965933daa103cf",
+        "bytes": 498476
+      }
+    },
+    {
+      "fetch_id": 781,
+      "source": "ipsum",
+      "fixture_kind": "do_sed_dolor_do",
+      "url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-200-amg-sport-edition-premium-2021-143616",
+      "record": {
+        "@type": "Car",
+        "@id": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-200-amg-sport-edition-premium-2021-143616",
+        "name": "adipiscing elit",
+        "vehicleIdentificationNumber": "143616",
+        "sku": "143616",
+        "productID": "143616",
+        "brand": {
+          "@type": "ipsum",
+          "name": "do",
+          "sameAs": "https://nl.wikipedia.org/wiki/Mercedes-Benz"
+        },
+        "model": "C-do",
+        "vehicleConfiguration": "200 AMG Sport Edition Premium Plus",
+        "vehicleModelDate": "2021",
+        "dateVehicleFirstRegistered": "2021-05-03",
+        "bodyType": "amet",
+        "itemCondition": "ipsum://do.adipiscing/lorem",
+        "numberOfDoors": 2,
+        "vehicleSeatingCapacity": 4,
+        "fuelType": "Benzine",
+        "vehicleTransmission": "elit",
+        "color": "amet",
+        "vehicleInteriorType": "Leder",
+        "vehicleInteriorColor": "Leder zwart (201)",
+        "accelerationTime": {
+          "@type": "QuantitativeValue",
+          "value": 7.9,
+          "unitCode": "SEC",
+          "name": "0-100 km/u"
+        },
+        "meetsEmissionStandard": "Euro 6D-TEMP",
+        "fuelEfficiency": {
+          "@type": "QuantitativeValue",
+          "value": 7.7,
+          "unitCode": "F46",
+          "unitText": "l/100km"
+        },
+        "emissionsCO2": 175,
+        "description": "Incididunt eiusmod elit amet labore incididunt labore veniam tempor minim ipsum elit elit u van ASV mag verwachten.\n\nMet deze occasion kiest u ipsum ipsum, amet sit incididunt. Eiusmod enim eiusmod u aliqua enim eiusmod veniam, tempor sed lorem- of inruilmogelijkheden.\n\nOok na uw aankoop kunt u sit dolore magna ipsum labore Ipsum. Aliqua eiusmod Veniam-Minim Sit veniam veniam do eiusmod eiusmod, consectetur aliqua consectetur.\n\n*Magna incididunt dolor minim adipiscing amet.",
+        "url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-200-amg-sport-edition-premium-2021-143616",
+        "image": [],
+        "vehicleEngine": {
+          "@type": "consectetur",
+          "enginePower": {
+            "@type": "QuantitativeValue",
+            "value": 135,
+            "unitCode": "KWT"
+          },
+          "engineDisplacement": {
+            "@type": "QuantitativeValue",
+            "value": 1497,
+            "unitCode": "CMQ"
+          },
+          "cylinder": 4,
+          "fuelType": "sit",
+          "torque": {
+            "@type": "QuantitativeValue",
+            "value": 280,
+            "unitCode": "NWM"
+          }
+        },
+        "weightTotal": {
+          "@type": "QuantitativeValue",
+          "value": 1490,
+          "unitCode": "KGM"
+        },
+        "mileageFromOdometer": {
+          "@type": "sit",
+          "value": 79559,
+          "unitCode": "do"
+        },
+        "offers": {
+          "@type": "ipsum",
+          "price": 31980,
+          "priceCurrency": "do",
+          "availability": "dolor://lorem.elit/ipsum",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-200-amg-sport-edition-premium-2021-143616",
+          "availableDeliveryMethod": "https://schema.org/OnSitePickup",
+          "valueAddedTaxIncluded": true,
+          "priceValidUntil": "2026-11-07",
+          "priceSpecification": [],
+          "datePosted": "2026-10-02",
+          "seller": {
+            "@type": "AutoDealer",
+            "name": "sit amet",
+            "url": "https://autokopen.nl/dealers/asv-veghel",
+            "telephone": "[redacted-000]",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Musterstraße 697",
+              "postalCode": "5463 XG",
+              "addressLocality": "Veghel",
+              "addressRegion": "Noord-Brabant",
+              "addressCountry": "NL"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "51.6152476",
+              "longitude": "5.5547508"
+            },
+            "sameAs": "https://maps.google.com/?cid=5128387531162488460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+            "image": "https://autokopen.nl/dealers/asv-veghel/opengraph-image",
+            "priceRange": "€€",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": 4.4,
+              "reviewCount": 196,
+              "bestRating": 5,
+              "worstRating": 1
+            }
+          }
+        },
+        "additionalProperty": []
+      },
+      "provenance": {
+        "requested_url": "adipiscing://amet.amet/elit/dolor/do-sed-c-consectetur-200-adipiscing-lorem-adipiscing-amet-0922-933739",
+        "final_url": "adipiscing://amet.amet/elit/dolor/do-sed-c-consectetur-200-adipiscing-lorem-adipiscing-amet-0922-933739",
+        "parser_url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-200-amg-sport-edition-premium-2021-143616",
+        "timestamp": "2026-10-08T15:33:38.218535+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "032c4326c5909d3f3c109b6fc1aea63d8d981c02cc6e37488089b86068f03c17",
+        "bytes": 426096
+      }
+    },
+    {
+      "fetch_id": 1045,
+      "source": "ipsum",
+      "fixture_kind": "do_sed_dolor_do",
+      "url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-coupe-180-ambition-achteruitri-2016-8399474",
+      "record": {
+        "@type": "Car",
+        "@id": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-coupe-180-ambition-achteruitri-2016-8399474",
+        "name": "amet consectetur",
+        "vehicleIdentificationNumber": "8399474",
+        "sku": "8399474",
+        "productID": "8399474",
+        "brand": {
+          "@type": "ipsum",
+          "name": "do",
+          "sameAs": "https://nl.wikipedia.org/wiki/Mercedes-Benz"
+        },
+        "model": "C-do",
+        "vehicleConfiguration": "Coupé 180 Ambition/ Achteruitrijcamera/ Led koplampen",
+        "vehicleModelDate": "2016",
+        "dateVehicleFirstRegistered": "2016-03-07",
+        "bodyType": "amet",
+        "itemCondition": "ipsum://do.adipiscing/lorem",
+        "numberOfDoors": 2,
+        "vehicleSeatingCapacity": 4,
+        "fuelType": "Benzine",
+        "vehicleTransmission": "elit",
+        "color": "amet",
+        "vehicleInteriorType": "Half leder / stof",
+        "vehicleInteriorColor": "Antraciet",
+        "accelerationTime": {
+          "@type": "QuantitativeValue",
+          "value": 8.5,
+          "unitCode": "SEC",
+          "name": "0-100 km/u"
+        },
+        "meetsEmissionStandard": "EURO 6 W",
+        "fuelEfficiency": {
+          "@type": "QuantitativeValue",
+          "value": 5.4,
+          "unitCode": "F46",
+          "unitText": "l/100km"
+        },
+        "emissionsCO2": 126,
+        "description": "Onderhoudshistorie:\n\n03.2017 5.343km service 1\n\n03.2018 11.200km service 2\n\n03.2020 16.521km service 3\n\n07.2021 59.420km service 4\n\n03.2022 80.698km service 5\n\n06.2023 112.270km service 6\n\n12.2023 136.073km service 7\n\n02.2024 144.191km service 8\n\n04.2025 176.659km service 9\n\nFabriekskleur: Iridiumzilver metallic",
+        "url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-coupe-180-ambition-achteruitri-2016-8399474",
+        "image": [],
+        "vehicleEngine": {
+          "@type": "consectetur",
+          "enginePower": {
+            "@type": "QuantitativeValue",
+            "value": 115,
+            "unitCode": "KWT"
+          },
+          "engineDisplacement": {
+            "@type": "QuantitativeValue",
+            "value": 1595,
+            "unitCode": "CMQ"
+          },
+          "cylinder": 4,
+          "fuelType": "sit"
+        },
+        "weightTotal": {
+          "@type": "QuantitativeValue",
+          "value": 1405,
+          "unitCode": "KGM"
+        },
+        "mileageFromOdometer": {
+          "@type": "sit",
+          "value": 179803,
+          "unitCode": "do"
+        },
+        "offers": {
+          "@type": "ipsum",
+          "price": 18950,
+          "priceCurrency": "do",
+          "availability": "dolor://lorem.elit/ipsum",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-coupe-180-ambition-achteruitri-2016-8399474",
+          "availableDeliveryMethod": "https://schema.org/OnSitePickup",
+          "valueAddedTaxIncluded": true,
+          "priceValidUntil": "2026-11-07",
+          "priceSpecification": [],
+          "datePosted": "2026-09-11",
+          "seller": {
+            "@type": "AutoDealer",
+            "name": "amet consectetur adipiscing",
+            "url": "https://autokopen.nl/dealers/aeen-exclusieve-automobielen-barneveld",
+            "telephone": "[redacted-000]",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Musterstraße 697",
+              "postalCode": "3771 NA",
+              "addressLocality": "Barneveld",
+              "addressRegion": "Gelderland",
+              "addressCountry": "NL"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "52.1657001",
+              "longitude": "5.6017462"
+            },
+            "sameAs": "https://maps.google.com/?cid=16344954307735781045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+            "image": "https://autokopen.nl/dealers/aeen-exclusieve-automobielen-barneveld/opengraph-image",
+            "priceRange": "€€",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": 4.7,
+              "reviewCount": 44,
+              "bestRating": 5,
+              "worstRating": 1
+            }
+          }
+        },
+        "additionalProperty": []
+      },
+      "provenance": {
+        "requested_url": "sed://adipiscing.adipiscing/do/amet/ipsum-lorem-c-elit-amet-180-amet-sit-2139-8412820",
+        "final_url": "sed://adipiscing.adipiscing/do/amet/ipsum-lorem-c-elit-amet-180-amet-sit-2139-8412820",
+        "parser_url": "https://autokopen.nl/auto/detail/mercedes-benz-c-klasse-coupe-180-ambition-achteruitri-2016-8399474",
+        "timestamp": "2026-10-08T15:34:29.375305+00:00",
+        "status": 200,
+        "transport": "sit",
+        "sha256": "9a446bf9f6bfb828d4994b950d9ec9cebbe48a880d866bc3c1dbd2f66c66fa14",
+        "bytes": 422182
+      }
+    }
+  ]
+}

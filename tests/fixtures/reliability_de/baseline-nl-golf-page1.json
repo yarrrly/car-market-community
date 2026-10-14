@@ -1,0 +1,15 @@
+{
+  "props": {
+    "pageProps": {
+      "pageQuery": {
+        "cy": "NL",
+        "atype": "C",
+        "sort": "age",
+        "desc": "1",
+        "ocs_listing": "include"
+      },
+      "numberOfResults": 3975,
+      "listings": []
+    }
+  }
+}

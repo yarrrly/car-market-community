@@ -1,0 +1,131 @@
+[
+  {
+    "fixture": "pkw-api-basic.json",
+    "fixture_sha256": "08bdb1b2e6c2be53b10ab074224990a062e743ec70114684ab7984c1e055dd2a",
+    "requested_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=9_2326&source=autokatalog",
+    "final_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=9_2326&source=autokatalog",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:07:22.661150+00:00",
+    "extraction": "original public JSON response"
+  },
+  {
+    "fixture": "pkw-api-page2.json",
+    "fixture_sha256": "b31e8eda4136d4d4b02fc57331a2cd576e92ceb1de432c1b03b22f263c7068fe",
+    "requested_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=9_2326&page=2&source=autokatalog",
+    "final_url": "https://www.pkw.de/api/v1/cars/search/basic?brand_model=9_2326&page=2&source=autokatalog",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:07:22.661086+00:00",
+    "extraction": "original public JSON response"
+  },
+  {
+    "fixture": "pkw-api-direct.json",
+    "fixture_sha256": "c2c90832049611ef6be11d0909905520315bd0d797674b0f25e597985a714ba2",
+    "requested_url": "https://www.pkw.de/api/v1/cars/635878100259431844",
+    "final_url": "https://www.pkw.de/api/v1/cars/635878100259431844",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:06:25.395410+00:00",
+    "extraction": "original public JSON response"
+  },
+  {
+    "fixture": "autohero-first.html",
+    "fixture_sha256": "54ecda83c64a36f3657952fff2e3d9be80fff3fe7f142fcb44a39618cab31f46",
+    "requested_url": "https://www.autohero.com/de/search/?variants=218i&subType=218i,218i%20active%20tourer,218i%20gran%20coupe,218i%20gran%20tourer&brand0=bmw&models0=2er",
+    "final_url": "https://www.autohero.com/de/search/?variants=218i&subType=218i,218i%20active%20tourer,218i%20gran%20coupe,218i%20gran%20tourer&brand0=bmw&models0=2er",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:07:22.660615+00:00",
+    "extraction": "exact typed Apollo search/detail subtree + own Product/Vehicle LD scripts; public config/analytics omitted"
+  },
+  {
+    "fixture": "autohero-detail.html",
+    "fixture_sha256": "5477379712db8540aaad86130cca9135e2bf6e4dd1141be63bb432b13e116a99",
+    "requested_url": "https://autohero.com/de/bmw-2-er/id/041db339-3d37-40b6-b7ae-02ba4d074401/",
+    "final_url": "https://www.autohero.com:443/de/bmw-2-er/id/041db339-3d37-40b6-b7ae-02ba4d074401/",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:02:16.048093+00:00",
+    "extraction": "exact typed Apollo search/detail subtree + own Product/Vehicle LD scripts; public config/analytics omitted"
+  },
+  {
+    "fixture": "autohero-last.json",
+    "fixture_sha256": "f24c1ebcf854c9f062d7ea6f041345fa632e31ac804ffa31c47b9e8747c58b45",
+    "requested_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "final_url": "https://www.autohero.com/v1/retail-customer-gateway/graphql/searchAdV9AdsV2",
+    "status": 200,
+    "fetched_at": "2026-10-07T20:09:09.639923+00:00",
+    "extraction": "original public GraphQL response",
+    "request_body": {
+      "operationName": "searchAdV9AdsV2",
+      "variables": {
+        "search": {
+          "offset": 24,
+          "limit": 24,
+          "sort": "most_popular",
+          "filter": {
+            "field": null,
+            "op": "and",
+            "value": [
+              {
+                "field": "countryCode",
+                "op": "eq",
+                "value": "DE"
+              },
+              {
+                "field": null,
+                "op": "and",
+                "value": [
+                  {
+                    "field": "make",
+                    "op": "eq",
+                    "value": "130"
+                  },
+                  {
+                    "field": "model",
+                    "op": "eq",
+                    "value": [
+                      "2er"
+                    ]
+                  }
+                ]
+              },
+              {
+                "field": null,
+                "op": "or",
+                "value": [
+                  {
+                    "field": "subType",
+                    "op": "eq",
+                    "value": [
+                      "218i",
+                      "218i active tourer",
+                      "218i gran coupe",
+                      "218i gran tourer"
+                    ]
+                  },
+                  {
+                    "field": "subTypeExtra",
+                    "op": "eq",
+                    "value": []
+                  }
+                ]
+              }
+            ]
+          },
+          "aggs": [],
+          "postFilter": null,
+          "fields": [
+            "registration",
+            "firstEligibleToBePurchasedAt",
+            "variablePositioning"
+          ],
+          "properties": {
+            "firstPublishedDays": -30,
+            "shuffleCategoryBResults": true,
+            "resultsCombiner": "abbabbc",
+            "filterByEligibleDate": true,
+            "includeProspective": true
+          }
+        }
+      },
+      "query": "query searchAdV9AdsV2($search: EsSearchRequestProjectionInput!, $tradeInId: UUID) {\n  searchAdV9AdsV2(search: $search, tradeInId: $tradeInId)\n}"
+    }
+  }
+]

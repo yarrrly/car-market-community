@@ -1,0 +1,12 @@
+{
+  "source": "autoscout24",
+  "external_id": "789ada1c-ded9-465d-93ff-f0783b445b2e",
+  "url": "https://www.autoscout24.nl/aanbod/bmw-218-2-serie-active-tourer-218i-sport-motor-defect-r-benzine-wit-cat_ma13mo20327-789ada1c-ded9-465d-93ff-f0783b445b2e",
+  "fetched_at": "2026-10-07T05:55:53.636979+00:00",
+  "original_content_sha256": "ba9e5f04de6ee5dd6631df23ff82e41e6845c78fde7e8257a9f85ebcf2731aa5",
+  "fixture": "../quality_primary/autoscout24-789ada1c-ded9-465d-93ff-f0783b445b2e.html",
+  "fixture_sha256": "d80b74e6e8c2c7f13d4ac9ed3bd8c4468d0a69eb1394a97c1e4b7b22d279c024",
+  "original_owned_webPage": "https://www.autoscout24.nl/aanbod/bmw-218-2-serie-active-tourer-218i-sport-motor-defect-r-benzine-wit-cat_ma13mo20327-789ada1c-ded9-465d-93ff-f0783b445b2e",
+  "original_owned_canonical": "https://www.autoscout24.nl/aanbod/bmw-218-2-serie-active-tourer-218i-sport-motor-defect-r-benzine-wit-cat_ma13mo20327-789ada1c-ded9-465d-93ff-f0783b445b2e",
+  "proof": "Original retained gzip SHA verified independently. Inherited fixture is a public listingDetails projection with optional URL fields absent. original_webPage control restores the verified original field; no unrelated record supplies identity/country/model."
+}

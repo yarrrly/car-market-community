@@ -1,0 +1,149 @@
+{
+  "page": 2,
+  "total": {
+    "count": 78,
+    "pages": 4
+  },
+  "results": [
+    {
+      "id": "797034404712774503",
+      "url": "https://suche.pkw.de/fahrzeuge/details/797034404712774503",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "546554745834925735",
+      "url": "https://suche.pkw.de/fahrzeuge/details/546554745834925735",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "110737440129173734",
+      "url": "https://suche.pkw.de/fahrzeuge/details/110737440129173734",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "624292303543355124",
+      "url": "https://suche.pkw.de/fahrzeuge/details/624292303543355124",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "513399937691521061",
+      "url": "https://suche.pkw.de/fahrzeuge/details/513399937691521061",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "244969405183187613",
+      "url": "https://suche.pkw.de/fahrzeuge/details/244969405183187613",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "240861984432938048",
+      "url": "https://suche.pkw.de/fahrzeuge/details/240861984432938048",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "333307350687056497",
+      "url": "https://suche.pkw.de/fahrzeuge/details/333307350687056497",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "799529560571202856",
+      "url": "https://suche.pkw.de/fahrzeuge/details/799529560571202856",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "375143312919535611",
+      "url": "https://suche.pkw.de/fahrzeuge/details/375143312919535611",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "885069520005834783",
+      "url": "https://suche.pkw.de/fahrzeuge/details/885069520005834783",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "78793725091066059",
+      "url": "https://suche.pkw.de/fahrzeuge/details/78793725091066059",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "41735285436242047",
+      "url": "https://suche.pkw.de/fahrzeuge/details/41735285436242047",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "326433458503919272",
+      "url": "https://suche.pkw.de/fahrzeuge/details/326433458503919272",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "787808634726804740",
+      "url": "https://suche.pkw.de/fahrzeuge/details/787808634726804740",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "678965294141724687",
+      "url": "https://suche.pkw.de/fahrzeuge/details/678965294141724687",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "631374986878954838",
+      "url": "https://suche.pkw.de/fahrzeuge/details/631374986878954838",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "850513556213848998",
+      "url": "https://suche.pkw.de/fahrzeuge/details/850513556213848998",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "56927362435937306",
+      "url": "https://suche.pkw.de/fahrzeuge/details/56927362435937306",
+      "location": {
+        "country": "DEU"
+      }
+    },
+    {
+      "id": "69407805005152033",
+      "url": "https://suche.pkw.de/fahrzeuge/details/69407805005152033",
+      "location": {
+        "country": "DEU"
+      }
+    }
+  ]
+}

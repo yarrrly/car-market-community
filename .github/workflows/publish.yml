@@ -1,0 +1,84 @@
+name: Publish image
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  verify:
+    uses: ./.github/workflows/verify.yml
+  image:
+    needs: verify
+    strategy:
+      fail-fast: true
+      matrix:
+        include:
+          - architecture: amd64
+            runner: ubuntu-24.04
+          - architecture: arm64
+            runner: ubuntu-24.04-arm
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 40
+    permissions:
+      contents: read
+      packages: write
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Read the package version
+        id: version
+        run: |
+          version=$(python3 -c 'import tomllib; print(tomllib.load(open("pyproject.toml", "rb"))["project"]["version"])')
+          if [ "$GITHUB_REF_TYPE" = tag ] && [ "$GITHUB_REF_NAME" != "v$version" ]; then
+            echo "Tag $GITHUB_REF_NAME does not match package version $version" >&2
+            exit 1
+          fi
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+      - name: Build
+        run: |
+          docker build \
+            --label "org.opencontainers.image.source=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY" \
+            --label "org.opencontainers.image.revision=$GITHUB_SHA" \
+            --label "org.opencontainers.image.version=${{ steps.version.outputs.version }}" \
+            --label org.opencontainers.image.licenses=MIT \
+            -t car-market:candidate .
+      - name: Smoke test without network
+        run: |
+          python3 release/smoke_image.py --image car-market:candidate \
+            --architecture ${{ matrix.architecture }} \
+            --expected-version ${{ steps.version.outputs.version }} \
+            --output "$RUNNER_TEMP/smoke"
+      - name: Push the architecture image
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          TARGET: ghcr.io/${{ github.repository_owner }}/car-market:${{ steps.version.outputs.version }}-${{ matrix.architecture }}
+        run: |
+          printf '%s' "$GITHUB_TOKEN" | docker login ghcr.io --username "$GITHUB_ACTOR" --password-stdin
+          docker tag car-market:candidate "$TARGET"
+          docker push "$TARGET"
+          docker logout ghcr.io
+  manifest:
+    needs: image
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - name: Publish one multi-architecture tag
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          IMAGE: ghcr.io/${{ github.repository_owner }}/car-market
+          VERSION: ${{ needs.image.outputs.version }}
+        run: |
+          printf '%s' "$GITHUB_TOKEN" | docker login ghcr.io --username "$GITHUB_ACTOR" --password-stdin
+          docker buildx imagetools create -t "$IMAGE:$VERSION" "$IMAGE:$VERSION-amd64" "$IMAGE:$VERSION-arm64"
+          docker buildx imagetools inspect "$IMAGE:$VERSION"
+          docker logout ghcr.io

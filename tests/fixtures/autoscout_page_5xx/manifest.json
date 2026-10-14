@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2,
+    "source": "adipiscing24",
+    "url": "https://www.autoscout24.nl/_next/data/as24-search-funnel_main-20261009185027/lst/toyota/corolla.json?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=2",
+    "final_url": "https://www.autoscout24.nl/_next/data/as24-search-funnel_main-20261009185027/lst/toyota/corolla.json?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=2",
+    "status": 500,
+    "fetched_at": "2026-10-12T00:31:42.609498+00:00",
+    "content_hash": "4a1831b41c8a7cb700d352c1246895a92625cecb8438f6ebff5f35ff180a934e",
+    "error": "http_500",
+    "transport": "do",
+    "fixture": "as-2.gz",
+    "fixture_sha256": "632e8893852af71585eec287d351a06343efc7f223f5935ff369e528a6a1c85a"
+  },
+  {
+    "id": 1,
+    "source": "adipiscing24",
+    "url": "https://www.autoscout24.nl/lst/toyota/corolla?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include",
+    "final_url": "https://www.autoscout24.nl/lst/toyota/corolla?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include",
+    "status": 200,
+    "fetched_at": "2026-10-12T00:31:31.315844+00:00",
+    "content_hash": "fae819ac7b976696c2e04dbd4b071b9f2f54713b33d4d4936fcd282bb18e53b5",
+    "error": null,
+    "transport": "do",
+    "fixture": "as-1.gz",
+    "fixture_sha256": "b5a254029df42c178829b28039e5da6a236ab36e7c7744d9c1fd39656049efe8"
+  },
+  {
+    "id": 3,
+    "source": "adipiscing24",
+    "url": "https://www.autoscout24.nl/_next/data/as24-search-funnel_main-20261009185027/lst/toyota/corolla.json?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=3",
+    "final_url": "https://www.autoscout24.nl/_next/data/as24-search-funnel_main-20261009185027/lst/toyota/corolla.json?cy=NL&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=3",
+    "status": 200,
+    "fetched_at": "2026-10-12T00:31:34.361619+00:00",
+    "content_hash": "847bbc23566252f8e22364e155801f416acf4322fb60fc4f6c4cfa2539d4d608",
+    "error": null,
+    "transport": "do",
+    "fixture": "as-3.gz",
+    "fixture_sha256": "35fe5b92b0a6c5b5830b5c5b1d541ca9396433888a157aa78c0d431af867642d"
+  }
+]

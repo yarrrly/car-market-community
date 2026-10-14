@@ -1,0 +1,271 @@
+{
+  "hits": [
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing30ipsum779N",
+        "vssId": "019fc6cb-65d9-7590-b560-48daae5d43c0",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "brand": "BMW",
+            "model": {
+              "derivative": "X20I"
+            },
+            "modelRange": {
+              "name": "E84",
+              "description": {
+                "de_DE": "X1 - E84"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing9lorem3ipsum",
+        "vssId": "019be0f1-5e9c-74fe-840c-264efa597451",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "brand": "BMW",
+            "model": {
+              "derivative": "116D"
+            },
+            "modelRange": {
+              "name": "F20",
+              "description": {
+                "de_DE": "1er Reihe 5-Türer - F20"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing9lorem73ipsum",
+        "vssId": "0198f62d-2fec-773f-9597-692b57bb8f3e",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "brand": "BMW",
+            "model": {
+              "derivative": "118D"
+            },
+            "modelRange": {
+              "name": "F21",
+              "description": {
+                "de_DE": "1er Reihe 3-Türer - F21"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing9S8dolor7elit956P",
+        "vssId": "01a07b2e-172e-7429-a542-736f5ff3fdea",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "brand": "BMW",
+            "model": {
+              "derivative": "118D"
+            },
+            "modelRange": {
+              "name": "F21",
+              "description": {
+                "de_DE": "1er Reihe 3-Türer - F21"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing58dolor2ipsum",
+        "vssId": "01a1116b-1b9b-7643-ada9-026e4bd679a9",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "brand": "BMW",
+            "model": {
+              "derivative": "116I"
+            },
+            "modelRange": {
+              "name": "F20",
+              "description": {
+                "de_DE": "1er Reihe 5-Türer - F20"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing8dolor7elit367M",
+        "vssId": "01a0af77-5b94-74b5-a3e7-71c49defcbd8",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "brand": "BMW",
+            "model": {
+              "derivative": "318D"
+            },
+            "modelRange": {
+              "name": "F30",
+              "description": {
+                "de_DE": "3er Reihe Limousine - F30"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing3lorem31ipsum",
+        "vssId": "019ef3d5-7be4-70ef-9448-50f9dd11fc54",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "brand": "BMW",
+            "model": {
+              "derivative": "S18I"
+            },
+            "modelRange": {
+              "name": "E84",
+              "description": {
+                "de_DE": "X1 - E84"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing8dolor3elit356M",
+        "vssId": "01a08f49-7b10-7655-b0fc-2efddc2ea9d4",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "brand": "BMW",
+            "model": {
+              "derivative": "318D"
+            },
+            "modelRange": {
+              "name": "F31",
+              "description": {
+                "de_DE": "3er Reihe Touring - F31"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing3elit48ipsum",
+        "vssId": "01a0cd11-035f-7281-8543-8ad9efd8b02a",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "DIESEL",
+            "brand": "BMW",
+            "model": {
+              "derivative": "325D"
+            },
+            "modelRange": {
+              "name": "F31",
+              "description": {
+                "de_DE": "3er Reihe Touring - F31"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing898P",
+        "vssId": "019dd382-6076-73d7-b2c0-d5e62d9f62c1",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "brand": "BMW",
+            "model": {
+              "derivative": "218I"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "de_DE": "2er Active Tourer - F45"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing2ipsum",
+        "vssId": "019fb79b-0ca8-7382-a3da-ffb4b1cbcc51",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "brand": "BMW",
+            "model": {
+              "derivative": "218I"
+            },
+            "modelRange": {
+              "name": "F45",
+              "description": {
+                "de_DE": "2er Active Tourer - F45"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "vehicle": {
+        "country": "DE",
+        "documentId": "adipiscing95ipsum8ipsum",
+        "vssId": "019fb791-8790-713c-b3fd-8350133aaf99",
+        "vehicleSpecification": {
+          "modelAndOption": {
+            "baseFuelType": "GASOLINE",
+            "brand": "BMW",
+            "model": {
+              "derivative": "118I"
+            },
+            "modelRange": {
+              "name": "F20",
+              "description": {
+                "de_DE": "1er Reihe 5-Türer - F20"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "totalCount": 24957
+  }
+}

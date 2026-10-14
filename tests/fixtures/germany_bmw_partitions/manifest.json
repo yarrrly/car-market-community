@@ -1,0 +1,179 @@
+[
+  {
+    "fixture": "low.json",
+    "fetched_at": "2026-10-08T05:05:44.455248+00:00",
+    "api_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "ui_url": "https://www.bmw.de/de-de/sl/gebrauchtwagen/results?filters=%257B%2522MARKETING_MODEL_RANGE%2522%253A%255B%25222_U06%2522%255D%252C%2522PRICE%2522%253A%255Bnull%252C20000%255D%252C%2522IS_INSTALLMENT%2522%253Afalse%257D&sorting=SORT_ORDER_SF_OFFER_INSTALLMENT_ASC",
+    "request_body": {
+      "searchContext": [
+        {
+          "model": {
+            "marketingModelRange": {
+              "value": []
+            }
+          },
+          "price": [
+            {
+              "maxValue": {
+                "amount": 20000,
+                "currency": "EUR"
+              }
+            }
+          ],
+          "buNos": []
+        }
+      ],
+      "resultsContext": {
+        "sort": []
+      },
+      "isMonthlyInstallmentFilterSelected": false
+    },
+    "fixture_sha256": "do3707d68380dolor5e32do42825f09b7ipsum364e73f61dolor2adipiscing19f0d965b4510",
+    "source_path": "sed-adipiscing:consectetur/ipsum/lorem_sed_dolor/sit.dolor#/0/lorem_elit",
+    "source_sha256": "1lorem7936adipiscing1b793d1f76f98b4sit184a053d35e6e34d39sit5e62c5f914c7elit1514"
+  },
+  {
+    "fixture": "mid.json",
+    "fetched_at": "2026-10-08T05:05:59.283685+00:00",
+    "api_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "ui_url": "https://www.bmw.de/de-de/sl/gebrauchtwagen/results?filters=%257B%2522MARKETING_MODEL_RANGE%2522%253A%255B%25222_U06%2522%255D%252C%2522PRICE%2522%253A%255B20000%252C25000%255D%252C%2522IS_INSTALLMENT%2522%253Afalse%257D&sorting=SORT_ORDER_SF_OFFER_INSTALLMENT_ASC",
+    "request_body": {
+      "searchContext": [
+        {
+          "model": {
+            "marketingModelRange": {
+              "value": []
+            }
+          },
+          "price": [
+            {
+              "minValue": {
+                "amount": 20000,
+                "currency": "EUR"
+              },
+              "maxValue": {
+                "amount": 25000,
+                "currency": "EUR"
+              }
+            }
+          ],
+          "buNos": []
+        }
+      ],
+      "resultsContext": {
+        "sort": []
+      },
+      "isMonthlyInstallmentFilterSelected": false
+    },
+    "fixture_sha256": "288e7amet7432b5d3122a17d109303e56129a515c6a1570a1b37514sit89c58",
+    "source_path": "sed-adipiscing:consectetur/ipsum/lorem_sed_dolor/sit.dolor#/1/lorem_elit",
+    "source_sha256": "2lorem46c3159c905d4adipiscing3lorem0f2f7elit9e78consectetur891f4550230lorem5amet6d73894"
+  },
+  {
+    "fixture": "mid2.json",
+    "fetched_at": "2026-10-08T05:06:14.291623+00:00",
+    "api_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "ui_url": "https://www.bmw.de/de-de/sl/gebrauchtwagen/results?filters=%257B%2522MARKETING_MODEL_RANGE%2522%253A%255B%25222_U06%2522%255D%252C%2522PRICE%2522%253A%255B25000%252C27500%255D%252C%2522IS_INSTALLMENT%2522%253Afalse%257D&sorting=SORT_ORDER_SF_OFFER_INSTALLMENT_ASC",
+    "request_body": {
+      "searchContext": [
+        {
+          "model": {
+            "marketingModelRange": {
+              "value": []
+            }
+          },
+          "price": [
+            {
+              "minValue": {
+                "amount": 25000,
+                "currency": "EUR"
+              },
+              "maxValue": {
+                "amount": 27500,
+                "currency": "EUR"
+              }
+            }
+          ],
+          "buNos": []
+        }
+      ],
+      "resultsContext": {
+        "sort": []
+      },
+      "isMonthlyInstallmentFilterSelected": false
+    },
+    "fixture_sha256": "do2805d8d08c75b2b0358ipsum27elit6lorem9d6consectetur77054728c0e6532d04b4291391",
+    "source_path": "sed-adipiscing:consectetur/ipsum/lorem_sed_dolor/sit.dolor#/2/lorem_elit",
+    "source_sha256": "0c67252adipiscing748b43adipiscing594104b7e0d0lorem989559999191b18elit80dolor8822b44f7"
+  },
+  {
+    "fixture": "mid3.json",
+    "fetched_at": "2026-10-08T05:06:28.872440+00:00",
+    "api_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "ui_url": "https://www.bmw.de/de-de/sl/gebrauchtwagen/results?filters=%257B%2522MARKETING_MODEL_RANGE%2522%253A%255B%25222_U06%2522%255D%252C%2522PRICE%2522%253A%255B27500%252C30000%255D%252C%2522IS_INSTALLMENT%2522%253Afalse%257D&sorting=SORT_ORDER_SF_OFFER_INSTALLMENT_ASC",
+    "request_body": {
+      "searchContext": [
+        {
+          "model": {
+            "marketingModelRange": {
+              "value": []
+            }
+          },
+          "price": [
+            {
+              "minValue": {
+                "amount": 27500,
+                "currency": "EUR"
+              },
+              "maxValue": {
+                "amount": 30000,
+                "currency": "EUR"
+              }
+            }
+          ],
+          "buNos": []
+        }
+      ],
+      "resultsContext": {
+        "sort": []
+      },
+      "isMonthlyInstallmentFilterSelected": false
+    },
+    "fixture_sha256": "b2685c6c2b0lorem84amet6elit2912c3d9a31111c6elit43ipsum7b689a88327amet4e8147",
+    "source_path": "sed-adipiscing:consectetur/ipsum/lorem_sed_dolor/sit.dolor#/3/lorem_elit",
+    "source_sha256": "22200345511451d721c4c407sit28do02926adipiscing62b7dolor8f77002573b70456643"
+  },
+  {
+    "fixture": "high.json",
+    "fetched_at": "2026-10-08T05:06:43.707169+00:00",
+    "api_url": "https://vehicle-selection.prod.stolo.eu-central-1.aws.bmw.cloud/vehiclesearch/search/de-de/gebrauchtwagen?maxResults=12&startIndex=0&brand=BMW&hash=9c0f478ff9cedbefec2a0e27a62ebd2988e1a98cfc50282611d147fd92daa238&context=results-page",
+    "ui_url": "https://www.bmw.de/de-de/sl/gebrauchtwagen/results?filters=%257B%2522MARKETING_MODEL_RANGE%2522%253A%255B%25222_U06%2522%255D%252C%2522PRICE%2522%253A%255B30000%252Cnull%255D%252C%2522IS_INSTALLMENT%2522%253Afalse%257D&sorting=SORT_ORDER_SF_OFFER_INSTALLMENT_ASC",
+    "request_body": {
+      "searchContext": [
+        {
+          "model": {
+            "marketingModelRange": {
+              "value": []
+            }
+          },
+          "price": [
+            {
+              "minValue": {
+                "amount": 30000,
+                "currency": "EUR"
+              }
+            }
+          ],
+          "buNos": []
+        }
+      ],
+      "resultsContext": {
+        "sort": []
+      },
+      "isMonthlyInstallmentFilterSelected": false
+    },
+    "fixture_sha256": "9lorem0b57415f544d2f22e390dolor40f3861ipsum38c943632a6b9e7115b42d6adipiscing9f692",
+    "source_path": "sed-adipiscing:consectetur/ipsum/lorem_sed_dolor/sit.dolor#/4/lorem_elit",
+    "source_sha256": "71ipsum90f653b7d67amet983754a8d05d9d509006d6sed1b15073557f5dolor4elit9lorem7"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "fixture": "../germany_dealer_inventory/autoland-p1.html",
+    "fixture_sha256": "25778d2828ab296052baa01095544354432143d07c5874450481a369d559ec18",
+    "source": "dealer:autoland.de",
+    "public_url": "https://autoland.de/bmw/2er-reihe",
+    "final_url": "https://autoland.de/bmw/2er-reihe",
+    "status": 200,
+    "fetched_at": "2026-10-08T05:02:14.898303+00:00",
+    "source_body_sha256": "aa67ad8475958628af71ca4d75119f228f541bec98f473f277a4c8b394ffff77",
+    "kind": "existing_retained_native_projection"
+  },
+  {
+    "fixture": "../germany_dealer_inventory/autoland-p2.html",
+    "fixture_sha256": "56a3945843a73e89e8fcc6d71a315815af4378c2727cec2e8e5a6714238987b7",
+    "source": "dealer:autoland.de",
+    "public_url": "https://autoland.de/bmw/2er-reihe?page=2",
+    "final_url": "https://autoland.de/bmw/2er-reihe?page=2",
+    "status": 200,
+    "fetched_at": "2026-10-08T05:03:08.581360+00:00",
+    "source_body_sha256": "22a76cd521a0d3a2d00e83398642a6cc7fb4ee92c1a03c5e4bf1b4668be087f9",
+    "kind": "existing_retained_native_projection"
+  },
+  {
+    "fixture": "../germany_dealer_inventory/autoland-p3.html",
+    "fixture_sha256": "4d242ec3dc796b7c16dc75dc8a0092f099aec84151b815ab9ec2d2f809093806",
+    "source": "dealer:autoland.de",
+    "public_url": "https://autoland.de/bmw/2er-reihe?page=3",
+    "final_url": "https://autoland.de/bmw/2er-reihe?page=3",
+    "status": 200,
+    "fetched_at": "2026-10-08T05:03:34.515567+00:00",
+    "source_body_sha256": "bce1215fe55711d60895bbde24e62264cea8ee87a461e0af93808f370edb7acd",
+    "kind": "existing_retained_native_projection"
+  },
+  {
+    "fixture": "../germany_dealer_inventory/autoland-p4.html",
+    "fixture_sha256": "ed9a37ef15372fda35097a843aaf1b86ee19bf16b97f9fe0a9c1adc60841d98c",
+    "source": "dealer:autoland.de",
+    "public_url": "https://autoland.de/bmw/2er-reihe?page=4",
+    "final_url": "https://autoland.de/bmw/2er-reihe?page=4",
+    "status": 200,
+    "fetched_at": "2026-10-08T05:03:35.743256+00:00",
+    "source_body_sha256": "07611c8b019c13b5fcbb2d24fb65b60b8b17f09e1a8f50b40859429e964d26c3",
+    "kind": "existing_retained_native_projection"
+  },
+  {
+    "fixture": "../germany_dealer_inventory/autoland-p5.html",
+    "fixture_sha256": "91932d4e0aa963ea13d83681d538c0a2590c72ddb72cc2f8bfab1c861e5c2c84",
+    "source": "dealer:autoland.de",
+    "public_url": "https://autoland.de/bmw/2er-reihe?page=5",
+    "final_url": "https://autoland.de/bmw/2er-reihe?page=5",
+    "status": 200,
+    "fetched_at": "2026-10-08T05:03:36.560287+00:00",
+    "source_body_sha256": "35f4ff0458ebb91ff6f9e2ed530e092f4cc37024c44978f36de4ed1af966d480",
+    "kind": "existing_retained_native_projection"
+  }
+]

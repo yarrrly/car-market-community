@@ -1,0 +1,6 @@
+# Optional source-development build. End users use the ready-built release image.
+services:
+  market:
+    image: "${CAR_MARKET_IMAGE:-car-market:local}"
+    build: .
+    pull_policy: build

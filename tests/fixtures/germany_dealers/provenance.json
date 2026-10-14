@@ -1,0 +1,72 @@
+[
+  {
+    "fixture": "autoland-live.html",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe/bad-hersfeld/122718/bmw-218i-active-tourer-advantage-led-navi-pdc-1.hand",
+      "final_url": "https://autoland.de/bmw/2er-reihe/bad-hersfeld/122718/bmw-218i-active-tourer-advantage-led-navi-pdc-1.hand",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:31:14Z",
+      "sha256": "8f9f72ce7d1b3148d550ba8216b5791bade8212bb40c981a457ee4bb8e3a9772"
+    }
+  },
+  {
+    "fixture": "autoland-manual.html",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe/leipzig/100787/bmw-2er-reihe-218i-advantage-2-zonen-klima-navi-sitzheizung",
+      "final_url": "https://autoland.de/bmw/2er-reihe/leipzig/100787/bmw-2er-reihe-218i-advantage-2-zonen-klima-navi-sitzheizung",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:31:14Z",
+      "sha256": "1c0e54df54f0cc73a842f4966385b76b474119edee50a39513631ec1550fbe21"
+    }
+  },
+  {
+    "fixture": "autoland.html",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe/rostock/91019/bmw-218i-active-tourer-harmankardon-klimaaut.-navi",
+      "final_url": "https://autoland.de/bmw/2er-reihe",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:30:37Z",
+      "sha256": "219d1f4098db3fa1422717b270d4faf65ffe4548a3eb467ac628ea693f269ff2"
+    }
+  },
+  {
+    "fixture": "stuttgart.html",
+    "metadata": {
+      "requested_url": "https://www.bmw-stuttgart.de/de/modelle/gebrauchtwagen/uebersicht/v/BMG53946101-BMW-218i-Active-Tourer-Benzin-Blau-als-Gebrauchtwagen-in-Mannheim/",
+      "final_url": "https://www.bmw-stuttgart.de/de/modelle/gebrauchtwagen/uebersicht/v/BMG53946101-BMW-218i-Active-Tourer-Benzin-Blau-als-Gebrauchtwagen-in-Mannheim/",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:29:22Z",
+      "sha256": "4b1a13f3a437cb5e02b73ad1be4bddc3c187db2cc53eb302606e45cc5dfcd85f"
+    }
+  },
+  {
+    "fixture": "kuehnert-manual.html",
+    "metadata": {
+      "requested_url": "https://www.autohaus-kuehnert.de/fahrzeugsuche/bmw-218i-active-tourer-19/",
+      "final_url": "https://www.autohaus-kuehnert.de/fahrzeugsuche/bmw-218i-active-tourer-19/",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:30:56Z",
+      "sha256": "2aa396d737d1ddb2a7ef39bae501cd9355ae2e67f60c4a38552e26554580474e"
+    }
+  },
+  {
+    "fixture": "fritze.html",
+    "metadata": {
+      "requested_url": "https://autohaus-fritze.de/fahrzeugmarkt/v/BM67625513-BMW-218i-Active-Tourer-Benzin-Grau-als-Junger-Gebrauchtwagen/",
+      "final_url": "https://autohaus-fritze.de/fahrzeugmarkt/v/BM67625513-BMW-218i-Active-Tourer-Benzin-Grau-als-Junger-Gebrauchtwagen/",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:30:59Z",
+      "sha256": "9ec16f1c9c66f49c4cda69f611e30941ce8a565cc2d5c3bc3e78c0194864cc51"
+    }
+  },
+  {
+    "fixture": "bmw-faba-detail.html",
+    "metadata": {
+      "requested_url": "https://www.bmw-faba.de/fahrzeugboerse/?index=3&pxc-view=vehicle-details&slug=bmw-220i-active-tourer-dab-led-komfortzg-shz&vehicle-id=6924199",
+      "final_url": "https://www.bmw-faba.de/fahrzeugboerse/?index=3&pxc-view=vehicle-details&slug=bmw-220i-active-tourer-dab-led-komfortzg-shz&vehicle-id=6924199",
+      "status": 200,
+      "fetched_at": "2026-10-07T20:30:37Z",
+      "sha256": "92dfc6d7a415c59fb575693c4a3d3aa01ca3a08b529eb1d2bb4596567ed273d0"
+    }
+  }
+]

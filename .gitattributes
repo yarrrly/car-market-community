@@ -1,0 +1,8 @@
+* text=auto
+*.py text eol=lf
+*.sh text eol=lf
+Dockerfile text eol=lf
+run text eol=lf
+tests/fixtures/** -text -whitespace
+fixtures/** -text -whitespace
+car_market/assets/fonts/** -whitespace

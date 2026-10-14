@@ -1,0 +1,138 @@
+[
+  {
+    "id": 267194,
+    "source": "autoscout24",
+    "url": "https://www.autoscout24.nl/lst/bmw/218?sort=price&desc=0&cy=NL&page=2",
+    "final_url": "https://www.autoscout24.nl/lst/bmw/218?sort=price&desc=0&cy=NL&page=2",
+    "status": 200,
+    "fetched_at": "2026-10-11T23:24:35.489927+00:00",
+    "content_hash": "f38c7e623724f34bdde9868b8094f6a8dbb5388d333325869ad4745abfb6f7b6",
+    "fixture": "autoscout24-267194.html",
+    "gzip_sha256": "6b06766e95696b62b6901c4cf2978c20d5744918db0d10603e7de0b25581b7ba",
+    "fixture_sha256": "f126a33773c79b438ef2830d7fe8dff901b6072aee04202af35c4e42d6747986",
+    "selected_typed_publications": [
+      {
+        "source": "autoscout24",
+        "external_id": "e8fbe6bc-57ac-4b12-9864-96c0d92c3620",
+        "url": "https://www.autoscout24.nl/aanbod/bmw-218-2-serie-active-tourer-218i-high-executive-pano-cru-benzine-zwart-cat_ma13mo20327-e8fbe6bc-57ac-4b12-9864-96c0d92c3620",
+        "title": "BMW 218i Active Tourer 2-serie Active Tourer 218i High Executive|Pano|Cru",
+        "price": 5995,
+        "price_type": "advertised_price",
+        "mileage": 222277.0,
+        "year": 2014.0,
+        "fuel": "petrol",
+        "transmission": "manual",
+        "kenteken": null,
+        "vin": null,
+        "seller": "JM Occasions",
+        "city": "SCHALKWIJK"
+      },
+      {
+        "source": "autoscout24",
+        "external_id": "b80c76f4-a868-42cd-89af-442b32a071ee",
+        "url": "https://www.autoscout24.nl/aanbod/bmw-218-218d-automaat-navi-panoramadak-leder-diesel-grijs-cat_ma13mo20327-b80c76f4-a868-42cd-89af-442b32a071ee",
+        "title": "BMW 218d Gran Tourer 218D Automaat Navi Panoramadak Leder",
+        "price": 5995,
+        "price_type": "advertised_price",
+        "mileage": 335042.0,
+        "year": 2015.0,
+        "fuel": "diesel",
+        "transmission": "automatic",
+        "kenteken": null,
+        "vin": null,
+        "seller": "AutoMeis",
+        "city": "HEERLEN"
+      }
+    ]
+  },
+  {
+    "id": 267332,
+    "source": "autoscout24",
+    "url": "https://www.autoscout24.nl/lst/bmw/2-serie-alle?sort=price&desc=0&cy=NL",
+    "final_url": "https://www.autoscout24.nl/lst/bmw/2-serie-alle?sort=price&desc=0&cy=NL",
+    "status": 200,
+    "fetched_at": "2026-10-11T23:26:24.098816+00:00",
+    "content_hash": "1f9a590bc2dd455d0428aa172df2f1f451a5a171fb63c6636b42facc864d50d9",
+    "fixture": "autoscout24-267332.html",
+    "gzip_sha256": "af1800195b9379f4e6af34c3fef5ffc6fbf78a5e37f136180f6b3ab571316061",
+    "fixture_sha256": "d39e2d0efb34be46bba1c66a4f9a399988d98776c64dd9c025c41e8465e62856",
+    "selected_typed_publications": [
+      {
+        "source": "autoscout24",
+        "external_id": "eed6972b-2bf0-4164-b9df-f1950b91c7b0",
+        "url": "https://www.autoscout24.nl/aanbod/bmw-220-2-serie-gran-tourer-220i-m-sport-7p-hud-camer-benzine-zwart-cat_ma13mo20326-eed6972b-2bf0-4164-b9df-f1950b91c7b0",
+        "title": "BMW 220i Gran Tourer 2-serie Gran Tourer 220i M Sport 7p. | HUD | Camer",
+        "price": 4850,
+        "price_type": "advertised_price",
+        "mileage": 203813.0,
+        "year": 2015.0,
+        "fuel": "petrol",
+        "transmission": "automatic",
+        "kenteken": null,
+        "vin": null,
+        "seller": "Autobedrijf Vlashuizen B.V.",
+        "city": "EINDHOVEN"
+      }
+    ]
+  },
+  {
+    "id": 267841,
+    "source": "autofirst",
+    "url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions?page=68",
+    "final_url": "https://www.autofirst-nederland.nl/api/v1/medium/occasions?page=68",
+    "status": 200,
+    "fetched_at": "2026-10-11T23:38:24.906169+00:00",
+    "content_hash": "a169996f171310c1cdcc4d00b1b5b89d47a8315eaba3775ea3455624ef4cf4bc",
+    "fixture": "autofirst-267841.json",
+    "gzip_sha256": "3008229ec5b6fb16ec3484236fcd24e094e0435336ee87da079b6b3ee3631f13",
+    "fixture_sha256": "000a82003476d66f655fbb88ced23911e474cffd981b780c30606f039c963763",
+    "selected_typed_publications": [
+      {
+        "source": "autofirst",
+        "external_id": "104475",
+        "url": "https://www.autofirst-nederland.nl/occasions/104475-bmw-2-serie-active-tourer-218i-high-executive-edition",
+        "title": "Bmw 2 Serie Active Tourer 218i High Executive Edition",
+        "price": 18950,
+        "price_type": "advertised_price",
+        "mileage": 70119,
+        "year": 2020,
+        "fuel": "petrol",
+        "transmission": null,
+        "kenteken": null,
+        "vin": null,
+        "seller": "AutoFirst Van Gastel Auto Service",
+        "city": "Someren"
+      }
+    ]
+  },
+  {
+    "id": 267958,
+    "source": "dealer:www.wijnne.nl",
+    "url": "https://www.wijnne.nl/occasions/56274120",
+    "final_url": "https://www.wijnne.nl/occasions/2023-bmw-2-serie-218i-136pk-aut-active-tourer-luxury-line-38297km/56274120/",
+    "status": 200,
+    "fetched_at": "2026-10-11T23:41:14.919852+00:00",
+    "content_hash": "100ca461edbab172bbe8c09de62af623ccfe2b0938182213560b2995538da643",
+    "fixture": "dealer-www.wijnne.nl-267958.html",
+    "gzip_sha256": "55188dd8926ebea4bab9a92f41b108ce567073ce8415b6213eb30dc1fdae9406",
+    "fixture_sha256": "23c4fb6b9cae31c80da7fa009c1a6bc266c3b3a32d3c10c8c1a39bafb1288fae",
+    "selected_typed_publications": [
+      {
+        "source": "dealer:www.wijnne.nl",
+        "external_id": "https://www.wijnne.nl/occasions/2023-bmw-2-serie-218i-136pk-aut-active-tourer-luxury-line-38297km/56274120",
+        "url": "https://www.wijnne.nl/occasions/2023-bmw-2-serie-218i-136pk-aut-active-tourer-luxury-line-38297km/56274120",
+        "title": "BMW 2 Serie 218i 136pk Aut. Active Tourer Luxury Line | Navi | App Connect | Climate | Leder | Elektrische Achterklep | Camera | Sfeerverlichting | Cruise",
+        "price": 26940,
+        "price_type": "advertised_price",
+        "mileage": 38297,
+        "year": 2023,
+        "fuel": "petrol",
+        "transmission": "automatic",
+        "kenteken": null,
+        "vin": "WBA21BX0807M41256",
+        "seller": "Wijnne Doornspijk",
+        "city": "Doornspijk"
+      }
+    ]
+  }
+]

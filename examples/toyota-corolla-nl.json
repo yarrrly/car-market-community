@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "scope": {
+    "model_profile": "configured_vehicle",
+    "country": "NL",
+    "selector": {
+      "make": "Toyota",
+      "make_aliases": [],
+      "model_terms": [
+        [
+          "Corolla"
+        ]
+      ],
+      "exclude_terms": [],
+      "generation_terms": [],
+      "fuels": [],
+      "transmissions": []
+    }
+  },
+  "queries": [
+    {
+      "source": "autoscout24",
+      "key": "search_1",
+      "url": "https://www.autoscout24.nl/lst/toyota/corolla?cy=NL&atype=C&sort=age&desc=1",
+      "pagination": "mercedes_autoscout_next",
+      "coverage": "enumerate",
+      "infer_missing": false
+    }
+  ],
+  "channels": [],
+  "workers": 2,
+  "max_pages": 15,
+  "detail_limit": 50,
+  "detail_batch_limit": 50,
+  "fast_detail_limit": 20,
+  "detail_cache_hours": 24,
+  "detail_error_backoff_hours": 6,
+  "request_delay": 1.5,
+  "request_timeout": 25,
+  "interval_hours": 6,
+  "fast_interval_minutes": 30,
+  "fast_sources": [
+    "autoscout24"
+  ],
+  "rdw_limit": 0
+}

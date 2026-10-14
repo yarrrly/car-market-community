@@ -1,0 +1,46 @@
+{
+  "own-140052008.html": {
+    "gaspedaal_id": "140052008",
+    "url": "https://www.flevomobiel.nl/3720439/111230007",
+    "final_url": "https://www.flevomobiel.nl/3720439/111230007",
+    "checked_at": "2026-10-07T11:34:17.607142+00:00",
+    "status": 200,
+    "sha256": "a14cbf11e3778c10646bca47aea7c1d799fbe3474ae532235e12ed353f0bf0d8",
+    "snapshot": "dealer-140052008.html.gz",
+    "fixture_sha256": "2a67d3e7634e03606fa3f54bd6dc3961b1e0b2387ce9fa5dd342259fcd12b0e7",
+    "reduction": "Static own identity/spec/description/photo blocks. Linkerbaan Next related vehicleList intentionally retained as trap."
+  },
+  "own-137613854.html": {
+    "gaspedaal_id": "137613854",
+    "url": "https://www.flevomobiel.nl/3654989/111230007",
+    "final_url": "https://www.flevomobiel.nl/3654989/111230007",
+    "checked_at": "2026-10-07T11:34:18.774748+00:00",
+    "status": 200,
+    "sha256": "5be97dab8939b34161af6bb40c44982bcf8970f73c75a42f05115c0d0f2f2224",
+    "snapshot": "dealer-137613854.html.gz",
+    "fixture_sha256": "5b4e464370c574a4e45ce484576569bafc459d5ff6b69792a1b466f92ed77ebb",
+    "reduction": "Static own identity/spec/description/photo blocks. Linkerbaan Next related vehicleList intentionally retained as trap."
+  },
+  "own-141580364.html": {
+    "gaspedaal_id": "141580364",
+    "url": "https://www.hedinautomotive.nl/occasion/p/40790097/bmw-2-serie-active-tourer-218i-high-executive-edition",
+    "final_url": "https://www.hedinautomotive.nl/occasion/p/40790097/bmw-2-serie-active-tourer-218i-high-executive-edition",
+    "checked_at": "2026-10-07T11:34:19.914373+00:00",
+    "status": 200,
+    "sha256": "a99a8b44d3e6e40859970807a4438b8034832bfb89f1b5f12e2cc2dd3fe45af8",
+    "snapshot": "dealer-141580364.html.gz",
+    "fixture_sha256": "49e7993542e4062728464a454968948e8ab682a661f5d1b29a89a0d45e7c92ff",
+    "reduction": "Static own identity/spec/description/photo blocks. Linkerbaan Next related vehicleList intentionally retained as trap."
+  },
+  "own-142022179.html": {
+    "gaspedaal_id": "142022179",
+    "url": "https://www.linkerbaan.com/?hexon_voertuig=56208576",
+    "final_url": "https://www.linkerbaan.com/voertuig/bmw-2-active-tourer-218i-m-sport-panodak-harman-kardon-head-up-driving-assistant",
+    "checked_at": "2026-10-07T11:34:23.500817+00:00",
+    "status": 200,
+    "sha256": "89674da1b74fef47962c598bac038b3e4b1bf56da43e2f1f891b2657cb1cf962",
+    "snapshot": "dealer-142022179.html.gz",
+    "fixture_sha256": "d700a0005205d23eca910c98e65d619f83a3c7f2eac1b8ad3787d827dedc9a0c",
+    "reduction": "Static own identity/spec/description/photo blocks. Linkerbaan Next related vehicleList intentionally retained as trap."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "source": "elit:amet.sed.amet",
+  "records": [
+    {
+      "@context": "ipsum://do.adipiscing/",
+      "@type": "consectetur",
+      "sku": "6f44d6f4-6556-4447-8sed6-dolor123do8b",
+      "identifier": "6f44d6f4-6556-4447-8sed6-dolor123do8b",
+      "mpn": "84100937",
+      "name": "C-dolor",
+      "brand": "consectetur-amet",
+      "model": "C-dolor",
+      "vehicleModelDate": "2017",
+      "itemCondition": "amet://dolor.do/sit",
+      "image": "elit://consectetur-ipsum.elit.amet.elit/11840986660/dolor-1.do",
+      "description": "adipiscing-consectetur C-dolor C 180 consectetur ipsum lorem amet | ipsum | amet | lorem | sed | elit",
+      "vehicleConfiguration": "C 180 do consectetur amet sed | consectetur | sed | amet | dolor | ipsum",
+      "vehicleIdentificationNumber": "WDD2053401F675905",
+      "productionDate": "2017",
+      "bodyType": "Coupé",
+      "color": "elit",
+      "vehicleInteriorType": "elit",
+      "vehicleInteriorColor": "elit",
+      "numberOfDoors": "2",
+      "vehicleSeatingCapacity": {
+        "@type": "adipiscing",
+        "maxValue": "4",
+        "unitCode": "C62"
+      },
+      "weightTotal": {
+        "@type": "adipiscing",
+        "maxValue": "1405",
+        "unitCode": "dolor"
+      },
+      "wheelbase": {
+        "@type": "adipiscing",
+        "value": "284",
+        "unitCode": "dolor"
+      },
+      "mileageFromOdometer": {
+        "@type": "adipiscing",
+        "value": "113273",
+        "unitCode": "dolor"
+      },
+      "vehicleTransmission": "lorem",
+      "numberOfForwardGears": "9",
+      "vehicleEngine": [],
+      "offers": {
+        "@type": "amet",
+        "price": "20900.00",
+        "priceCurrency": "dolor",
+        "availability": "consectetur://sit.lorem/amet",
+        "url": "sed://adipiscing.lorem.adipiscing/do-sed/sit/p/85334494/sit-dolor-c-do-c-180-dolor-sed-elit-ipsum-adipiscing-elit-ipsum-elit-amet"
+      },
+      "accelerationTime": {
+        "@type": "adipiscing",
+        "value": "8",
+        "unitCode": "dolor",
+        "valueReference": {
+          "@type": "sit",
+          "unitText": "0..100 km/h"
+        }
+      },
+      "speed": {
+        "@type": "adipiscing",
+        "maxValue": "225",
+        "unitCode": "dolor"
+      },
+      "fuelConsumption": {
+        "@type": "adipiscing",
+        "value": "6.1",
+        "unitText": "L/100km"
+      },
+      "emissionsCO2": "136"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "props": {
+    "pageProps": {
+      "pageQuery": {
+        "cy": "D",
+        "atype": "C",
+        "sort": "age",
+        "desc": "1",
+        "damaged_listing": "include",
+        "ocs_listing": "include"
+      },
+      "numberOfResults": 2005,
+      "listings": []
+    }
+  }
+}

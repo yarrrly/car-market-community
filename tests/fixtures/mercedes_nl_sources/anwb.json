@@ -1,0 +1,305 @@
+{
+  "source": "anwb",
+  "provenance": {
+    "requested_url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+    "final_url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+    "parser_url": "https://api.anwb.nl/occasion-portal/v1/occasion-portal/listings/search-with-counters?sortField=relevance&sortOrder=asc&pageSize=30&pageNumber=1",
+    "method": "POST",
+    "request_body": {
+      "brandModel": {
+        "filter": [
+          {
+            "slug": "mercedes-benz",
+            "models": [
+              {
+                "slug": "c-klasse"
+              }
+            ]
+          }
+        ]
+      },
+      "fuelType": {
+        "filter": [
+          {
+            "slug": "benzine"
+          }
+        ]
+      },
+      "constructionYear": {
+        "min": [
+          {
+            "name": 2016
+          }
+        ]
+      },
+      "transmissionType": {
+        "filter": [
+          {
+            "slug": "automatisch"
+          }
+        ]
+      },
+      "bodyType": {
+        "filter": [
+          {
+            "slug": "coupe"
+          }
+        ]
+      }
+    },
+    "status": 200,
+    "timestamp": "2026-10-08T15:15:39.112718+00:00",
+    "sha256": "bc12468f2d78f3ac7d9b4bc4e7b3695c82a1f8d1e98fe39eb253163a9b638846",
+    "bytes": 136498,
+    "raw_file": "anwb-filtered-page1.raw",
+    "transport": "anonymous_browser_own_http"
+  },
+  "contract": {
+    "total": 65,
+    "page": 1,
+    "page_size": 30
+  },
+  "records": [
+    {
+      "advertisementId": 60177153,
+      "url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2018-60177153",
+      "dateAdded": "2026-10-05T16:01:19.446Z",
+      "seller": {
+        "sellerId": 106203,
+        "carType": "UNIVERSEEL_AUTOBEDRIJF",
+        "carSlug": "universeel-autobedrijf",
+        "emailAddress": "redacted@example.invalid",
+        "chatEnabled": false,
+        "whatsappEnabled": true,
+        "whatsappNumber": "+31[redacted-array-1178]",
+        "testDriveAtHomeEnabled": false,
+        "sellerData": {
+          "name": "Auto Duo",
+          "city": "De Kwakel",
+          "citySlug": "de-kwakel",
+          "phoneNumber": "[private-phone-1515]",
+          "website": "https://www.autoduo.nl/",
+          "commercialName": "de-kwakel",
+          "province": "Noord-Holland",
+          "provinceSlug": "noord-holland"
+        }
+      },
+      "carData": {
+        "engine": {
+          "powerHp": 157,
+          "powerKw": 115,
+          "engineCapacity": 1595
+        },
+        "general": {
+          "brandId": "5d1b2626-a08a-464f-aa0e-14a1f80be441",
+          "brandName": "Mercedes-Benz",
+          "brandSlug": "mercedes-benz",
+          "modelId": "44f97563-9b18-4413-8600-3b8da576486f",
+          "modelName": "C-klasse",
+          "modelSlug": "c-klasse",
+          "numberOfDoors": 2,
+          "bodyType": "COUPE",
+          "bodyTypeSlug": "coupe",
+          "fuelType": "BENZINE",
+          "fuelTypeSlug": "benzine",
+          "vehicleType": "PERSONENAUTO",
+          "vehicleTypeSlug": "personenauto",
+          "transmissionType": "AUTOMATISCH",
+          "transmissionTypeSlug": "automatisch",
+          "color": "WIT",
+          "colorSlug": "wit",
+          "editon": "Coupé 180 AMG Line Premium",
+          "commercialEdition": "Coupé 180 AMG Line Premium"
+        },
+        "history": {
+          "catalogPrice": 51643,
+          "dateFirstAdmissionInternational": "2018-03-08T00:00:00Z",
+          "mileage": 121415,
+          "taxDeductible": false,
+          "imported": true,
+          "constructionYear": 2018
+        },
+        "guarantees": {
+          "otherGuarantees": []
+        },
+        "environment": {
+          "energyLabel": "C",
+          "energyLabelSlug": "c"
+        },
+        "measuresAndWeights": {
+          "minimumRoadTax": 226,
+          "maximumRoadTax": 247
+        }
+      },
+      "price": {
+        "amount": 22440,
+        "includingTax": true,
+        "total": 22440,
+        "totalIncludingTax": 22440,
+        "amountIncludingTax": 22440
+      },
+      "licencePlate": "J775NX",
+      "carType": "OCCASION",
+      "carTypeSlug": "occasion",
+      "numberOfPhotos": 18,
+      "numberOfVrPhotos": 0,
+      "numberOfVideos": 0,
+      "reports": {
+        "rdw": "https://voertuigrapportdownloaden.rdw.nl/kenteken/J775NX"
+      },
+      "media": {
+        "photos": [
+          "60177153/0-ac9bfcb46eab7ca803390fb172016508.jpg",
+          "60177153/0-58500d0ec1777be1bcf6a43fe62c976b.jpg",
+          "60177153/0-738f79ee6fb909243a2d1245834b92d7.jpg",
+          "60177153/0-a04f7d2bf3418f24cf63e1e7be209efb.jpg",
+          "60177153/0-93049649996f16a5e3257fac0ea413ab.jpg",
+          "60177153/0-21278f285568124742c368b43009448c.jpg",
+          "60177153/0-4742535db0fc91729501fe81cd2f4216.jpg",
+          "60177153/0-5e68bebb1a76750a89317f3defc4bb68.jpg",
+          "60177153/0-66f17eb986b258d401e605ed231b8866.jpg",
+          "60177153/0-9bf23212873728aadce96d452418f9d3.jpg",
+          "60177153/0-2f42f80abc9d2a19e373e2042bcc3974.jpg",
+          "60177153/0-428600658dbc28520caa03252bc7bc55.jpg",
+          "60177153/0-ec1098228ba30cda8c398ccf46343d04.jpg",
+          "60177153/0-d295b5dc22266030c7c78e1693a0192f.jpg",
+          "60177153/0-f1928d89c11ddf4dcc385c555e00a19e.jpg",
+          "60177153/0-56728ec225288c7cc0718caa96d5b35f.jpg",
+          "60177153/0-19722023c344936cd65f1adfdcc61b37.jpg",
+          "60177153/0-48dc49661ab6cc6fa31efe6ca0414956.jpg"
+        ],
+        "videoUrls": [],
+        "vrPhotoUrls": []
+      },
+      "availabilityStatus": "beschikbaar",
+      "availabilityStatusSlug": "beschikbaar",
+      "portals": []
+    },
+    {
+      "advertisementId": 59724384,
+      "url": "https://www.autotrack.nl/a/mercedes-benz-c-klasse-benzine-2017-59724384",
+      "dateAdded": "2026-07-21T18:01:38.417Z",
+      "seller": {
+        "sellerId": 24481,
+        "carType": "UNIVERSEEL_AUTOBEDRIJF",
+        "carSlug": "universeel-autobedrijf",
+        "emailAddress": "redacted@example.invalid",
+        "chatEnabled": false,
+        "whatsappEnabled": true,
+        "whatsappNumber": "+31[redacted-array-434]",
+        "testDriveAtHomeEnabled": false,
+        "sellerData": {
+          "name": "Auto XL",
+          "city": "Alphen aan den Rijn",
+          "citySlug": "alphen-aan-den-rijn",
+          "phoneNumber": "[private-phone-1516]",
+          "website": "https://autoxl.nl/",
+          "commercialName": "alphen-aan-den-rijn",
+          "province": "Zuid-Holland",
+          "provinceSlug": "zuid-holland"
+        }
+      },
+      "carData": {
+        "engine": {
+          "powerHp": 157,
+          "powerKw": 115,
+          "engineCapacity": 1595
+        },
+        "general": {
+          "brandId": "5d1b2626-a08a-464f-aa0e-14a1f80be441",
+          "brandName": "Mercedes-Benz",
+          "brandSlug": "mercedes-benz",
+          "modelId": "44f97563-9b18-4413-8600-3b8da576486f",
+          "modelName": "C-klasse",
+          "modelSlug": "c-klasse",
+          "numberOfDoors": 2,
+          "bodyType": "COUPE",
+          "bodyTypeSlug": "coupe",
+          "fuelType": "BENZINE",
+          "fuelTypeSlug": "benzine",
+          "vehicleType": "PERSONENAUTO",
+          "vehicleTypeSlug": "personenauto",
+          "transmissionType": "AUTOMATISCH",
+          "transmissionTypeSlug": "automatisch",
+          "color": "WIT",
+          "colorSlug": "wit",
+          "editon": "180 Ambition",
+          "commercialEdition": "Coupé 180 AMG Night-Pack Pano-dak Burmester Camera"
+        },
+        "history": {
+          "catalogPrice": 55809,
+          "dateFirstAdmissionInternational": "2017-11-23T00:00:00Z",
+          "mileage": 136135,
+          "mileageCorrect": true,
+          "taxDeductible": false,
+          "imported": false,
+          "constructionYear": 2017
+        },
+        "environment": {
+          "energyLabel": "C",
+          "energyLabelSlug": "c"
+        },
+        "measuresAndWeights": {
+          "minimumRoadTax": 226,
+          "maximumRoadTax": 247
+        }
+      },
+      "price": {
+        "amount": 21940,
+        "includingTax": true,
+        "total": 21940,
+        "totalIncludingTax": 21940,
+        "amountIncludingTax": 21940
+      },
+      "licencePlate": "RH409H",
+      "carType": "OCCASION",
+      "carTypeSlug": "occasion",
+      "numberOfPhotos": 30,
+      "numberOfVrPhotos": 1,
+      "numberOfVideos": 0,
+      "oneHundredPercentMaintained": false,
+      "reports": {
+        "rdw": "https://voertuigrapportdownloaden.rdw.nl/kenteken/RH409H"
+      },
+      "media": {
+        "photos": [
+          "59724384/0-26e33eac26a9dc350a46f7705767e05d.jpg",
+          "59724384/0-948deeedb344f5407a1e941ce466ffea.jpg",
+          "59724384/0-e909b959b4cdc1ab13e52b65b86979e4.jpg",
+          "59724384/0-b1f4a8d95d7d208e888fb853a531c757.jpg",
+          "59724384/0-1d9ad5dbb93a540d68f6e5c8d00fbc1e.jpg",
+          "59724384/0-e7bfc4e92340b32db4215d22e86258e4.jpg",
+          "59724384/0-00b8d29b3c50885db56c013464e2939a.jpg",
+          "59724384/0-f7fef398b156dd6a30d1c4b9a0a828b2.jpg",
+          "59724384/0-9fce3d32c4361c1dea46e9f737d7dd61.jpg",
+          "59724384/0-8adbf99383111fab92e998e161619b79.jpg",
+          "59724384/0-b56d6ec7b58d2955cd10eaf307a4ca02.jpg",
+          "59724384/0-c4161074599bb31bddfbbb144e88a75e.jpg",
+          "59724384/0-455bccc8259eb260a0659b73f32aa830.jpg",
+          "59724384/0-9d237abc1077cf04d587357e19f59d01.jpg",
+          "59724384/0-cf053e4b0ffc64eb44cf8f3fbd6c1cde.jpg",
+          "59724384/0-38853b366877f62b651581bef38864cf.jpg",
+          "59724384/0-eef9c92dace605af5f2e8953eff54dfe.jpg",
+          "59724384/0-d02d1d5ee098b6d28e8f6cbfd143822c.jpg",
+          "59724384/0-b2d53294149bd63ed02889e060f89e27.jpg",
+          "59724384/0-ebd5bb0268f1df1c732170deb51c6428.jpg",
+          "59724384/0-306ec4b48679d161dae5210e82981323.jpg",
+          "59724384/0-48f1d685dcefc594b9276c7bb79e27b6.jpg",
+          "59724384/0-d20ca7a4c63ebec8f40446a92249f4c2.jpg",
+          "59724384/0-9af90a2b7450952a1939ba7097c7d804.jpg",
+          "59724384/0-72c513403662a18acbce67ef0670f7d6.jpg",
+          "59724384/0-3e5928676de31b307d18b845d7da0ca0.jpg",
+          "59724384/0-4dacf0b2c14f26808adfe346088d0afe.jpg",
+          "59724384/0-6b4444bf0d00ca776dc9696d096fa9f3.jpg",
+          "59724384/0-2b2fa4a89fb7c7b1a3a4eb22e9da332c.jpg",
+          "59724384/0-7795788c396730330e5e56f90cca64bb.jpg"
+        ],
+        "videoUrls": [],
+        "vrPhotoUrls": []
+      },
+      "availabilityStatus": "beschikbaar",
+      "availabilityStatusSlug": "beschikbaar",
+      "portals": []
+    }
+  ]
+}

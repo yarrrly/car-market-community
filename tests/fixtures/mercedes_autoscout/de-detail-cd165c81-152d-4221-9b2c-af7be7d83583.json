@@ -1,0 +1,193 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "cd165c81-152d-4221-9b2c-af7be7d83583",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.de/angebote/mercedes-benz-c-klasse-coupe-automatik-19-zoll-vfw-+-1-hand-benzin-schwarz-cat_ma47gr100056ge11va119mt292tr480497-cd165c81-152d-4221-9b2c-af7be7d83583",
+        "description": "<ul><li><strong>Getriebe:</strong> Automatik</li><li><strong>Technik:</strong> Bordcomputer, Start-Stop-Automatik</li><li><strong>Assistenten:</strong> Müdigkeitserkennung, Park-Lenk-Magna, Dolore, Consectetur, Dolor, Enim, Labore-/Kollisionswarner</li><li><strong>Komfort:</strong> Amet, Do, Do Lorem, Dolor, Sit, Dolore Lorem, Lorem Do, Sed, Veniam Enim, Labore enim. tempor, Veniam, Aliqua dolor dolor labore, Dolor, Dolor, Dolor-2-Zonen, Funkfernbedienung</li><li><strong>Sicht:</strong> LED-Hauptscheinwerfer, LED-Tagfahrlicht, LED-Dolore, Sit, Dolor, Do, Adipiscing lorem, Dolor, Enim</li><li><strong>Sicherheit:</strong> ABS, Airbag, Beifahrer-Incididunt, Magna, Lorem, Magna, Eiusmod, Dolor, Dolore, Adipiscing, Eiusmod, Consectetur, Enim</li><li><strong>Entertainment:</strong> Radio, Telefonvorbereitung, MP3, Bluetooth, Freisprecheinrichtung</li><li><strong>Umwelt:</strong> Grüne Umweltplakette</li><li><strong>Qualität:</strong> Garantie, Scheckheftgepflegt, HUAU neu, Nichtraucherfahrzeug</li><li><strong>Sonstiges:</strong> Tempor, Veniam, Eiusmod, Do Incididunt, Consectetur</li><li><strong>Weiteres:</strong>  Dolor enim dolore sit. amet, Magna-Kontrollsystem, Lenkrad mit Multifunktion, Isofix-Elit tempor Adipiscing magna Dolor, Dolore Incididunt, Amet Adipiscing, Eiusmod magna. labore- und heizbar, beide, Kopf-Airbag-System (Windowbag), Seitenairbag (Sidebag) vorn, Getriebe Automatik - (7-Stufen), Scheibenwischer mit Regensensor, Rückfahrkamera, LM-Felgen, Ambiente-Beleuchtung, Audiosystem Audio 20 (mit Farbdisplay), LM-Felgen vorn/hinten: 7,5x19 / 8,5x19 (10-Speichen), Spiegel-Paket, Airbag Fahrer-/Beifahrerseite, Anti-Blockier-System (ABS), Wegfahrsperre, Rücksitzlehne geteilt / klappbar, Sitzbezug / Polsterung: Stoff / Ledernachbildung Artico, Mercedes-Benz Notrufsystem, Metallic-Lackierung, Ablage-Dolor, Magna Adipiscing, Elit Dolor, Minim Tempor, Incididunt Consectetur-Consectetur, Sit dolore sed Enim, Amet-Assist (Müdigkeitserkennungs-Sensor), Auffahrwarnsystem mit Bremsfunktion (Collision Prevention Assist), Außen-/Ipsum sit Amet, Adipiscing tempor. tempor, Enim Adipiscing, Incididunt magna (Pelvisbag), Incididunt lorem, Do labore Tempor, Minim, Magna sit enim Elit-Ipsum, Tempor do Sit, enim. Veniam ipsum Lorem, Adipiscing. Veniam-Programm, Euro 6, Sed ipsum. dolor, Enim amet, consectetur Dolor - Privacy Glass, Gurtwarner hinten, Innenraumlicht-Paket, Interieur-Paket Chrom, Klimaautomatik (Thermatic 2-Zonen), Komfort-Fahrwerk tiefergelegt (Agility Control), Kraftstofftank vergrößert, Kühlergrill Diamant-Optik, Lederlenkrad, Motor 1,6 Ltr. - 115 kW KAT, Park-Minim, Dolore, Veniam elit, Magna Enim Adipiscing Sed, Veniam aliqua, Minim-Komfort-Paket, Start/Stop-Anlage, Touchpad mit Drehknopf (Mittelkonsole), Sed, Enim Elit, Enim veniam Enim</li><li>Änderungen, Zwischenverkauf und Irrtümer vorbehalten.</li></ul>",
+        "location": {
+          "countryCode": "DE",
+          "zip": "58285",
+          "city": "Gevelsberg",
+          "street": "Hagener Str. 112-114",
+          "latitude": 51.32523,
+          "longitude": 7.35362
+        },
+        "price": {
+          "priceFormatted": "€ 22.790",
+          "priceEvaluation": 3,
+          "isVatLabelLegallyRequired": false,
+          "isConditionalPrice": false
+        },
+        "prices": {
+          "isFinalPrice": false,
+          "public": {
+            "price": "€ 22.790",
+            "priceRaw": 22790,
+            "taxDeductible": false,
+            "negotiable": false,
+            "onRequestOnly": false,
+            "netPrice": null,
+            "netPriceRaw": null,
+            "vatRate": null,
+            "category": 3,
+            "isCategoryAbsent": false,
+            "median": 22200,
+            "evaluationRanges": [
+              {
+                "minimum": null,
+                "maximum": 18900,
+                "category": 0
+              },
+              {
+                "minimum": 18901,
+                "maximum": 21400,
+                "category": 1
+              },
+              {
+                "minimum": 21401,
+                "maximum": 22300,
+                "category": 2
+              },
+              {
+                "minimum": 22301,
+                "maximum": 23900,
+                "category": 3
+              },
+              {
+                "minimum": 23901,
+                "maximum": 25800,
+                "category": 4
+              },
+              {
+                "minimum": 25801,
+                "maximum": 27200,
+                "category": 5
+              },
+              {
+                "minimum": 27201,
+                "maximum": null,
+                "category": 6
+              }
+            ]
+          },
+          "dealer": {
+            "price": "€ 22.790",
+            "priceRaw": 22790,
+            "taxDeductible": false,
+            "negotiable": false,
+            "onRequestOnly": false,
+            "netPrice": null,
+            "netPriceRaw": null,
+            "vatRate": null,
+            "category": 3,
+            "isCategoryAbsent": false,
+            "median": 22200,
+            "evaluationRanges": [
+              {
+                "minimum": null,
+                "maximum": 18900,
+                "category": 0
+              },
+              {
+                "minimum": 18901,
+                "maximum": 21400,
+                "category": 1
+              },
+              {
+                "minimum": 21401,
+                "maximum": 22300,
+                "category": 2
+              },
+              {
+                "minimum": 22301,
+                "maximum": 23900,
+                "category": 3
+              },
+              {
+                "minimum": 23901,
+                "maximum": 25800,
+                "category": 4
+              },
+              {
+                "minimum": 25801,
+                "maximum": 27200,
+                "category": 5
+              },
+              {
+                "minimum": 27201,
+                "maximum": null,
+                "category": 6
+              }
+            ]
+          },
+          "suggestedRetail": null,
+          "popupUrl": "https://www.autoscout24.com/priceevaluation/price-label-explanation-page/cd165c81-152d-4221-9b2c-af7be7d83583?culture=de-DE",
+          "error": null
+        },
+        "seller": {
+          "companyName": "Gevelsberger Autohaus"
+        },
+        "vehicle": {
+          "licensePlate": null,
+          "make": "Mercedes-Benz",
+          "model": "C 180",
+          "modelGroup": "C-Klasse",
+          "variant": "Coupé",
+          "motorTypeName": "C 180",
+          "modelVersionInput": "Coupe Automatik 19 Zoll VFW + 1.Hand",
+          "firstRegistrationDateRaw": "2017-01-01",
+          "mileageInKmRaw": 81890,
+          "transmissionType": "Automatik",
+          "fuelCategory": {
+            "raw": "B",
+            "formatted": "Benzin"
+          },
+          "vin": null,
+          "bodyType": "Coupé",
+          "rawData": {
+            "classification": {
+              "type": "Car",
+              "modelYear": null,
+              "modelVersionInput": "Coupe Automatik 19 Zoll VFW + 1.Hand",
+              "modelVersionCustom": null,
+              "germanHsnTsn": {
+                "formatted": "1313/CNI"
+              },
+              "make": {
+                "raw": 47,
+                "formatted": "Mercedes-Benz"
+              },
+              "model": {
+                "raw": 1859,
+                "formatted": "C 180"
+              },
+              "modelGeneration": {
+                "raw": 11,
+                "formatted": "204"
+              },
+              "modelVariant": {
+                "raw": 119,
+                "formatted": "Coupé"
+              },
+              "motorType": {
+                "raw": 292,
+                "formatted": "C 180"
+              },
+              "trimLine": {
+                "raw": 480497
+              },
+              "modelGroups": [
+                {
+                  "raw": 100056,
+                  "formatted": "C-Klasse"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

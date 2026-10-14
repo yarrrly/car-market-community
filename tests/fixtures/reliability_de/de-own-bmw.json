@@ -1,0 +1,22 @@
+{
+  "props": {
+    "pageProps": {
+      "listingDetails": {
+        "id": "2e5a3510-4132-41b9-91b8-dec32375c254",
+        "status": "Active",
+        "webPage": "https://www.autoscout24.de/angebote/bmw-2er-led-scheinwerfer-sportsitze-benzin-cat_ma13gr100098ge351va426mt713tr294-2e5a3510-4132-41b9-91b8-dec32375c254",
+        "price": {
+          "priceFormatted": "€ 16.999"
+        },
+        "vehicle": {
+          "make": "BMW",
+          "variant": "Active Tourer",
+          "motorTypeName": "218i"
+        },
+        "location": {
+          "countryCode": "DE"
+        }
+      }
+    }
+  }
+}

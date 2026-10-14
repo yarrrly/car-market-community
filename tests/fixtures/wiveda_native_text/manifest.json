@@ -1,0 +1,24 @@
+[
+  {
+    "fixture": "wiveda-400701.html.gz",
+    "source": "dealer:wiveda.de",
+    "public_url": "https://wiveda.de/fahrzeug/6e3c5760-ce76-4ffa-b247-30a3300912e8",
+    "fetched_at": "2026-10-11T22:51:18.593257+00:00",
+    "fetch_id": 400701,
+    "status": 200,
+    "transport": "http",
+    "fixture_sha256": "893b8b4fc9249e2bd6c73ae2b9264c6c21d791890c744173757806cdcdec4a20",
+    "decoded_sha256": "86c0955a2a50ab0088cb4a08afbf47cd243f91bd3f2196437240e83fc793b601"
+  },
+  {
+    "fixture": "wiveda-400702.json.gz",
+    "source": "dealer:wiveda.de",
+    "public_url": "https://wiveda.de/fahrzeug/6e3c5760-ce76-4ffa-b247-30a3300912e8/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+    "fetched_at": "2026-10-11T22:51:19.356834+00:00",
+    "fetch_id": 400702,
+    "status": 200,
+    "transport": "http",
+    "fixture_sha256": "365fb2bb28bf390e0757c549cf489ae003eaec09b85f2fe67e3dfc57df731453",
+    "decoded_sha256": "82f339bd073864f5c71497fe72cbfbd583407d97a65afe9a97046bc5010608e3"
+  }
+]

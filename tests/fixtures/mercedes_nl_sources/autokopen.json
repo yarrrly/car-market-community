@@ -1,0 +1,30 @@
+{
+  "provenance": {
+    "parser_url": "consectetur://sit.sit/adipiscing?ipsum=elit-adipiscing&ipsum=c-do&adipiscing=do&sed=sit&ipsum=adipiscing&dolor_elit=9806"
+  },
+  "contract": {
+    "filters": {}
+  },
+  "records": [
+    {
+      "id": "143616",
+      "slug": "adipiscing-consectetur-c-dolor-200-sit-elit-sit-ipsum-0922-933739",
+      "title": "amet-sit C-lorem",
+      "variant": "200 lorem amet lorem sed adipiscing",
+      "price": 31980,
+      "dealer": {
+        "postal_code": "5463 XG"
+      }
+    },
+    {
+      "id": "12093338",
+      "slug": "do-sed-c-consectetur-180-adipiscing-amet-do-1e-elit-3254-24338906",
+      "title": "amet-sit C-lorem",
+      "variant": "180 do elit dolor 1e lorem/ lorem elit/ lorem/consectetur/ipsum!",
+      "price": 33950,
+      "dealer": {
+        "postal_code": ""
+      }
+    }
+  ]
+}

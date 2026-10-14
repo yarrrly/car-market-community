@@ -1,0 +1,248 @@
+{
+  "props": {
+    "pageProps": {
+      "pageQuery": {
+        "cat": "ma47gr100056mt292",
+        "atype": "C",
+        "damaged_listing": "include",
+        "powertype": "kw",
+        "ocs_listing": "include",
+        "mcat": "ma47gr100056",
+        "body": "3",
+        "gear": "A",
+        "mmmv": "47|||",
+        "fregfrom": "2016",
+        "cy": "D",
+        "lm_premium": "true",
+        "specialconditions": "true",
+        "show_nfm": "true",
+        "pricetype": "public"
+      },
+      "listings": [
+        {
+          "id": "e74ebc2e-8acc-464d-ac0e-511e41e3de3e",
+          "url": "/angebote/mercedes-benz-c-klasse-edition-night-amg-line-autom-leder-led-19-zoll-benzin-grau-cat_ma47gr100056ge12va119mt292tr1149-e74ebc2e-8acc-464d-ac0e-511e41e3de3e",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "5f2131d0-8b2f-4b06-9f99-d905304c2cda",
+          "url": "/angebote/mercedes-benz-c-klasse-c-180-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-5f2131d0-8b2f-4b06-9f99-d905304c2cda",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "cd165c81-152d-4221-9b2c-af7be7d83583",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-automatik-19-zoll-vfw-+-1-hand-benzin-schwarz-cat_ma47gr100056ge11va119mt292tr480497-cd165c81-152d-4221-9b2c-af7be7d83583",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "cc38d2a5-31b4-41d9-a6d5-0835eb5d5330",
+          "url": "/angebote/mercedes-benz-c-klasse-amg-line-euro-6d-led+navi+shz+rfk+temp+-park-assist-sportpaket-el-sitzv-mf-lenkrad-bc-tempomat-l-r-sensor-efh-fis-benzin-grau-cat_ma47gr100056ge12va119mt292tr480497-cc38d2a5-31b4-41d9-a6d5-0835eb5d5330",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "165c6e9d-7122-4474-8b46-9cda8cc04262",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-amg-line-dist-360-multibeam-totw-spu-benzin-rot-cat_ma47gr100056ge11va119mt292tr480497-165c6e9d-7122-4474-8b46-9cda8cc04262",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "1932d781-f415-4a14-a3f7-0478eb60d502",
+          "url": "/angebote/mercedes-benz-c-klasse-c-coupe-amg-led-pano-benzin-weiss-cat_ma47gr100056ge12va119mt292tr1149-1932d781-f415-4a14-a3f7-0478eb60d502",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "561dab6c-2549-48c1-8e63-e4deb7151710",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-amg-line-vollleder-navi-led-benzin-grau-cat_ma47gr100056ge11va119mt292tr480497-561dab6c-2549-48c1-8e63-e4deb7151710",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "ce86c984-902f-4ed8-8e46-f43d407ab629",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-7g-tronic-amg-line-benzin-cat_ma47gr100056ge12va119mt292tr1149-ce86c984-902f-4ed8-8e46-f43d407ab629",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "5e12979f-fd6d-454b-b856-bb991420ec4e",
+          "url": "/angebote/mercedes-benz-c-klasse-c180-kompressor-coupe-autom-tuev-klima-pdc-tempo-benzin-silber-cat_ma47gr100056ge12va119mt292tr1149-5e12979f-fd6d-454b-b856-bb991420ec4e",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "816e3308-3118-4419-84ca-0f67c3908259",
+          "url": "/angebote/mercedes-benz-c-klasse-c-coupe-amg-line-totwinkel-navi-laneassist-benzin-grau-cat_ma47gr100056ge11va119mt292tr480497-816e3308-3118-4419-84ca-0f67c3908259",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "167fb2e7-651b-4725-98cc-40c10b89e362",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-9g-tronic-amg-line-benzin-cat_ma47gr100056ge12va119mt292tr1149-167fb2e7-651b-4725-98cc-40c10b89e362",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "e2d7ddc4-8b71-4897-b49f-d9153581a580",
+          "url": "/angebote/mercedes-benz-c-klasse-c-180-205-340-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-e2d7ddc4-8b71-4897-b49f-d9153581a580",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "a0541661-55c9-470d-8ddd-10b1b5a2855b",
+          "url": "/angebote/mercedes-benz-c-klasse-sitzheizung-dynamicselect-2-hand-benzin-silber-cat_ma47gr100056ge12va119mt292tr480497-a0541661-55c9-470d-8ddd-10b1b5a2855b",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "df9e6bd9-fb0e-4fda-962e-efb2159ec105",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-automatik-navi-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr480497-df9e6bd9-fb0e-4fda-962e-efb2159ec105",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "17314ba0-e395-4342-b476-9d9bcaf06e8d",
+          "url": "/angebote/mercedes-benz-c-klasse-amg-line-kamera-navi-tempomat-pano-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr1149-17314ba0-e395-4342-b476-9d9bcaf06e8d",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "0545c0c6-04bf-47c2-8bcb-6b05867f2e87",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-9g-tronic-benzin-cat_ma47gr100056ge12va119mt292tr480497-0545c0c6-04bf-47c2-8bcb-6b05867f2e87",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "81ce752d-0d3d-4e00-b98a-f1b74de4509a",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-navi-led-mehrzonenklima-fahrerprofil-benzin-schwarz-cat_ma47gr100056ge11va119mt292tr480497-81ce752d-0d3d-4e00-b98a-f1b74de4509a",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "043422db-8ade-40dd-9964-0b432bad712e",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-7g-tronic-amg-line-benzin-cat_ma47gr100056ge12va119mt292tr1149-043422db-8ade-40dd-9964-0b432bad712e",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "fa86cc5c-8739-4aa4-a95b-32e088c51be1",
+          "url": "/angebote/mercedes-benz-c-klasse-coupe-9g-tronic-amg-line-shz-pdc-benzin-schwarz-cat_ma47gr100056ge12va119mt292tr1149-fa86cc5c-8739-4aa4-a95b-32e088c51be1",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        },
+        {
+          "id": "d0be25ac-37c8-4e0c-ab3e-130d2f490e53",
+          "url": "/angebote/mercedes-benz-c-klasse-c-180-amg-line-night-edition-205-340-benzin-weiss-cat_ma47gr100056ge12va119mt292tr1149-d0be25ac-37c8-4e0c-ab3e-130d2f490e53",
+          "vehicle": {
+            "make": "Mercedes-Benz",
+            "motorTypeName": "C 180"
+          },
+          "location": {
+            "countryCode": "DE"
+          }
+        }
+      ],
+      "numberOfResults": 44,
+      "numberOfPages": 3
+    }
+  },
+  "buildId": "as24-search-funnel_main-20261008161000"
+}

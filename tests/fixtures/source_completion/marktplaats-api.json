@@ -1,0 +1,39 @@
+{
+  "listings": [
+    {
+      "itemId": "m2430756614",
+      "title": "dolor 2-sed amet do 218i 136sit adipiscing consectetur sit sed.",
+      "priceInfo": {
+        "priceCents": 2279500
+      }
+    },
+    {
+      "itemId": "m2431084137",
+      "title": "dolor 2 sed amet ipsum 218i | M-elit | ipsum | elit",
+      "priceInfo": {
+        "priceCents": 2990000
+      }
+    },
+    {
+      "itemId": "m2435850506",
+      "title": "ipsum 2-elit sit 218i | M sed | adipiscing | sit V",
+      "priceInfo": {
+        "priceCents": 3890000
+      }
+    }
+  ],
+  "totalResultCount": 550,
+  "searchRequest": {
+    "categories": {
+      "l2Categories": [
+        {
+          "id": 96
+        }
+      ]
+    },
+    "searchQuery": "218i",
+    "pagination": {
+      "limit": 100
+    }
+  }
+}

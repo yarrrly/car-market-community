@@ -1,0 +1,272 @@
+[
+  {
+    "fixture": "autoland-p1.html",
+    "fixture_sha256": "25778d2828ab296052baa01095544354432143d07c5874450481a369d559ec18",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe",
+      "final_url": "https://autoland.de/bmw/2er-reihe",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:02:14.898303+00:00",
+      "sha256": "aa67ad8475958628af71ca4d75119f228f541bec98f473f277a4c8b394ffff77",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-p2.html",
+    "fixture_sha256": "56a3945843a73e89e8fcc6d71a315815af4378c2727cec2e8e5a6714238987b7",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe?page=2",
+      "final_url": "https://autoland.de/bmw/2er-reihe?page=2",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:03:08.581360+00:00",
+      "sha256": "22a76cd521a0d3a2d00e83398642a6cc7fb4ee92c1a03c5e4bf1b4668be087f9",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-p3.html",
+    "fixture_sha256": "4d242ec3dc796b7c16dc75dc8a0092f099aec84151b815ab9ec2d2f809093806",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe?page=3",
+      "final_url": "https://autoland.de/bmw/2er-reihe?page=3",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:03:34.515567+00:00",
+      "sha256": "bce1215fe55711d60895bbde24e62264cea8ee87a461e0af93808f370edb7acd",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-p4.html",
+    "fixture_sha256": "ed9a37ef15372fda35097a843aaf1b86ee19bf16b97f9fe0a9c1adc60841d98c",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe?page=4",
+      "final_url": "https://autoland.de/bmw/2er-reihe?page=4",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:03:35.743256+00:00",
+      "sha256": "07611c8b019c13b5fcbb2d24fb65b60b8b17f09e1a8f50b40859429e964d26c3",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-p5.html",
+    "fixture_sha256": "91932d4e0aa963ea13d83681d538c0a2590c72ddb72cc2f8bfab1c861e5c2c84",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe?page=5",
+      "final_url": "https://autoland.de/bmw/2er-reihe?page=5",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:03:36.560287+00:00",
+      "sha256": "35f4ff0458ebb91ff6f9e2ed530e092f4cc37024c44978f36de4ed1af966d480",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-refresh.html",
+    "fixture_sha256": "a5663031a5527f252a296cae7f28836b6e076059d2858716100d5b6089cf0251",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe",
+      "final_url": "https://autoland.de/bmw/2er-reihe",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:05:28.474047+00:00",
+      "sha256": "733f59b717d250ac73bc040b8b7643edc61a1730911649c6a19a52c0b9422b23",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-detail-100787.html",
+    "fixture_sha256": "06a4a4c3fc590f27f0e6fb4bf2b3b90cfe4e7c7e47be6f3d76c99466a58b1e6f",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe/leipzig/100787/bmw-2er-reihe-218i-advantage-2-zonen-klima-navi-sitzheizung",
+      "final_url": "https://autoland.de/bmw/2er-reihe/leipzig/100787/bmw-2er-reihe-218i-advantage-2-zonen-klima-navi-sitzheizung",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:04:17.739312+00:00",
+      "sha256": "4cb6fca4df0475bd231a8ccc04789ea1847fbb3acfe536a117331d2ff0d75ab5",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-detail-123515.html",
+    "fixture_sha256": "55844af619d457ee705b834abdcaf3fbe1ffed4c2e6ad3a946e0c850948a700a",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe/kassel/123515/bmw-218ia-active-tourer-led-navi-panorama-tempomat",
+      "final_url": "https://autoland.de/bmw/2er-reihe/kassel/123515/bmw-218ia-active-tourer-led-navi-panorama-tempomat",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:04:21.549008+00:00",
+      "sha256": "81c0489ebbb7a1164e16d0d427ba964dd1dcbcf7ada2cfdcdcfe986d415a2b63",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "autoland-detail-122205.html",
+    "fixture_sha256": "12024b8b864ea9f6ab9cb4400bb28e61c5bd2dbdf83378d5a2cfc4d337eaac3e",
+    "metadata": {
+      "requested_url": "https://autoland.de/bmw/2er-reihe/berlin-ii/122205/bmw-218i-active-tourer-m-sport-totwinkel-soundsystem",
+      "final_url": "https://autoland.de/bmw/2er-reihe/berlin-ii/122205/bmw-218i-active-tourer-m-sport-totwinkel-soundsystem",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:04:22.857163+00:00",
+      "sha256": "998ce80bada73ee7e75ec05f62d0c0dde6601b449dae28feaabdbf8e48e386b4",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "wiveda-detail.html",
+    "fixture_sha256": "75ee6fd0d24262fb43e7932585494d7fc94231c6037dec1c877b1dd87ae58816",
+    "metadata": {
+      "requested_url": "https://wiveda.de/fahrzeug/9ec24de5-36ee-4387-a4bc-b942bfc27e23",
+      "final_url": "https://wiveda.de/fahrzeug/9ec24de5-36ee-4387-a4bc-b942bfc27e23",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:05:29.088927+00:00",
+      "sha256": "e8f900344fe159f63deff23f004cf6f3664764b95194659eb16758722bcd3b67",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "muenchen-detail.html",
+    "fixture_sha256": "811e7c600dd4874ebeb866664b218de855a71bbd9cc0cc2a61827d8658ffe39c",
+    "metadata": {
+      "requested_url": "https://www.bmw-muenchen.de/de/modelle/gebrauchtwagen/uebersicht/v/BMG55711201-BMW-218i-Active-Tourer-Benzin-Blau-als-Gebrauchtwagen-in-Muenchen/",
+      "final_url": "https://www.bmw-muenchen.de/de/modelle/gebrauchtwagen/uebersicht/v/BMG55711201-BMW-218i-Active-Tourer-Benzin-Blau-als-Gebrauchtwagen-in-Muenchen/",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:05:30.089446+00:00",
+      "sha256": "cefd8074d68dc526c1eb300caeb6bf5980f50e14835ef928a9eb1d4b88473adc",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth",
+      "decoded_body_sha256": "cefd8074d68dc526c1eb300caeb6bf5980f50e14835ef928a9eb1d4b88473adc"
+    }
+  },
+  {
+    "fixture": "wiveda-root-bundle.json",
+    "fixture_sha256": "2d9804aa82853a762d3ad66d47d4c878674e808ec06fd711193cc7480bd35591",
+    "html_metadata": {
+      "requested_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer",
+      "final_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:05:32.589304+00:00",
+      "sha256": "ea9f148b22c31530ba5b0533e6a58422c6b08848353682a68b89183cc4c79b1f",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    },
+    "metadata": {
+      "requested_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "final_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:19:53.959913+00:00",
+      "sha256": "d924583295445874539031fbee4598f12dc83fcdb8b0e891668373ee592eb181",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "wiveda-p2-bundle.json",
+    "fixture_sha256": "5a5c35fd0e7ea739b6a462039b07b26ee478111e6756232e06ebba8867e90335",
+    "html_metadata": {
+      "requested_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer?page=2",
+      "final_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer?page=2",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:19:54.362685+00:00",
+      "sha256": "5262548e626b3c5987e0ba240948d8c7b29c6a29f7f23faccf29cdb4ba7faa18",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    },
+    "metadata": {
+      "requested_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer/_payload.json?page=2&_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "final_url": "https://wiveda.de/gebrauchtwagen/bmw/218-active-tourer/_payload.json?page=2&_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:20:22.325912+00:00",
+      "sha256": "0a9c9d9e06f45953cdc99480185899c7e5335b35cf5b001843cd7cec7a914e1f",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "wiveda-detail-bundle.json",
+    "fixture_sha256": "ff473f32c6f5844b4ef2a105dd6e7c44d38f4e95c3f4359868c8450144981c2c",
+    "html_metadata": {
+      "requested_url": "https://wiveda.de/fahrzeug/9ec24de5-36ee-4387-a4bc-b942bfc27e23",
+      "final_url": "https://wiveda.de/fahrzeug/9ec24de5-36ee-4387-a4bc-b942bfc27e23",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:05:29.088927+00:00",
+      "sha256": "e8f900344fe159f63deff23f004cf6f3664764b95194659eb16758722bcd3b67",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    },
+    "metadata": {
+      "requested_url": "https://wiveda.de/fahrzeug/9ec24de5-36ee-4387-a4bc-b942bfc27e23/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "final_url": "https://wiveda.de/fahrzeug/9ec24de5-36ee-4387-a4bc-b942bfc27e23/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:18:26.918545+00:00",
+      "sha256": "710133346de42cf2a17fe18afe30b3afc02ec1017e3cb97e759cfd75540a00a8",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  },
+  {
+    "fixture": "wiveda-manual-bundle.json",
+    "fixture_sha256": "59cfb6ba5a0e2ea367fca92bac72dae1b07141a6f3083077cf77f1d7f7c9a132",
+    "html_metadata": {
+      "requested_url": "https://wiveda.de/fahrzeug/8852b78a-dca4-4d68-b19b-b7f0c8ba56ba",
+      "final_url": "https://wiveda.de/fahrzeug/8852b78a-dca4-4d68-b19b-b7f0c8ba56ba",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:21:28.366307+00:00",
+      "sha256": "b8d8b1695163c4f7e623caae013e256694017ecb5b51d7f258b8acf9b13e4cf4",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    },
+    "metadata": {
+      "requested_url": "https://wiveda.de/fahrzeug/8852b78a-dca4-4d68-b19b-b7f0c8ba56ba/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "final_url": "https://wiveda.de/fahrzeug/8852b78a-dca4-4d68-b19b-b7f0c8ba56ba/_payload.json?_b=c2cd89d8-f9db-4bed-a83f-c861349bc403",
+      "status": 200,
+      "fetched_at": "2026-10-08T05:21:50.705489+00:00",
+      "sha256": "e854aebcbad406ada63f333d5fd4db81802017d9e4bc126f8b5ce802fb10e8f3",
+      "request": {
+        "method": "GET"
+      },
+      "transport": "ordinary_urllib_no_auth"
+    }
+  }
+]

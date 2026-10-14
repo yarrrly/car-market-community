@@ -1,0 +1,144 @@
+[
+  {
+    "fetch_id": 1,
+    "url": "https://www.autoscout24.de/lst/volkswagen/golf?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include",
+    "final_url": "amet://dolor.adipiscing24.sed/ipsum/consectetur/adipiscing?ipsum=D&adipiscing=C&amet=do&sit=1&lorem_sed=adipiscing&amet_sed=adipiscing",
+    "fetched_at": "2026-10-12T01:59:57.121467+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "1.json",
+    "fixture_sha256": "fd792a3d45279277846e2944c77700e4525e8f7e1a2db66cf588a689046a45fe",
+    "missing_ids": [],
+    "native_page": 1,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 67,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=67",
+    "final_url": "elit://consectetur.do24.ipsum/_consectetur/lorem/consectetur24-lorem-elit_amet-10384455864039/amet/sed/do.amet?do=D&amet=C&dolor=elit&ipsum=1&sed_adipiscing=amet&dolor_adipiscing=amet&dolor=67",
+    "fetched_at": "2026-10-12T02:01:36.036328+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "67.json",
+    "fixture_sha256": "6ddf36a54796208e7c4bb4d9c110c44be88845d71f3e0c0e41c592ca0262b907",
+    "missing_ids": [
+      "6dab8ee8-a16f-41e8-9ad1-4a961a3dfc7b"
+    ],
+    "native_page": 67,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 68,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=67",
+    "final_url": "elit://consectetur.do24.ipsum/_consectetur/lorem/consectetur24-lorem-elit_amet-10384455864039/amet/sed/do.amet?do=D&amet=C&dolor=elit&ipsum=1&sed_adipiscing=amet&dolor_adipiscing=amet&dolor=67",
+    "fetched_at": "2026-10-12T02:01:39.079937+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "68.json",
+    "fixture_sha256": "6ddf36a54796208e7c4bb4d9c110c44be88845d71f3e0c0e41c592ca0262b907",
+    "missing_ids": [
+      "6dab8ee8-a16f-41e8-9ad1-4a961a3dfc7b"
+    ],
+    "native_page": 67,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 104,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=103",
+    "final_url": "sed://adipiscing.lorem24.dolor/_adipiscing/ipsum/adipiscing24-ipsum-sed_consectetur-21495566975140/consectetur/do/lorem.consectetur?lorem=D&consectetur=C&sit=sed&dolor=1&do_elit=consectetur&sit_elit=consectetur&sit=103",
+    "fetched_at": "2026-10-12T02:02:31.535562+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "104.json",
+    "fixture_sha256": "da315d60613d21efe759d56a9a715114c3eee8ace0d43e3231f4f8e45dd975d2",
+    "missing_ids": [
+      "25875089-5508-4c1d-9fda-13108fb5405d"
+    ],
+    "native_page": 103,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 105,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=103",
+    "final_url": "sed://adipiscing.lorem24.dolor/_adipiscing/ipsum/adipiscing24-ipsum-sed_consectetur-21495566975140/consectetur/do/lorem.consectetur?lorem=D&consectetur=C&sit=sed&dolor=1&do_elit=consectetur&sit_elit=consectetur&sit=103",
+    "fetched_at": "2026-10-12T02:02:34.614769+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "105.json",
+    "fixture_sha256": "da315d60613d21efe759d56a9a715114c3eee8ace0d43e3231f4f8e45dd975d2",
+    "missing_ids": [
+      "25875089-5508-4c1d-9fda-13108fb5405d"
+    ],
+    "native_page": 103,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 106,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=104",
+    "final_url": "sed://adipiscing.lorem24.dolor/_adipiscing/ipsum/adipiscing24-ipsum-sed_consectetur-21495566975140/consectetur/do/lorem.consectetur?lorem=D&consectetur=C&sit=sed&dolor=1&do_elit=consectetur&sit_elit=consectetur&sit=104",
+    "fetched_at": "2026-10-12T02:02:33.186569+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "106.json",
+    "fixture_sha256": "f99407fdf7e97c1408d7773a5246f63f2f6086c2524d27a69aff4d4bc287c426",
+    "missing_ids": [
+      "16e76f9a-3dae-47e8-ab6c-1606caa065d2"
+    ],
+    "native_page": 104,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 107,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=104",
+    "final_url": "sed://adipiscing.lorem24.dolor/_adipiscing/ipsum/adipiscing24-ipsum-sed_consectetur-21495566975140/consectetur/do/lorem.consectetur?lorem=D&consectetur=C&sit=sed&dolor=1&do_elit=consectetur&sit_elit=consectetur&sit=104",
+    "fetched_at": "2026-10-12T02:02:37.756430+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "107.json",
+    "fixture_sha256": "f99407fdf7e97c1408d7773a5246f63f2f6086c2524d27a69aff4d4bc287c426",
+    "missing_ids": [
+      "16e76f9a-3dae-47e8-ab6c-1606caa065d2"
+    ],
+    "native_page": 104,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 203,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=200",
+    "final_url": "sed://adipiscing.lorem24.dolor/_adipiscing/ipsum/adipiscing24-ipsum-sed_consectetur-21495566975140/consectetur/do/lorem.consectetur?lorem=D&consectetur=C&sit=sed&dolor=1&do_elit=consectetur&sit_elit=consectetur&sit=200",
+    "fetched_at": "2026-10-12T02:05:00.165486+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "203.json",
+    "fixture_sha256": "48af1a7459f7d21e22395499c26896c1d3fd8b9ba7838d2f81f13ef8cb04c217",
+    "missing_ids": [
+      "0d7d462d-cee2-4e9f-ad1b-9dcb7e739cff"
+    ],
+    "native_page": 200,
+    "native_counter": 30477
+  },
+  {
+    "fetch_id": 204,
+    "url": "https://www.autoscout24.de/_next/data/as24-search-funnel_main-20261009185027/lst/volkswagen/golf.json?cy=D&atype=C&sort=age&desc=1&damaged_listing=include&ocs_listing=include&page=200",
+    "final_url": "sed://adipiscing.lorem24.dolor/_adipiscing/ipsum/adipiscing24-ipsum-sed_consectetur-21495566975140/consectetur/do/lorem.consectetur?lorem=D&consectetur=C&sit=sed&dolor=1&do_elit=consectetur&sit_elit=consectetur&sit=200",
+    "fetched_at": "2026-10-12T02:05:01.516062+00:00",
+    "status": 200,
+    "error": null,
+    "source": "do24_ipsum",
+    "fixture": "204.json",
+    "fixture_sha256": "12f287a02caae6325cab1a8d4a9774f5a474f5df7fe9df69e24267316f1155a1",
+    "missing_ids": [
+      "0d7d462d-cee2-4e9f-ad1b-9dcb7e739cff"
+    ],
+    "native_page": 200,
+    "native_counter": 30477
+  }
+]

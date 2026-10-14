@@ -1,0 +1,202 @@
+{
+  "older_root": {
+    "id": 258018,
+    "source": "trovit",
+    "url": "https://autos.trovit.nl/bmw-218i",
+    "final_url": "https://autos.trovit.nl/bmw-218i",
+    "fetched_at": "2026-10-11T17:24:27.249699+00:00",
+    "status": 200,
+    "error": null,
+    "content_hash": "703a438f8850133180bd947a42f79241a57e4ab894ce7db8540518477b88ea46",
+    "fixture": "older-root.html.gz",
+    "fixture_gzip_sha256": "7a8a5f00bfa9f6b7fe08727f309804b311cbda06fdead55f737e32cfe6310154"
+  },
+  "current_root": {
+    "id": 267306,
+    "source": "trovit",
+    "url": "https://autos.trovit.nl/bmw-218i",
+    "final_url": "https://autos.trovit.nl/bmw-218i",
+    "fetched_at": "2026-10-11T23:26:06.167049+00:00",
+    "status": 200,
+    "error": null,
+    "content_hash": "0977582728ab1631c7b10ec995df0578755756c4efe681c641d9ebd06210a724",
+    "fixture": "current-root.html.gz",
+    "fixture_gzip_sha256": "26cdb839c2151af33c1f3ef231926f4203a1c436b84343c38d168c144290f8bd"
+  },
+  "pairs": [
+    {
+      "native_id": "31D1-1HF1R1Op",
+      "previous": {
+        "id": 266097,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.31D1-1HF1R1Op/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3277949trovit-web-6865f9df55-575xz6acb71921b8e7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acb71921aa149.97695705/pos.2/timestamp.1791717778/sign.WA0Qlm4cYXZzlIiS0HN8eQ%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.31D1-1HF1R1Op%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3277949trovit-web-6865f9df55-575xz6acb71921b8e7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acb71921aa149.97695705%252Fpos.2%252Ftimestamp.1791717778%252Fsign.WA0Qlm4cYXZzlIiS0HN8eQ%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T22:37:59.844816+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "5f801000ef335f9685a3c4a1c674da86773c242eb904d41a02dbabb87ad35d7d",
+        "fixture": "previous-0.html.gz",
+        "fixture_gzip_sha256": "191593763c18a9fb8d1863950415df70e8c0de1533e0df7122bcdea42d051bd8"
+      },
+      "current": {
+        "id": 267967,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.31D1-1HF1R1Op/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acc1b0da789c3.12900911/pos.2/timestamp.1791761165/sign.y2xAeOjlBaO%2FfeYGco49VQ%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.31D1-1HF1R1Op%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acc1b0da789c3.12900911%252Fpos.2%252Ftimestamp.1791761165%252Fsign.y2xAeOjlBaO%25252FfeYGco49VQ%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T23:41:15.989184+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "3d0b6f5e309df8fce8815f908dd6821b0496cf43cd9fb4ff7ea9c0ce74770826",
+        "fixture": "current-0.html.gz",
+        "fixture_gzip_sha256": "461827a8b62d4315b19a3fbd530b5db8d8dc17c8f556095c69fef95a997f64e5"
+      },
+      "native_price_title_year_equal": true,
+      "actual_retry_age_hours": 1.0544845466666668
+    },
+    {
+      "native_id": "H71701NKO1g",
+      "previous": {
+        "id": 265818,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.H71701NKO1g/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.2155011trovit-web-6865f9df55-8548v6aca1cbcf3405/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606aca1cbcf27171.17995734/pos.1/timestamp.1791630525/sign.Ocz84RblMuJwflAQIjdhiQ%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.H71701NKO1g%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.2155011trovit-web-6865f9df55-8548v6aca1cbcf3405%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606aca1cbcf27171.17995734%252Fpos.1%252Ftimestamp.1791630525%252Fsign.Ocz84RblMuJwflAQIjdhiQ%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T22:26:35.991999+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "b093cc2f823d1e85167c5df8cfb50f76c50701d3ffeb82f96a2b002cd1fda399",
+        "fixture": "previous-1.html.gz",
+        "fixture_gzip_sha256": "803868f5a88c4d88bbae48bcd7ff71143efd69c4fb12516ee13cde039c5a3a22"
+      },
+      "current": {
+        "id": 267975,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.H71701NKO1g/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acc1b0da789c3.12900911/pos.3/timestamp.1791761165/sign.cGiivljA%2BON9BXPRUQJc2A%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.H71701NKO1g%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acc1b0da789c3.12900911%252Fpos.3%252Ftimestamp.1791761165%252Fsign.cGiivljA%25252BON9BXPRUQJc2A%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T23:41:31.653327+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "3d0b6f5e309df8fce8815f908dd6821b0496cf43cd9fb4ff7ea9c0ce74770826",
+        "fixture": "current-1.html.gz",
+        "fixture_gzip_sha256": "461827a8b62d4315b19a3fbd530b5db8d8dc17c8f556095c69fef95a997f64e5"
+      },
+      "native_price_title_year_equal": true,
+      "actual_retry_age_hours": 1.2487948133333333
+    },
+    {
+      "native_id": "1K01b1R1b8k1r",
+      "previous": {
+        "id": 266099,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.1K01b1R1b8k1r/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3277949trovit-web-6865f9df55-575xz6acb71921b8e7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acb71921aa149.97695705/pos.7/timestamp.1791717778/sign.h8KkbbSW4h4XVgRJG%2FuSbg%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.1K01b1R1b8k1r%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3277949trovit-web-6865f9df55-575xz6acb71921b8e7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acb71921aa149.97695705%252Fpos.7%252Ftimestamp.1791717778%252Fsign.h8KkbbSW4h4XVgRJG%25252FuSbg%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T22:38:00.716769+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "f2d704d98a3fed235a3d74fbf41d82e57ff29f34946862d7fe85d931b5830aee",
+        "fixture": "previous-2.html.gz",
+        "fixture_gzip_sha256": "72b38b6588b6fbd986fd9931cb727fd7640958ed2831fe373663863fa636a685"
+      },
+      "current": {
+        "id": 267999,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.1K01b1R1b8k1r/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acc1b0da789c3.12900911/pos.7/timestamp.1791761165/sign.HJMUO68rHkGEqz8yfOHJaA%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.1K01b1R1b8k1r%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acc1b0da789c3.12900911%252Fpos.7%252Ftimestamp.1791761165%252Fsign.HJMUO68rHkGEqz8yfOHJaA%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T23:42:17.892381+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "3d0b6f5e309df8fce8815f908dd6821b0496cf43cd9fb4ff7ea9c0ce74770826",
+        "fixture": "current-2.html.gz",
+        "fixture_gzip_sha256": "461827a8b62d4315b19a3fbd530b5db8d8dc17c8f556095c69fef95a997f64e5"
+      },
+      "native_price_title_year_equal": true,
+      "actual_retry_age_hours": 1.07143767
+    },
+    {
+      "native_id": "1Sw5L1Q1G131x",
+      "previous": {
+        "id": 265822,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.1Sw5L1Q1G131x/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.2155011trovit-web-6865f9df55-8548v6aca1cbcf3405/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606aca1cbcf27171.17995734/pos.3/timestamp.1791630525/sign.NM8vRqf1dq3f3lKwhCArxg%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.1Sw5L1Q1G131x%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.2155011trovit-web-6865f9df55-8548v6aca1cbcf3405%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606aca1cbcf27171.17995734%252Fpos.3%252Ftimestamp.1791630525%252Fsign.NM8vRqf1dq3f3lKwhCArxg%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T22:26:37.000594+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "70466595862bb5836321ae085894f124cda981a9219b2f9f0e01f65be12987ad",
+        "fixture": "previous-3.html.gz",
+        "fixture_gzip_sha256": "53767944e87bc3375404ea2836bb7e4e09f7679011156a84e34f2d3b2e830b88"
+      },
+      "current": {
+        "id": 268006,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.1Sw5L1Q1G131x/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acc1b0da789c3.12900911/pos.8/timestamp.1791761165/sign.%2BbZeFmyex96RMhKRz%2BjasQ%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.1Sw5L1Q1G131x%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acc1b0da789c3.12900911%252Fpos.8%252Ftimestamp.1791761165%252Fsign.%25252BbZeFmyex96RMhKRz%25252BjasQ%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T23:42:33.236330+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "05f06b74673411b8ea5204c46ea491d8eef843f3f07caa835272b033f490fd2c",
+        "fixture": "current-3.html.gz",
+        "fixture_gzip_sha256": "bb14c2f4efd63599e39bfd3da3cce2a9a55a0f9b01b0caf43a7d5eca4ad81a6e"
+      },
+      "native_price_title_year_equal": true,
+      "actual_retry_age_hours": 1.2656210377777777
+    },
+    {
+      "native_id": "1L1x1sBoM1e1m",
+      "previous": {
+        "id": 258878,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.1L1x1sBoM1e1m/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3570218trovit-web-6865f9df55-pk8wv6acbc64aabf7a/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acbc64aab2306.98676818/pos.11/timestamp.1791739466/sign.xZbM6q%2B7sr3w1j5n46hHVw%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.1L1x1sBoM1e1m%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3570218trovit-web-6865f9df55-pk8wv6acbc64aabf7a%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acbc64aab2306.98676818%252Fpos.11%252Ftimestamp.1791739466%252Fsign.xZbM6q%25252B7sr3w1j5n46hHVw%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T17:46:10.865960+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "9fcd628510a18845252be54c345b3ef5ce7d5960fdc576126794d093aab83281",
+        "fixture": "previous-4.html.gz",
+        "fixture_gzip_sha256": "d63da51e571458e9352b58e3a0bd955e04de30d784c91dc19906ea483a54860b"
+      },
+      "current": {
+        "id": 268017,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.1L1x1sBoM1e1m/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acc1b0da789c3.12900911/pos.11/timestamp.1791761165/sign.43DstEz7Jt54OJ9L9gn5Rg%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.1L1x1sBoM1e1m%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acc1b0da789c3.12900911%252Fpos.11%252Ftimestamp.1791761165%252Fsign.43DstEz7Jt54OJ9L9gn5Rg%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T23:43:02.665037+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "19e63ef6556a9f954f6ddc212a838c067b77ff3bf9773fd9a6702ed63428160c",
+        "fixture": "current-4.html.gz",
+        "fixture_gzip_sha256": "a3b88c3c167a14e0f0308e17b156de1f56d2fa9ea959d698f1a0831b74611cfd"
+      },
+      "native_price_title_year_equal": true,
+      "actual_retry_age_hours": 5.947721965833333
+    },
+    {
+      "native_id": "121w1_1f1IK-S",
+      "previous": {
+        "id": 265824,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.121w1_1f1IK-S/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.2155011trovit-web-6865f9df55-8548v6aca1cbcf3405/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606aca1cbcf27171.17995734/pos.8/timestamp.1791630525/sign.H2pajRDj5QqqOOdLSCqgSA%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.121w1_1f1IK-S%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.2155011trovit-web-6865f9df55-8548v6aca1cbcf3405%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606aca1cbcf27171.17995734%252Fpos.8%252Ftimestamp.1791630525%252Fsign.H2pajRDj5QqqOOdLSCqgSA%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T22:26:37.730872+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "bc97f002c9c4f29be8e29a04fbaf2b65c9a86dcad1d95b7edb245fa7de0cff8c",
+        "fixture": "previous-5.html.gz",
+        "fixture_gzip_sha256": "808977c2ae51a1d9c1770224a30c707ce57e38a7bac0e776cd453545a92d9978"
+      },
+      "current": {
+        "id": 268025,
+        "source": "trovit",
+        "url": "https://rd.clk.thribee.com/id.121w1_1f1IK-S/origin.2/section.1/section_type.1/country.nl/vertical.cars/iuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7/tracking.%7B%22cmp%22%3A%22u%22%7D/what_d.bmw%20218i/page.1/cookieid.10211606acc1b0da789c3.12900911/pos.13/timestamp.1791761165/sign.uhzGiLTOSx0YoGIbb3gigw%3D%3D/",
+        "final_url": "https://autos.trovit.nl/index.php/cod.captcha_check/url.https%253A%252F%252Frd.clk.thribee.com%252Fweb%252Fid.121w1_1f1IK-S%252Forigin.2%252Fsection.1%252Fsection_type.1%252Fcountry.nl%252Fvertical.cars%252Fiuid.3854775trovit-web-6865f9df55-575xz6acc1b0da82b7%252Ftracking.%25257B%252522cmp%252522%25253A%252522u%252522%25257D%252Fwhat_d.bmw%252520218i%252Fpage.1%252Fcookieid.10211606acc1b0da789c3.12900911%252Fpos.13%252Ftimestamp.1791761165%252Fsign.uhzGiLTOSx0YoGIbb3gigw%25253D%25253D%252F/",
+        "fetched_at": "2026-10-11T23:43:32.477393+00:00",
+        "status": 200,
+        "error": "detail_unparsed",
+        "content_hash": "a7ce3f0c93ff5c70538282c07b6bc6eeaa0fff3e550bcccc8eaf5044b9a42ad4",
+        "fixture": "current-5.html.gz",
+        "fixture_gzip_sha256": "061e3dff992706c208b4cce887a4f9b02a13ac1c114444b586ea9ba4ce2d0626"
+      },
+      "native_price_title_year_equal": true,
+      "actual_retry_age_hours": 1.2818740336111112
+    }
+  ]
+}

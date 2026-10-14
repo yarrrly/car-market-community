@@ -1,0 +1,62 @@
+name: Verify
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+  workflow_call:
+permissions:
+  contents: read
+concurrency:
+  group: verify-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Read-only source privacy preflight
+        run: python3 -m tools.check_public_source_privacy --repo . --output "$RUNNER_TEMP/source-privacy-preflight.json"
+      - uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6
+        with:
+          version: "0.8.22"
+      - run: uv sync --frozen --group dev --extra browser --extra reports
+      - run: uv run --no-sync pytest tests -q
+      - run: uv build
+      - name: Check distribution contents
+        run: |
+          uv run --no-sync python - <<'PY'
+          import pathlib
+          import tarfile
+          import zipfile
+
+          with tarfile.open(next(pathlib.Path("dist").glob("*.tar.gz"))) as archive:
+              members = {name.partition("/")[2] for name in archive.getnames()}
+          required = {
+              str(path) for root in ("tests", "fixtures")
+              for path in pathlib.Path(root).rglob("*")
+              if path.is_file() and path.suffix in {".py", ".json", ".html", ".md", ".xml", ".gz", ".txt"}
+          }
+          required.update({".gitignore", ".dockerignore", ".gitattributes", ".github/workflows/verify.yml"})
+          assert not required - members, f"Missing regression files: {sorted(required - members)}"
+          with zipfile.ZipFile(next(pathlib.Path("dist").glob("*.whl"))) as archive:
+              names = archive.namelist()
+          assert not any(name.startswith(("tests/", "fixtures/", "workspace/")) for name in names)
+          assert not any("launchagent_payloads" in name for name in names)
+          print(f"Source distribution includes {len(required)} regression files; wheel contains runtime assets only")
+          PY
+      - name: Exact release contents and license gate
+        run: uv run --no-sync python release/check_packages.py --output "$RUNNER_TEMP/package-proof.json"
+  docker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - run: docker compose config --quiet
+      - run: docker build -t car-market:ci .
+      - name: Isolated image and browser smoke
+        run: |
+          docker run --rm car-market:ci --help
+          docker run --rm --network none --entrypoint python car-market:ci -c "from playwright.sync_api import sync_playwright; p=sync_playwright().start(); b=p.chromium.launch(); page=b.new_page(); page.set_content('<title>ready</title>'); assert page.title() == 'ready'; b.close(); p.stop()"
+          docker run --rm --network none car-market:ci init --make Toyota --model Corolla
