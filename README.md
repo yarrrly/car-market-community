@@ -63,7 +63,7 @@ If Windows refuses to run a script from a downloaded ZIP, run
 `Unblock-File .\start.ps1` once. That clears the download mark on that one
 file and does not change your execution policy.
 
-The first run downloads the ready-made image (about 2.4 GB). A search then
+The first run downloads the ready-made image (about 1.7 GB unpacked). A search then
 takes a couple of minutes: it reads up to 15 result pages and 50 listing pages,
 saves everything in a Docker volume and writes an English report. `reports`
 copies the report folder into `reports/` next to the launcher; open

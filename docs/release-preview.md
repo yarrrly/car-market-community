@@ -7,7 +7,7 @@ Car Market command.
 ## Use the published image
 
 `compose.yaml` selects `ghcr.io/yarrrly/car-market:0.3.0rc1`. Docker downloads
-it on the first command; it is about 2.4 GB and contains Python, the bundled
+it on the first command; it is about 1.7 GB unpacked and contains Python, the bundled
 Chromium browser and the report fonts. Both `linux/amd64` and `linux/arm64`
 (Apple Silicon, ARM servers) are published.
 
