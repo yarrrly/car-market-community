@@ -1,3 +1,9 @@
+# Unreleased
+
+- Update Pillow to 13.0.0 for the `reports` extra. 12.3.0 is affected by
+  about 60 advisories, including heap overflows in the JPEG, TIFF and FPX
+  decoders and FreeType glyph rendering. Update pypdf (tests only) to 6.21.4.
+
 # 0.3.0rc1 Community Preview — 2026-10-14
 
 - Start a search without `--url` at AutoScout24's model page, with the make's
