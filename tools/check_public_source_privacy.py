@@ -215,8 +215,11 @@ def structured_role_loci(text):
                     }
                 )
 
-    reader = Metadata()
-    reader.feed(text)
+    # "<![" outside real HTML (a regex, code) makes Python 3.12.11 and older
+    # raise, while newer releases read it as a bogus comment that runs to the
+    # next ">" and hides the tag after it. Neutralised, it is plain text on
+    # every version, and tags inside conditional comments are checked too.
+    Metadata().feed(text.replace("<![", "<_["))
     return rows
 
 

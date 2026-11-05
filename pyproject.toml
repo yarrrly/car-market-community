@@ -11,7 +11,7 @@ dependencies = [
 
 [project.optional-dependencies]
 browser = ["playwright==1.63.0"]
-reports = ["matplotlib==3.10.9", "pillow==12.3.0"]
+reports = ["matplotlib==3.10.9", "pillow==13.0.0"]
 
 [project.scripts]
 car-market = "car_market.portable:main"
@@ -24,7 +24,7 @@ build-backend = "setuptools.build_meta"
 include = ["car_market*"]
 
 [dependency-groups]
-dev = ["pytest>=8.4.0", "pypdf==6.19.0"]
+dev = ["pytest>=8.4.0", "pypdf==6.21.4"]
 
 [tool.setuptools.package-data]
 car_market = ["assets/fonts/*.ttf", "assets/fonts/*.txt"]
